@@ -1,135 +1,77 @@
 #EXTM3U
-#EXTINF:60,9XM (576p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
-#EXTINF:0,Aik News
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0 group-title="Pak,News",Aik News
 https://video.primexsports.com/pnn/live/playlist.m3u8
-#EXTINF:0,aurLife HD (614p)
-#EXTVLCOPT:network-caching=1000
-http://124.109.47.101/hls/stream1.m3u8
-#EXTINF:54,B4U Kadak (1080p) [Geo-blocked]
-https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:57,B4U Movies (1080p) [Geo-blocked]
-https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:60,B4U Music (1080p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
-#EXTINF:65,BBC Four/CBeebies (1080p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
-#EXTINF:7200,BBC News (1080p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
-#EXTINF:7200,BBC One South (1080p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/iptv_mse_v0_hevc.mpd
-#EXTINF:7200,BBC One South East (1080p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/iptv_mse_v0_hevc.mpd
-#EXTINF:7200,BBC Parliament (1080p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_mse_v0_hevc.mpd
-#EXTINF:7200,BBC RB 1 (1080p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_mse_v0_hevc.mpd
-#EXTINF:23,https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24/oembed.json
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
-#EXTINF:60,BBC Three/CBBC (1080p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
-#EXTINF:59,BBC Two HD (1080p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
-#EXTINF:7200,CBBC HD (1080p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_mse_v0_hevc.mpd
-#EXTINF:3600,Channel 4 UK HD (1080p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
-#EXTINF:3605,Channel 5 HD (1080p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
-#EXTINF:0,Colors Cineplex Bollywood (576p)
-http://103.182.170.32:8888/play/a01o
-#EXTINF:20,Dhamaka Movies B4U (576p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://cdn-1.pishow.tv/live/235/master.m3u8
-#EXTINF:22,Discover Pakistan (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-#EXTINF:28,Dunya News (INT Feed) (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
+#EXTINF:28 group-title="Pak,News",Dunya News (INT Feed) (720p) [Not 24/7]
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
-#EXTINF:30,Dunya News (UK Feed) (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+#EXTINF:30 group-title="Pak,News",Dunya News (UK Feed) (720p) [Not 24/7]
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
-#EXTINF:24,Fazal TV (1080p)
-#EXTVLCOPT:network-caching=1000
-http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
-#EXTINF:60,Film4 HD (1080p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
-#EXTINF:20,Goldmines (576p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF:19,Goldmines Movies (576p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:36,Homes Under The Hammer (720p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
-#EXTINF:80,ITV2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
-#EXTINF:66,ITV3 (1080p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
-#EXTINF:66,ITV4 (1080p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
-#EXTINF:24,JooMusic (720p)
-#EXTVLCOPT:network-caching=1000
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:24,Joshua TV (720p)
-#EXTVLCOPT:network-caching=1000
-https://livecdn.live247stream.com/joshua/tv/playlist.m3u8
-#EXTINF:0,Kay2 HD (1080p)
-#EXTVLCOPT:network-caching=1000
-http://163.61.227.29:8000/play/a038/index.m3u8
-#EXTINF:60,Lahore News (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
+#EXTINF:60 group-title="Pak,News",Lahore News (720p) [Not 24/7]
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
-#EXTINF:66,More4 HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
-#EXTINF:11,STAR UTSAV MOVIES
-http://103.78.149.54:8000/play/a00m/index.m3u8
-#EXTINF:102,Zoom
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0 group-title="Pak,General",aurLife HD (614p)
+http://124.109.47.101/hls/stream1.m3u8
+#EXTINF:22 group-title="Pak,General",Discover Pakistan (1080p)
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:0 group-title="Pak,General",Kay2 HD (1080p)
+http://163.61.227.29:8000/play/a038/index.m3u8
+
+#EXTINF:60 group-title="India,Music",9XM (576p)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
+#EXTINF:60 group-title="India,Music",B4U Music (1080p)
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+#EXTINF:24 group-title="India,Music",JooMusic (720p)
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:102 group-title="India,Music",Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:60 group-title="India,Music",Zoom Global (720p)
+https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
+
+#EXTINF:54 group-title="India,Movies",B4U Kadak (1080p) [Geo-blocked]
+https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:57 group-title="India,Movies",B4U Movies (1080p) [Geo-blocked]
+https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:33 group-title="India,Movies",ZB Cinema (720p)
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+#EXTINF:24 group-title="India,Movies",Zee Cinema HD (480p)
+http://103.99.249.139/zeecinema/index.m3u8
+#EXTINF:0 group-title="India,Movies",Colors Cineplex Bollywood (576p)
+http://103.182.170.32:8888/play/a01o
+#EXTINF:20 group-title="India,Movies",Goldmines (576p)
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:19 group-title="India,Movies",Goldmines Movies (576p)
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+
+#EXTINF:65 group-title="UK",BBC Four/CBeebies (1080p)
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
+#EXTINF:7200 group-title="UK",BBC News (1080p) [Geo-blocked]
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:7200 group-title="UK",BBC One South (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/iptv_mse_v0_hevc.mpd
+#EXTINF:7200 group-title="UK",BBC One South East (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/iptv_mse_v0_hevc.mpd
+#EXTINF:7200 group-title="UK",BBC RB 1 (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_mse_v0_hevc.mpd
+#EXTINF:23 group-title="UK",https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24/oembed.json
+https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
+#EXTINF:60 group-title="UK",BBC Three/CBBC (1080p)
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
+#EXTINF:59 group-title="UK",BBC Two HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+#EXTINF:7200 group-title="UK",CBBC HD (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:3600 group-title="UK",Channel 4 UK HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+#EXTINF:3605 group-title="UK",Channel 5 HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+#EXTINF:60 group-title="UK",Film4 HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+#EXTINF:36 group-title="UK",Homes Under The Hammer (720p)
+https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:80 group-title="UK",ITV2
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+#EXTINF:66 group-title="UK",ITV3 (1080p)
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
+#EXTINF:66 group-title="UK",ITV4 (1080p)
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
+#EXTINF:66 group-title="UK",More4 HD
+https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
