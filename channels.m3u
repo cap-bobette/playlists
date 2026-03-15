@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0 group-title="Pak,News",24 News HD
-http://115.42.65.142:9981/stream/channel/7bf0f5f5a215f01d8447f2b261964bfa?profile=webtv-h264-aac-matroska
+#EXTINF:0 group-title="Pak,News",24 News HD test
+http://115.42.65.142:9981/stream/channel/7bf0f5f5a215f01d8447f2b261964bfa
 #EXTINF:-1 tvg-id="ABNNews.pk@SD",ABN News (360p)
 https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
 #EXTINF:0 group-title="Pak,News",Aik News
