@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0 group-title="Pak,News",24 News HD
+http://115.42.65.142:9981/stream/channel/7bf0f5f5a215f01d8447f2b261964bfa?profile=webtv-h264-aac-matroska
+#EXTINF:-1 tvg-id="ABNNews.pk@SD",ABN News (360p)
+https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
 #EXTINF:0 group-title="Pak,News",Aik News
 https://video.primexsports.com/pnn/live/playlist.m3u8
 #EXTINF:28 group-title="Pak,News",Dunya News (INT Feed) (720p) [Not 24/7]
@@ -49,6 +53,10 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:19 group-title="India,Movies",Goldmines Movies (576p)
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
+#EXTINF:-1 tvg-id="AlJazeera.qa@English",Al Jazeera English (1080p)
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa@English",Al Jazeera English
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:65 group-title="UK",BBC Four/CBeebies (1080p)
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 #EXTINF:7200 group-title="UK",BBC News (1080p) [Geo-blocked]
