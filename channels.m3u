@@ -1,31 +1,72 @@
 #EXTM3U
-#EXTINF:0 group-title="Pak,News",24 News HD test
+#EXTINF:0 group-title="Pak,News",24 News HD UUID
 http://115.42.65.142:9981/stream/channel/7bf0f5f5a215f01d8447f2b261964bfa
-#EXTINF:-1 tvg-id="ABNNews.pk@SD",ABN News (360p)
+#EXTINF:0 group-title="Pak,News",24 News HD ChId
+http://115.42.65.142:9981/stream/channelid/1979052155
+#EXTINF:0 group-title="Pak,News",ARY News Asia
+http://115.42.65.142:9981/stream/channelid/822701625
+#EXTINF:0 group-title="Pak,News",92 News
+http://115.42.65.142:9981/stream/channel/8c6055bd9ebdc7ea738eb561471a48d1
+#EXTINF:-1 group-title="Pak,News",ABN News (360p)
 https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
 #EXTINF:0 group-title="Pak,News",Aik News
 https://video.primexsports.com/pnn/live/playlist.m3u8
+#EXTINF:-1 tvg-id="3baac6bafc4af8394e8382c632803c9b",group-title="Pak,News",BOL News Urdu
+http://115.42.65.142:9981/stream/channelid/986098235
+#EXTINF:-1 tvg-id="0981efc39557e64701588a74cf922a11",group-title="Pak,News",DAWN NEWS
+http://115.42.65.142:9981/stream/channelid/1139769609
 #EXTINF:28 group-title="Pak,News",Dunya News (INT Feed) (720p) [Not 24/7]
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:30 group-title="Pak,News",Dunya News (UK Feed) (720p) [Not 24/7]
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
+#EXTINF:-1 tvg-id="07b48036a48b62a3b81717383e44e3f9",group-title="Pak,News",Geo News
+http://115.42.65.142:9981/stream/channelid/914404359
 #EXTINF:-1 group-title="Pak,News",Geo Tez (576i)
 https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
 #EXTINF:60 group-title="Pak,News",Lahore News (720p) [Not 24/7]
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 #EXTINF:-1 group-title="Pak,News",News One (720p)
 https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
+#EXTINF:-1 tvg-id="e5d1c6a22d172478af318893525ac1e1",group-title="Pak,News",PTV-NEWS HD
+http://115.42.65.142:9981/stream/channelid/583455205
 #EXTINF:-1 group-title="Pak,News",Samaa TV (576p)
 https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
 
+#EXTINF:-1 tvg-id="617e742d2c3135bbf630eaae2aa285bd",group-title="Pak,General",APlus Pakistan
+http://115.42.65.142:9981/stream/channelid/762609249
+#EXTINF:-1 tvg-id="51fb07f6e82923275e81664546b9ef7a",group-title="Pak,General",APNA HD
+http://115.42.65.142:9981/stream/channelid/1980234577
+#EXTINF:-1 tvg-id="14efce2b1e7600e452cf61e85f11d4a9",group-title="Pak,General",ARYDigitalAsia HD
+http://115.42.65.142:9981/stream/channelid/734981908
+#EXTINF:-1 tvg-id="dfe92f324fd20649bca96ed59e615ea8",group-title="Pak,General",ARYZindagi
+http://115.42.65.142:9981/stream/channelid/842000863
 #EXTINF:0 group-title="Pak,General",aurLife HD (614p)
 http://124.109.47.101/hls/stream1.m3u8
+#EXTINF:-1 tvg-id="ab90cc5a5f56456f424f75771dede539",group-title="Pak,General",BOL Entertainment
+http://115.42.65.142:9981/stream/channelid/1523355819
 #EXTINF:22 group-title="Pak,General",Discover Pakistan (1080p)
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 tvg-id="6d7d1b1b227a125abea201bf2304f7fe",group-title="Pak,General",Geo Entertainment
+http://115.42.65.142:9981/stream/channelid/454786413
+#EXTINF:-1 tvg-id="1db6420574365a94f9775ea4a58570dc",group-title="Pak,General",Geo Kahani
+http://115.42.65.142:9981/stream/channelid/88258077
+#EXTINF:-1 tvg-id="013a746476c230ffa09d8237d9102007",group-title="Pak,General",Geo Super
+http://115.42.65.142:9981/stream/channelid/1685338625
 #EXTINF:-1 group-title="Pak,General",HarPal Geo (360p)
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="5e49d8b2d422df29c70af9d83d68d37e",group-title="Pak,General",GreenEnt - HD
+http://115.42.65.142:9981/stream/channelid/853035358
 #EXTINF:0 group-title="Pak,General",Kay2 HD (1080p)
 http://163.61.227.29:8000/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="32b90eb52012330cfb211c3983e35196",group-title="Pak,General",PTV NATIONAL
+http://115.42.65.142:9981/stream/channelid/890157362
+#EXTINF:-1 tvg-id="c54a8499b414a0a808c672ee861cdfdd",group-title="Pak,General",PTV-Global
+http://115.42.65.142:9981/stream/channelid/428100293
+#EXTINF:-1 tvg-id="a54dddb33f3b30f9d8458a207fbd8afa",group-title="Pak,General",PTV-Home
+http://115.42.65.142:9981/stream/channelid/870141349
+#EXTINF:-1 tvg-id="349aa90331242b85df651528b344949d",group-title="Pak,General",PTV-SPORTS-HD
+http://115.42.65.142:9981/stream/channelid/61446708
+
 
 #EXTINF:60 group-title="India,Music",9XM (576p)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
