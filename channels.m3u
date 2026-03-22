@@ -67,10 +67,10 @@ http://115.42.65.142:9981/stream/channelid/870141349
 #EXTINF:-1 group-title="Pak,General",PTV-SPORTS-HD
 http://115.42.65.142:9981/stream/channelid/61446708
 
-#EXTINF:60 group-title="India,Music",9XM (576p)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
+#EXTINF:60 group-title="India,Music",9XM
+https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:60 group-title="India,Music",B4U Music (1080p)
-https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+http://116.90.120.151:8000/play/a0k3/index.m3u8
 #EXTINF:24 group-title="India,Music",JooMusic (720p)
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:102 group-title="India,Music",Zoom
@@ -82,16 +82,48 @@ https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:57 group-title="India,Movies",B4U Movies (1080p) [Geo-blocked]
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:33 group-title="India,Movies",ZB Cinema (720p)
-https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 #EXTINF:24 group-title="India,Movies",Zee Cinema HD (480p)
+http://116.90.120.151:8000/play/a0hc/index.m3u8
 http://103.99.249.139/zeecinema/index.m3u8
+#EXTINF:24 group-title="India,Movies",Zee Anmol Cinema
+http://116.90.120.151:8000/play/a0ks/index.m3u8
+#EXTINF:24 group-title="India,Movies",Zee Bollywood
+http://116.90.120.151:8000/play/a0h6/index.m3u8
+#EXTINF:24 group-title="India,Movies",Star Ustav Movies
+http://116.90.120.151:8000/play/a0ka/index.m3u8
+#EXTINF:24 group-title="India,Movies",Star Movies HD English
+http://116.90.120.151:8000/play/a0ik/index.m3u8
+#EXTINF:24 group-title="India,Movies",Star Movies Select English
+http://116.90.120.151:8000/play/a0ij/index.m3u8
+#EXTINF:-1 group-title="India,Movies",Star Gold Thrills (576p)
+http://116.90.120.151:8000/play/a0gw/index.m3u8
+#EXTINF:-1 group-title="India,Movies",Star Gold Romance (576p)
+http://116.90.120.151:8000/play/a0he/index.m3u8
+#EXTINF:-1 group-title="India,Movies",Star Gold 2 (1080p)
+http://116.90.120.151:8000/play/a0hq/index.m3u8
+#EXTINF:-1 group-title="India,Movies",Star Gold Select (1080p)
+http://116.90.120.151:8000/play/a0j2/index.m3u8
+#EXTINF:-1 group-title="India,Movies",Sony Max HD (1080p)
+http://116.90.120.151:8000/play/a0jf/index.m3u8
+#EXTINF:-1 group-title="India,Movies",Sony Max 2 (576p)
+http://116.90.120.151:8000/play/a0h0/index.m3u8
+#EXTINF:-1 group-title="India,Movies",Colors Cineplex HD (1080p)
+http://116.90.120.151:8000/play/a0ji/index.m3u8
+#EXTINF:-1 group-title="India,Movies",Colors Cineplex Superhits (576p)
+http://116.90.120.151:8000/play/a0kl/index.m3u8
 #EXTINF:0 group-title="India,Movies",Colors Cineplex Bollywood (576p)
+http://116.90.120.151:8000/play/a0ki/index.m3u8
 http://103.182.170.32:8888/play/a01o
+#EXTINF:20 group-title="India,Movies",Anmol Cinema
+http://116.90.120.151:8000/play/a0j6/index.m3u8
+#EXTINF:20 group-title="India,Movies",Anmol Cinema 2
+http://116.90.120.151:8000/play/a0ir/index.m3u8
 #EXTINF:20 group-title="India,Movies",Goldmines (576p)
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:19 group-title="India,Movies",Goldmines Movies (576p)
 https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:33 group-title="India,Movies",ZB Cinema (720p)
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 #EXTINF:-1 group-title="UK",Al Jazeera English (1080p)
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
