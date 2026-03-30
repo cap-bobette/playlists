@@ -1,0 +1,130 @@
+name: Update EPG Guide TEST
+
+on:
+  workflow_dispatch:           # allows manual trigger from GitHub Actions tab
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout your repo
+        uses: actions/checkout@v4.2.2
+
+      - name: Checkout iptv-org/epg grabber
+        uses: actions/checkout@v4.2.2
+        with:
+          repository: iptv-org/epg
+          ref: master
+          path: epg-tool
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4.4.0
+        with:
+          node-version: '22'
+          cache: 'npm'
+          cache-dependency-path: epg-tool/package-lock.json
+
+      - name: Install grabber dependencies
+        run: npm install
+        working-directory: epg-tool
+
+      - name: Grab EPG - Plus4
+        run: |
+          npm run grab -- \
+            --channels=../channels_epg_plus4.xml \
+            --output=../guide_epg_plus4.xml \
+            --maxConnections=5 \
+            --days=3 \
+            --timeout=30000
+        working-directory: epg-tool
+        continue-on-error: true
+        
+      - name: Shift EPG +4h (inline)
+        run: |    
+          node << 'EOF'
+          const fs = require('fs')
+
+          const inputFile = 'guide_epg_plus4.xml'
+          const outputFile = 'guide_plus4_shifted.xml'
+          const OFFSET = 4 // change to 5 in winter if needed
+
+          const xml = fs.readFileSync(inputFile, 'utf-8')
+
+          const shifted = xml.replace(/(\d{14}) ([+-]\d{4})/g, (_, datetime, tz) => {
+            const d = new Date(
+              datetime.replace(
+                /(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})/,
+                '$1-$2-$3T$4:$5:$6Z'
+              )
+            )
+
+            d.setHours(d.getHours() + OFFSET)
+
+            const newDate = d.toISOString().replace(/[-:T]/g, '').slice(0, 14)
+
+            return `${newDate} ${tz}`
+          })
+
+          fs.writeFileSync(outputFile, shifted)
+          EOF
+          
+          
+      - name: Merge all guides into guide.xml
+        run: |
+          python3 - <<'EOF'
+          import xml.etree.ElementTree as ET
+          import os
+
+          files = ['guide_plus4_shifted.xml']
+          root = ET.Element('tv')
+          root.set('generator-info-name', 'iptv-org/epg')
+
+          seen_channels = set()
+          seen_programmes = set()
+
+          for f in files:
+              if not os.path.exists(f):
+                  print(f"Skipping missing file: {f}")
+                  continue
+              try:
+                  tree = ET.parse(f)
+                  r = tree.getroot()
+                  ch_count = 0
+                  prog_count = 0
+                  for ch in r.findall('channel'):
+                      cid = ch.get('id', '')
+                      if cid not in seen_channels:
+                          seen_channels.add(cid)
+                          root.append(ch)
+                          ch_count += 1
+                  for prog in r.findall('programme'):
+                      key = (prog.get('channel', ''), prog.get('start', ''))
+                      if key not in seen_programmes:
+                          seen_programmes.add(key)
+                          root.append(prog)
+                          prog_count += 1
+                  print(f"{f}: {ch_count} channels, {prog_count} programmes")
+              except Exception as e:
+                  print(f"Error parsing {f}: {e}")
+
+          ET.indent(root, space='  ')
+          tree = ET.ElementTree(root)
+          with open('guide.xml', 'wb') as out:
+              out.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
+              tree.write(out, encoding='utf-8', xml_declaration=False)
+
+          print(f"Done: {len(seen_channels)} total channels, {len(seen_programmes)} total programmes")
+          EOF
+
+      - name: Commit and push guide.xml
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add guide.xml
+          git diff --staged --quiet || git commit -m "chore: updated guide.xml [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
