@@ -1,78 +1,86 @@
 #EXTM3U
-#EXTINF:0 group-title="Pak,News",24 News HD
+#EXTINF:0 tvg-id="" group-title="Pak,News",24 News HD
 http://115.42.65.142:9981/stream/channel/7bf0f5f5a215f01d8447f2b261964bfa
 http://115.42.65.142:9981/stream/channelid/1979052155
-#EXTINF:0 group-title="Pak,News",ARY News Asia
+#EXTINF:0 tvg-id="ARYNews" group-title="Pak,News",ARY News Asia
 http://115.42.65.142:9981/stream/channelid/822701625
-#EXTINF:0 group-title="Pak,News",92 News
+#EXTINF:0 tvg-id="92News" group-title="Pak,News",92 News
 http://115.42.65.142:9981/stream/channel/8c6055bd9ebdc7ea738eb561471a48d1
-#EXTINF:-1 group-title="Pak,News",ABN News
+#EXTINF:-1 tvg-id="" group-title="Pak,News",ABN News
 https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
-#EXTINF:0 group-title="Pak,News",Aik News
+#EXTINF:0 tvg-id="" group-title="Pak,News",Aik News
 https://video.primexsports.com/pnn/live/playlist.m3u8
-#EXTINF:-1 group-title="Pak,News",BOL News Urdu
+#EXTINF:-1 tvg-id="" group-title="Pak,News",BOL News Urdu
 http://115.42.65.142:9981/stream/channelid/986098235
-#EXTINF:-1 group-title="Pak,News",Dawn News
+#EXTINF:-1 tvg-id="" group-title="Pak,News",Dawn News
 http://115.42.65.142:9981/stream/channelid/1139769609
-#EXTINF:28 group-title="Pak,News",Dunya News Internation
+#EXTINF:28 tvg-id="DunyaNews" group-title="Pak,News",Dunya News Internation
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
-#EXTINF:30 group-title="Pak,News",Dunya News UK
+#EXTINF:30 tvg-id="DunyaNews" group-title="Pak,News",Dunya News UK
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
-#EXTINF:-1 group-title="Pak,News",Geo News Tez
+#EXTINF:-1 tvg-id="GeoNewsInternational.pk@SD" group-title="Pak,News",Geo News Tez sky
 https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Pak,News",Geo News HD
+#EXTINF:-1 tvg-id="GeoNewsTv24" group-title="Pak,News",Geo News Tez tv24
+https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="GeoNewsStreamingTVGuides" group-title="Pak,News",Geo News Tez stvg
+https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="GEONewsEpgShare01" group-title="Pak,News",Geo News HD epgshare
 http://115.42.65.142:9981/stream/channelid/914404359
-#EXTINF:60 group-title="Pak,News",Lahore News
+#EXTINF:60 tvg-id="" group-title="Pak,News",Lahore News
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
-#EXTINF:-1 group-title="Pak,News",News One
+#EXTINF:-1 tvg-id="" group-title="Pak,News",News One
 https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
-#EXTINF:-1 group-title="Pak,News",PTV News HD
+#EXTINF:-1 tvg-id="PTVNews.pk" group-title="Pak,News",PTV News HD
 http://115.42.65.142:9981/stream/channelid/583455205
-#EXTINF:-1 group-title="Pak,News",Samaa TV
+#EXTINF:-1 tvg-id="SamaaTV" group-title="Pak,News",Samaa TV
 https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
 
-#EXTINF:-1 group-title="Pak,General",APlus
+#EXTINF:-1 tvg-id="" group-title="Pak,General",APlus
 http://115.42.65.142:9981/stream/channelid/762609249
-#EXTINF:-1 group-title="Pak,General",Apna HD
+#EXTINF:-1 tvg-id="" group-title="Pak,General",Apna HD
 http://115.42.65.142:9981/stream/channelid/1980234577
-#EXTINF:-1 group-title="Pak,General",ARY Digital Asia HD
+#EXTINF:-1 tvg-id="ARYDigital" group-title="Pak,General",ARY Digital Asia HD
 http://115.42.65.142:9981/stream/channelid/734981908
-#EXTINF:-1 group-title="Pak,General",ARY Zindagi
+#EXTINF:-1 tvg-id="" group-title="Pak,General",ARY Zindagi
 http://115.42.65.142:9981/stream/channelid/842000863
-#EXTINF:0 group-title="Pak,General",aurLife HD
+#EXTINF:0 tvg-id="" group-title="Pak,General",aurLife HD
 http://124.109.47.101/hls/stream1.m3u8
-#EXTINF:-1 group-title="Pak,General",BOL Entertainment
+#EXTINF:-1 tvg-id="" group-title="Pak,General",BOL Entertainment
 http://115.42.65.142:9981/stream/channelid/1523355819
-#EXTINF:22 group-title="Pak,General",Discover Pakistan
+#EXTINF:22 tvg-id="" group-title="Pak,General",Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-#EXTINF:-1 group-title="Pak,General",Geo HarPal
+#EXTINF:-1 tvg-id="GeoUK.pk@SD" group-title="Pak,General",Geo HarPal sky
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Pak,General",Geo Entertainment
+#EXTINF:-1 tvg-id="GeoTVTv24" group-title="Pak,General",Geo HarPal tv24
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="GeoTVStreamingTVGuides" group-title="Pak,General",Geo HarPal stvg
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="GeoTVEpgShareo1" group-title="Pak,General",Geo Entertainment epgshare
 http://115.42.65.142:9981/stream/channelid/454786413
-#EXTINF:-1 group-title="Pak,General",Geo Kahani
+#EXTINF:-1 tvg-id="GeoKahani" group-title="Pak,General",Geo Kahani
 http://115.42.65.142:9981/stream/channelid/88258077
-#EXTINF:-1 group-title="Pak,General",Geo Super
+#EXTINF:-1 tvg-id="" group-title="Pak,General",Geo Super
 http://115.42.65.142:9981/stream/channelid/1685338625
-#EXTINF:-1 group-title="Pak,General",GreenEnt HD
+#EXTINF:-1 tvg-id="" group-title="Pak,General",GreenEnt HD
 http://115.42.65.142:9981/stream/channelid/853035358
-#EXTINF:0 group-title="Pak,General",Kay2 HD
+#EXTINF:0 tvg-id="" group-title="Pak,General",Kay2 HD
 http://163.61.227.29:8000/play/a038/index.m3u8
-#EXTINF:-1 group-title="Pak,General",PTV National
+#EXTINF:-1 tvg-id="PTVNational.pk" group-title="Pak,General",PTV National
 http://115.42.65.142:9981/stream/channelid/890157362
-#EXTINF:-1 group-title="Pak,General",PTV Global
+#EXTINF:-1 tvg-id="PTVGlobal.pk" group-title="Pak,General",PTV Global
 http://115.42.65.142:9981/stream/channelid/428100293
-#EXTINF:-1 group-title="Pak,General",PTV Home
+#EXTINF:-1 tvg-id="PTVHome.pk" group-title="Pak,General",PTV Home
 http://115.42.65.142:9981/stream/channelid/870141349
 
 #EXTINF:60 tvg-id="9XM.in@SD" group-title="India,Music",9XM
 https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:60 tvg-id="B4UMusic.in@India" group-title="India,Music",B4U Music
 http://116.90.120.148:8000/play/a0k3/index.m3u8
-#EXTINF:24 group-title="India,Music",JooMusic
+#EXTINF:24 tvg-id="" group-title="India,Music",JooMusic
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:102 tvg-id="Zoom.in@SD" group-title="India,Music",Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:60 group-title="India,Music",Zoom Global
+#EXTINF:60 tvg-id="" group-title="India,Music",Zoom Global
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 
 #EXTINF:24 tvg-id="AndpriveHD.in@SD" group-title="India,EngMovies",Eng & PRIVE HD
@@ -139,13 +147,13 @@ http://116.90.120.148:8000/play/a0kj/index.m3u8
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:19 tvg-id="GoldminesMovies.in@SD" group-title="India,Movies",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:33 group-title="India,Movies",ZB Cinema
+#EXTINF:33 tvg-id="" group-title="India,Movies",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 #EXTINF:33 tvg-id="Pitaara.in@SD" group-title="India,PunjabiMovies",Pitaara Movies
 http://116.90.120.148:8000/play/a0ky/index.m3u8
 
-#EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="UK",Al Jazeera English HD
+#EXTINF:-1 tvg-id="AlJazeera.qa@EnglishHD" group-title="UK",Al Jazeera English HD
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="UK",Al Jazeera English
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
@@ -194,5 +202,5 @@ http://116.90.120.148:8000/play/a0hi/index.m3u8
 http://116.90.120.148:8000/play/a0h9/index.m3u8
 #EXTINF:66 tvg-id="StarSportsSelect2.in@HD" group-title="Sports",Star Sports Select 2 HD
 http://116.90.120.148:8000/play/a0ha/index.m3u8
-#EXTINF:-1 group-title="Sports",PTV Sports HD
+#EXTINF:-1 tvg-id="PTVSports.pk" group-title="Sports",PTV Sports HD
 http://115.42.65.142:9981/stream/channelid/61446708
