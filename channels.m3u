@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://cap-bobette.github.io/playlists/guide.xml" tvg-url="https://cap-bobette.github.io/playlists/guide.xml" url-tvg="https://cap-bobette.github.io/playlists/guide.xml" 
+#EXTM3U x-tvg-url="https://cap-bobette.github.io/playlists/guide.xml"
 
 #EXTINF:0 tvg-id="" group-title="Pak,News",24 News HD
 http://115.42.65.142:9981/stream/channel/7bf0f5f5a215f01d8447f2b261964bfa
