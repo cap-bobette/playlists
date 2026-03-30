@@ -50,7 +50,7 @@
   <channel site="tataplay.com" site_id="1499" lang="en" xmltv_id="GoldminesMovies.in@SD">Goldmines Movies</channel>
 
   <!-- India Punjabi Movies -->
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PITAARA" lang="en" xmltv_id="Pitaara.in@SD">Pitaara</channel>
+  <channel site="tataplay.com" site_id="624" lang="en" xmltv_id="Pitaara.in@SD">Pitaara Movies</channel>
 
   <!-- UK -->
   <channel site="dna.fi" site_id="ch-820639" lang="fi" xmltv_id="AlJazeera.qa@English">Al Jazeera English</channel>
@@ -79,4 +79,17 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SPORTS18_SYMHYP_1_HD" lang="en" xmltv_id="StarSports2Hindi.in@HD">Star Sports 2 HD Hindi</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD" lang="en" xmltv_id="StarSportsSelect1.in@HD">Star Sports Select 1 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD" lang="en" xmltv_id="StarSportsSelect2.in@HD">Star Sports Select 2 HD</channel>
+
+  <!-- Gujarati -->
+  <channel site="epgshare01.online" site_id="IN4#Aastha.Gujarati.in" lang="en" xmltv_id="AasthaGujarati">Aastha Gujarati</channel>
+  <channel site="epgshare01.online" site_id="IN4#ABP.ASMITA.in" lang="en" xmltv_id="ABPASMITA">ABP ASMITA</channel>
+  <channel site="epgshare01.online" site_id="IN4#CNBC.BAJAR.in" lang="en" xmltv_id="CNBCBAJAR">CNBC BAJAR</channel>
+  <channel site="epgshare01.online" site_id="IN4#DD.GIRNAR.in" lang="en" xmltv_id="DDGIRNAR">DD GIRNAR</channel>
+  <channel site="epgshare01.online" site_id="IN4#GUJARAT.FIRST.in" lang="en" xmltv_id="GUJARATFIRST">GUJARAT FIRST</channel>
+  <channel site="epgshare01.online" site_id="IN4#NEWS18.GUJARATI.in" lang="en" xmltv_id="NEWS18GUJARATI">NEWS18 GUJARATI</channel>
+  <channel site="epgshare01.online" site_id="IN4#Sandesh.News.in" lang="en" xmltv_id="SandeshNews">Sandesh News</channel>
+  <channel site="epgshare01.online" site_id="IN4#TV9.GUJARATI.in" lang="en" xmltv_id="TV9GUJARATI">TV9 GUJARATI</channel>
+  <channel site="epgshare01.online" site_id="IN4#ZEE.24.KALAK.in" lang="en" xmltv_id="ZEE24KALAK">ZEE 24 KALAK</channel>
+  <channel site="tataplay.com" site_id="1627" lang="en" xmltv_id="LakshyaTV">Lakshya TV</channel>
+
 </channels>
