@@ -62,7 +62,7 @@ jobs:
           node << 'EOF'
           const fs = require('fs')
 
-          const inputFile = 'guide_plus4.xml'
+          const inputFile = 'guide_epg_plus4.xml'
           const outputFile = 'guide_plus4_shifted.xml'
           const OFFSET = 4 // change to 5 in winter if needed
 
