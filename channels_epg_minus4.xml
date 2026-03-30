@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+
+  <channel site="sky.com" site_id="4407" lang="en" xmltv_id="GeoNewsInternational.pk@SD">GEO News</channel>  
+  <channel site="sky.com" site_id="4110" lang="en" xmltv_id="GeoUK.pk@SD">GEO TV</channel>
+</channels>
