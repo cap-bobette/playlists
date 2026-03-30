@@ -21,13 +21,13 @@ https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:57 tvg-id="B4UMovies.in@India" group-title="India,Movies",B4U Movies
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:24 tvg-id="Andpictures.in@HD" group-title="India,EngMovies",Eng & Picture HD
+#EXTINF:24 tvg-id="Andpictures.in@HD" group-title="India,EngMovies",& Picture HD
 http://116.90.120.148:8000/play/a0j4/index.m3u8
 #EXTINF:24 tvg-id="ZeeCinema.in@HD" group-title="India,Movies",Zee Cinema HD
 http://103.161.153.165:8000/play/a00q/index.m3u8
-http://116.90.120.148:8000/play/a0hc/index.m3u8
-http://116.90.120.151:8000/play/a0hc/index.m3u8
-http://103.99.249.139/zeecinema/index.m3u8
+##### http://116.90.120.148:8000/play/a0hc/index.m3u8
+##### http://116.90.120.151:8000/play/a0hc/index.m3u8
+##### http://103.99.249.139/zeecinema/index.m3u8
 #EXTINF:24 tvg-id="ZeeBollywood.in@SD" group-title="India,Movies",Zee Bollywood
 http://116.90.120.148:8000/play/a0h6/index.m3u8
 #EXTINF:-1 tvg-id="StarGold.in@HD" group-title="India,Movies",Star Gold HD
@@ -75,9 +75,9 @@ http://116.90.120.148:8000/play/a0ky/index.m3u8
 #EXTINF:60 tvg-id="9XM.in@SD" group-title="India,Music",9XM
 https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:60 tvg-id="B4UMusic.in@India" group-title="India,Music",B4U Music
-http://115.42.65.142:9981/stream/channelid/1275804360
 https://cdn-2.pishow.tv/live/415/master.m3u8
-http://116.90.120.148:8000/play/a0k3/index.m3u8
+##### http://115.42.65.142:9981/stream/channelid/1275804360
+##### http://116.90.120.148:8000/play/a0k3/index.m3u8
 #EXTINF:24 tvg-id="" group-title="India,Music",JooMusic
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:102 tvg-id="Zoom.in@SD" group-title="India,Music",Zoom
