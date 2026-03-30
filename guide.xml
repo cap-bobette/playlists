@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="iptv-org/epg">
-  <channel id="ARYNews">
-    <display-name>ARY News</display-name>
-    <url>https://epgshare01.online</url>
-  </channel>
   <channel id="SamaaTV">
     <display-name>Samaa TV</display-name>
     <url>https://tv24.co.uk</url>
+  </channel>
+  <channel id="9XM.in@SD">
+    <display-name>9XM</display-name>
+    <icon src="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540" />
+    <url>https://airtelxstream.in</url>
   </channel>
   <channel id="StarSportsSelect2.in@HD">
     <display-name>Star Sports Select 2 HD</display-name>
@@ -283,21 +284,6 @@
     <icon src="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" />
     <url>https://airtelxstream.in</url>
   </channel>
-  <channel id="9XM.in@SD">
-    <display-name>9XM</display-name>
-    <icon src="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540" />
-    <url>https://airtelxstream.in</url>
-  </channel>
-  <channel id="ARYDigital">
-    <display-name>ARY Digital</display-name>
-    <url>https://epgshare01.online</url>
-  </channel>
-  <programme start="20260330160000 +0000" stop="20260330163000 +0000" channel="9XM.in@SD">
-    <title lang="en">9XM Music Idhar Hai</title>
-    <desc lang="en">Enjoy the best Music where we play the best songs from 9XM's superhit playlists!</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1383834_30MAR213000_30MAR220000/images/LANDSCAPE_169_HD/9XM_9XMMusicIdharHai_1383834.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1383834_30MAR213000_30MAR220000/images/LOGO/9XM_9XMMusicIdharHai_1383834.png" />
-  </programme>
   <programme start="20260330163000 +0000" stop="20260330170000 +0000" channel="9XM.in@SD">
     <title lang="en">9XM Music Idhar Hai</title>
     <desc lang="en">Enjoy the best Music where we play the best songs from 9XM's superhit playlists!</desc>
@@ -1179,6 +1165,12 @@
     <desc lang="en">Enjoy the best Music where we play the best songs from 9XM's superhit playlists!</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1383834_02APR213000_02APR220000/images/LANDSCAPE_169_HD/9XM_9XMMusicIdharHai_1383834.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1383834_02APR213000_02APR220000/images/LOGO/9XM_9XMMusicIdharHai_1383834.png" />
+  </programme>
+  <programme start="20260402163000 +0000" stop="20260402170000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM Music Idhar Hai</title>
+    <desc lang="en">Enjoy the best Music where we play the best songs from 9XM's superhit playlists!</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1383834_02APR220000_02APR223000/images/LANDSCAPE_169_HD/9XM_9XMMusicIdharHai_1383834.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1383834_02APR220000_02APR223000/images/LOGO/9XM_9XMMusicIdharHai_1383834.png" />
   </programme>
   <programme start="20260330010000 +0000" stop="20260330020000 +0000" channel="AlJazeera.qa@English">
     <title lang="en">Witness</title>
@@ -2744,894 +2736,6 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_ANMOL_CINEMA_459918_02APR212800_03APR020000/images/LANDSCAPE_169_HD/ZeeAnmolCinema_Movie_459918.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_ANMOL_CINEMA_459918_02APR212800_03APR020000/images/LOGO/ZeeAnmolCinema_Movie_459918.png" />
   </programme>
-  <programme start="20260330000000 +0000" stop="20260330020000 +0000" channel="ARYDigital">
-    <title lang="en">Jeeto Pakistan</title>
-    <desc lang="en">Game &amp;amp; Entertainment Show.</desc>
-  </programme>
-  <programme start="20260330020000 +0000" stop="20260330033000 +0000" channel="ARYDigital">
-    <title lang="en">Radd</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260330033000 +0000" stop="20260330040000 +0000" channel="ARYDigital">
-    <title lang="en">Bulbullay</title>
-    <desc lang="en">Sitcom.</desc>
-  </programme>
-  <programme start="20260330040000 +0000" stop="20260330040500 +0000" channel="ARYDigital">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330040500 +0000" stop="20260330050000 +0000" channel="ARYDigital">
-    <title lang="en">11th Hour with Waseem Badami</title>
-    <desc lang="en">A round up program for political &amp;amp; current affairs enthusiasts.</desc>
-  </programme>
-  <programme start="20260330050000 +0000" stop="20260330050500 +0000" channel="ARYDigital">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330050500 +0000" stop="20260330060000 +0000" channel="ARYDigital">
-    <title lang="en">The reporters</title>
-    <desc lang="en">The reporters, is a program with senior journalist. These reporters will dig the issues deeper and bring the facts and realities out with detailed investigative reports. It will be an hour where big stories of the day will be filtered.</desc>
-  </programme>
-  <programme start="20260330060000 +0000" stop="20260330070000 +0000" channel="ARYDigital">
-    <title lang="en">Madawa</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260330070000 +0000" stop="20260330090000 +0000" channel="ARYDigital">
-    <title lang="en">Sharpasand</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260330090000 +0000" stop="20260330093000 +0000" channel="ARYDigital">
-    <title lang="en">Bulbullay</title>
-    <desc lang="en">Comedy.</desc>
-  </programme>
-  <programme start="20260330093000 +0000" stop="20260330100000 +0000" channel="ARYDigital">
-    <title lang="en">Daura e Tarjuma e Quran</title>
-    <desc lang="en">Recitation of the Holy Quran with interpretation.</desc>
-  </programme>
-  <programme start="20260330100000 +0000" stop="20260330103000 +0000" channel="ARYDigital">
-    <title lang="en">Dars-e-Bukhari</title>
-    <desc lang="en">Religious Program.</desc>
-  </programme>
-  <programme start="20260330103000 +0000" stop="20260330120000 +0000" channel="ARYDigital">
-    <title lang="en">Radd</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260330120000 +0000" stop="20260330140000 +0000" channel="ARYDigital">
-    <title lang="en">Sazawaar</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260330140000 +0000" stop="20260330150000 +0000" channel="ARYDigital">
-    <title lang="en">Good Morning Pakistan</title>
-    <desc lang="en">Morning Show.</desc>
-  </programme>
-  <programme start="20260330150000 +0000" stop="20260330153000 +0000" channel="ARYDigital">
-    <title lang="en">The Mansuri Show</title>
-    <desc lang="en">Talk Show.</desc>
-  </programme>
-  <programme start="20260330153000 +0000" stop="20260330163000 +0000" channel="ARYDigital">
-    <title lang="en">Madawa</title>
-    <desc lang="en">Comedy.</desc>
-  </programme>
-  <programme start="20260330163000 +0000" stop="20260330180000 +0000" channel="ARYDigital">
-    <title lang="en">Sazawaar</title>
-    <desc lang="en">Entertainment.</desc>
-  </programme>
-  <programme start="20260330180000 +0000" stop="20260330183000 +0000" channel="ARYDigital">
-    <title lang="en">Urdu Rang</title>
-    <desc lang="en">Famous Poets from Pakistan. Media Meet &amp;amp; Greet.</desc>
-  </programme>
-  <programme start="20260330183000 +0000" stop="20260330190000 +0000" channel="ARYDigital">
-    <title lang="en">Urdu Rang</title>
-    <desc lang="en">AN EVENING WITH THE SCHOLAR-ATA UL HAQ QASMI 1/2.</desc>
-  </programme>
-  <programme start="20260330190000 +0000" stop="20260330210000 +0000" channel="ARYDigital">
-    <title lang="en">Madawa</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260330210000 +0000" stop="20260330220000 +0000" channel="ARYDigital">
-    <title lang="en">Sharpasand</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260330220000 +0000" stop="20260330230000 +0000" channel="ARYDigital">
-    <title lang="en">Sazawaar</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260330230000 +0000" stop="20260331000000 +0000" channel="ARYDigital">
-    <title lang="en">Rehmat</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260331000000 +0000" stop="20260331010000 +0000" channel="ARYDigital">
-    <title lang="en">Kafeel</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260331010000 +0000" stop="20260331020000 +0000" channel="ARYDigital">
-    <title lang="en">Madawa</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260331020000 +0000" stop="20260331030000 +0000" channel="ARYDigital">
-    <title lang="en">Radd</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260331030000 +0000" stop="20260331040000 +0000" channel="ARYDigital">
-    <title lang="en">Bulbullay</title>
-    <desc lang="en">Comedy.</desc>
-  </programme>
-  <programme start="20260331040000 +0000" stop="20260331040500 +0000" channel="ARYDigital">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331040500 +0000" stop="20260331050000 +0000" channel="ARYDigital">
-    <title lang="en">11th Hour with Waseem Badami</title>
-    <desc lang="en">A round up program for political &amp;amp; current affairs enthusiasts.</desc>
-  </programme>
-  <programme start="20260331050000 +0000" stop="20260331050500 +0000" channel="ARYDigital">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331050500 +0000" stop="20260331060000 +0000" channel="ARYDigital">
-    <title lang="en">The reporters</title>
-    <desc lang="en">The reporters, is a program with senior journalist. These reporters will dig the issues deeper and bring the facts and realities out with detailed investigative reports. It will be an hour where big stories of the day will be filtered.</desc>
-  </programme>
-  <programme start="20260331060000 +0000" stop="20260331070000 +0000" channel="ARYDigital">
-    <title lang="en">Good Morning Pakistan</title>
-    <desc lang="en">Morning Show.</desc>
-  </programme>
-  <programme start="20260331070000 +0000" stop="20260331090000 +0000" channel="ARYDigital">
-    <title lang="en">Rehmat</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260331090000 +0000" stop="20260331093000 +0000" channel="ARYDigital">
-    <title lang="en">Bulbullay</title>
-    <desc lang="en">Sitcom.</desc>
-  </programme>
-  <programme start="20260331093000 +0000" stop="20260331100000 +0000" channel="ARYDigital">
-    <title lang="en">Daura e Tarjuma e Quran</title>
-    <desc lang="en">Recitation of the Holy Quran with interpretation.</desc>
-  </programme>
-  <programme start="20260331100000 +0000" stop="20260331103000 +0000" channel="ARYDigital">
-    <title lang="en">Dars-e-Bukhari</title>
-    <desc lang="en">Religious Program.</desc>
-  </programme>
-  <programme start="20260331103000 +0000" stop="20260331120000 +0000" channel="ARYDigital">
-    <title lang="en">Radd</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260331120000 +0000" stop="20260331130000 +0000" channel="ARYDigital">
-    <title lang="en">Sazawaar</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260331130000 +0000" stop="20260331150000 +0000" channel="ARYDigital">
-    <title lang="en">Good Morning Pakistan</title>
-    <desc lang="en">Morning Show.</desc>
-  </programme>
-  <programme start="20260331150000 +0000" stop="20260331153000 +0000" channel="ARYDigital">
-    <title lang="en">Bulbullay</title>
-    <desc lang="en">Sitcom.</desc>
-  </programme>
-  <programme start="20260331153000 +0000" stop="20260331163000 +0000" channel="ARYDigital">
-    <title lang="en">Madawa</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260331163000 +0000" stop="20260331180000 +0000" channel="ARYDigital">
-    <title lang="en">Rehmat</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260331180000 +0000" stop="20260331183000 +0000" channel="ARYDigital">
-    <title lang="en">Urdu Rang</title>
-    <desc lang="en">Interview &amp;amp; Songs with Mehboob Shaikh-Talks about his Music Career.</desc>
-  </programme>
-  <programme start="20260331183000 +0000" stop="20260331190000 +0000" channel="ARYDigital">
-    <title lang="en">Urdu Rang</title>
-    <desc lang="en">Famous Poets from Pakistan. Media Meet &amp;amp; Greet.</desc>
-  </programme>
-  <programme start="20260331190000 +0000" stop="20260331200000 +0000" channel="ARYDigital">
-    <title lang="en">Madawa</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260331200000 +0000" stop="20260331210000 +0000" channel="ARYDigital">
-    <title lang="en">Madawa</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260331210000 +0000" stop="20260331220000 +0000" channel="ARYDigital">
-    <title lang="en">Shar Pasand</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260331220000 +0000" stop="20260401000000 +0000" channel="ARYDigital">
-    <title lang="en">Rehmat</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260401000000 +0000" stop="20260401010000 +0000" channel="ARYDigital">
-    <title lang="en">Kafeel</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260401010000 +0000" stop="20260401020000 +0000" channel="ARYDigital">
-    <title lang="en">Madawa</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260401020000 +0000" stop="20260401033000 +0000" channel="ARYDigital">
-    <title lang="en">Radd</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260401033000 +0000" stop="20260401040000 +0000" channel="ARYDigital">
-    <title lang="en">Bulbullay</title>
-    <desc lang="en">Sitcom.</desc>
-  </programme>
-  <programme start="20260401040000 +0000" stop="20260401040500 +0000" channel="ARYDigital">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401040500 +0000" stop="20260401050000 +0000" channel="ARYDigital">
-    <title lang="en">11th Hour with Waseem Badami</title>
-    <desc lang="en">A round up program for political &amp;amp; current affairs enthusiasts.</desc>
-  </programme>
-  <programme start="20260401050000 +0000" stop="20260401050500 +0000" channel="ARYDigital">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401050500 +0000" stop="20260401060000 +0000" channel="ARYDigital">
-    <title lang="en">The reporters</title>
-    <desc lang="en">The reporters, is a program with senior journalist. These reporters will dig the issues deeper and bring the facts and realities out with detailed investigative reports. It will be an hour where big stories of the day will be filtered.</desc>
-  </programme>
-  <programme start="20260401060000 +0000" stop="20260401070000 +0000" channel="ARYDigital">
-    <title lang="en">Madawa</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260401070000 +0000" stop="20260401090000 +0000" channel="ARYDigital">
-    <title lang="en">Good Morning Pakistan</title>
-    <desc lang="en">Morning Show.</desc>
-  </programme>
-  <programme start="20260401090000 +0000" stop="20260401093000 +0000" channel="ARYDigital">
-    <title lang="en">Bulbullay</title>
-    <desc lang="en">Sitcom.</desc>
-  </programme>
-  <programme start="20260401093000 +0000" stop="20260401100000 +0000" channel="ARYDigital">
-    <title lang="en">Daura e Tarjuma e Quran</title>
-    <desc lang="en">Recitation of the Holy Quran with interpretation.</desc>
-  </programme>
-  <programme start="20260401100000 +0000" stop="20260401103000 +0000" channel="ARYDigital">
-    <title lang="en">Dars-e-Bukhari</title>
-    <desc lang="en">Religious Program.</desc>
-  </programme>
-  <programme start="20260401103000 +0000" stop="20260401120000 +0000" channel="ARYDigital">
-    <title lang="en">Radd</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260401120000 +0000" stop="20260401130000 +0000" channel="ARYDigital">
-    <title lang="en">Sazawaar</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260401130000 +0000" stop="20260401150000 +0000" channel="ARYDigital">
-    <title lang="en">Good Morning Pakistan</title>
-    <desc lang="en">Morning Show.</desc>
-  </programme>
-  <programme start="20260401150000 +0000" stop="20260401153000 +0000" channel="ARYDigital">
-    <title lang="en">Bulbullay</title>
-    <desc lang="en">Sitcom.</desc>
-  </programme>
-  <programme start="20260401153000 +0000" stop="20260401163000 +0000" channel="ARYDigital">
-    <title lang="en">Madawa</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260401163000 +0000" stop="20260401180000 +0000" channel="ARYDigital">
-    <title lang="en">Sazawaar</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260401180000 +0000" stop="20260401183000 +0000" channel="ARYDigital">
-    <title lang="en">Urdu Rang</title>
-    <desc lang="en">AN EVENING WITH THE SCHOLAR-ATA UL HAQ QASMI 1/2.</desc>
-  </programme>
-  <programme start="20260401183000 +0000" stop="20260401190000 +0000" channel="ARYDigital">
-    <title lang="en">Urdu Rang</title>
-    <desc lang="en">AN EVENING WITH THE SCHOLAR-ATA UL HAQ QASMI 2/2.</desc>
-  </programme>
-  <programme start="20260401190000 +0000" stop="20260401200000 +0000" channel="ARYDigital">
-    <title lang="en">Madawa</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260401200000 +0000" stop="20260401210000 +0000" channel="ARYDigital">
-    <title lang="en">Madawa</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260401210000 +0000" stop="20260401220000 +0000" channel="ARYDigital">
-    <title lang="en">Meri Zindagi Hai Tu</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260401220000 +0000" stop="20260402000000 +0000" channel="ARYDigital">
-    <title lang="en">Sazawaar</title>
-    <desc lang="en">Drama Serial.</desc>
-  </programme>
-  <programme start="20260330000000 +0000" stop="20260330000500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330000500 +0000" stop="20260330010000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330010000 +0000" stop="20260330010500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330010500 +0000" stop="20260330020000 +0000" channel="ARYNews">
-    <title lang="en">Zimaydar Kaun</title>
-    <desc lang="en">A program based on sting operations where our reporters will hunt down the corrupters in our society where it is because of compromised food quality,bazaars,beggar mafia and many others.</desc>
-  </programme>
-  <programme start="20260330020000 +0000" stop="20260330020500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330020500 +0000" stop="20260330030000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330030000 +0000" stop="20260330030500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330030500 +0000" stop="20260330040000 +0000" channel="ARYNews">
-    <title lang="en">Sawal Yeh Hai</title>
-    <desc lang="en">A program that talks about current political issues and policies of pakistan.</desc>
-  </programme>
-  <programme start="20260330040000 +0000" stop="20260330040500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330040500 +0000" stop="20260330050000 +0000" channel="ARYNews">
-    <title lang="en">Criminals Most Wanted</title>
-    <desc lang="en">A weekly investigative program in which crimes are brought to light and people are made aware of how they can protect themselves.</desc>
-  </programme>
-  <programme start="20260330050000 +0000" stop="20260330050500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330050500 +0000" stop="20260330060000 +0000" channel="ARYNews">
-    <title lang="en">Humaray Mehman</title>
-    <desc lang="en">A light interview based show with famous celebrities, Hosted by Erum Nawaz. The show will feature many prominent personalities from politics, showbiz, sports etc.</desc>
-  </programme>
-  <programme start="20260330060000 +0000" stop="20260330060500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330060500 +0000" stop="20260330070000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330070000 +0000" stop="20260330070500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330070500 +0000" stop="20260330080000 +0000" channel="ARYNews">
-    <title lang="en">Bakhabar Savera</title>
-    <desc lang="en">The program features combination of news, breaking news, Interviews, entertainment, sports, health, social stories, story of the day with sparkling Co-Host Madiha Naqvi and Shafaat Ali.</desc>
-  </programme>
-  <programme start="20260330080000 +0000" stop="20260330080500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330080500 +0000" stop="20260330083000 +0000" channel="ARYNews">
-    <title lang="en">Bakhabar Savera</title>
-    <desc lang="en">The program features combination of news, breaking news, Interviews, entertainment, sports, health, social stories, story of the day with sparkling Co-Host Madiha Naqvi and Shafaat Ali.</desc>
-  </programme>
-  <programme start="20260330083000 +0000" stop="20260330090000 +0000" channel="ARYNews">
-    <title lang="en">Bakhabar Savera</title>
-    <desc lang="en">The program features combination of news, breaking news, Interviews, entertainment, sports, health, social stories, story of the day with sparkling Co-Host Madiha Naqvi and Shafaat Ali.</desc>
-  </programme>
-  <programme start="20260330090000 +0000" stop="20260330090500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330090500 +0000" stop="20260330100000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330100000 +0000" stop="20260330100500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330100500 +0000" stop="20260330103000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330103000 +0000" stop="20260330110000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330110000 +0000" stop="20260330113000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330113000 +0000" stop="20260330120000 +0000" channel="ARYNews">
-    <title lang="en">Sports Room</title>
-    <desc lang="en">A dedicated Sports show aired on weekdays which will cover all that is happening in the international and national sports arena.</desc>
-  </programme>
-  <programme start="20260330120000 +0000" stop="20260330120500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330120500 +0000" stop="20260330130000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330130000 +0000" stop="20260330130500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330130500 +0000" stop="20260330140000 +0000" channel="ARYNews">
-    <title lang="en">The reporters</title>
-    <desc lang="en">The reporters, is a program with senior journalist. These reporters will dig the issues deeper and bring the facts and realities out with detailed investigative reports. It will be an hour where big stories of the day will be filtered.</desc>
-  </programme>
-  <programme start="20260330140000 +0000" stop="20260330141000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330141000 +0000" stop="20260330150000 +0000" channel="ARYNews">
-    <title lang="en">Off The Record With Kashif Abbasi</title>
-    <desc lang="en">A tri weekly program that talks about current political issues and policies of pakistan.</desc>
-  </programme>
-  <programme start="20260330150000 +0000" stop="20260330160000 +0000" channel="ARYNews">
-    <title lang="en">Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330160000 +0000" stop="20260330160500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330160500 +0000" stop="20260330170000 +0000" channel="ARYNews">
-    <title lang="en">Power Play</title>
-    <desc lang="en">It's all about power play when it comes to politics. Arshad Sharif takes a serious stance on virious issues, with his in-depth and hard hitting questioning style.</desc>
-  </programme>
-  <programme start="20260330170000 +0000" stop="20260330170500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330170500 +0000" stop="20260330180000 +0000" channel="ARYNews">
-    <title lang="en">11th Hour with Waseem Badami</title>
-    <desc lang="en">A round up program for political &amp;amp; current affairs enthusiasts.</desc>
-  </programme>
-  <programme start="20260330180000 +0000" stop="20260330180500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330180500 +0000" stop="20260330190000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330190000 +0000" stop="20260330190500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330190500 +0000" stop="20260330200000 +0000" channel="ARYNews">
-    <title lang="en">Off The Record With Kashif Abbasi</title>
-    <desc lang="en">A tri weekly program that talks about current political issues and policies of pakistan.</desc>
-  </programme>
-  <programme start="20260330200000 +0000" stop="20260330200500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330200500 +0000" stop="20260330210000 +0000" channel="ARYNews">
-    <title lang="en">Power Play</title>
-    <desc lang="en">It's all about power play when it comes to politics. Arshad Sharif takes a serious stance on virious issues, with his in-depth and hard hitting questioning style.</desc>
-  </programme>
-  <programme start="20260330210000 +0000" stop="20260330210500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330210500 +0000" stop="20260330220000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330220000 +0000" stop="20260330220500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330220500 +0000" stop="20260330230000 +0000" channel="ARYNews">
-    <title lang="en">11th Hour with Waseem Badami</title>
-    <desc lang="en">A round up program for political &amp;amp; current affairs enthusiasts.</desc>
-  </programme>
-  <programme start="20260330230000 +0000" stop="20260330230500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260330230500 +0000" stop="20260331000000 +0000" channel="ARYNews">
-    <title lang="en">The reporters</title>
-    <desc lang="en">The reporters, is a program with senior journalist. These reporters will dig the issues deeper and bring the facts and realities out with detailed investigative reports. It will be an hour where big stories of the day will be filtered.</desc>
-  </programme>
-  <programme start="20260331000000 +0000" stop="20260331000500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331000500 +0000" stop="20260331010000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331010000 +0000" stop="20260331010500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331010500 +0000" stop="20260331020000 +0000" channel="ARYNews">
-    <title lang="en">Off The Record With Kashif Abbasi</title>
-    <desc lang="en">A tri weekly program that talks about current political issues and policies of pakistan.</desc>
-  </programme>
-  <programme start="20260331020000 +0000" stop="20260331020500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331020500 +0000" stop="20260331030000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331030000 +0000" stop="20260331030500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331030500 +0000" stop="20260331040000 +0000" channel="ARYNews">
-    <title lang="en">Power Play</title>
-    <desc lang="en">It's all about power play when it comes to politics. Arshad Sharif takes a serious stance on virious issues, with his in-depth and hard hitting questioning style.</desc>
-  </programme>
-  <programme start="20260331040000 +0000" stop="20260331040500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331040500 +0000" stop="20260331050000 +0000" channel="ARYNews">
-    <title lang="en">11th Hour with Waseem Badami</title>
-    <desc lang="en">A round up program for political &amp;amp; current affairs enthusiasts.</desc>
-  </programme>
-  <programme start="20260331050000 +0000" stop="20260331050500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331050500 +0000" stop="20260331060000 +0000" channel="ARYNews">
-    <title lang="en">The reporters</title>
-    <desc lang="en">The reporters, is a program with senior journalist. These reporters will dig the issues deeper and bring the facts and realities out with detailed investigative reports. It will be an hour where big stories of the day will be filtered.</desc>
-  </programme>
-  <programme start="20260331060000 +0000" stop="20260331060500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331060500 +0000" stop="20260331070000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331070000 +0000" stop="20260331070500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331070500 +0000" stop="20260331080000 +0000" channel="ARYNews">
-    <title lang="en">Bakhabar Savera</title>
-    <desc lang="en">The program features combination of news, breaking news, Interviews, entertainment, sports, health, social stories, story of the day with sparkling Co-Host Madiha Naqvi and Shafaat Ali.</desc>
-  </programme>
-  <programme start="20260331080000 +0000" stop="20260331080500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331080500 +0000" stop="20260331083000 +0000" channel="ARYNews">
-    <title lang="en">Bakhabar Savera</title>
-    <desc lang="en">The program features combination of news, breaking news, Interviews, entertainment, sports, health, social stories, story of the day with sparkling Co-Host Madiha Naqvi and Shafaat Ali.</desc>
-  </programme>
-  <programme start="20260331083000 +0000" stop="20260331090000 +0000" channel="ARYNews">
-    <title lang="en">Bakhabar Savera</title>
-    <desc lang="en">The program features combination of news, breaking news, Interviews, entertainment, sports, health, social stories, story of the day with sparkling Co-Host Madiha Naqvi and Shafaat Ali.</desc>
-  </programme>
-  <programme start="20260331090000 +0000" stop="20260331090500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331090500 +0000" stop="20260331100000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331100000 +0000" stop="20260331100500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331100500 +0000" stop="20260331103000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331103000 +0000" stop="20260331110000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331110000 +0000" stop="20260331113000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331113000 +0000" stop="20260331120000 +0000" channel="ARYNews">
-    <title lang="en">Sports Room</title>
-    <desc lang="en">A dedicated Sports show aired on weekdays which will cover all that is happening in the international and national sports arena.</desc>
-  </programme>
-  <programme start="20260331120000 +0000" stop="20260331120500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331120500 +0000" stop="20260331130000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331130000 +0000" stop="20260331130500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331130500 +0000" stop="20260331140000 +0000" channel="ARYNews">
-    <title lang="en">The reporters</title>
-    <desc lang="en">The reporters, is a program with senior journalist. These reporters will dig the issues deeper and bring the facts and realities out with detailed investigative reports. It will be an hour where big stories of the day will be filtered.</desc>
-  </programme>
-  <programme start="20260331140000 +0000" stop="20260331141000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331141000 +0000" stop="20260331150000 +0000" channel="ARYNews">
-    <title lang="en">Off The Record With Kashif Abbasi</title>
-    <desc lang="en">A tri weekly program that talks about current political issues and policies of pakistan.</desc>
-  </programme>
-  <programme start="20260331150000 +0000" stop="20260331151000 +0000" channel="ARYNews">
-    <title lang="en">Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331151000 +0000" stop="20260331160000 +0000" channel="ARYNews">
-    <title lang="en">Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331160000 +0000" stop="20260331160500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331160500 +0000" stop="20260331170000 +0000" channel="ARYNews">
-    <title lang="en">Power Play</title>
-    <desc lang="en">It's all about power play when it comes to politics. Arshad Sharif takes a serious stance on virious issues, with his in-depth and hard hitting questioning style.</desc>
-  </programme>
-  <programme start="20260331170000 +0000" stop="20260331170500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331170500 +0000" stop="20260331180000 +0000" channel="ARYNews">
-    <title lang="en">11th Hour with Waseem Badami</title>
-    <desc lang="en">A round up program for political &amp;amp; current affairs enthusiasts.</desc>
-  </programme>
-  <programme start="20260331180000 +0000" stop="20260331180500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331180500 +0000" stop="20260331190000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331190000 +0000" stop="20260331190500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331190500 +0000" stop="20260331200000 +0000" channel="ARYNews">
-    <title lang="en">Off The Record With Kashif Abbasi</title>
-    <desc lang="en">A tri weekly program that talks about current political issues and policies of pakistan.</desc>
-  </programme>
-  <programme start="20260331200000 +0000" stop="20260331200500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331200500 +0000" stop="20260331210000 +0000" channel="ARYNews">
-    <title lang="en">Power Play</title>
-    <desc lang="en">It's all about power play when it comes to politics. Arshad Sharif takes a serious stance on virious issues, with his in-depth and hard hitting questioning style.</desc>
-  </programme>
-  <programme start="20260331210000 +0000" stop="20260331210500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331210500 +0000" stop="20260331220000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331220000 +0000" stop="20260331220500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331220500 +0000" stop="20260331230000 +0000" channel="ARYNews">
-    <title lang="en">11th Hour with Waseem Badami</title>
-    <desc lang="en">A round up program for political &amp;amp; current affairs enthusiasts.</desc>
-  </programme>
-  <programme start="20260331230000 +0000" stop="20260331230500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260331230500 +0000" stop="20260401000000 +0000" channel="ARYNews">
-    <title lang="en">The reporters</title>
-    <desc lang="en">The reporters, is a program with senior journalist. These reporters will dig the issues deeper and bring the facts and realities out with detailed investigative reports. It will be an hour where big stories of the day will be filtered.</desc>
-  </programme>
-  <programme start="20260401000000 +0000" stop="20260401000500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401000500 +0000" stop="20260401010000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401010000 +0000" stop="20260401010500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401010500 +0000" stop="20260401020000 +0000" channel="ARYNews">
-    <title lang="en">Off The Record With Kashif Abbasi</title>
-    <desc lang="en">A tri weekly program that talks about current political issues and policies of pakistan.</desc>
-  </programme>
-  <programme start="20260401020000 +0000" stop="20260401020500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401020500 +0000" stop="20260401030000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401030000 +0000" stop="20260401030500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401030500 +0000" stop="20260401040000 +0000" channel="ARYNews">
-    <title lang="en">Power Play</title>
-    <desc lang="en">It's all about power play when it comes to politics. Arshad Sharif takes a serious stance on virious issues, with his in-depth and hard hitting questioning style.</desc>
-  </programme>
-  <programme start="20260401040000 +0000" stop="20260401040500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401040500 +0000" stop="20260401050000 +0000" channel="ARYNews">
-    <title lang="en">11th Hour with Waseem Badami</title>
-    <desc lang="en">A round up program for political &amp;amp; current affairs enthusiasts.</desc>
-  </programme>
-  <programme start="20260401050000 +0000" stop="20260401050500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401050500 +0000" stop="20260401060000 +0000" channel="ARYNews">
-    <title lang="en">The reporters</title>
-    <desc lang="en">The reporters, is a program with senior journalist. These reporters will dig the issues deeper and bring the facts and realities out with detailed investigative reports. It will be an hour where big stories of the day will be filtered.</desc>
-  </programme>
-  <programme start="20260401060000 +0000" stop="20260401060500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401060500 +0000" stop="20260401070000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401070000 +0000" stop="20260401070500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401070500 +0000" stop="20260401080000 +0000" channel="ARYNews">
-    <title lang="en">Bakhabar Savera</title>
-    <desc lang="en">The program features combination of news, breaking news, Interviews, entertainment, sports, health, social stories, story of the day with sparkling Co-Host Madiha Naqvi and Shafaat Ali.</desc>
-  </programme>
-  <programme start="20260401080000 +0000" stop="20260401080500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401080500 +0000" stop="20260401083000 +0000" channel="ARYNews">
-    <title lang="en">Bakhabar Savera</title>
-    <desc lang="en">The program features combination of news, breaking news, Interviews, entertainment, sports, health, social stories, story of the day with sparkling Co-Host Madiha Naqvi and Shafaat Ali.</desc>
-  </programme>
-  <programme start="20260401083000 +0000" stop="20260401090000 +0000" channel="ARYNews">
-    <title lang="en">Bakhabar Savera</title>
-    <desc lang="en">The program features combination of news, breaking news, Interviews, entertainment, sports, health, social stories, story of the day with sparkling Co-Host Madiha Naqvi and Shafaat Ali.</desc>
-  </programme>
-  <programme start="20260401090000 +0000" stop="20260401090500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401090500 +0000" stop="20260401100000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401100000 +0000" stop="20260401100500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401100500 +0000" stop="20260401110000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401110000 +0000" stop="20260401113000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401113000 +0000" stop="20260401120000 +0000" channel="ARYNews">
-    <title lang="en">Sports Room</title>
-    <desc lang="en">A dedicated Sports show aired on weekdays which will cover all that is happening in the international and national sports arena.</desc>
-  </programme>
-  <programme start="20260401120000 +0000" stop="20260401120500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401120500 +0000" stop="20260401130000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401130000 +0000" stop="20260401130500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401130500 +0000" stop="20260401140000 +0000" channel="ARYNews">
-    <title lang="en">The reporters</title>
-    <desc lang="en">The reporters, is a program with senior journalist. These reporters will dig the issues deeper and bring the facts and realities out with detailed investigative reports. It will be an hour where big stories of the day will be filtered.</desc>
-  </programme>
-  <programme start="20260401140000 +0000" stop="20260401141000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401141000 +0000" stop="20260401150000 +0000" channel="ARYNews">
-    <title lang="en">Off The Record With Kashif Abbasi</title>
-    <desc lang="en">A tri weekly program that talks about current political issues and policies of pakistan.</desc>
-  </programme>
-  <programme start="20260401150000 +0000" stop="20260401151000 +0000" channel="ARYNews">
-    <title lang="en">Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401151000 +0000" stop="20260401160000 +0000" channel="ARYNews">
-    <title lang="en">Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401160000 +0000" stop="20260401160500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401160500 +0000" stop="20260401170000 +0000" channel="ARYNews">
-    <title lang="en">Power Play</title>
-    <desc lang="en">It's all about power play when it comes to politics. Arshad Sharif takes a serious stance on virious issues, with his in-depth and hard hitting questioning style.</desc>
-  </programme>
-  <programme start="20260401170000 +0000" stop="20260401170500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401170500 +0000" stop="20260401180000 +0000" channel="ARYNews">
-    <title lang="en">11th Hour with Waseem Badami</title>
-    <desc lang="en">A round up program for political &amp;amp; current affairs enthusiasts.</desc>
-  </programme>
-  <programme start="20260401180000 +0000" stop="20260401180500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401180500 +0000" stop="20260401190000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401190000 +0000" stop="20260401190500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401190500 +0000" stop="20260401200000 +0000" channel="ARYNews">
-    <title lang="en">Off The Record With Kashif Abbasi</title>
-    <desc lang="en">A tri weekly program that talks about current political issues and policies of pakistan.</desc>
-  </programme>
-  <programme start="20260401200000 +0000" stop="20260401200500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401200500 +0000" stop="20260401210000 +0000" channel="ARYNews">
-    <title lang="en">Power Play</title>
-    <desc lang="en">It's all about power play when it comes to politics. Arshad Sharif takes a serious stance on virious issues, with his in-depth and hard hitting questioning style.</desc>
-  </programme>
-  <programme start="20260401210000 +0000" stop="20260401210500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401210500 +0000" stop="20260401220000 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401220000 +0000" stop="20260401220500 +0000" channel="ARYNews">
-    <title lang="en">Headlines</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401220500 +0000" stop="20260401230000 +0000" channel="ARYNews">
-    <title lang="en">11th Hour with Waseem Badami</title>
-    <desc lang="en">A round up program for political &amp;amp; current affairs enthusiasts.</desc>
-  </programme>
-  <programme start="20260401230000 +0000" stop="20260401230500 +0000" channel="ARYNews">
-    <title lang="en">Hourly Urdu News</title>
-    <desc lang="en">Latest live news bulletin.</desc>
-  </programme>
-  <programme start="20260401230500 +0000" stop="20260402000000 +0000" channel="ARYNews">
-    <title lang="en">The reporters</title>
-    <desc lang="en">The reporters, is a program with senior journalist. These reporters will dig the issues deeper and bring the facts and realities out with detailed investigative reports. It will be an hour where big stories of the day will be filtered.</desc>
-  </programme>
   <programme start="20260330154000 +0000" stop="20260330190600 +0000" channel="B4UKadak.in@SD">
     <title lang="en">Dhadkan</title>
     <desc lang="en">Wealthy Anjali is in love with penniless Dev but forced to marry businessman Ram. Just when she starts settling down, Dev returns.</desc>
@@ -3771,6 +2875,12 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_B4U_KADAK_239515_02APR181000_02APR215800/images/LANDSCAPE_169_HD/B4UKadak_Movie_239515.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_B4U_KADAK_239515_02APR181000_02APR215800/images/LOGO/B4UKadak_Movie_239515.png" />
   </programme>
+  <programme start="20260402162800 +0000" stop="20260402192600 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_B4U_KADAK_239515_02APR215800_03APR005600/images/LANDSCAPE_169_HD/B4UKadak_Movie_239515.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_B4U_KADAK_239515_02APR215800_03APR005600/images/LOGO/B4UKadak_Movie_239515.png" />
+  </programme>
   <programme start="20260330133000 +0000" stop="20260330180400 +0000" channel="B4UMovies.in@India">
     <title lang="en">Sirf Tum</title>
     <desc lang="en">Deepak finds Aarthi's bag and they begin writing. They fall in love but don't know each other in person. Deepak's boss likes him, creating a conflict. Will Deepak choose his boss or find Aarthi?</desc>
@@ -3900,12 +3010,6 @@
     <title lang="en">Movie</title>
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_B4U_MOVIES_93414_02APR210000_03APR000000/images/LANDSCAPE_169_HD/B4UMovies_Movie_93414.jpg</image>
-  </programme>
-  <programme start="20260330153000 +0000" stop="20260330163000 +0000" channel="B4UMusic.in@India">
-    <title lang="en">Awaaz De Kahan Hai</title>
-    <desc lang="en">Compilation of timeless Hindi film songs. Relive the golden era of Bollywood with beautiful melodies and evergreen tracks loved across generations.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_B4U_MUSIC_978_30MAR210000_30MAR220000/images/LANDSCAPE_169_HD/B4UMUSIC_AwaazDeKahanHai_978.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_B4U_MUSIC_978_30MAR210000_30MAR220000/images/LOGO/B4UMUSIC_AwaazDeKahanHai_978.png" />
   </programme>
   <programme start="20260330163000 +0000" stop="20260330173000 +0000" channel="B4UMusic.in@India">
     <title lang="en">Awaaz De Kahan Hai</title>
@@ -4267,6 +3371,12 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_B4U_MUSIC_978_02APR210000_02APR220000/images/LANDSCAPE_169_HD/B4UMUSIC_AwaazDeKahanHai_978.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_B4U_MUSIC_978_02APR210000_02APR220000/images/LOGO/B4UMUSIC_AwaazDeKahanHai_978.png" />
   </programme>
+  <programme start="20260402163000 +0000" stop="20260402173000 +0000" channel="B4UMusic.in@India">
+    <title lang="en">Awaaz De Kahan Hai</title>
+    <desc lang="en">Compilation of timeless Hindi film songs. Relive the golden era of Bollywood with beautiful melodies and evergreen tracks loved across generations.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_B4U_MUSIC_978_02APR220000_02APR230000/images/LANDSCAPE_169_HD/B4UMUSIC_AwaazDeKahanHai_978.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_B4U_MUSIC_978_02APR220000_02APR230000/images/LOGO/B4UMUSIC_AwaazDeKahanHai_978.png" />
+  </programme>
   <programme start="20260330001500 +0000" stop="20260330020000 +0000" channel="BBCFour.uk@HD">
     <title lang="en">A Night on the Town</title>
     <desc lang="en">Musical spectacular, first broadcast in 1983, showcasing the work of Irving Berlin, Noel Coward, George Gershwin and Cole Porter. Ann Reinking and Lewis Collins sing and dance their way through the bright lights of Berlin, London, New York, New Orleans and Paris, meeting Elaine Paige, Eartha Kitt and Frank Gorshin along the way. Alexander Faris conducts the BBC Concert Orchestra.</desc>
@@ -4385,7 +3495,7 @@
   <programme start="20260331221500 +0000" stop="20260331231500 +0000" channel="BBCFour.uk@HD">
     <title lang="en">Dawn Chorus: The Sounds of Spring</title>
     <desc lang="en">The birdsong of sunrise in all its uninterrupted glory, free from the voiceover and music of traditional television. With the first glimmers of sunlight, the birds of Britain's woodland, heathland and parkland burst into song. This is an opportunity to sit back and enjoy a portrait of three very different habitats and the natural splendour of their distinctive chorus.</desc>
-    <image>https://img.freeviewplay.tv/p63c344377b4ad66b8c139541b29571d0?w=800</image>
+    <image>https://img.freeviewplay.tv/pd652f5e30f197b108458bbccd4ff402c?w=800</image>
   </programme>
   <programme start="20260331231500 +0000" stop="20260331234500 +0000" channel="BBCFour.uk@HD">
     <title lang="en">Fred Dibnah's Magnificent Monuments</title>
@@ -4535,7 +3645,7 @@
   <programme start="20260330050000 +0000" stop="20260330053000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p6e37d36ee3889a84f9c759e2c2cd7c3e?w=800</image>
+    <image>https://img.freeviewplay.tv/p02529618b529fc5eb806de5d16f53221?w=800</image>
   </programme>
   <programme start="20260330053000 +0000" stop="20260330060000 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -4545,7 +3655,7 @@
   <programme start="20260330060000 +0000" stop="20260330063000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p6e37d36ee3889a84f9c759e2c2cd7c3e?w=800</image>
+    <image>https://img.freeviewplay.tv/p02529618b529fc5eb806de5d16f53221?w=800</image>
   </programme>
   <programme start="20260330063000 +0000" stop="20260330070000 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -4560,7 +3670,7 @@
   <programme start="20260330073000 +0000" stop="20260330080000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p02529618b529fc5eb806de5d16f53221?w=800</image>
+    <image>https://img.freeviewplay.tv/p6e37d36ee3889a84f9c759e2c2cd7c3e?w=800</image>
   </programme>
   <programme start="20260330080000 +0000" stop="20260330083000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -4830,12 +3940,12 @@
   <programme start="20260331070000 +0000" stop="20260331073000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p4046645c497657ad78e97613a6888088?w=800</image>
+    <image>https://img.freeviewplay.tv/p8482d6c859c1a6f7151adadcd552340d?w=800</image>
   </programme>
   <programme start="20260331073000 +0000" stop="20260331080000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p8482d6c859c1a6f7151adadcd552340d?w=800</image>
+    <image>https://img.freeviewplay.tv/p4046645c497657ad78e97613a6888088?w=800</image>
   </programme>
   <programme start="20260331080000 +0000" stop="20260331083000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -4855,7 +3965,7 @@
   <programme start="20260331093000 +0000" stop="20260331100000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p4046645c497657ad78e97613a6888088?w=800</image>
+    <image>https://img.freeviewplay.tv/p8482d6c859c1a6f7151adadcd552340d?w=800</image>
   </programme>
   <programme start="20260331100000 +0000" stop="20260331103000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -4865,17 +3975,17 @@
   <programme start="20260331103000 +0000" stop="20260331104500 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
     <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <image>https://img.freeviewplay.tv/p11f8c4a258db12c52688dacabe9a6c6b?w=800</image>
+    <image>https://img.freeviewplay.tv/p30cc21c55b7a806c17505a3ffbeffcc0?w=800</image>
   </programme>
   <programme start="20260331104500 +0000" stop="20260331110000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p8482d6c859c1a6f7151adadcd552340d?w=800</image>
+    <image>https://img.freeviewplay.tv/p4046645c497657ad78e97613a6888088?w=800</image>
   </programme>
   <programme start="20260331110000 +0000" stop="20260331113000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p8482d6c859c1a6f7151adadcd552340d?w=800</image>
+    <image>https://img.freeviewplay.tv/p4046645c497657ad78e97613a6888088?w=800</image>
   </programme>
   <programme start="20260331113000 +0000" stop="20260331120000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -4915,7 +4025,7 @@
   <programme start="20260331150000 +0000" stop="20260331153000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p4046645c497657ad78e97613a6888088?w=800</image>
+    <image>https://img.freeviewplay.tv/p8482d6c859c1a6f7151adadcd552340d?w=800</image>
   </programme>
   <programme start="20260331153000 +0000" stop="20260331154500 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -4925,7 +4035,7 @@
   <programme start="20260331154500 +0000" stop="20260331155500 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p8482d6c859c1a6f7151adadcd552340d?w=800</image>
+    <image>https://img.freeviewplay.tv/p4046645c497657ad78e97613a6888088?w=800</image>
   </programme>
   <programme start="20260331155500 +0000" stop="20260331160000 +0000" channel="BBCNews.uk">
     <title lang="en">The SpeciaList</title>
@@ -4940,7 +4050,7 @@
   <programme start="20260331163000 +0000" stop="20260331170000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p4046645c497657ad78e97613a6888088?w=800</image>
+    <image>https://img.freeviewplay.tv/p8482d6c859c1a6f7151adadcd552340d?w=800</image>
   </programme>
   <programme start="20260331170000 +0000" stop="20260331173000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News at Six</title>
@@ -4960,12 +4070,12 @@
   <programme start="20260331180000 +0000" stop="20260331183000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p8482d6c859c1a6f7151adadcd552340d?w=800</image>
+    <image>https://img.freeviewplay.tv/p4046645c497657ad78e97613a6888088?w=800</image>
   </programme>
   <programme start="20260331183000 +0000" stop="20260331185500 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p8482d6c859c1a6f7151adadcd552340d?w=800</image>
+    <image>https://img.freeviewplay.tv/p4046645c497657ad78e97613a6888088?w=800</image>
   </programme>
   <programme start="20260331185500 +0000" stop="20260331190000 +0000" channel="BBCNews.uk">
     <title lang="en">The SpeciaList</title>
@@ -5010,7 +4120,7 @@
   <programme start="20260331230000 +0000" stop="20260331233000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p8482d6c859c1a6f7151adadcd552340d?w=800</image>
+    <image>https://img.freeviewplay.tv/p4046645c497657ad78e97613a6888088?w=800</image>
   </programme>
   <programme start="20260331233000 +0000" stop="20260401000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
@@ -5025,7 +4135,7 @@
   <programme start="20260401003000 +0000" stop="20260401010000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
     <desc lang="en">Yasmin Morgan-Griffiths explores how research linking climate change and extreme weather events is being used in lawsuits against major polluters. Paul Carter heads behind the scenes of FC Barcelona's renovated stadium as it reopens to the public. Martin Sharkey takes a journey into the history of the emoji. And Nick Kwek visits Austin, Texas, to meet some of the key voices and innovators at this year's SXSW Festival.</desc>
-    <image>https://img.freeviewplay.tv/p708cabff4a4438dee268f2872dd9892a?w=800</image>
+    <image>https://img.freeviewplay.tv/pc7acb44845da761b960da2c4064cec78?w=800</image>
   </programme>
   <programme start="20260401010000 +0000" stop="20260401013000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
@@ -5075,7 +4185,7 @@
   <programme start="20260401040000 +0000" stop="20260401043000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p2be786f88ec06ada53d07905b5b8956b?w=800</image>
+    <image>https://img.freeviewplay.tv/p1900c075ab46750235cc333d0c8dfbf1?w=800</image>
   </programme>
   <programme start="20260401043000 +0000" stop="20260401050000 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -5379,7 +4489,7 @@
   </programme>
   <programme start="20260330180000 +0000" stop="20260330183000 +0000" channel="BBCOne.uk@LondonHD">
     <title lang="en">The One Show</title>
-    <desc lang="en">Hugh Bonneville and Hugh Skinner join JB Gill and Lauren Laverne in the studio to chat about their new sitcom Twenty Twenty Six. Paapa Essiedu and Siobhán Cullen discuss their powerful drama Babies.</desc>
+    <desc lang="en">JB Gill and Lauren Laverne bring you the stories that matter from across the country.</desc>
     <image>https://img.freeviewplay.tv/p43f217df4f0c9468390b9d4fd22d598d?w=800</image>
   </programme>
   <programme start="20260330183000 +0000" stop="20260330190000 +0000" channel="BBCOne.uk@LondonHD">
@@ -5800,17 +4910,17 @@
   <programme start="20260331030000 +0000" stop="20260331043000 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm</desc>
-    <image>https://img.freeviewplay.tv/p47a92a6af1bfeb383bf9beeae843d970?w=800</image>
+    <image>https://img.freeviewplay.tv/pa2bd173369ea0efe6fd731e911367515?w=800</image>
   </programme>
   <programme start="20260331043000 +0000" stop="20260331175800 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm</desc>
-    <image>https://img.freeviewplay.tv/p47a92a6af1bfeb383bf9beeae843d970?w=800</image>
+    <image>https://img.freeviewplay.tv/pa2bd173369ea0efe6fd731e911367515?w=800</image>
   </programme>
   <programme start="20260331175800 +0000" stop="20260331180000 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm</desc>
-    <image>https://img.freeviewplay.tv/p47a92a6af1bfeb383bf9beeae843d970?w=800</image>
+    <image>https://img.freeviewplay.tv/pa2bd173369ea0efe6fd731e911367515?w=800</image>
   </programme>
   <programme start="20260331180000 +0000" stop="20260331180500 +0000" channel="BBCThree.uk@HD">
     <title lang="en">The Catch Up</title>
@@ -6310,7 +5420,7 @@
   <programme start="20260330061000 +0000" stop="20260330062000 +0000" channel="CBBC.uk@HD">
     <title lang="en">Danger Mouse</title>
     <desc lang="en">When Jeopardy Mouse wins the Agent of the Month competition, Danger Mouse and Penfold are forced to travel to New York for a lesson and to take on the criminal organisation known as Hydrant.</desc>
-    <image>https://img.freeviewplay.tv/p7399c2674d66f540b35aa92a171a13da?w=800</image>
+    <image>https://img.freeviewplay.tv/p9bea4a009f4a743a746eef2582c505df?w=800</image>
   </programme>
   <programme start="20260330062000 +0000" stop="20260330063500 +0000" channel="CBBC.uk@HD">
     <title lang="en">Super Happy Magic Forest</title>
@@ -6340,12 +5450,12 @@
   <programme start="20260330071500 +0000" stop="20260330073000 +0000" channel="CBBC.uk@HD">
     <title lang="en">Odd Squad</title>
     <desc lang="en">The Odd Squad investigates strange events. Oscar is it a gathering of Odd Squad scientists at Odd Squad Academy.</desc>
-    <image>https://img.freeviewplay.tv/pf8371f2a1aca30578905726912917b72?w=800</image>
+    <image>https://img.freeviewplay.tv/p1b95ab56106e2690281f06269d6d8c71?w=800</image>
   </programme>
   <programme start="20260330073000 +0000" stop="20260330074000 +0000" channel="CBBC.uk@HD">
     <title lang="en">Dennis &amp; Gnasher Unleashed!</title>
     <desc lang="en">Miss Mistry and Mrs Creecher clash over the best way to teach Class 3C about butterflies. The gang just want to get through the lesson so they can get out of school in time for a Grizzly Griller Wildlife Event.</desc>
-    <image>https://img.freeviewplay.tv/p9f724fc607801733f58ba35ac017e5a6?w=800</image>
+    <image>https://img.freeviewplay.tv/pc61935493fb874d5ab9c5a59481f11d8?w=800</image>
   </programme>
   <programme start="20260330074000 +0000" stop="20260330075000 +0000" channel="CBBC.uk@HD">
     <title lang="en">Danny and Mick</title>
@@ -6622,7 +5732,7 @@
   <programme start="20260331094500 +0000" stop="20260331095500 +0000" channel="CBBC.uk@HD">
     <title lang="en">Grizzy and the Lemmings</title>
     <desc lang="en">Grizzy and the Lemmings use a frog with hypnotising powers.</desc>
-    <image>https://img.freeviewplay.tv/pc73b5f2eb58cbff93ea09dcaf126d8bf?w=800</image>
+    <image>https://img.freeviewplay.tv/pfbd74eae5287515b461c9282bcc4d8e8?w=800</image>
   </programme>
   <programme start="20260331095500 +0000" stop="20260331101500 +0000" channel="CBBC.uk@HD">
     <title lang="en">What's New Scooby-Doo?</title>
@@ -7709,9 +6819,9 @@
     <image>https://img.freeviewplay.tv/p5ac150a41290df00e575be62098d4f07?w=800</image>
   </programme>
   <programme start="20260331003500 +0000" stop="20260331013500 +0000" channel="Channel5.uk@HD">
-    <title lang="en">Cruise TV with LoveitBookit</title>
-    <desc lang="en">Your one-stop-shop for all things cruise; bringing you the hottest destinations, ground-breaking ships and the latest deals to ensure your next cruise holiday is your greatest one!</desc>
-    <image>https://img.freeviewplay.tv/p3a336d0c464861d623c9df2b5b202231?w=800</image>
+    <title lang="en">Teleshopping Block</title>
+    <desc lang="en">Shop by phone from the comfort of your home.</desc>
+    <image>https://img.freeviewplay.tv/p6dc4607c259051d2ee33fb96d19034da?w=800</image>
   </programme>
   <programme start="20260331013500 +0000" stop="20260331020500 +0000" channel="Channel5.uk@HD">
     <title lang="en">Teleshopping Block</title>
@@ -8297,11 +7407,6 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_HD_438752_02APR210000_03APR000000/images/LANDSCAPE_169_HD/ColorsCineplexHD_Movie_438752.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_HD_438752_02APR210000_03APR000000/images/LOGO/ColorsCineplexHD_Movie_438752.png" />
   </programme>
-  <programme start="20260330132100 +0000" stop="20260330163500 +0000" channel="ColorsCineplexBollywood.in@SD">
-    <title lang="en">Welcome</title>
-    <desc lang="en">After Uday inherits his father's crime legacy, he tries to marry his fair-skinned sister Sanjana. Love, betrayal, and family drama unfold as alliances shift.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_BOLLYWOOD_1117535_30MAR185100_30MAR220500/images/LANDSCAPE_169/1700863283000_COLORSCINEPLEXBOLLYWOOD_Welcome_1117535.jpg</image>
-  </programme>
   <programme start="20260330163500 +0000" stop="20260330185600 +0000" channel="ColorsCineplexBollywood.in@SD">
     <title lang="en">Ghar Dwaar</title>
     <desc lang="en">A family saga explores strained relationships generational conflicts and reconciliation as members fight to protect their home and honor.</desc>
@@ -8449,12 +7554,6 @@
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_BOLLYWOOD_1117090_02APR210000_03APR000000/images/LANDSCAPE_169_HD/COLORSCINEPLEXBOLLYWOOD_Movie_1117090.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_BOLLYWOOD_1117090_02APR210000_03APR000000/images/LOGO/COLORSCINEPLEXBOLLYWOOD_Movie_1117090.png" />
-  </programme>
-  <programme start="20260330132000 +0000" stop="20260330162400 +0000" channel="ColorsCineplexSuperhits.in@SD">
-    <title lang="en">Dhruva</title>
-    <desc lang="en">A committed police officer is on a very dangerous mission to destroy the most corrupt person in the country, Siddharth Abhimanyu.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_SUPERHITS_1814971_30MAR185000_30MAR215400/images/LANDSCAPE_169_HD/ColorsCineplexSuperhits_Dhruva_1814971.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_SUPERHITS_1814971_30MAR185000_30MAR215400/images/LOGO/ColorsCineplexSuperhits_Dhruva_1814971.png" />
   </programme>
   <programme start="20260330162400 +0000" stop="20260330183300 +0000" channel="ColorsCineplexSuperhits.in@SD">
     <title lang="en">Jumanji (1995</title>
@@ -8604,11 +7703,6 @@
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_SUPERHITS_988690_02APR210000_03APR000000/images/LANDSCAPE_169_HD/ColorsCineplexSuperhits_Movie_988690.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_SUPERHITS_988690_02APR210000_03APR000000/images/LOGO/ColorsCineplexSuperhits_Movie_988690.png" />
-  </programme>
-  <programme start="20260330143000 +0000" stop="20260330163000 +0000" channel="Eurosport.in@SD">
-    <title lang="en">Eredivisie Soccer</title>
-    <desc lang="en">Professional football clubs compete to emerge victorious in the Eredivisie.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_EUROSPORT_1851894_30MAR200000_30MAR220000/images/LANDSCAPE_169/1743938440000_Eurosport_EredivisieSoccer_1851894.jpg</image>
   </programme>
   <programme start="20260330163000 +0000" stop="20260330173000 +0000" channel="Eurosport.in@SD">
     <title lang="en">WWE LFG</title>
@@ -8879,6 +7973,11 @@
     <title lang="en">Eredivisie Soccer</title>
     <desc lang="en">Professional football clubs compete to emerge victorious in the Eredivisie.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_EUROSPORT_1851894_02APR200000_02APR220000/images/LANDSCAPE_169/1743938440000_Eurosport_EredivisieSoccer_1851894.jpg</image>
+  </programme>
+  <programme start="20260402163000 +0000" stop="20260402183000 +0000" channel="Eurosport.in@SD">
+    <title lang="en">TNA Impact</title>
+    <desc lang="en">In the thrilling 2025 TNA Impact, professional wrestlers battle it out each week, showcasing their skills and determination to claim victory in the ultimate wrestling showdown.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_EUROSPORT_1795712_02APR220000_03APR000000/images/LANDSCAPE_169/1744621459000_Eurosport_TNAImpact_1795712.jpg</image>
   </programme>
   <programme start="20260330021500 +0000" stop="20260330060000 +0000" channel="Film4.uk@SD">
     <title lang="en">Teleshopping</title>
@@ -10945,7 +10044,7 @@
   <programme start="20260401052500 +0000" stop="20260401062000 +0000" channel="ITV4.uk@SD">
     <title lang="en">The Big Match Revisited</title>
     <desc lang="en">Brian Moore presents action from fixtures in the 1984/85 football season - First Division highlights include an impressive display from Bryan Robson as Manchester United face Chelsea and late drama at the City Ground where Nottingham Forest welcome Aston Villa, and there is also a special report from the Second Division where Huddersfield Town show their class against league leaders Blackburn Rovers.</desc>
-    <image>https://img.freeviewplay.tv/pa0500eb2ac5bd7b8d6d77e977f1a1ce1?w=800</image>
+    <image>https://img.freeviewplay.tv/p76abed7ec36245970cb95ccfc0585d13?w=800</image>
   </programme>
   <programme start="20260401062000 +0000" stop="20260401071000 +0000" channel="ITV4.uk@SD">
     <title lang="en">The Big Match Revisited</title>
@@ -12426,7 +11525,7 @@
     <title lang="en">News Headlines</title>
     <desc lang="en">This special update reports the most recent top stories of the day in a succinct fashion.</desc>
   </programme>
-  <programme start="20260401053500 +0000" stop="20260401060500 +0000" channel="SamaaTV">
+  <programme start="20260401053500 +0000" stop="20260401063000 +0000" channel="SamaaTV">
     <title lang="en">Naya Din</title>
     <desc lang="en">Current affairs, social trending news and talents are discussed.</desc>
   </programme>
@@ -13455,12 +12554,6 @@
     <desc lang="en">Get a full preview of EQ 2025-26 Matchdays 11-12, highlighting crucial fixtures, qualification stakes, tactical matchups, and major shifts expected across European football.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2055121_02APR203000_02APR223000/images/LANDSCAPE_169/1774225368000_SONYSportsTEN2HD_EQ2025-26MD11-MD12Preview_2055121.jpg</image>
   </programme>
-  <programme start="20260330153000 +0000" stop="20260330163000 +0000" channel="SonySportsTen3Hindi.in@HD">
-    <title lang="en">Bharat Tum Chale Chalo Kahani 2021-22 KI</title>
-    <desc lang="en">See how sports shaped lives in Bharat Tum Chale Chalo Kahani 2021-22 KI. Real stories from across India. Watch and be inspired.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_3_HD_1963874_30MAR210000_30MAR220000/images/LANDSCAPE_169_HD/SonySportsTen3HindiHD_BharatTumChaleChaloKahani2021-22KI_1963874.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_3_HD_1963874_30MAR210000_30MAR220000/images/LOGO/SonySportsTen3HindiHD_BharatTumChaleChaloKahani2021-22KI_1963874.png" />
-  </programme>
   <programme start="20260330163000 +0000" stop="20260330173000 +0000" channel="SonySportsTen3Hindi.in@HD">
     <title lang="en">England vs India 2018 1st T20 Highlights</title>
     <desc lang="en">Tune into England vs India 2018 1st ODI highlights from Trent Bridge, Nottingham-a thrilling limited-overs clash featuring bold batting and sharp bowling spells.</desc>
@@ -13931,11 +13024,11 @@
     <desc lang="en">Watch thrilling highlights from the ACC Men's U19 Asia Cup 2025, India vs Pakistan. Catch standout moments, fast plays, and top runs in junior rivalry.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_3_HD_1998999_02APR210000_02APR220000/images/LANDSCAPE_169/1765760358000_SonySportsTen3HindiHD_ACCMENSU19ASIACUP2025-INDIAvsPAKISTANHighlights_1998999.jpg</image>
   </programme>
-  <programme start="20260330160000 +0000" stop="20260330163000 +0000" channel="SonySportsTen5.in@HD">
-    <title lang="en">England (W) vs India (W) 2025 2nd T20i Highlights</title>
-    <desc lang="en">In the 2nd T20i, India W battles England W with explosive batting, tight bowling, and fearless play-every delivery counts in this nail-biting face-off.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_5_HD_1907498_30MAR213000_30MAR220000/images/LANDSCAPE_169_HD/SONYSportsTEN5HD_EnglandWvsIndiaW20252ndT20iHighlights_1907498.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_5_HD_1907498_30MAR213000_30MAR220000/images/LOGO/SONYSportsTEN5HD_EnglandWvsIndiaW20252ndT20iHighlights_1907498.png" />
+  <programme start="20260402163000 +0000" stop="20260402173000 +0000" channel="SonySportsTen3Hindi.in@HD">
+    <title lang="en">England vs India 2022 2nd T20i Highlights</title>
+    <desc lang="en">Get the glimpse of England vs India 2022 2nd T20I Highlights featuring national cricket teams in India tour of England 2022 at Edgbaston, Edgbaston Road, Birmingham, England.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_3_HD_1360776_02APR220000_02APR230000/images/LANDSCAPE_169_HD/SonySportsTen3HindiHD_EnglandvsIndia20222ndT20iHighlights_1360776.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_3_HD_1360776_02APR220000_02APR230000/images/LOGO/SonySportsTen3HindiHD_EnglandvsIndia20222ndT20iHighlights_1360776.png" />
   </programme>
   <programme start="20260330163000 +0000" stop="20260330173000 +0000" channel="SonySportsTen5.in@HD">
     <title lang="en">ASIA CUP 2023 NEP v IND Highlights</title>
@@ -14428,6 +13521,11 @@
     <desc lang="en">Relive EQ Friendlies excitement as Brazil face France at Maracana Stadium in Rio de Janeiro, Brazil, showcasing top-level football skill and intense match moments.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_5_HD_2055603_02APR213000_02APR220000/images/LANDSCAPE_169/1756684870000_Sports_201.jpg</image>
   </programme>
+  <programme start="20260402163000 +0000" stop="20260402170000 +0000" channel="SonySportsTen5.in@HD">
+    <title lang="en">European Qualifiers 2025-26 Playoffs Semi finals - Wales vs Bosnia-Herzegovina</title>
+    <desc lang="en">Witness EQ Playoffs intensity as Wales meet Bosnia-Herzegovina at Cardiff City Stadium in Wales, delivering a fierce, high-stakes semifinal showdown.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_5_HD_2055614_02APR220000_02APR223000/images/LANDSCAPE_169/1774527284000_SONYSportsTEN5HD_EuropeanQualifiers2025-26PlayoffsSemifinals-WalesvsBosnia-Herzegovina_2055614.jpg</image>
+  </programme>
   <programme start="20260330152600 +0000" stop="20260330185800 +0000" channel="StarGold2.in@SD">
     <title lang="en">Kuch Kuch Hota Hai</title>
     <desc lang="en">Anjali loves her best-friend Rahul, but he marries Tina. Years later, the now-deceased Tina's daughter attempts to reunite her father and Anjali.</desc>
@@ -14577,11 +13675,6 @@
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_2_907394_02APR210000_03APR000000/images/LANDSCAPE_169_HD/StarGold2_Movie_907394.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_2_907394_02APR210000_03APR000000/images/LOGO/StarGold2_Movie_907394.png" />
-  </programme>
-  <programme start="20260330142000 +0000" stop="20260330163100 +0000" channel="StarGold.in@HD">
-    <title lang="en">Love Aaj Kal</title>
-    <desc lang="en">Love Aaj Kal shows how love's feelings and meanings change over time. Veer and Zoe journey through evolving landscape, seeking answers about finding and experiencing love.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_HD_1994177_30MAR195000_30MAR220100/images/LANDSCAPE_169/1764953568000_STARGOLDHD_LoveAajKal_1994177.jpg</image>
   </programme>
   <programme start="20260330163100 +0000" stop="20260330184900 +0000" channel="StarGold.in@HD">
     <title lang="en">Godfather</title>
@@ -17542,11 +16635,6 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2057637_02APR212000_02APR230000/images/LANDSCAPE_169/1756684870000_MaaGold_LiveTATAIPL2026KKRvSRH_2057809.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2057637_02APR212000_02APR230000/images/LOGO/MaaGold_LiveTATAIPL2026KKRvSRH_2057809.png" />
   </programme>
-  <programme start="20260330160000 +0000" stop="20260330163000 +0000" channel="StarSports2Hindi.in@HD">
-    <title lang="en">TATA WPL HLs UPW v GG</title>
-    <desc lang="en">TATA WPL HLs</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2058148_30MAR213000_30MAR220000/images/LANDSCAPE_169/1774866089000_StarSports2HindiHD_TATAWPLHLsUPWvGG_2058148.jpg</image>
-  </programme>
   <programme start="20260330163000 +0000" stop="20260330170000 +0000" channel="StarSports2Hindi.in@HD">
     <title lang="en">ICC WWC 2025 Hlts IND v NZ</title>
     <desc lang="en">ICC Women's Cricket World Cup Highlights 2025</desc>
@@ -18637,10 +17725,11 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2014209_02APR213000_02APR220000/images/LANDSCAPE_169_HD/StarSports2HindiHD_TATAWPLHLsMIvGG_2014209.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2014209_02APR213000_02APR220000/images/LOGO/StarSports2HindiHD_TATAWPLHLsMIvGG_2014209.png" />
   </programme>
-  <programme start="20260330160000 +0000" stop="20260330163000 +0000" channel="StarSportsSelect1.in@HD">
-    <title lang="en">PL 100</title>
-    <desc lang="en">Celebrating top Premier League milestones.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_1_HD_983597_30MAR213000_30MAR220000/images/LANDSCAPE_169/1670774053000_StarSportsSelectHD1_PL100_983597.jpg</image>
+  <programme start="20260402163000 +0000" stop="20260402170000 +0000" channel="StarSports2Hindi.in@HD">
+    <title lang="en">ICC Women's World T20 Hlts. WI v IND</title>
+    <desc lang="en">Tune into ICC Women's World T20 as West Indies face India in a gripping cricket showdown at Headingley, West Yorkshire on 18 June 2025.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_1935902_02APR220000_02APR223000/images/LANDSCAPE_169_HD/StarSports2HindiHD_ICCWomensWorldT20HltsWIvIND_1935902.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_1935902_02APR220000_02APR223000/images/LOGO/StarSports2HindiHD_ICCWomensWorldT20HltsWIvIND_1935902.png" />
   </programme>
   <programme start="20260330163000 +0000" stop="20260330170000 +0000" channel="StarSportsSelect1.in@HD">
     <title lang="en">PL Highlights Man City v Fulham</title>
@@ -19365,10 +18454,10 @@
     <desc lang="en">Relive a classic Premier League match between Manchester United and Liverpool.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_1_HD_966184_02APR213000_02APR220000/images/LANDSCAPE_169/1724947981000_StarSportsSelectHD1_PLClassicManUtdvLiverpool_966184.jpg</image>
   </programme>
-  <programme start="20260330160000 +0000" stop="20260330163000 +0000" channel="StarSportsSelect2.in@HD">
-    <title lang="en">PL Netbusters</title>
-    <desc lang="en">PL Netbusters: Watch this special segment focused on the most incredible goals and moments from the Premier League season, featuring stunning netbusters.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_2_HD_371386_30MAR213000_30MAR220000/images/LANDSCAPE_169/1726952231000_StarSportsSelectHD2_PLNetbusters_371386.jpg</image>
+  <programme start="20260402163000 +0000" stop="20260402170000 +0000" channel="StarSportsSelect1.in@HD">
+    <title lang="en">PL Highlights Man City v Newcastle</title>
+    <desc lang="en">Watch the highlights of Premier League 2025-26 football match between PL Highlights Man City and Newcastle.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_1_HD_1292590_02APR220000_02APR223000/images/LANDSCAPE_169/1772017240000_StarSportsSelectHD1_PLHighlightsManCityvNewcastle_1292590.jpg</image>
   </programme>
   <programme start="20260330163000 +0000" stop="20260330170000 +0000" channel="StarSportsSelect2.in@HD">
     <title lang="en">PL 100</title>
@@ -20076,6 +19165,12 @@
     <desc lang="en">PL Netbusters: Watch this special segment focused on the most incredible goals and moments from the Premier League season, featuring stunning netbusters.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_2_HD_371386_02APR213000_02APR220000/images/LANDSCAPE_169/1726952231000_StarSportsSelectHD2_PLNetbusters_371386.jpg</image>
   </programme>
+  <programme start="20260402163000 +0000" stop="20260402164500 +0000" channel="StarSportsSelect2.in@HD">
+    <title lang="en">TATA IPL 2026 - Know Your Team</title>
+    <desc lang="en">TATA IPL 2026 - Know Your Team offers a quick look at all ten franchises, their captains, and what defines their playing style as they gear up for the season</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_2_HD_2049562_02APR220000_02APR221500/images/LANDSCAPE_169_HD/StarSportsSelectHD2_TATAIPL2026-KnowYourTeam_2049562.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_2_HD_2049562_02APR220000_02APR221500/images/LOGO/StarSportsSelectHD2_TATAIPL2026-KnowYourTeam_2049562.png" />
+  </programme>
   <programme start="20260330155200 +0000" stop="20260330173200 +0000" channel="StarUtsavMovies.in@SD">
     <title lang="en">Live TATA IPL 2026 RR v CSK</title>
     <desc lang="en">Watch the live telecast of the TATA IPL 2026 match between Rajasthan Royals and Chennai Super Kings played at Barsapara Cricket Stadium, Guwahati, India.</desc>
@@ -20593,11 +19688,6 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_CINEMA_HD_37168_02APR195500_02APR224400/images/LANDSCAPE_169_HD/ZeeCinemaHD_Movie_37168.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_CINEMA_HD_37168_02APR195500_02APR224400/images/LOGO/ZeeCinemaHD_Movie_37168.png" />
   </programme>
-  <programme start="20260330153000 +0000" stop="20260330163000 +0000" channel="Zoom.in@SD">
-    <title lang="en">Zoombastic 10</title>
-    <desc lang="en">Experience a non-stop musical marathon featuring the greatest foot-tapping hits from diverse singers, seamlessly blended back-to-back to energize and entertain every listener with rhythmic delight.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZOOM_1822553_30MAR210000_30MAR220000/images/LANDSCAPE_169/1740904670000_ZOOM_Zoombastic10_1822553.jpg</image>
-  </programme>
   <programme start="20260330163000 +0000" stop="20260330173000 +0000" channel="Zoom.in@SD">
     <title lang="en">Beetey Lamhey</title>
     <desc lang="en">An entertainment program featuring games, celebrity guests, and a fun-filled atmosphere. Viewers can relax and enjoy the lively segments, providing them with the perfect entertainment escape.</desc>
@@ -20818,16 +19908,917 @@
     <desc lang="en">Enjoy a collection of fun songs! Famous singers and musicians created them. You'll love the catchy tunes and entertaining music. Listen now and have a great time!</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZOOM_1296553_02APR200000_02APR220000/images/LANDSCAPE_169/1725283267000_ZOOM_MyDilGoesZoom_1296553.jpg</image>
   </programme>
-  <channel id="GeoNewsInternational.pk@SD">
-    <display-name>GEO News</display-name>
-    <icon src="https://i.imgur.com/8kTij1G.png" />
-    <url>https://sky.com</url>
+  <programme start="20260402163000 +0000" stop="20260402183000 +0000" channel="Zoom.in@SD">
+    <title lang="en">Beetey Lamhey</title>
+    <desc lang="en">An entertainment program featuring games, celebrity guests, and a fun-filled atmosphere. Viewers can relax and enjoy the lively segments, providing them with the perfect entertainment escape.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZOOM_1317046_02APR220000_03APR000000/images/LANDSCAPE_169/1725281445000_ZOOM_BeeteyLamhey_1317046.jpg</image>
+  </programme>
+  <channel id="ARYNews">
+    <display-name>ARY News</display-name>
+    <url>https://epgshare01.online</url>
+  </channel>
+  <channel id="ARYDigital">
+    <display-name>ARY Digital</display-name>
+    <url>https://epgshare01.online</url>
   </channel>
   <channel id="GeoUK.pk@SD">
     <display-name>GEO TV</display-name>
     <icon src="https://i.imgur.com/NX3vvAX.png" />
     <url>https://sky.com</url>
   </channel>
+  <channel id="GeoNewsInternational.pk@SD">
+    <display-name>GEO News</display-name>
+    <icon src="https://i.imgur.com/8kTij1G.png" />
+    <url>https://sky.com</url>
+  </channel>
+  <programme start="20260329200000 +0000" stop="20260329220000 +0000" channel="ARYDigital">
+    <title lang="en">Jeeto Pakistan</title>
+    <desc lang="en">Game &amp;amp; Entertainment Show.</desc>
+  </programme>
+  <programme start="20260329220000 +0000" stop="20260329233000 +0000" channel="ARYDigital">
+    <title lang="en">Radd</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260329233000 +0000" stop="20260330000000 +0000" channel="ARYDigital">
+    <title lang="en">Bulbullay</title>
+    <desc lang="en">Sitcom.</desc>
+  </programme>
+  <programme start="20260330000000 +0000" stop="20260330000500 +0000" channel="ARYDigital">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330000500 +0000" stop="20260330010000 +0000" channel="ARYDigital">
+    <title lang="en">11th Hour with Waseem Badami</title>
+    <desc lang="en">A round up program for political &amp;amp; current affairs enthusiasts.</desc>
+  </programme>
+  <programme start="20260330010000 +0000" stop="20260330010500 +0000" channel="ARYDigital">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330010500 +0000" stop="20260330020000 +0000" channel="ARYDigital">
+    <title lang="en">The reporters</title>
+    <desc lang="en">The reporters, is a program with senior journalist. These reporters will dig the issues deeper and bring the facts and realities out with detailed investigative reports. It will be an hour where big stories of the day will be filtered.</desc>
+  </programme>
+  <programme start="20260330020000 +0000" stop="20260330030000 +0000" channel="ARYDigital">
+    <title lang="en">Madawa</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260330030000 +0000" stop="20260330050000 +0000" channel="ARYDigital">
+    <title lang="en">Sharpasand</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260330050000 +0000" stop="20260330053000 +0000" channel="ARYDigital">
+    <title lang="en">Bulbullay</title>
+    <desc lang="en">Comedy.</desc>
+  </programme>
+  <programme start="20260330053000 +0000" stop="20260330060000 +0000" channel="ARYDigital">
+    <title lang="en">Daura e Tarjuma e Quran</title>
+    <desc lang="en">Recitation of the Holy Quran with interpretation.</desc>
+  </programme>
+  <programme start="20260330060000 +0000" stop="20260330063000 +0000" channel="ARYDigital">
+    <title lang="en">Dars-e-Bukhari</title>
+    <desc lang="en">Religious Program.</desc>
+  </programme>
+  <programme start="20260330063000 +0000" stop="20260330080000 +0000" channel="ARYDigital">
+    <title lang="en">Radd</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260330080000 +0000" stop="20260330100000 +0000" channel="ARYDigital">
+    <title lang="en">Sazawaar</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260330100000 +0000" stop="20260330110000 +0000" channel="ARYDigital">
+    <title lang="en">Good Morning Pakistan</title>
+    <desc lang="en">Morning Show.</desc>
+  </programme>
+  <programme start="20260330110000 +0000" stop="20260330113000 +0000" channel="ARYDigital">
+    <title lang="en">The Mansuri Show</title>
+    <desc lang="en">Talk Show.</desc>
+  </programme>
+  <programme start="20260330113000 +0000" stop="20260330123000 +0000" channel="ARYDigital">
+    <title lang="en">Madawa</title>
+    <desc lang="en">Comedy.</desc>
+  </programme>
+  <programme start="20260330123000 +0000" stop="20260330140000 +0000" channel="ARYDigital">
+    <title lang="en">Sazawaar</title>
+    <desc lang="en">Entertainment.</desc>
+  </programme>
+  <programme start="20260330140000 +0000" stop="20260330143000 +0000" channel="ARYDigital">
+    <title lang="en">Urdu Rang</title>
+    <desc lang="en">Famous Poets from Pakistan. Media Meet &amp;amp; Greet.</desc>
+  </programme>
+  <programme start="20260330143000 +0000" stop="20260330150000 +0000" channel="ARYDigital">
+    <title lang="en">Urdu Rang</title>
+    <desc lang="en">AN EVENING WITH THE SCHOLAR-ATA UL HAQ QASMI 1/2.</desc>
+  </programme>
+  <programme start="20260330150000 +0000" stop="20260330170000 +0000" channel="ARYDigital">
+    <title lang="en">Madawa</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260330170000 +0000" stop="20260330180000 +0000" channel="ARYDigital">
+    <title lang="en">Sharpasand</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260330180000 +0000" stop="20260330190000 +0000" channel="ARYDigital">
+    <title lang="en">Sazawaar</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260330190000 +0000" stop="20260330200000 +0000" channel="ARYDigital">
+    <title lang="en">Rehmat</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260330200000 +0000" stop="20260330210000 +0000" channel="ARYDigital">
+    <title lang="en">Kafeel</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260330210000 +0000" stop="20260330220000 +0000" channel="ARYDigital">
+    <title lang="en">Madawa</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260330220000 +0000" stop="20260330230000 +0000" channel="ARYDigital">
+    <title lang="en">Radd</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260330230000 +0000" stop="20260331000000 +0000" channel="ARYDigital">
+    <title lang="en">Bulbullay</title>
+    <desc lang="en">Comedy.</desc>
+  </programme>
+  <programme start="20260331000000 +0000" stop="20260331000500 +0000" channel="ARYDigital">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331000500 +0000" stop="20260331010000 +0000" channel="ARYDigital">
+    <title lang="en">11th Hour with Waseem Badami</title>
+    <desc lang="en">A round up program for political &amp;amp; current affairs enthusiasts.</desc>
+  </programme>
+  <programme start="20260331010000 +0000" stop="20260331010500 +0000" channel="ARYDigital">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331010500 +0000" stop="20260331020000 +0000" channel="ARYDigital">
+    <title lang="en">The reporters</title>
+    <desc lang="en">The reporters, is a program with senior journalist. These reporters will dig the issues deeper and bring the facts and realities out with detailed investigative reports. It will be an hour where big stories of the day will be filtered.</desc>
+  </programme>
+  <programme start="20260331020000 +0000" stop="20260331030000 +0000" channel="ARYDigital">
+    <title lang="en">Good Morning Pakistan</title>
+    <desc lang="en">Morning Show.</desc>
+  </programme>
+  <programme start="20260331030000 +0000" stop="20260331050000 +0000" channel="ARYDigital">
+    <title lang="en">Rehmat</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260331050000 +0000" stop="20260331053000 +0000" channel="ARYDigital">
+    <title lang="en">Bulbullay</title>
+    <desc lang="en">Sitcom.</desc>
+  </programme>
+  <programme start="20260331053000 +0000" stop="20260331060000 +0000" channel="ARYDigital">
+    <title lang="en">Daura e Tarjuma e Quran</title>
+    <desc lang="en">Recitation of the Holy Quran with interpretation.</desc>
+  </programme>
+  <programme start="20260331060000 +0000" stop="20260331063000 +0000" channel="ARYDigital">
+    <title lang="en">Dars-e-Bukhari</title>
+    <desc lang="en">Religious Program.</desc>
+  </programme>
+  <programme start="20260331063000 +0000" stop="20260331080000 +0000" channel="ARYDigital">
+    <title lang="en">Radd</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260331080000 +0000" stop="20260331090000 +0000" channel="ARYDigital">
+    <title lang="en">Sazawaar</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260331090000 +0000" stop="20260331110000 +0000" channel="ARYDigital">
+    <title lang="en">Good Morning Pakistan</title>
+    <desc lang="en">Morning Show.</desc>
+  </programme>
+  <programme start="20260331110000 +0000" stop="20260331113000 +0000" channel="ARYDigital">
+    <title lang="en">Bulbullay</title>
+    <desc lang="en">Sitcom.</desc>
+  </programme>
+  <programme start="20260331113000 +0000" stop="20260331123000 +0000" channel="ARYDigital">
+    <title lang="en">Madawa</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260331123000 +0000" stop="20260331140000 +0000" channel="ARYDigital">
+    <title lang="en">Rehmat</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260331140000 +0000" stop="20260331143000 +0000" channel="ARYDigital">
+    <title lang="en">Urdu Rang</title>
+    <desc lang="en">Interview &amp;amp; Songs with Mehboob Shaikh-Talks about his Music Career.</desc>
+  </programme>
+  <programme start="20260331143000 +0000" stop="20260331150000 +0000" channel="ARYDigital">
+    <title lang="en">Urdu Rang</title>
+    <desc lang="en">Famous Poets from Pakistan. Media Meet &amp;amp; Greet.</desc>
+  </programme>
+  <programme start="20260331150000 +0000" stop="20260331160000 +0000" channel="ARYDigital">
+    <title lang="en">Madawa</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260331160000 +0000" stop="20260331170000 +0000" channel="ARYDigital">
+    <title lang="en">Madawa</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260331170000 +0000" stop="20260331180000 +0000" channel="ARYDigital">
+    <title lang="en">Shar Pasand</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260331180000 +0000" stop="20260331200000 +0000" channel="ARYDigital">
+    <title lang="en">Rehmat</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260331200000 +0000" stop="20260331210000 +0000" channel="ARYDigital">
+    <title lang="en">Kafeel</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260331210000 +0000" stop="20260331220000 +0000" channel="ARYDigital">
+    <title lang="en">Madawa</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260331220000 +0000" stop="20260331233000 +0000" channel="ARYDigital">
+    <title lang="en">Radd</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260331233000 +0000" stop="20260401000000 +0000" channel="ARYDigital">
+    <title lang="en">Bulbullay</title>
+    <desc lang="en">Sitcom.</desc>
+  </programme>
+  <programme start="20260401000000 +0000" stop="20260401000500 +0000" channel="ARYDigital">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401000500 +0000" stop="20260401010000 +0000" channel="ARYDigital">
+    <title lang="en">11th Hour with Waseem Badami</title>
+    <desc lang="en">A round up program for political &amp;amp; current affairs enthusiasts.</desc>
+  </programme>
+  <programme start="20260401010000 +0000" stop="20260401010500 +0000" channel="ARYDigital">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401010500 +0000" stop="20260401020000 +0000" channel="ARYDigital">
+    <title lang="en">The reporters</title>
+    <desc lang="en">The reporters, is a program with senior journalist. These reporters will dig the issues deeper and bring the facts and realities out with detailed investigative reports. It will be an hour where big stories of the day will be filtered.</desc>
+  </programme>
+  <programme start="20260401020000 +0000" stop="20260401030000 +0000" channel="ARYDigital">
+    <title lang="en">Madawa</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260401030000 +0000" stop="20260401050000 +0000" channel="ARYDigital">
+    <title lang="en">Good Morning Pakistan</title>
+    <desc lang="en">Morning Show.</desc>
+  </programme>
+  <programme start="20260401050000 +0000" stop="20260401053000 +0000" channel="ARYDigital">
+    <title lang="en">Bulbullay</title>
+    <desc lang="en">Sitcom.</desc>
+  </programme>
+  <programme start="20260401053000 +0000" stop="20260401060000 +0000" channel="ARYDigital">
+    <title lang="en">Daura e Tarjuma e Quran</title>
+    <desc lang="en">Recitation of the Holy Quran with interpretation.</desc>
+  </programme>
+  <programme start="20260401060000 +0000" stop="20260401063000 +0000" channel="ARYDigital">
+    <title lang="en">Dars-e-Bukhari</title>
+    <desc lang="en">Religious Program.</desc>
+  </programme>
+  <programme start="20260401063000 +0000" stop="20260401080000 +0000" channel="ARYDigital">
+    <title lang="en">Radd</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260401080000 +0000" stop="20260401090000 +0000" channel="ARYDigital">
+    <title lang="en">Sazawaar</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260401090000 +0000" stop="20260401110000 +0000" channel="ARYDigital">
+    <title lang="en">Good Morning Pakistan</title>
+    <desc lang="en">Morning Show.</desc>
+  </programme>
+  <programme start="20260401110000 +0000" stop="20260401113000 +0000" channel="ARYDigital">
+    <title lang="en">Bulbullay</title>
+    <desc lang="en">Sitcom.</desc>
+  </programme>
+  <programme start="20260401113000 +0000" stop="20260401123000 +0000" channel="ARYDigital">
+    <title lang="en">Madawa</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260401123000 +0000" stop="20260401140000 +0000" channel="ARYDigital">
+    <title lang="en">Sazawaar</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260401140000 +0000" stop="20260401143000 +0000" channel="ARYDigital">
+    <title lang="en">Urdu Rang</title>
+    <desc lang="en">AN EVENING WITH THE SCHOLAR-ATA UL HAQ QASMI 1/2.</desc>
+  </programme>
+  <programme start="20260401143000 +0000" stop="20260401150000 +0000" channel="ARYDigital">
+    <title lang="en">Urdu Rang</title>
+    <desc lang="en">AN EVENING WITH THE SCHOLAR-ATA UL HAQ QASMI 2/2.</desc>
+  </programme>
+  <programme start="20260401150000 +0000" stop="20260401160000 +0000" channel="ARYDigital">
+    <title lang="en">Madawa</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260401160000 +0000" stop="20260401170000 +0000" channel="ARYDigital">
+    <title lang="en">Madawa</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260401170000 +0000" stop="20260401180000 +0000" channel="ARYDigital">
+    <title lang="en">Meri Zindagi Hai Tu</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260401180000 +0000" stop="20260401200000 +0000" channel="ARYDigital">
+    <title lang="en">Sazawaar</title>
+    <desc lang="en">Drama Serial.</desc>
+  </programme>
+  <programme start="20260329200000 +0000" stop="20260329200500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260329200500 +0000" stop="20260329210000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260329210000 +0000" stop="20260329210500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260329210500 +0000" stop="20260329220000 +0000" channel="ARYNews">
+    <title lang="en">Zimaydar Kaun</title>
+    <desc lang="en">A program based on sting operations where our reporters will hunt down the corrupters in our society where it is because of compromised food quality,bazaars,beggar mafia and many others.</desc>
+  </programme>
+  <programme start="20260329220000 +0000" stop="20260329220500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260329220500 +0000" stop="20260329230000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260329230000 +0000" stop="20260329230500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260329230500 +0000" stop="20260330000000 +0000" channel="ARYNews">
+    <title lang="en">Sawal Yeh Hai</title>
+    <desc lang="en">A program that talks about current political issues and policies of pakistan.</desc>
+  </programme>
+  <programme start="20260330000000 +0000" stop="20260330000500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330000500 +0000" stop="20260330010000 +0000" channel="ARYNews">
+    <title lang="en">Criminals Most Wanted</title>
+    <desc lang="en">A weekly investigative program in which crimes are brought to light and people are made aware of how they can protect themselves.</desc>
+  </programme>
+  <programme start="20260330010000 +0000" stop="20260330010500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330010500 +0000" stop="20260330020000 +0000" channel="ARYNews">
+    <title lang="en">Humaray Mehman</title>
+    <desc lang="en">A light interview based show with famous celebrities, Hosted by Erum Nawaz. The show will feature many prominent personalities from politics, showbiz, sports etc.</desc>
+  </programme>
+  <programme start="20260330020000 +0000" stop="20260330020500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330020500 +0000" stop="20260330030000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330030000 +0000" stop="20260330030500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330030500 +0000" stop="20260330040000 +0000" channel="ARYNews">
+    <title lang="en">Bakhabar Savera</title>
+    <desc lang="en">The program features combination of news, breaking news, Interviews, entertainment, sports, health, social stories, story of the day with sparkling Co-Host Madiha Naqvi and Shafaat Ali.</desc>
+  </programme>
+  <programme start="20260330040000 +0000" stop="20260330040500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330040500 +0000" stop="20260330043000 +0000" channel="ARYNews">
+    <title lang="en">Bakhabar Savera</title>
+    <desc lang="en">The program features combination of news, breaking news, Interviews, entertainment, sports, health, social stories, story of the day with sparkling Co-Host Madiha Naqvi and Shafaat Ali.</desc>
+  </programme>
+  <programme start="20260330043000 +0000" stop="20260330050000 +0000" channel="ARYNews">
+    <title lang="en">Bakhabar Savera</title>
+    <desc lang="en">The program features combination of news, breaking news, Interviews, entertainment, sports, health, social stories, story of the day with sparkling Co-Host Madiha Naqvi and Shafaat Ali.</desc>
+  </programme>
+  <programme start="20260330050000 +0000" stop="20260330050500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330050500 +0000" stop="20260330060000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330060000 +0000" stop="20260330060500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330060500 +0000" stop="20260330063000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330063000 +0000" stop="20260330070000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330070000 +0000" stop="20260330073000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330073000 +0000" stop="20260330080000 +0000" channel="ARYNews">
+    <title lang="en">Sports Room</title>
+    <desc lang="en">A dedicated Sports show aired on weekdays which will cover all that is happening in the international and national sports arena.</desc>
+  </programme>
+  <programme start="20260330080000 +0000" stop="20260330080500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330080500 +0000" stop="20260330090000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330090000 +0000" stop="20260330090500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330090500 +0000" stop="20260330100000 +0000" channel="ARYNews">
+    <title lang="en">The reporters</title>
+    <desc lang="en">The reporters, is a program with senior journalist. These reporters will dig the issues deeper and bring the facts and realities out with detailed investigative reports. It will be an hour where big stories of the day will be filtered.</desc>
+  </programme>
+  <programme start="20260330100000 +0000" stop="20260330101000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330101000 +0000" stop="20260330110000 +0000" channel="ARYNews">
+    <title lang="en">Off The Record With Kashif Abbasi</title>
+    <desc lang="en">A tri weekly program that talks about current political issues and policies of pakistan.</desc>
+  </programme>
+  <programme start="20260330110000 +0000" stop="20260330120000 +0000" channel="ARYNews">
+    <title lang="en">Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330120000 +0000" stop="20260330120500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330120500 +0000" stop="20260330130000 +0000" channel="ARYNews">
+    <title lang="en">Power Play</title>
+    <desc lang="en">It's all about power play when it comes to politics. Arshad Sharif takes a serious stance on virious issues, with his in-depth and hard hitting questioning style.</desc>
+  </programme>
+  <programme start="20260330130000 +0000" stop="20260330130500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330130500 +0000" stop="20260330140000 +0000" channel="ARYNews">
+    <title lang="en">11th Hour with Waseem Badami</title>
+    <desc lang="en">A round up program for political &amp;amp; current affairs enthusiasts.</desc>
+  </programme>
+  <programme start="20260330140000 +0000" stop="20260330140500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330140500 +0000" stop="20260330150000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330150000 +0000" stop="20260330150500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330150500 +0000" stop="20260330160000 +0000" channel="ARYNews">
+    <title lang="en">Off The Record With Kashif Abbasi</title>
+    <desc lang="en">A tri weekly program that talks about current political issues and policies of pakistan.</desc>
+  </programme>
+  <programme start="20260330160000 +0000" stop="20260330160500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330160500 +0000" stop="20260330170000 +0000" channel="ARYNews">
+    <title lang="en">Power Play</title>
+    <desc lang="en">It's all about power play when it comes to politics. Arshad Sharif takes a serious stance on virious issues, with his in-depth and hard hitting questioning style.</desc>
+  </programme>
+  <programme start="20260330170000 +0000" stop="20260330170500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330170500 +0000" stop="20260330180000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330180000 +0000" stop="20260330180500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330180500 +0000" stop="20260330190000 +0000" channel="ARYNews">
+    <title lang="en">11th Hour with Waseem Badami</title>
+    <desc lang="en">A round up program for political &amp;amp; current affairs enthusiasts.</desc>
+  </programme>
+  <programme start="20260330190000 +0000" stop="20260330190500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330190500 +0000" stop="20260330200000 +0000" channel="ARYNews">
+    <title lang="en">The reporters</title>
+    <desc lang="en">The reporters, is a program with senior journalist. These reporters will dig the issues deeper and bring the facts and realities out with detailed investigative reports. It will be an hour where big stories of the day will be filtered.</desc>
+  </programme>
+  <programme start="20260330200000 +0000" stop="20260330200500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330200500 +0000" stop="20260330210000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330210000 +0000" stop="20260330210500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330210500 +0000" stop="20260330220000 +0000" channel="ARYNews">
+    <title lang="en">Off The Record With Kashif Abbasi</title>
+    <desc lang="en">A tri weekly program that talks about current political issues and policies of pakistan.</desc>
+  </programme>
+  <programme start="20260330220000 +0000" stop="20260330220500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330220500 +0000" stop="20260330230000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330230000 +0000" stop="20260330230500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260330230500 +0000" stop="20260331000000 +0000" channel="ARYNews">
+    <title lang="en">Power Play</title>
+    <desc lang="en">It's all about power play when it comes to politics. Arshad Sharif takes a serious stance on virious issues, with his in-depth and hard hitting questioning style.</desc>
+  </programme>
+  <programme start="20260331000000 +0000" stop="20260331000500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331000500 +0000" stop="20260331010000 +0000" channel="ARYNews">
+    <title lang="en">11th Hour with Waseem Badami</title>
+    <desc lang="en">A round up program for political &amp;amp; current affairs enthusiasts.</desc>
+  </programme>
+  <programme start="20260331010000 +0000" stop="20260331010500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331010500 +0000" stop="20260331020000 +0000" channel="ARYNews">
+    <title lang="en">The reporters</title>
+    <desc lang="en">The reporters, is a program with senior journalist. These reporters will dig the issues deeper and bring the facts and realities out with detailed investigative reports. It will be an hour where big stories of the day will be filtered.</desc>
+  </programme>
+  <programme start="20260331020000 +0000" stop="20260331020500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331020500 +0000" stop="20260331030000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331030000 +0000" stop="20260331030500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331030500 +0000" stop="20260331040000 +0000" channel="ARYNews">
+    <title lang="en">Bakhabar Savera</title>
+    <desc lang="en">The program features combination of news, breaking news, Interviews, entertainment, sports, health, social stories, story of the day with sparkling Co-Host Madiha Naqvi and Shafaat Ali.</desc>
+  </programme>
+  <programme start="20260331040000 +0000" stop="20260331040500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331040500 +0000" stop="20260331043000 +0000" channel="ARYNews">
+    <title lang="en">Bakhabar Savera</title>
+    <desc lang="en">The program features combination of news, breaking news, Interviews, entertainment, sports, health, social stories, story of the day with sparkling Co-Host Madiha Naqvi and Shafaat Ali.</desc>
+  </programme>
+  <programme start="20260331043000 +0000" stop="20260331050000 +0000" channel="ARYNews">
+    <title lang="en">Bakhabar Savera</title>
+    <desc lang="en">The program features combination of news, breaking news, Interviews, entertainment, sports, health, social stories, story of the day with sparkling Co-Host Madiha Naqvi and Shafaat Ali.</desc>
+  </programme>
+  <programme start="20260331050000 +0000" stop="20260331050500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331050500 +0000" stop="20260331060000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331060000 +0000" stop="20260331060500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331060500 +0000" stop="20260331063000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331063000 +0000" stop="20260331070000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331070000 +0000" stop="20260331073000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331073000 +0000" stop="20260331080000 +0000" channel="ARYNews">
+    <title lang="en">Sports Room</title>
+    <desc lang="en">A dedicated Sports show aired on weekdays which will cover all that is happening in the international and national sports arena.</desc>
+  </programme>
+  <programme start="20260331080000 +0000" stop="20260331080500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331080500 +0000" stop="20260331090000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331090000 +0000" stop="20260331090500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331090500 +0000" stop="20260331100000 +0000" channel="ARYNews">
+    <title lang="en">The reporters</title>
+    <desc lang="en">The reporters, is a program with senior journalist. These reporters will dig the issues deeper and bring the facts and realities out with detailed investigative reports. It will be an hour where big stories of the day will be filtered.</desc>
+  </programme>
+  <programme start="20260331100000 +0000" stop="20260331101000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331101000 +0000" stop="20260331110000 +0000" channel="ARYNews">
+    <title lang="en">Off The Record With Kashif Abbasi</title>
+    <desc lang="en">A tri weekly program that talks about current political issues and policies of pakistan.</desc>
+  </programme>
+  <programme start="20260331110000 +0000" stop="20260331111000 +0000" channel="ARYNews">
+    <title lang="en">Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331111000 +0000" stop="20260331120000 +0000" channel="ARYNews">
+    <title lang="en">Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331120000 +0000" stop="20260331120500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331120500 +0000" stop="20260331130000 +0000" channel="ARYNews">
+    <title lang="en">Power Play</title>
+    <desc lang="en">It's all about power play when it comes to politics. Arshad Sharif takes a serious stance on virious issues, with his in-depth and hard hitting questioning style.</desc>
+  </programme>
+  <programme start="20260331130000 +0000" stop="20260331130500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331130500 +0000" stop="20260331140000 +0000" channel="ARYNews">
+    <title lang="en">11th Hour with Waseem Badami</title>
+    <desc lang="en">A round up program for political &amp;amp; current affairs enthusiasts.</desc>
+  </programme>
+  <programme start="20260331140000 +0000" stop="20260331140500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331140500 +0000" stop="20260331150000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331150000 +0000" stop="20260331150500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331150500 +0000" stop="20260331160000 +0000" channel="ARYNews">
+    <title lang="en">Off The Record With Kashif Abbasi</title>
+    <desc lang="en">A tri weekly program that talks about current political issues and policies of pakistan.</desc>
+  </programme>
+  <programme start="20260331160000 +0000" stop="20260331160500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331160500 +0000" stop="20260331170000 +0000" channel="ARYNews">
+    <title lang="en">Power Play</title>
+    <desc lang="en">It's all about power play when it comes to politics. Arshad Sharif takes a serious stance on virious issues, with his in-depth and hard hitting questioning style.</desc>
+  </programme>
+  <programme start="20260331170000 +0000" stop="20260331170500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331170500 +0000" stop="20260331180000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331180000 +0000" stop="20260331180500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331180500 +0000" stop="20260331190000 +0000" channel="ARYNews">
+    <title lang="en">11th Hour with Waseem Badami</title>
+    <desc lang="en">A round up program for political &amp;amp; current affairs enthusiasts.</desc>
+  </programme>
+  <programme start="20260331190000 +0000" stop="20260331190500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331190500 +0000" stop="20260331200000 +0000" channel="ARYNews">
+    <title lang="en">The reporters</title>
+    <desc lang="en">The reporters, is a program with senior journalist. These reporters will dig the issues deeper and bring the facts and realities out with detailed investigative reports. It will be an hour where big stories of the day will be filtered.</desc>
+  </programme>
+  <programme start="20260331200000 +0000" stop="20260331200500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331200500 +0000" stop="20260331210000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331210000 +0000" stop="20260331210500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331210500 +0000" stop="20260331220000 +0000" channel="ARYNews">
+    <title lang="en">Off The Record With Kashif Abbasi</title>
+    <desc lang="en">A tri weekly program that talks about current political issues and policies of pakistan.</desc>
+  </programme>
+  <programme start="20260331220000 +0000" stop="20260331220500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331220500 +0000" stop="20260331230000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331230000 +0000" stop="20260331230500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260331230500 +0000" stop="20260401000000 +0000" channel="ARYNews">
+    <title lang="en">Power Play</title>
+    <desc lang="en">It's all about power play when it comes to politics. Arshad Sharif takes a serious stance on virious issues, with his in-depth and hard hitting questioning style.</desc>
+  </programme>
+  <programme start="20260401000000 +0000" stop="20260401000500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401000500 +0000" stop="20260401010000 +0000" channel="ARYNews">
+    <title lang="en">11th Hour with Waseem Badami</title>
+    <desc lang="en">A round up program for political &amp;amp; current affairs enthusiasts.</desc>
+  </programme>
+  <programme start="20260401010000 +0000" stop="20260401010500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401010500 +0000" stop="20260401020000 +0000" channel="ARYNews">
+    <title lang="en">The reporters</title>
+    <desc lang="en">The reporters, is a program with senior journalist. These reporters will dig the issues deeper and bring the facts and realities out with detailed investigative reports. It will be an hour where big stories of the day will be filtered.</desc>
+  </programme>
+  <programme start="20260401020000 +0000" stop="20260401020500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401020500 +0000" stop="20260401030000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401030000 +0000" stop="20260401030500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401030500 +0000" stop="20260401040000 +0000" channel="ARYNews">
+    <title lang="en">Bakhabar Savera</title>
+    <desc lang="en">The program features combination of news, breaking news, Interviews, entertainment, sports, health, social stories, story of the day with sparkling Co-Host Madiha Naqvi and Shafaat Ali.</desc>
+  </programme>
+  <programme start="20260401040000 +0000" stop="20260401040500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401040500 +0000" stop="20260401043000 +0000" channel="ARYNews">
+    <title lang="en">Bakhabar Savera</title>
+    <desc lang="en">The program features combination of news, breaking news, Interviews, entertainment, sports, health, social stories, story of the day with sparkling Co-Host Madiha Naqvi and Shafaat Ali.</desc>
+  </programme>
+  <programme start="20260401043000 +0000" stop="20260401050000 +0000" channel="ARYNews">
+    <title lang="en">Bakhabar Savera</title>
+    <desc lang="en">The program features combination of news, breaking news, Interviews, entertainment, sports, health, social stories, story of the day with sparkling Co-Host Madiha Naqvi and Shafaat Ali.</desc>
+  </programme>
+  <programme start="20260401050000 +0000" stop="20260401050500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401050500 +0000" stop="20260401060000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401060000 +0000" stop="20260401060500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401060500 +0000" stop="20260401070000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401070000 +0000" stop="20260401073000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401073000 +0000" stop="20260401080000 +0000" channel="ARYNews">
+    <title lang="en">Sports Room</title>
+    <desc lang="en">A dedicated Sports show aired on weekdays which will cover all that is happening in the international and national sports arena.</desc>
+  </programme>
+  <programme start="20260401080000 +0000" stop="20260401080500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401080500 +0000" stop="20260401090000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401090000 +0000" stop="20260401090500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401090500 +0000" stop="20260401100000 +0000" channel="ARYNews">
+    <title lang="en">The reporters</title>
+    <desc lang="en">The reporters, is a program with senior journalist. These reporters will dig the issues deeper and bring the facts and realities out with detailed investigative reports. It will be an hour where big stories of the day will be filtered.</desc>
+  </programme>
+  <programme start="20260401100000 +0000" stop="20260401101000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401101000 +0000" stop="20260401110000 +0000" channel="ARYNews">
+    <title lang="en">Off The Record With Kashif Abbasi</title>
+    <desc lang="en">A tri weekly program that talks about current political issues and policies of pakistan.</desc>
+  </programme>
+  <programme start="20260401110000 +0000" stop="20260401111000 +0000" channel="ARYNews">
+    <title lang="en">Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401111000 +0000" stop="20260401120000 +0000" channel="ARYNews">
+    <title lang="en">Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401120000 +0000" stop="20260401120500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401120500 +0000" stop="20260401130000 +0000" channel="ARYNews">
+    <title lang="en">Power Play</title>
+    <desc lang="en">It's all about power play when it comes to politics. Arshad Sharif takes a serious stance on virious issues, with his in-depth and hard hitting questioning style.</desc>
+  </programme>
+  <programme start="20260401130000 +0000" stop="20260401130500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401130500 +0000" stop="20260401140000 +0000" channel="ARYNews">
+    <title lang="en">11th Hour with Waseem Badami</title>
+    <desc lang="en">A round up program for political &amp;amp; current affairs enthusiasts.</desc>
+  </programme>
+  <programme start="20260401140000 +0000" stop="20260401140500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401140500 +0000" stop="20260401150000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401150000 +0000" stop="20260401150500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401150500 +0000" stop="20260401160000 +0000" channel="ARYNews">
+    <title lang="en">Off The Record With Kashif Abbasi</title>
+    <desc lang="en">A tri weekly program that talks about current political issues and policies of pakistan.</desc>
+  </programme>
+  <programme start="20260401160000 +0000" stop="20260401160500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401160500 +0000" stop="20260401170000 +0000" channel="ARYNews">
+    <title lang="en">Power Play</title>
+    <desc lang="en">It's all about power play when it comes to politics. Arshad Sharif takes a serious stance on virious issues, with his in-depth and hard hitting questioning style.</desc>
+  </programme>
+  <programme start="20260401170000 +0000" stop="20260401170500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401170500 +0000" stop="20260401180000 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401180000 +0000" stop="20260401180500 +0000" channel="ARYNews">
+    <title lang="en">Headlines</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401180500 +0000" stop="20260401190000 +0000" channel="ARYNews">
+    <title lang="en">11th Hour with Waseem Badami</title>
+    <desc lang="en">A round up program for political &amp;amp; current affairs enthusiasts.</desc>
+  </programme>
+  <programme start="20260401190000 +0000" stop="20260401190500 +0000" channel="ARYNews">
+    <title lang="en">Hourly Urdu News</title>
+    <desc lang="en">Latest live news bulletin.</desc>
+  </programme>
+  <programme start="20260401190500 +0000" stop="20260401200000 +0000" channel="ARYNews">
+    <title lang="en">The reporters</title>
+    <desc lang="en">The reporters, is a program with senior journalist. These reporters will dig the issues deeper and bring the facts and realities out with detailed investigative reports. It will be an hour where big stories of the day will be filtered.</desc>
+  </programme>
   <programme start="20260329200000 +0000" stop="20260329200500 +0000" channel="GeoNewsInternational.pk@SD">
     <title lang="en">Geo World News Headlines</title>
     <desc lang="en">Tune in to Geo News for all the latest headlines from around the globe, keeping you updated on the biggest news stories as they unfold.</desc>
