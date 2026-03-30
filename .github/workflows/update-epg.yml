@@ -46,24 +46,24 @@ jobs:
         working-directory: epg-tool
         continue-on-error: true
         
-      - name: Grab EPG - Plus4
+      - name: Grab EPG - Minus4
         run: |
           npm run grab -- \
-            --channels=../channels_epg_plus4.xml \
-            --output=../guide_epg_plus4.xml \
+            --channels=../channels_epg_minus4.xml \
+            --output=../guide_epg_minus4.xml \
             --maxConnections=5 \
             --days=3 \
             --timeout=30000
         working-directory: epg-tool
         continue-on-error: true
         
-      - name: Shift EPG +4h (inline)
+      - name: Shift EPG -4h (inline)
         run: |    
           node << 'EOF'
           const fs = require('fs')
 
-          const inputFile = 'guide_epg_plus4.xml'
-          const outputFile = 'guide_plus4_shifted.xml'
+          const inputFile = 'guide_epg_minus4.xml'
+          const outputFile = 'guide_minus4_shifted.xml'
           const OFFSET = 4 // change to 5 in winter if needed
 
           const xml = fs.readFileSync(inputFile, 'utf-8')
@@ -76,7 +76,7 @@ jobs:
               )
             )
 
-            d.setHours(d.getHours() + OFFSET)
+            d.setHours(d.getHours() - OFFSET)
 
             const newDate = d.toISOString().replace(/[-:T]/g, '').slice(0, 14)
 
@@ -93,7 +93,7 @@ jobs:
           import xml.etree.ElementTree as ET
           import os
 
-          files = ['guide_epg.xml', 'guide_plus4_shifted.xml']
+          files = ['guide_epg.xml', 'guide_minus4_shifted.xml']
           root = ET.Element('tv')
           root.set('generator-info-name', 'iptv-org/epg')
 
