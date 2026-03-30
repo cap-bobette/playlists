@@ -2,26 +2,15 @@
 <channels>
 
   <!-- Pakistan News -->
-  <channel site="epgshare01.online" site_id="ASIANTELEVISION1#ATN.ARY.News.dk" lang="en" xmltv_id="ARYNews">ATN ARY News</channel>
-  <channel site="epgshare01.online" site_id="PK1#PTV.News.pk" lang="en" xmltv_id="PTVNews.pk">PTV News</channel>
-  <channel site="epgshare01.online" site_id="UK1#92.News.uk" lang="en" xmltv_id="92News">92 News</channel>
-  <channel site="epgshare01.online" site_id="UK1#Dunya.News.uk" lang="en" xmltv_id="DunyaNews">Dunya News</channel>
-  <channel site="sky.com" site_id="4407" lang="en" xmltv_id="GeoNewsInternational.pk@SD">GEO News</channel>
+  <!--<channel site="tv24.co.uk" site_id="geo-news" lang="en" xmltv_id="GeoNewsTv24">Geo News</channel> 
   <channel site="epgshare01.online" site_id="UK1#GEO.News.uk" lang="en" xmltv_id="GEONewsEpgShare01">GEO News</channel>
-  <channel site="tv24.co.uk" site_id="geo-news" lang="en" xmltv_id="GeoNewsTv24">Geo News</channel>
-  <channel site="streamingtvguides.com" site_id="GEONWS" lang="en" xmltv_id="GeoNewsStreamingTVGuides">Geo News</channel>
-  <channel site="tv24.co.uk" site_id="samaa-tv" lang="en" xmltv_id="SamaaTV">Samaa TV</channel>  
+  -->
+  <channel site="tv24.co.uk" site_id="samaa-tv" lang="en" xmltv_id="SamaaTV">Samaa TV</channel> 
   
   <!-- Pakistan General -->
-  <channel site="epgshare01.online" site_id="ASIANTELEVISION1#ATN.ARY.Digital.dk" lang="en" xmltv_id="ARYDigital">ATN ARY Digital</channel>
-  <channel site="sky.com" site_id="4110" lang="en" xmltv_id="GeoUK.pk@SD">GEO TV</channel>
-  <channel site="epgshare01.online" site_id="UK1#GEO.TV.uk" lang="en" xmltv_id="GeoTVEpgShareo1">GEO TV</channel>
+  <!--<channel site="epgshare01.online" site_id="UK1#GEO.TV.uk" lang="en" xmltv_id="GeoTVEpgShareo1">GEO TV</channel>
   <channel site="tv24.co.uk" site_id="geo-tv" lang="en" xmltv_id="GeoTVTv24">GEO TV</channel>
-  <channel site="streamingtvguides.com" site_id="GEOTV" lang="en" xmltv_id="GeoTVStreamingTVGuides">GEO TV</channel>
-  <channel site="ontvtonight.com" site_id="us#3641867368/geo-kahani" lang="en" xmltv_id="GeoKahani">GEO Kahani</channel>
-  <channel site="epgshare01.online" site_id="PK1#PTV.Global.pk" lang="en" xmltv_id="PTVGlobal.pk">PTV Global</channel>
-  <channel site="epgshare01.online" site_id="PK1#PTV.Home.pk" lang="en" xmltv_id="PTVHome.pk">PTV Home</channel>
-  <channel site="epgshare01.online" site_id="PK1#PTV.National.pk" lang="en" xmltv_id="PTVNational.pk">PTV National</channel>  
+  --> 
   
   <!-- India Music -->
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_9XM" lang="en" xmltv_id="9XM.in@SD">9XM</channel>
@@ -64,8 +53,7 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PITAARA" lang="en" xmltv_id="Pitaara.in@SD">Pitaara</channel>
 
   <!-- UK -->
-  <channel site="mytelly.co.uk" site_id="1855/al-jazeera-english-hd" lang="en" xmltv_id="AlJazeera.qa@EnglishHD">Al Jazeera English HD</channel>
-  <channel site="mytelly.co.uk" site_id="1349/al-jazeera-english" lang="en" xmltv_id="AlJazeera.qa@English">Al Jazeera English</channel>
+  <channel site="dna.fi" site_id="ch-820639" lang="fi" xmltv_id="AlJazeera.qa@English">Al Jazeera English</channel>
   <channel site="freeview.co.uk" site_id="64257#4352" lang="en" xmltv_id="BBCNews.uk">BBC NEWS</channel>
   <channel site="freeview.co.uk" site_id="64257#17472" lang="en" xmltv_id="BBCTwo.uk@HD">BBC Two HD</channel>
   <channel site="freeview.co.uk" site_id="64257#17920" lang="en" xmltv_id="BBCThree.uk@HD">BBC Three</channel>
@@ -91,5 +79,4 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SPORTS18_SYMHYP_1_HD" lang="en" xmltv_id="StarSports2Hindi.in@HD">Star Sports 2 HD Hindi</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD" lang="en" xmltv_id="StarSportsSelect1.in@HD">Star Sports Select 1 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD" lang="en" xmltv_id="StarSportsSelect2.in@HD">Star Sports Select 2 HD</channel>
-  <channel site="epgshare01.online" site_id="PK1#PTV.Sports.pk" lang="en" xmltv_id="PTVSports.pk">PTV Sports</channel>
 </channels>
