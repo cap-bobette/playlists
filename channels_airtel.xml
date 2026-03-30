@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <!-- India Music -->
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_9XM" lang="en" xmltv_id="9XM.in@SD">9XM</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_B4U_MUSIC" lang="en" xmltv_id="B4UMusic.in@India">B4U Music</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZOOM" lang="en" xmltv_id="Zoom.in@SD">Zoom</channel>
+
+  <!-- India EngMovies -->
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMANDPRIVE_HD" lang="en" xmltv_id="AndpriveHD.in@SD">&amp;Prive HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD" lang="en" xmltv_id="Andflix.in@HD">&amp;flix HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MOVIES_HD" lang="en" xmltv_id="StarMovies.in@HD">Star Movies HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD" lang="en" xmltv_id="StarMoviesSelect.in@HD">Star Movies Select HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_PIX_HD" lang="en" xmltv_id="SonyPix.in@HD">Sony Pix HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MOVIES_NOW_HD" lang="en" xmltv_id="MoviesNow.in@HD">Movies Now HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNSYMPLUS" lang="en" xmltv_id="MoviesNowPlus.in@SD">MN+</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMAND_PICTURES_HD" lang="en" xmltv_id="Andpictures.in@HD">&amp; Pictures HD</channel>
+
+  <!-- India Movies -->
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_B4U_KADAK" lang="en" xmltv_id="B4UKadak.in@SD">B4U Kadak</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_B4U_MOVIES" lang="en" xmltv_id="B4UMovies.in@India">B4U Movies</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD" lang="en" xmltv_id="ZeeCinema.in@HD">Zee Cinema HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD" lang="en" xmltv_id="ZeeBollywood.in@SD">Zee Bollywood</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_HD" lang="en" xmltv_id="StarGold.in@HD">Star Gold HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_2" lang="en" xmltv_id="StarGold2.in@SD">Star Gold 2</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_THRILLS" lang="en" xmltv_id="StarGoldThrills.in@SD">Star Gold Thrills</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_ROMANCE" lang="en" xmltv_id="StarGoldRomance.in@SD">Star Gold Romance</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_SELECT" lang="en" xmltv_id="StarGoldSelect.in@SD">Star Gold Select</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES" lang="en" xmltv_id="StarUtsavMovies.in@SD">Star Utsav Movies</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_MAX_HD" lang="en" xmltv_id="SonyMax.in@HD">Sony MAX HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_MAX_2" lang="en" xmltv_id="SonyMax2.in@SD">Sony Max 2</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD" lang="en" xmltv_id="ColorsCineplex.in@HD">Colors Cineplex HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS" lang="en" xmltv_id="ColorsCineplexSuperhits.in@SD">Colors Cineplex Superhits</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD" lang="en" xmltv_id="ColorsCineplexBollywood.in@SD">Colors Cineplex Bollywood</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA" lang="en" xmltv_id="AnmolCinema.in@SD">Anmol Cinema</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2" lang="en" xmltv_id="AnmolCinema2.in@SD">Anmol Cinema 2</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOLDMINES" lang="en" xmltv_id="Goldmines.in@SD">Goldmines</channel>
+
+  <!-- India Punjabi Movies -->
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PITAARA" lang="en" xmltv_id="Pitaara.in@SD">Pitaara</channel>
+
+  <!-- Sports -->
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_EUROSPORT" lang="en" xmltv_id="Eurosport.in@SD">Eurosport</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2_HD" lang="en" xmltv_id="SonySportsTen2.in@HD">Sony Sports Ten 2 HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3_HD" lang="en" xmltv_id="SonySportsTen3Hindi.in@HD">Sony Sports Ten 3 Hindi HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5_HD" lang="en" xmltv_id="SonySportsTen5.in@HD">Sony Sports Ten 5 HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD" lang="en" xmltv_id="StarSports1.in@HD">Star Sports 1 HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI" lang="en" xmltv_id="StarSports1Hindi.in@HD">Star Sports 1 HD Hindi</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SPORTS18_SYMHYP_1_HD" lang="en" xmltv_id="StarSports2Hindi.in@HD">Star Sports 2 HD Hindi</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD" lang="en" xmltv_id="StarSportsSelect1.in@HD">Star Sports Select 1 HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD" lang="en" xmltv_id="StarSportsSelect2.in@HD">Star Sports Select 2 HD</channel>
+</channels>
