@@ -34,6 +34,7 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA" lang="en" xmltv_id="AnmolCinema.in@SD">Anmol Cinema</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2" lang="en" xmltv_id="AnmolCinema2.in@SD">Anmol Cinema 2</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOLDMINES" lang="en" xmltv_id="Goldmines.in@SD">Goldmines</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOLDMINES_BOLLYWOOD" lang="en" xmltv_id="GoldminesBollywood.in@SD">Goldmines Bollywood</channel>
 
   <!-- India Punjabi Movies -->
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PITAARA" lang="en" xmltv_id="Pitaara.in@SD">Pitaara</channel>
