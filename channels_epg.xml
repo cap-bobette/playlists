@@ -2,12 +2,14 @@
 <channels>
 
   <!-- Pakistan News -->
+  <channel site="epgshare01.online" site_id="ASIANTELEVISION1#ATN.ARY.News.ca" lang="en" xmltv_id="ARYNews">ARY News</channel>
   <!--<channel site="tv24.co.uk" site_id="geo-news" lang="en" xmltv_id="GeoNewsTv24">Geo News</channel> 
   <channel site="epgshare01.online" site_id="UK1#GEO.News.uk" lang="en" xmltv_id="GEONewsEpgShare01">GEO News</channel>
   -->
   <channel site="tv24.co.uk" site_id="samaa-tv" lang="en" xmltv_id="SamaaTV">Samaa TV</channel> 
   
   <!-- Pakistan General -->
+  <channel site="epgshare01.online" site_id="ASIANTELEVISION1#ATN.ARY.Digital.ca" lang="en" xmltv_id="ARYDigital">ARY Digital</channel>
   <!--<channel site="epgshare01.online" site_id="UK1#GEO.TV.uk" lang="en" xmltv_id="GeoTVEpgShareo1">GEO TV</channel>
   <channel site="tv24.co.uk" site_id="geo-tv" lang="en" xmltv_id="GeoTVTv24">GEO TV</channel>
   --> 
