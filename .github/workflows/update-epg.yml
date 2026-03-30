@@ -1,0 +1,121 @@
+name: Update EPG Guide
+
+on:
+  schedule:
+    - cron: '0 3,15 * * *'   # 3am and 3pm UTC daily
+  workflow_dispatch:           # allows manual trigger from GitHub Actions tab
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout your repo
+        uses: actions/checkout@v4
+
+      - name: Checkout iptv-org/epg grabber
+        uses: actions/checkout@v4
+        with:
+          repository: iptv-org/epg
+          ref: master
+          path: epg-tool
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: epg-tool/package-lock.json
+
+      - name: Install grabber dependencies
+        run: npm install
+        working-directory: epg-tool
+
+      - name: Grab EPG - airtelxstream.in
+        run: |
+          npm run grab -- \
+            --channels=../channels_airtel.xml \
+            --output=../guide_airtel.xml \
+            --maxConnections=5 \
+            --days=3 \
+            --timeout=30000
+        working-directory: epg-tool
+        continue-on-error: true
+
+      - name: Grab EPG - tataplay.com
+        run: |
+          npm run grab -- \
+            --channels=../channels_tata.xml \
+            --output=../guide_tata.xml \
+            --maxConnections=3 \
+            --days=3 \
+            --timeout=30000
+        working-directory: epg-tool
+        continue-on-error: true
+
+      - name: Grab EPG - freeview.co.uk
+        run: |
+          npm run grab -- \
+            --channels=../channels_freeview.xml \
+            --output=../guide_freeview.xml \
+            --maxConnections=5 \
+            --days=3 \
+            --timeout=30000
+        working-directory: epg-tool
+        continue-on-error: true
+
+      - name: Merge all guides into guide.xml
+        run: |
+          python3 - <<'EOF'
+          import xml.etree.ElementTree as ET
+          import os
+
+          files = ['guide_airtel.xml', 'guide_tata.xml', 'guide_freeview.xml']
+          root = ET.Element('tv')
+          root.set('generator-info-name', 'iptv-org/epg')
+
+          seen_channels = set()
+          seen_programmes = set()
+
+          for f in files:
+              if not os.path.exists(f):
+                  print(f"Skipping missing file: {f}")
+                  continue
+              try:
+                  tree = ET.parse(f)
+                  r = tree.getroot()
+                  ch_count = 0
+                  prog_count = 0
+                  for ch in r.findall('channel'):
+                      cid = ch.get('id', '')
+                      if cid not in seen_channels:
+                          seen_channels.add(cid)
+                          root.append(ch)
+                          ch_count += 1
+                  for prog in r.findall('programme'):
+                      key = (prog.get('channel', ''), prog.get('start', ''))
+                      if key not in seen_programmes:
+                          seen_programmes.add(key)
+                          root.append(prog)
+                          prog_count += 1
+                  print(f"{f}: {ch_count} channels, {prog_count} programmes")
+              except Exception as e:
+                  print(f"Error parsing {f}: {e}")
+
+          ET.indent(root, space='  ')
+          tree = ET.ElementTree(root)
+          with open('guide.xml', 'wb') as out:
+              out.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
+              tree.write(out, encoding='utf-8', xml_declaration=False)
+
+          print(f"Done: {len(seen_channels)} total channels, {len(seen_programmes)} total programmes")
+          EOF
+
+      - name: Commit and push guide.xml
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add guide.xml
+          git diff --staged --quiet || git commit -m "chore: update guide.xml [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
