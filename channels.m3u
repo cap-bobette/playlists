@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="https://cap-bobette.github.io/playlists/guide.xml" x-tvg-url="https://cap-bobette.github.io/playlists/guide.xml"
+
 #EXTINF:0 tvg-id="" group-title="Pak,News",24 News HD
 http://115.42.65.142:9981/stream/channel/7bf0f5f5a215f01d8447f2b261964bfa
 http://115.42.65.142:9981/stream/channelid/1979052155
@@ -18,13 +19,9 @@ http://115.42.65.142:9981/stream/channelid/1139769609
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:30 tvg-id="DunyaNews" group-title="Pak,News",Dunya News UK
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
-#EXTINF:-1 tvg-id="GeoNewsInternational.pk@SD" group-title="Pak,News",Geo News Tez sky
+#EXTINF:-1 tvg-id="GeoNewsInternational.pk@SD" group-title="Pak,News",Geo News Tez
 https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="GeoNewsTv24" group-title="Pak,News",Geo News Tez tv24
-https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="GeoNewsStreamingTVGuides" group-title="Pak,News",Geo News Tez stvg
-https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="GEONewsEpgShare01" group-title="Pak,News",Geo News HD epgshare
+#EXTINF:-1 tvg-id="GeoNewsInternational.pk@SD" group-title="Pak,News",Geo News HD
 http://115.42.65.142:9981/stream/channelid/914404359
 #EXTINF:60 tvg-id="" group-title="Pak,News",Lahore News
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
@@ -52,8 +49,6 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-id="GeoUK.pk@SD" group-title="Pak,General",Geo HarPal sky
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GeoTVTv24" group-title="Pak,General",Geo HarPal tv24
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="GeoTVStreamingTVGuides" group-title="Pak,General",Geo HarPal stvg
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GeoTVEpgShareo1" group-title="Pak,General",Geo Entertainment epgshare
 http://115.42.65.142:9981/stream/channelid/454786413
