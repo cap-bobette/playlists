@@ -201,3 +201,6 @@ http://116.90.120.148:8000/play/a0h9/index.m3u8
 http://116.90.120.148:8000/play/a0ha/index.m3u8
 #EXTINF:-1 tvg-id="PTVSports.pk" group-title="Sports",PTV Sports HD
 http://115.42.65.142:9981/stream/channelid/61446708
+
+#EXTINF:-1 tvg-id="local.uk",Cameras
+http://homeassistant.local:1984/api/stream.m3u8?src=cam_all&mp4=flac
