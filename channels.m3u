@@ -1,34 +1,34 @@
 #EXTM3U x-tvg-url="https://cap-bobette.github.io/playlists/guide.xml"
 
-#EXTINF:24 tvg-id="AndpriveHD.in@SD" group-title="India,EngMovies",Eng & PRIVE HD
+#EXTINF:-1 tvg-id="AndpriveHD.in@SD" group-title="India,EngMovies",Eng & PRIVE HD
 http://116.90.120.148:8000/play/a0it/index.m3u8
-#EXTINF:24 tvg-id="Andflix.in@HD" group-title="India,EngMovies",Eng & Flix HD
+#EXTINF:-1 tvg-id="Andflix.in@HD" group-title="India,EngMovies",Eng & Flix HD
 http://116.90.120.148:8000/play/a0il/index.m3u8
-#EXTINF:24 tvg-id="StarMovies.in@HD" group-title="India,EngMovies",Eng Star Movies HD
+#EXTINF:-1 tvg-id="StarMovies.in@HD" group-title="India,EngMovies",Eng Star Movies HD
 http://116.90.120.148:8000/play/a0ik/index.m3u8
-#EXTINF:24 tvg-id="StarMoviesSelect.in@HD" group-title="India,EngMovies",Eng Star Movies Select
+#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" group-title="India,EngMovies",Eng Star Movies Select
 http://116.90.120.148:8000/play/a0ij/index.m3u8
-#EXTINF:24 tvg-id="SonyPix.in@HD" group-title="India,EngMovies",Eng Sony Pix HD
+#EXTINF:-1 tvg-id="SonyPix.in@HD" group-title="India,EngMovies",Eng Sony Pix HD
 http://116.90.120.148:8000/play/a0ii/index.m3u8
-#EXTINF:24 tvg-id="MoviesNow.in@HD" group-title="India,EngMovies",Eng Movies Now HD
+#EXTINF:-1 tvg-id="MoviesNow.in@HD" group-title="India,EngMovies",Eng Movies Now HD
 http://116.90.120.148:8000/play/a0ib/index.m3u8
-#EXTINF:24 tvg-id="MoviesNowPlus.in@SD" group-title="India,EngMovies",Eng MN+ HD
+#EXTINF:-1 tvg-id="MoviesNowPlus.in@SD" group-title="India,EngMovies",Eng MN+ HD
 http://116.90.120.148:8000/play/a0i4/index.m3u8
-#EXTINF:60 tvg-id="Film4.uk@SD" group-title="UK,EngMovies",Film4 HD
+#EXTINF:-1 tvg-id="Film4.uk@SD" group-title="UK,EngMovies",Film4 HD
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 
-#EXTINF:54 tvg-id="B4UKadak.in@SD" group-title="India,Movies",B4U Kadak
+#EXTINF:-1 tvg-id="B4UKadak.in@SD" group-title="India,Movies",B4U Kadak
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:57 tvg-id="B4UMovies.in@India" group-title="India,Movies",B4U Movies
+#EXTINF:-1 tvg-id="B4UMovies.in@India" group-title="India,Movies",B4U Movies
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:24 tvg-id="Andpictures.in@HD" group-title="India,EngMovies",& Picture HD
+#EXTINF:-1 tvg-id="Andpictures.in@HD" group-title="India,EngMovies",& Picture HD
 http://116.90.120.148:8000/play/a0j4/index.m3u8
-#EXTINF:24 tvg-id="ZeeCinema.in@HD" group-title="India,Movies",Zee Cinema HD
+#EXTINF:-1 tvg-id="ZeeCinema.in@HD" group-title="India,Movies",Zee Cinema HD
 ##### http://103.161.153.165:8000/play/a00q/index.m3u8
 http://116.90.120.148:8000/play/a0hc/index.m3u8
 ##### http://116.90.120.151:8000/play/a0hc/index.m3u8
 ##### http://103.99.249.139/zeecinema/index.m3u8
-#EXTINF:24 tvg-id="ZeeBollywood.in@SD" group-title="India,Movies",Zee Bollywood
+#EXTINF:-1 tvg-id="ZeeBollywood.in@SD" group-title="India,Movies",Zee Bollywood
 http://116.90.120.148:8000/play/a0h6/index.m3u8
 #EXTINF:-1 tvg-id="StarGold.in@HD" group-title="India,Movies",Star Gold HD
 http://116.90.120.148:8000/play/a0gy/index.m3u8
@@ -40,7 +40,7 @@ http://116.90.120.148:8000/play/a0gw/index.m3u8
 http://116.90.120.148:8000/play/a0he/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldSelect.in@SD" group-title="India,Movies",Star Gold Select
 http://116.90.120.148:8000/play/a0j2/index.m3u8
-##### #EXTINF:24 tvg-id="StarUtsavMovies.in@SD" group-title="India,Movies",Star Utsav Movies
+##### #EXTINF:-1 tvg-id="StarUtsavMovies.in@SD" group-title="India,Movies",Star Utsav Movies
 ##### http://116.90.120.148:8000/play/a0ka/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@HD" group-title="India,Movies",Sony Max HD
 http://116.90.120.148:8000/play/a0jf/index.m3u8
@@ -50,65 +50,65 @@ http://116.90.120.148:8000/play/a0h0/index.m3u8
 http://116.90.120.148:8000/play/a0ji/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" group-title="India,Movies",Colors Cineplex Superhits
 http://116.90.120.148:8000/play/a0kl/index.m3u8
-#EXTINF:0 tvg-id="ColorsCineplexBollywood.in@SD" group-title="India,Movies",Colors Cineplex Bollywood
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD" group-title="India,Movies",Colors Cineplex Bollywood
 http://116.90.120.148:8000/play/a0ki/index.m3u8
 http://116.90.120.148:8000/play/a0ic/index.m3u8
 http://103.182.170.32:8888/play/a01o
-##### #EXTINF:24 tvg-id="AnmolCinema.in@SD" group-title="India,Movies",Anmol Cinema Zee
+##### #EXTINF:-1 tvg-id="AnmolCinema.in@SD" group-title="India,Movies",Anmol Cinema Zee
 ##### http://116.90.120.148:8000/play/a0ks/index.m3u8
-#EXTINF:20 tvg-id="AnmolCinema.in@SD" group-title="India,Movies",Anmol Cinema
+#EXTINF:-1 tvg-id="AnmolCinema.in@SD" group-title="India,Movies",Anmol Cinema
 http://116.90.120.148:8000/play/a0j6/index.m3u8
-#EXTINF:20 tvg-id="AnmolCinema2.in@SD" group-title="India,Movies",Anmol Cinema 2
+#EXTINF:-1 tvg-id="AnmolCinema2.in@SD" group-title="India,Movies",Anmol Cinema 2
 http://116.90.120.148:8000/play/a0ir/index.m3u8
-#EXTINF:20 tvg-id="GoldminesBollywood.in@SD" group-title="India,Movies",Goldmines Bollywood
+#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" group-title="India,Movies",Goldmines Bollywood
 http://116.90.120.148:8000/play/a0kj/index.m3u8
-#EXTINF:20 tvg-id="Goldmines.in@SD" group-title="India,Movies",Goldmines
+#EXTINF:-1 tvg-id="Goldmines.in@SD" group-title="India,Movies",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF:19 tvg-id="GoldminesMovies.in@SD" group-title="India,Movies",Goldmines Movies
+#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" group-title="India,Movies",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:33 tvg-id="" group-title="India,Movies",ZB Cinema
+#EXTINF:-1 tvg-id="" group-title="India,Movies",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
-#EXTINF:33 tvg-id="Pitaara.in@SD" group-title="India,PunjabiMovies",Pitaara Movies
+#EXTINF:-1 tvg-id="Pitaara.in@SD" group-title="India,PunjabiMovies",Pitaara Movies
 http://116.90.120.148:8000/play/a0ky/index.m3u8
 
-#EXTINF:60 tvg-id="9XM.in@SD" group-title="India,Music",9XM
+#EXTINF:-1 tvg-id="9XM.in@SD" group-title="India,Music",9XM
 https://9xjio.wiseplayout.com/9XM/master.m3u8
-#EXTINF:60 tvg-id="B4UMusic.in@India" group-title="India,Music",B4U Music
+#EXTINF:-1 tvg-id="B4UMusic.in@India" group-title="India,Music",B4U Music
 https://cdn-2.pishow.tv/live/415/master.m3u8
 ##### http://115.42.65.142:9981/stream/channelid/1275804360
 ##### http://116.90.120.148:8000/play/a0k3/index.m3u8
-#EXTINF:24 tvg-id="" group-title="India,Music",JooMusic
+#EXTINF:-1 tvg-id="" group-title="India,Music",JooMusic
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:102 tvg-id="Zoom.in@SD" group-title="India,Music",Zoom
+#EXTINF:-1 tvg-id="Zoom.in@SD" group-title="India,Music",Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:60 tvg-id="" group-title="India,Music",Zoom Global
+#EXTINF:-1 tvg-id="" group-title="India,Music",Zoom Global
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 
-#EXTINF:0 tvg-id="ARYNews" group-title="Pak,News",ARY News Asia
+#EXTINF:-1 tvg-id="ARYNews" group-title="Pak,News",ARY News Asia
 http://115.42.65.142:9981/stream/channelid/822701625
 #EXTINF:-1 tvg-id="GeoNewsInternational.pk@SD" group-title="Pak,News",Geo News Tez
 https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GeoNewsInternational.pk@SD" group-title="Pak,News",Geo News HD
 http://115.42.65.142:9981/stream/channelid/914404359
-#EXTINF:28 tvg-id="DunyaNews" group-title="Pak,News",Dunya News Internation
+#EXTINF:-1 tvg-id="DunyaNews" group-title="Pak,News",Dunya News Internation
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
-#EXTINF:30 tvg-id="DunyaNews" group-title="Pak,News",Dunya News UK
+#EXTINF:-1 tvg-id="DunyaNews" group-title="Pak,News",Dunya News UK
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
-#EXTINF:0 tvg-id="" group-title="Pak,News",24 News HD
+#EXTINF:-1 tvg-id="" group-title="Pak,News",24 News HD
 http://115.42.65.142:9981/stream/channel/7bf0f5f5a215f01d8447f2b261964bfa
 http://115.42.65.142:9981/stream/channelid/1979052155
-#EXTINF:0 tvg-id="92News" group-title="Pak,News",92 News
+#EXTINF:-1 tvg-id="92News" group-title="Pak,News",92 News
 http://115.42.65.142:9981/stream/channel/8c6055bd9ebdc7ea738eb561471a48d1
 #EXTINF:-1 tvg-id="" group-title="Pak,News",ABN News
 https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
-#EXTINF:0 tvg-id="" group-title="Pak,News",Aik News
+#EXTINF:-1 tvg-id="" group-title="Pak,News",Aik News
 https://video.primexsports.com/pnn/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Pak,News",BOL News Urdu
 http://115.42.65.142:9981/stream/channelid/986098235
 #EXTINF:-1 tvg-id="" group-title="Pak,News",Dawn News
 http://115.42.65.142:9981/stream/channelid/1139769609
-#EXTINF:60 tvg-id="" group-title="Pak,News",Lahore News
+#EXTINF:-1 tvg-id="" group-title="Pak,News",Lahore News
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Pak,News",News One
 https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
@@ -120,7 +120,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="UK",Al Jazeera English
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-#EXTINF:7200 tvg-id="BBCNews.uk" group-title="UK",BBC News
+#EXTINF:-1 tvg-id="BBCNews.uk" group-title="UK",BBC News
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Pak,General",APlus
@@ -131,11 +131,11 @@ http://115.42.65.142:9981/stream/channelid/1980234577
 http://115.42.65.142:9981/stream/channelid/734981908
 #EXTINF:-1 tvg-id="" group-title="Pak,General",ARY Zindagi
 http://115.42.65.142:9981/stream/channelid/842000863
-#EXTINF:0 tvg-id="" group-title="Pak,General",aurLife HD
+#EXTINF:-1 tvg-id="" group-title="Pak,General",aurLife HD
 http://124.109.47.101/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="" group-title="Pak,General",BOL Entertainment
 http://115.42.65.142:9981/stream/channelid/1523355819
-#EXTINF:22 tvg-id="" group-title="Pak,General",Discover Pakistan
+#EXTINF:-1 tvg-id="" group-title="Pak,General",Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-id="GeoUK.pk@SD" group-title="Pak,General",Geo HarPal
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
@@ -147,7 +147,7 @@ http://115.42.65.142:9981/stream/channelid/88258077
 http://115.42.65.142:9981/stream/channelid/1685338625
 #EXTINF:-1 tvg-id="" group-title="Pak,General",GreenEnt HD
 http://115.42.65.142:9981/stream/channelid/853035358
-##### #EXTINF:0 tvg-id="" group-title="Pak,General",Kay2 HD
+##### #EXTINF:-1 tvg-id="" group-title="Pak,General",Kay2 HD
 ##### http://163.61.227.29:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="PTVNational.pk" group-title="Pak,General",PTV National
 http://115.42.65.142:9981/stream/channelid/890157362
@@ -156,63 +156,51 @@ http://115.42.65.142:9981/stream/channelid/428100293
 #EXTINF:-1 tvg-id="PTVHome.pk" group-title="Pak,General",PTV Home
 http://115.42.65.142:9981/stream/channelid/870141349
 
-#EXTINF:65 tvg-id="BBCFour.uk@HD" group-title="UK",BBC Four/CBeebies
+#EXTINF:-1 tvg-id="BBCFour.uk@HD" group-title="UK",BBC Four/CBeebies
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
-#EXTINF:7200 tvg-id="BBCOne.uk@LondonHD" group-title="UK",BBC One South
+#EXTINF:-1 tvg-id="BBCOne.uk@LondonHD" group-title="UK",BBC One South
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/iptv_mse_v0_hevc.mpd
-#EXTINF:60 tvg-id="BBCThree.uk@HD" group-title="UK",BBC Three/CBBC
+#EXTINF:-1 tvg-id="BBCThree.uk@HD" group-title="UK",BBC Three/CBBC
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
-#EXTINF:59 tvg-id="BBCTwo.uk@HD" group-title="UK",BBC Two HD
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD" group-title="UK",BBC Two HD
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
-#EXTINF:7200 tvg-id="CBBC.uk@HD" group-title="UK",CBBC HD
+#EXTINF:-1 tvg-id="CBBC.uk@HD" group-title="UK",CBBC HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_mse_v0_hevc.mpd
-#EXTINF:3600 tvg-id="Channel4.uk@HD" group-title="UK",Channel 4 UK HD
+#EXTINF:-1 tvg-id="Channel4.uk@HD" group-title="UK",Channel 4 UK HD
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
-#EXTINF:3605 tvg-id="Channel5.uk@HD" group-title="UK",Channel 5 HD
+#EXTINF:-1 tvg-id="Channel5.uk@HD" group-title="UK",Channel 5 HD
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
-#EXTINF:36 tvg-id="HomesUnderHammer.us@UK" group-title="UK",Homes Under The Hammer
+#EXTINF:-1 tvg-id="HomesUnderHammer.us@UK" group-title="UK",Homes Under The Hammer
 https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
-#EXTINF:80 tvg-id="ITV2.uk@SD" group-title="UK",ITV2
+#EXTINF:-1 tvg-id="ITV2.uk@SD" group-title="UK",ITV2
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
-#EXTINF:66 tvg-id="ITV3.uk@SD" group-title="UK",ITV3 (1080p)
+#EXTINF:-1 tvg-id="ITV3.uk@SD" group-title="UK",ITV3 (1080p)
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
-#EXTINF:66 tvg-id="ITV4.uk@SD" group-title="UK",ITV4
+#EXTINF:-1 tvg-id="ITV4.uk@SD" group-title="UK",ITV4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
-#EXTINF:66 tvg-id="More4.uk@SD" group-title="UK",More4 HD
+#EXTINF:-1 tvg-id="More4.uk@SD" group-title="UK",More4 HD
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 
-#EXTINF:66 tvg-id="Eurosport.in@SD" group-title="Sports",Eurosport
+#EXTINF:-1 tvg-id="Eurosport.in@SD" group-title="Sports",Eurosport
 http://116.90.120.148:8000/play/a0ip/index.m3u8
-#EXTINF:66 tvg-id="SonySportsTen2.in@HD" group-title="Sports",Sony Sports Ten 2 HD
+#EXTINF:-1 tvg-id="SonySportsTen2.in@HD" group-title="Sports",Sony Sports Ten 2 HD
 http://116.90.120.148:8000/play/a0ih/index.m3u8
-#EXTINF:66 tvg-id="SonySportsTen3Hindi.in@HD" group-title="Sports",Sony Sports Ten 3 Hindi HD
+#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@HD" group-title="Sports",Sony Sports Ten 3 Hindi HD
 http://116.90.120.148:8000/play/a0go/index.m3u8
-#EXTINF:66 tvg-id="SonySportsTen5.in@HD" group-title="Sports",Sony Sports Ten 5 HD
+#EXTINF:-1 tvg-id="SonySportsTen5.in@HD" group-title="Sports",Sony Sports Ten 5 HD
 http://116.90.120.148:8000/play/a0hb/index.m3u8
-#EXTINF:66 tvg-id="StarSports1.in@HD" group-title="Sports",Star Sports 1 HD
+#EXTINF:-1 tvg-id="StarSports1.in@HD" group-title="Sports",Star Sports 1 HD
 http://116.90.120.148:8000/play/a0gs/index.m3u8
-#EXTINF:66 tvg-id="StarSports1Hindi.in@HD" group-title="Sports",Star Sports 1 HD Hindi
+#EXTINF:-1 tvg-id="StarSports1Hindi.in@HD" group-title="Sports",Star Sports 1 HD Hindi
 http://116.90.120.148:8000/play/a0je/index.m3u8
-#EXTINF:66 tvg-id="StarSports2Hindi.in@HD" group-title="Sports",Star Sports 2 HD Hindi
+#EXTINF:-1 tvg-id="StarSports2Hindi.in@HD" group-title="Sports",Star Sports 2 HD Hindi
 http://116.90.120.148:8000/play/a0hi/index.m3u8
-#EXTINF:66 tvg-id="StarSportsSelect1.in@HD" group-title="Sports",Star Sports Select 1 HD
+#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" group-title="Sports",Star Sports Select 1 HD
 http://116.90.120.148:8000/play/a0h9/index.m3u8
-#EXTINF:66 tvg-id="StarSportsSelect2.in@HD" group-title="Sports",Star Sports Select 2 HD
+#EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" group-title="Sports",Star Sports Select 2 HD
 http://116.90.120.148:8000/play/a0ha/index.m3u8
 #EXTINF:-1 tvg-id="PTVSports.pk" group-title="Sports",PTV Sports HD
 http://115.42.65.142:9981/stream/channelid/61446708
 
-#EXTINF:-1 tvg-id="local.uk",Cameras 1
+#EXTINF:-1 tvg-id="local.uk",Cameras
 http://192.168.0.7:1984/api/stream.mp4?src=cam_all
-
-#EXTINF:-1 tvg-id="local.uk",Cameras 2
-http://192.168.0.7:1984/api/stream.mp4?src=cam_all&mp4=all
-
-#EXTINF:-1 tvg-id="local.uk",Cameras 3
-http://192.168.0.7:1984/api/stream.mp4?src=cam_all&mp4=flac
-
-#EXTINF:-1 tvg-id="local.uk",Cameras 4
-http://192.168.0.7:1984/api/stream.mp4?src=cam_all&mp4=aac
-
-#EXTINF:-1 tvg-id="local.uk",Cameras 5
-http://192.168.0.7:1984/api/stream.m3u8?src=cam_all
