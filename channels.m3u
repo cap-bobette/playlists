@@ -203,16 +203,16 @@ http://116.90.120.148:8000/play/a0ha/index.m3u8
 http://115.42.65.142:9981/stream/channelid/61446708
 
 #EXTINF:-1 tvg-id="local.uk",Cameras 1
-http://192.168.0.7:1984/api/stream.m3u8?src=cam_all
+http://192.168.0.7:1984/api/stream.mp4?src=cam_all
 
 #EXTINF:-1 tvg-id="local.uk",Cameras 2
-http://192.168.0.7:1984/api/stream.m3u8?src=cam_all&mp4
+http://192.168.0.7:1984/api/stream.mp4?src=cam_all&mp4=all
 
 #EXTINF:-1 tvg-id="local.uk",Cameras 3
-http://192.168.0.7:1984/api/stream.m3u8?src=cam_all&mp4=flac
+http://192.168.0.7:1984/api/stream.mp4?src=cam_all&mp4=flac
 
 #EXTINF:-1 tvg-id="local.uk",Cameras 4
-http://192.168.0.7:1984/api/stream.m3u8?src=cam_all&mp4=aac
+http://192.168.0.7:1984/api/stream.mp4?src=cam_all&mp4=aac
 
 #EXTINF:-1 tvg-id="local.uk",Cameras 5
-http://192.168.0.7:1984/api/stream.mp4?src=cam_all
+http://192.168.0.7:1984/api/stream.m3u8?src=cam_all
