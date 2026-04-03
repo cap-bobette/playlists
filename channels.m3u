@@ -24,8 +24,8 @@ https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u
 #EXTINF:24 tvg-id="Andpictures.in@HD" group-title="India,EngMovies",& Picture HD
 http://116.90.120.148:8000/play/a0j4/index.m3u8
 #EXTINF:24 tvg-id="ZeeCinema.in@HD" group-title="India,Movies",Zee Cinema HD
-http://103.161.153.165:8000/play/a00q/index.m3u8
-##### http://116.90.120.148:8000/play/a0hc/index.m3u8
+##### http://103.161.153.165:8000/play/a00q/index.m3u8
+http://116.90.120.148:8000/play/a0hc/index.m3u8
 ##### http://116.90.120.151:8000/play/a0hc/index.m3u8
 ##### http://103.99.249.139/zeecinema/index.m3u8
 #EXTINF:24 tvg-id="ZeeBollywood.in@SD" group-title="India,Movies",Zee Bollywood
@@ -52,8 +52,8 @@ http://116.90.120.148:8000/play/a0ji/index.m3u8
 http://116.90.120.148:8000/play/a0kl/index.m3u8
 #EXTINF:0 tvg-id="ColorsCineplexBollywood.in@SD" group-title="India,Movies",Colors Cineplex Bollywood
 http://116.90.120.148:8000/play/a0ki/index.m3u8
-http://103.182.170.32:8888/play/a01o
 http://116.90.120.148:8000/play/a0ic/index.m3u8
+http://103.182.170.32:8888/play/a01o
 ##### #EXTINF:24 tvg-id="AnmolCinema.in@SD" group-title="India,Movies",Anmol Cinema Zee
 ##### http://116.90.120.148:8000/play/a0ks/index.m3u8
 #EXTINF:20 tvg-id="AnmolCinema.in@SD" group-title="India,Movies",Anmol Cinema
@@ -147,8 +147,8 @@ http://115.42.65.142:9981/stream/channelid/88258077
 http://115.42.65.142:9981/stream/channelid/1685338625
 #EXTINF:-1 tvg-id="" group-title="Pak,General",GreenEnt HD
 http://115.42.65.142:9981/stream/channelid/853035358
-#EXTINF:0 tvg-id="" group-title="Pak,General",Kay2 HD
-http://163.61.227.29:8000/play/a038/index.m3u8
+##### #EXTINF:0 tvg-id="" group-title="Pak,General",Kay2 HD
+##### http://163.61.227.29:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="PTVNational.pk" group-title="Pak,General",PTV National
 http://115.42.65.142:9981/stream/channelid/890157362
 #EXTINF:-1 tvg-id="PTVGlobal.pk" group-title="Pak,General",PTV Global
@@ -202,5 +202,17 @@ http://116.90.120.148:8000/play/a0ha/index.m3u8
 #EXTINF:-1 tvg-id="PTVSports.pk" group-title="Sports",PTV Sports HD
 http://115.42.65.142:9981/stream/channelid/61446708
 
-#EXTINF:-1 tvg-id="local.uk",Cameras
-http://homeassistant.local:1984/api/stream.m3u8?src=cam_all&mp4=flac
+#EXTINF:-1 tvg-id="local.uk",Cameras 1
+http://192.168.0.7:1984/api/stream.m3u8?src=cam_all
+
+#EXTINF:-1 tvg-id="local.uk",Cameras 2
+http://192.168.0.7:1984/api/stream.m3u8?src=cam_all&mp4
+
+#EXTINF:-1 tvg-id="local.uk",Cameras 3
+http://192.168.0.7:1984/api/stream.m3u8?src=cam_all&mp4=flac
+
+#EXTINF:-1 tvg-id="local.uk",Cameras 4
+http://192.168.0.7:1984/api/stream.m3u8?src=cam_all&mp4=aac
+
+#EXTINF:-1 tvg-id="local.uk",Cameras 5
+http://192.168.0.7:1984/api/stream.mp4?src=cam_all
