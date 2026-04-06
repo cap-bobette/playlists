@@ -9,9 +9,15 @@
     <icon src="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540" />
     <url>https://airtelxstream.in</url>
   </channel>
-  <channel id="LakshyaTV">
-    <display-name>Lakshya TV</display-name>
-    <url>https://tataplay.com</url>
+  <channel id="B4UMusic.in@India">
+    <display-name>B4U Music</display-name>
+    <icon src="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" />
+    <url>https://airtelxstream.in</url>
+  </channel>
+  <channel id="Zoom.in@SD">
+    <display-name>Zoom</display-name>
+    <icon src="https://dtil.tmsimg.com/assets/s157600_ld_h15_aa.png?lock=720x540" />
+    <url>https://airtelxstream.in</url>
   </channel>
   <channel id="ZEE24KALAK">
     <display-name>ZEE 24 KALAK</display-name>
@@ -323,22 +329,10 @@
     <icon src="https://dtil.tmsimg.com/assets/GNLZZGG0022J69M.png?lock=720x540" />
     <url>https://airtelxstream.in</url>
   </channel>
-  <channel id="Zoom.in@SD">
-    <display-name>Zoom</display-name>
-    <icon src="https://dtil.tmsimg.com/assets/s157600_ld_h15_aa.png?lock=720x540" />
-    <url>https://airtelxstream.in</url>
+  <channel id="LakshyaTV">
+    <display-name>Lakshya TV</display-name>
+    <url>https://tataplay.com</url>
   </channel>
-  <channel id="B4UMusic.in@India">
-    <display-name>B4U Music</display-name>
-    <icon src="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" />
-    <url>https://airtelxstream.in</url>
-  </channel>
-  <programme start="20260406093000 +0000" stop="20260406100000 +0000" channel="9XM.in@SD">
-    <title lang="en">9XM Bazillion Views</title>
-    <desc lang="en">It is a compilation of popular and romantic songs for all music lovers.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1297245_06APR150000_06APR153000/images/LANDSCAPE_169_HD/9XM_9XMBazillionViews_1297245.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1297245_06APR150000_06APR153000/images/LOGO/9XM_9XMBazillionViews_1297245.png" />
-  </programme>
   <programme start="20260406100000 +0000" stop="20260406103000 +0000" channel="9XM.in@SD">
     <title lang="en">9XM Bazillion Views</title>
     <desc lang="en">It is a compilation of popular and romantic songs for all music lovers.</desc>
@@ -2074,11 +2068,6 @@
     <episode-num system="onscreen">S01E97</episode-num>
     <image>https://mts-pro-cache-vip.dna.fi/meme/v2/ea2/12796501366764458036_aspect_ratio_16_9_1.jpg</image>
   </programme>
-  <programme start="20260406095300 +0000" stop="20260406101600 +0000" channel="Andflix.in@HD">
-    <title lang="en">Highlights - DPW ILT20 SW vs AK</title>
-    <desc lang="en">Highlights - DPW ILT20 SW vs AK</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SYMANDFLIX_HD_2062629_06APR152300_06APR154600/images/LANDSCAPE_169/1775427393000_FLIXHD_Highlights-DPWILT20SWvsAK_2062629.jpg</image>
-  </programme>
   <programme start="20260406101600 +0000" stop="20260406104100 +0000" channel="Andflix.in@HD">
     <title lang="en">Highlights - DPW ILT20 DC vs GG</title>
     <desc lang="en">Highlights - DPW ILT20 DC vs GG</desc>
@@ -2295,7 +2284,7 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SYMANDFLIX_HD_215441_07APR210000_08APR000000/images/LANDSCAPE_169_HD/FLIXHD_Movie_215441.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SYMANDFLIX_HD_215441_07APR210000_08APR000000/images/LOGO/FLIXHD_Movie_215441.png" />
   </programme>
-  <programme start="20260408100000 +0000" stop="20260409100000 +0000" channel="Andflix.in@HD">
+  <programme start="20260408102000 +0000" stop="20260409102000 +0000" channel="Andflix.in@HD">
     <title lang="en">&amp;flix HD</title>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_image.png" />
@@ -2377,7 +2366,7 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SYMAND_PICTURES_HD_189309_07APR210000_08APR000000/images/LANDSCAPE_169_HD/PICTURESHD_Movie_189309.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SYMAND_PICTURES_HD_189309_07APR210000_08APR000000/images/LOGO/PICTURESHD_Movie_189309.png" />
   </programme>
-  <programme start="20260408100000 +0000" stop="20260409100000 +0000" channel="Andpictures.in@HD">
+  <programme start="20260408102000 +0000" stop="20260409102000 +0000" channel="Andpictures.in@HD">
     <title lang="en">&amp; Pictures HD</title>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMAND_PICTURES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMAND_PICTURES_HD/images/LOGO_HD/LOGO_HD_image.png" />
@@ -2437,7 +2426,7 @@
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SYMANDPRIVE_HD_513899_07APR210000_08APR000000/images/LANDSCAPE_169/1694646177000_PRIVEHD_Movie_513899.jpg</image>
   </programme>
-  <programme start="20260408100000 +0000" stop="20260409100000 +0000" channel="AndpriveHD.in@SD">
+  <programme start="20260408102000 +0000" stop="20260409102000 +0000" channel="AndpriveHD.in@SD">
     <title lang="en">&amp;Prive HD</title>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDPRIVE_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDPRIVE_HD/images/LOGO_HD/LOGO_HD_image.png" />
@@ -2526,7 +2515,7 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SYMANDXPLOR_HD_807690_07APR210000_08APR000000/images/LANDSCAPE_169_HD/AndxplorHD_Movie_807690.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SYMANDXPLOR_HD_807690_07APR210000_08APR000000/images/LOGO/AndxplorHD_Movie_807690.png" />
   </programme>
-  <programme start="20260408100000 +0000" stop="20260409100000 +0000" channel="AndxplorHD.in@HD">
+  <programme start="20260408102000 +0000" stop="20260409102000 +0000" channel="AndxplorHD.in@HD">
     <title lang="en">&amp;Xplor HD</title>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png" />
@@ -3709,7 +3698,7 @@
   <programme start="20260406000000 +0000" stop="20260406003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p2086254153192c73111b734868263f84?w=800</image>
+    <image>https://img.freeviewplay.tv/p5339d4442f92dee748e290516be3fa5a?w=800</image>
   </programme>
   <programme start="20260406003000 +0000" stop="20260406010000 +0000" channel="BBCNews.uk">
     <title lang="en">Baby Brain: What's Really Going On?</title>
@@ -3734,7 +3723,7 @@
   <programme start="20260406020000 +0000" stop="20260406023000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
     <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p97a4bf1d13976530c02060ab4b496eac?w=800</image>
+    <image>https://img.freeviewplay.tv/pbeb0292400c32b6ba0f47577e7af4d8e?w=800</image>
   </programme>
   <programme start="20260406023000 +0000" stop="20260406024500 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -3764,12 +3753,12 @@
   <programme start="20260406040000 +0000" stop="20260406043000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p3c3fc2340a09a245f9969489d94aeaf3?w=800</image>
+    <image>https://img.freeviewplay.tv/p4962aee7ef268a7d10eae270dc6a25ad?w=800</image>
   </programme>
   <programme start="20260406043000 +0000" stop="20260406050000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p4962aee7ef268a7d10eae270dc6a25ad?w=800</image>
+    <image>https://img.freeviewplay.tv/p3c3fc2340a09a245f9969489d94aeaf3?w=800</image>
   </programme>
   <programme start="20260406050000 +0000" stop="20260406053000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -3799,17 +3788,17 @@
   <programme start="20260406073000 +0000" stop="20260406080000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p3c3fc2340a09a245f9969489d94aeaf3?w=800</image>
+    <image>https://img.freeviewplay.tv/p4962aee7ef268a7d10eae270dc6a25ad?w=800</image>
   </programme>
   <programme start="20260406080000 +0000" stop="20260406083000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p3c3fc2340a09a245f9969489d94aeaf3?w=800</image>
+    <image>https://img.freeviewplay.tv/p4962aee7ef268a7d10eae270dc6a25ad?w=800</image>
   </programme>
   <programme start="20260406083000 +0000" stop="20260406090000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p3c3fc2340a09a245f9969489d94aeaf3?w=800</image>
+    <image>https://img.freeviewplay.tv/p4962aee7ef268a7d10eae270dc6a25ad?w=800</image>
   </programme>
   <programme start="20260406090000 +0000" stop="20260406093000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -3824,7 +3813,7 @@
   <programme start="20260406100000 +0000" stop="20260406103000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p3c3fc2340a09a245f9969489d94aeaf3?w=800</image>
+    <image>https://img.freeviewplay.tv/p4962aee7ef268a7d10eae270dc6a25ad?w=800</image>
   </programme>
   <programme start="20260406103000 +0000" stop="20260406104500 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -3834,7 +3823,7 @@
   <programme start="20260406104500 +0000" stop="20260406110000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p3c3fc2340a09a245f9969489d94aeaf3?w=800</image>
+    <image>https://img.freeviewplay.tv/p4962aee7ef268a7d10eae270dc6a25ad?w=800</image>
   </programme>
   <programme start="20260406110000 +0000" stop="20260406113000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -3849,12 +3838,12 @@
   <programme start="20260406120000 +0000" stop="20260406123000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p3c3fc2340a09a245f9969489d94aeaf3?w=800</image>
+    <image>https://img.freeviewplay.tv/p4962aee7ef268a7d10eae270dc6a25ad?w=800</image>
   </programme>
   <programme start="20260406123000 +0000" stop="20260406130000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p3c3fc2340a09a245f9969489d94aeaf3?w=800</image>
+    <image>https://img.freeviewplay.tv/p4962aee7ef268a7d10eae270dc6a25ad?w=800</image>
   </programme>
   <programme start="20260406130000 +0000" stop="20260406133000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -3869,7 +3858,7 @@
   <programme start="20260406134500 +0000" stop="20260406140000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p4962aee7ef268a7d10eae270dc6a25ad?w=800</image>
+    <image>https://img.freeviewplay.tv/p3c3fc2340a09a245f9969489d94aeaf3?w=800</image>
   </programme>
   <programme start="20260406140000 +0000" stop="20260406143000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -3879,12 +3868,12 @@
   <programme start="20260406143000 +0000" stop="20260406150000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p3c3fc2340a09a245f9969489d94aeaf3?w=800</image>
+    <image>https://img.freeviewplay.tv/p4962aee7ef268a7d10eae270dc6a25ad?w=800</image>
   </programme>
   <programme start="20260406150000 +0000" stop="20260406153000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p3c3fc2340a09a245f9969489d94aeaf3?w=800</image>
+    <image>https://img.freeviewplay.tv/p4962aee7ef268a7d10eae270dc6a25ad?w=800</image>
   </programme>
   <programme start="20260406153000 +0000" stop="20260406154500 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -3894,7 +3883,7 @@
   <programme start="20260406154500 +0000" stop="20260406160000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p3c3fc2340a09a245f9969489d94aeaf3?w=800</image>
+    <image>https://img.freeviewplay.tv/p4962aee7ef268a7d10eae270dc6a25ad?w=800</image>
   </programme>
   <programme start="20260406160000 +0000" stop="20260406163000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -3924,12 +3913,12 @@
   <programme start="20260406180000 +0000" stop="20260406183000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p3c3fc2340a09a245f9969489d94aeaf3?w=800</image>
+    <image>https://img.freeviewplay.tv/p4962aee7ef268a7d10eae270dc6a25ad?w=800</image>
   </programme>
   <programme start="20260406183000 +0000" stop="20260406190000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p3c3fc2340a09a245f9969489d94aeaf3?w=800</image>
+    <image>https://img.freeviewplay.tv/p4962aee7ef268a7d10eae270dc6a25ad?w=800</image>
   </programme>
   <programme start="20260406190000 +0000" stop="20260406193000 +0000" channel="BBCNews.uk">
     <title lang="en">The Context USA</title>
@@ -4029,7 +4018,7 @@
   <programme start="20260407040000 +0000" stop="20260407043000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p67080a071107db16bbca272b7c4447f5?w=800</image>
+    <image>https://img.freeviewplay.tv/p5b0426ae3d7e2451380fe186e233b079?w=800</image>
   </programme>
   <programme start="20260407043000 +0000" stop="20260407050000 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -4039,7 +4028,7 @@
   <programme start="20260407050000 +0000" stop="20260407053000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p67080a071107db16bbca272b7c4447f5?w=800</image>
+    <image>https://img.freeviewplay.tv/p5b0426ae3d7e2451380fe186e233b079?w=800</image>
   </programme>
   <programme start="20260407053000 +0000" stop="20260407060000 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -4059,12 +4048,12 @@
   <programme start="20260407070000 +0000" stop="20260407073000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p67080a071107db16bbca272b7c4447f5?w=800</image>
+    <image>https://img.freeviewplay.tv/p5b0426ae3d7e2451380fe186e233b079?w=800</image>
   </programme>
   <programme start="20260407073000 +0000" stop="20260407080000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p67080a071107db16bbca272b7c4447f5?w=800</image>
+    <image>https://img.freeviewplay.tv/p5b0426ae3d7e2451380fe186e233b079?w=800</image>
   </programme>
   <programme start="20260407080000 +0000" stop="20260407083000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -4084,12 +4073,12 @@
   <programme start="20260407093000 +0000" stop="20260407100000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p67080a071107db16bbca272b7c4447f5?w=800</image>
+    <image>https://img.freeviewplay.tv/p5b0426ae3d7e2451380fe186e233b079?w=800</image>
   </programme>
   <programme start="20260407100000 +0000" stop="20260407103000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p67080a071107db16bbca272b7c4447f5?w=800</image>
+    <image>https://img.freeviewplay.tv/p5b0426ae3d7e2451380fe186e233b079?w=800</image>
   </programme>
   <programme start="20260407103000 +0000" stop="20260407104500 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -4099,7 +4088,7 @@
   <programme start="20260407104500 +0000" stop="20260407110000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p67080a071107db16bbca272b7c4447f5?w=800</image>
+    <image>https://img.freeviewplay.tv/p5b0426ae3d7e2451380fe186e233b079?w=800</image>
   </programme>
   <programme start="20260407110000 +0000" stop="20260407113000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
@@ -4239,7 +4228,7 @@
   <programme start="20260408000000 +0000" stop="20260408003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p0170ee29182e04accf9edf9bae6c66f0?w=800</image>
+    <image>https://img.freeviewplay.tv/p71220643c26619d642141ba6e3c7d4b7?w=800</image>
   </programme>
   <programme start="20260408003000 +0000" stop="20260408010000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
@@ -4324,37 +4313,37 @@
   <programme start="20260408070000 +0000" stop="20260408073000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p0170ee29182e04accf9edf9bae6c66f0?w=800</image>
+    <image>https://img.freeviewplay.tv/p71220643c26619d642141ba6e3c7d4b7?w=800</image>
   </programme>
   <programme start="20260408073000 +0000" stop="20260408080000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p71220643c26619d642141ba6e3c7d4b7?w=800</image>
+    <image>https://img.freeviewplay.tv/p0170ee29182e04accf9edf9bae6c66f0?w=800</image>
   </programme>
   <programme start="20260408080000 +0000" stop="20260408083000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p71220643c26619d642141ba6e3c7d4b7?w=800</image>
+    <image>https://img.freeviewplay.tv/p0170ee29182e04accf9edf9bae6c66f0?w=800</image>
   </programme>
   <programme start="20260408083000 +0000" stop="20260408090000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p0170ee29182e04accf9edf9bae6c66f0?w=800</image>
+    <image>https://img.freeviewplay.tv/p71220643c26619d642141ba6e3c7d4b7?w=800</image>
   </programme>
   <programme start="20260408090000 +0000" stop="20260408093000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p71220643c26619d642141ba6e3c7d4b7?w=800</image>
+    <image>https://img.freeviewplay.tv/p0170ee29182e04accf9edf9bae6c66f0?w=800</image>
   </programme>
   <programme start="20260408093000 +0000" stop="20260408100000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p71220643c26619d642141ba6e3c7d4b7?w=800</image>
+    <image>https://img.freeviewplay.tv/p0170ee29182e04accf9edf9bae6c66f0?w=800</image>
   </programme>
   <programme start="20260408100000 +0000" stop="20260408103000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p71220643c26619d642141ba6e3c7d4b7?w=800</image>
+    <image>https://img.freeviewplay.tv/p0170ee29182e04accf9edf9bae6c66f0?w=800</image>
   </programme>
   <programme start="20260408103000 +0000" stop="20260408104500 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -4364,7 +4353,7 @@
   <programme start="20260408104500 +0000" stop="20260408110000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p71220643c26619d642141ba6e3c7d4b7?w=800</image>
+    <image>https://img.freeviewplay.tv/p0170ee29182e04accf9edf9bae6c66f0?w=800</image>
   </programme>
   <programme start="20260408110000 +0000" stop="20260408113000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
@@ -4429,7 +4418,7 @@
   <programme start="20260408163000 +0000" stop="20260408170000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p0170ee29182e04accf9edf9bae6c66f0?w=800</image>
+    <image>https://img.freeviewplay.tv/p71220643c26619d642141ba6e3c7d4b7?w=800</image>
   </programme>
   <programme start="20260408170000 +0000" stop="20260408173000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News at Six</title>
@@ -4819,7 +4808,7 @@
   <programme start="20260408153000 +0000" stop="20260408161500 +0000" channel="BBCOne.uk@LondonHD">
     <title lang="en">The Finish Line</title>
     <desc lang="en">Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where contestants race in moving podiums across the studio floor. Correct answers get the players moving, while wrong answers will stop them in their tracks. Five contestants – Sam, Amanda, Jamie, Laurie and Jonty – battle across a series of fast-paced qualifiers and head-to-head races where the aim of the game is simple – make it to the finish line before your rivals. The winner then races against the track itself in an attempt to win the £5,000 cash prize.</desc>
-    <image>https://img.freeviewplay.tv/pcc9f6b944b6d4285dbed2f118743fc77?w=800</image>
+    <image>https://img.freeviewplay.tv/pa2e94e2e77f40f2072516055e3ef3b55?w=800</image>
   </programme>
   <programme start="20260408161500 +0000" stop="20260408170000 +0000" channel="BBCOne.uk@LondonHD">
     <title lang="en">Pointless</title>
@@ -4969,7 +4958,7 @@
   <programme start="20260407025500 +0000" stop="20260407043000 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm</desc>
-    <image>https://img.freeviewplay.tv/p47a92a6af1bfeb383bf9beeae843d970?w=800</image>
+    <image>https://img.freeviewplay.tv/pa2bd173369ea0efe6fd731e911367515?w=800</image>
   </programme>
   <programme start="20260407043000 +0000" stop="20260407175800 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
@@ -4979,7 +4968,7 @@
   <programme start="20260407175800 +0000" stop="20260407180000 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm</desc>
-    <image>https://img.freeviewplay.tv/p47a92a6af1bfeb383bf9beeae843d970?w=800</image>
+    <image>https://img.freeviewplay.tv/pa2bd173369ea0efe6fd731e911367515?w=800</image>
   </programme>
   <programme start="20260407180000 +0000" stop="20260407180500 +0000" channel="BBCThree.uk@HD">
     <title lang="en">The Catch Up</title>
@@ -5179,7 +5168,7 @@
   <programme start="20260406180000 +0000" stop="20260406183000 +0000" channel="BBCTwo.uk@HD">
     <title lang="en">Global Eye</title>
     <desc lang="en">A weekly programme from the BBC World Service, bringing forensic journalism from all corners of the world by BBC Eye, the World Service's critically acclaimed investigative unit, and featuring expert global correspondents getting to the heart of the biggest international stories. This week, the Eye team investigates Chinese disciplinary schools promising to ‘fix’ problem children at a devastating cost. And we’ll hear how a growing number of girls In India are challenging the practice of child marriage, using sport to forge their own futures.</desc>
-    <image>https://img.freeviewplay.tv/p0f4a404a6665a4344f37a6c2768c5a49?w=800</image>
+    <image>https://img.freeviewplay.tv/pd6c69fc3bf298b4bfc1390f5b526ca0c?w=800</image>
   </programme>
   <programme start="20260406183000 +0000" stop="20260406190000 +0000" channel="BBCTwo.uk@HD">
     <title lang="en">Extraordinary Portraits</title>
@@ -5379,7 +5368,7 @@
   <programme start="20260408080000 +0000" stop="20260408120000 +0000" channel="BBCTwo.uk@HD">
     <title lang="en">BBC News</title>
     <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <image>https://img.freeviewplay.tv/p0170ee29182e04accf9edf9bae6c66f0?w=800</image>
+    <image>https://img.freeviewplay.tv/p71220643c26619d642141ba6e3c7d4b7?w=800</image>
   </programme>
   <programme start="20260408120000 +0000" stop="20260408124500 +0000" channel="BBCTwo.uk@HD">
     <title lang="en">Impossible</title>
@@ -7526,7 +7515,7 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_HD_438752_07APR210000_08APR000000/images/LANDSCAPE_169_HD/ColorsCineplexHD_Movie_438752.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_HD_438752_07APR210000_08APR000000/images/LOGO/ColorsCineplexHD_Movie_438752.png" />
   </programme>
-  <programme start="20260408100000 +0000" stop="20260409100000 +0000" channel="ColorsCineplex.in@HD">
+  <programme start="20260408102000 +0000" stop="20260409102000 +0000" channel="ColorsCineplex.in@HD">
     <title lang="en">Colors Cineplex HD</title>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png" />
@@ -7596,7 +7585,7 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_BOLLYWOOD_1117090_07APR210000_08APR000000/images/LANDSCAPE_169_HD/COLORSCINEPLEXBOLLYWOOD_Movie_1117090.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_BOLLYWOOD_1117090_07APR210000_08APR000000/images/LOGO/COLORSCINEPLEXBOLLYWOOD_Movie_1117090.png" />
   </programme>
-  <programme start="20260408100000 +0000" stop="20260409100000 +0000" channel="ColorsCineplexBollywood.in@SD">
+  <programme start="20260408102000 +0000" stop="20260409102000 +0000" channel="ColorsCineplexBollywood.in@SD">
     <title lang="en">COLORS CINEPLEX BOLLYWOOD</title>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD/images/LOGO_HD/image.png" />
@@ -7671,7 +7660,7 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_SUPERHITS_988690_07APR210000_08APR000000/images/LANDSCAPE_169_HD/ColorsCineplexSuperhits_Movie_988690.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_SUPERHITS_988690_07APR210000_08APR000000/images/LOGO/ColorsCineplexSuperhits_Movie_988690.png" />
   </programme>
-  <programme start="20260408100000 +0000" stop="20260409100000 +0000" channel="ColorsCineplexSuperhits.in@SD">
+  <programme start="20260408102000 +0000" stop="20260409102000 +0000" channel="ColorsCineplexSuperhits.in@SD">
     <title lang="en">Colors Cineplex Superhits</title>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png" />
@@ -10923,17 +10912,17 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_09APR151500_09APR174500/images/LANDSCAPE_169/1702250524000_MOVIESNOWHD_Movie_362522.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_09APR151500_09APR174500/images/LOGO/MOVIESNOWHD_Movie_362522.png" />
   </programme>
-  <programme start="20260406100000 +0000" stop="20260407100000 +0000" channel="MoviesNowPlus.in@SD">
+  <programme start="20260406102000 +0000" stop="20260407102000 +0000" channel="MoviesNowPlus.in@SD">
     <title lang="en">MN+</title>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LANDSCAPE_169_HD/image.png</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png" />
   </programme>
-  <programme start="20260407100000 +0000" stop="20260408100000 +0000" channel="MoviesNowPlus.in@SD">
+  <programme start="20260407102000 +0000" stop="20260408102000 +0000" channel="MoviesNowPlus.in@SD">
     <title lang="en">MN+</title>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LANDSCAPE_169_HD/image.png</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png" />
   </programme>
-  <programme start="20260408100000 +0000" stop="20260409100000 +0000" channel="MoviesNowPlus.in@SD">
+  <programme start="20260408102000 +0000" stop="20260409102000 +0000" channel="MoviesNowPlus.in@SD">
     <title lang="en">MN+</title>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LANDSCAPE_169_HD/image.png</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png" />
@@ -11472,7 +11461,7 @@
     <title lang="en">News</title>
     <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
   </programme>
-  <programme start="20260407053500 +0000" stop="20260407063000 +0000" channel="SamaaTV">
+  <programme start="20260407053500 +0000" stop="20260407060500 +0000" channel="SamaaTV">
     <title lang="en">Best Of Naya Din</title>
     <desc lang="en">Discussions on current affairs, social trends and talents.</desc>
   </programme>
@@ -12456,7 +12445,7 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PIX_HD_174077_07APR210000_08APR000000/images/LANDSCAPE_169_HD/PIXHD_Movie_174077.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PIX_HD_174077_07APR210000_08APR000000/images/LOGO/PIXHD_Movie_174077.png" />
   </programme>
-  <programme start="20260408100000 +0000" stop="20260409100000 +0000" channel="SonyPix.in@HD">
+  <programme start="20260408102000 +0000" stop="20260409102000 +0000" channel="SonyPix.in@HD">
     <title lang="en">Sony Pix HD</title>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PIX_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PIX_HD/images/LOGO_HD/image.png" />
@@ -12898,12 +12887,6 @@
     <title lang="en">UEFA Europa League 2025/26 Quarter-Final - Leg 1 - Braga vs Real Batis</title>
     <desc lang="en">UEFA Europa League 2025/26 Quarter-Final - Leg 1 - Braga vs Real Batis</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2063022_09APR150000_09APR170000/images/LANDSCAPE_169/1756684870000_Sports_201.jpg</image>
-  </programme>
-  <programme start="20260406090000 +0000" stop="20260406100000 +0000" channel="SonySportsTen3Hindi.in@HD">
-    <title lang="en">Asia Cup 2010 : IND v PAK Highlights</title>
-    <desc lang="en">Watch the cricket highlights of Asia Cup 2010 match held between India and Pakistan at Rangiri Dambulla Stadium, Sri Lanka on June 19, 2010.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_3_HD_1940138_06APR143000_06APR153000/images/LANDSCAPE_169_HD/SonySportsTen3HindiHD_AsiaCup2010INDvPAKHighlights_1940138.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_3_HD_1940138_06APR143000_06APR153000/images/LOGO/SonySportsTen3HindiHD_AsiaCup2010INDvPAKHighlights_1940138.png" />
   </programme>
   <programme start="20260406100000 +0000" stop="20260406110000 +0000" channel="SonySportsTen3Hindi.in@HD">
     <title lang="en">Sri Lanka vs India 2017- 1st ODI Highlights</title>
@@ -13869,12 +13852,6 @@
     <title lang="en">INDIAN FOOTBALL LEAGUE 2025-26 MD 6 Rajasthan United FC vs Chanmari FC Highlights</title>
     <desc lang="en">INDIAN FOOTBALL LEAGUE 2025-26 MD 6 Rajasthan United FC vs Chanmari FC Highlights</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_5_HD_2058683_09APR153000_09APR160000/images/LANDSCAPE_169/1775088592000_SONYSportsTEN5HD_INDIANFOOTBALLLEAGUE2025-26MD6RajasthanUnitedFCvsChanmariFCHighlights_2058683.jpg</image>
-  </programme>
-  <programme start="20260406073600 +0000" stop="20260406100700 +0000" channel="StarGold2.in@SD">
-    <title lang="en">Dumdar Khiladi</title>
-    <desc lang="en">Anu and Sanju develop a great bond after the later arrives in Hyderabad and moves in with Anu and her father. However, they realise their love for each other when Anu is set to marry another man.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_2_914547_06APR130600_06APR153700/images/LANDSCAPE_169_HD/StarGold2_DumdarKhiladi_914547.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_2_914547_06APR130600_06APR153700/images/LOGO/StarGold2_DumdarKhiladi_914547.png" />
   </programme>
   <programme start="20260406100700 +0000" stop="20260406131100 +0000" channel="StarGold2.in@SD">
     <title lang="en">Student Of The Year</title>
@@ -15062,12 +15039,6 @@
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_MOVIES_SELECT_HD_254781_09APR150000_09APR180000/images/LANDSCAPE_169/1722674273000_StarMoviesSelectHD_Movie_254781.jpg</image>
   </programme>
-  <programme start="20260406094500 +0000" stop="20260406100000 +0000" channel="StarSports1.in@HD">
-    <title lang="en">TATA IPL 2023 HIGHLIGHTS KKR v PBKS</title>
-    <desc lang="en">Watch the exciting IPL 2023 highlights of the KKR vs PBKS match. This video summarizes key moments, big hits, and dramatic plays from the game.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_1446403_06APR151500_06APR153000/images/LANDSCAPE_169_HD/StarSportsHD1_TATAIPL2023HIGHLIGHTSKKRvPBKS_1446403.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_1446403_06APR151500_06APR153000/images/LOGO/StarSportsHD1_TATAIPL2023HIGHLIGHTSKKRvPBKS_1446403.png" />
-  </programme>
   <programme start="20260406100000 +0000" stop="20260406103000 +0000" channel="StarSports1.in@HD">
     <title lang="en">TATA IPL 2026 HLs RCB v CSK</title>
     <desc lang="en">Highlights of the IPL match from the 2026 season 19</desc>
@@ -16043,12 +16014,6 @@
     <desc lang="en">Highlights of the IPL match from the 2026 season 19</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2061013_09APR153000_09APR160000/images/LANDSCAPE_169/1756684870000_Sports_201.jpg</image>
   </programme>
-  <programme start="20260406094500 +0000" stop="20260406100000 +0000" channel="StarSports1Hindi.in@HD">
-    <title lang="en">TATA IPL 2025 HLs PBKS v KKR</title>
-    <desc lang="en">PBKS defended just 112 to beat KKR by 16 runs in Mullanpur. Chahal's 4/28 and Jansen's 3/17 triggered a collapse from 62/2 to 95 all out, sealing a historic low-score win.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_1856107_06APR151500_06APR153000/images/LANDSCAPE_169_HD/STARSPORTS1HINDIHD_TATAIPL2025HLsPBKSvKKR_1856107.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_1856107_06APR151500_06APR153000/images/LOGO/STARSPORTS1HINDIHD_TATAIPL2025HLsPBKSvKKR_1856107.png" />
-  </programme>
   <programme start="20260406100000 +0000" stop="20260406103000 +0000" channel="StarSports1Hindi.in@HD">
     <title lang="en">TATA IPL 2026 HLs RCB v CSK</title>
     <desc lang="en">Highlights of the IPL match from the 2026 season 19</desc>
@@ -16792,11 +16757,6 @@
     <desc lang="en">Highlights of the IPL match from the 2026 season 19</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2060992_08APR233000_09APR000000/images/LANDSCAPE_169/1756684870000_Sports_201.jpg</image>
   </programme>
-  <programme start="20260406094500 +0000" stop="20260406100000 +0000" channel="StarSports2Hindi.in@HD">
-    <title lang="en">TATA IPL 2026 HLs SRH v LSG</title>
-    <desc lang="en">Highlights of the IPL match from the 2026 season 19</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2060110_06APR151500_06APR153000/images/LANDSCAPE_169/1756684870000_STARSPORTS1HINDIHD_TATAIPL2026HLsSRHvLSG_2059743.jpg</image>
-  </programme>
   <programme start="20260406100000 +0000" stop="20260406103000 +0000" channel="StarSports2Hindi.in@HD">
     <title lang="en">TATA IPL 2026 - Cricket Countdown</title>
     <desc lang="en">TATA IPL 2026 a?' Cricket Countdown celebrates the tournament's most thrilling moments, revisiting iconic performances, turning points, and unforgettable highlights from past IPL seasons.</desc>
@@ -17258,15 +17218,10 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_1817039_07APR233000_08APR000000/images/LANDSCAPE_169_HD/StarSports2HindiHD_TATAWPLHLsMIvDC_1817039.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_1817039_07APR233000_08APR000000/images/LOGO/StarSports2HindiHD_TATAWPLHLsMIvDC_1817039.png" />
   </programme>
-  <programme start="20260408100000 +0000" stop="20260409100000 +0000" channel="StarSports2Hindi.in@HD">
+  <programme start="20260408102000 +0000" stop="20260409102000 +0000" channel="StarSports2Hindi.in@HD">
     <title lang="en">Star Sports 2 Hindi HD</title>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SPORTS18_SYMHYP_1_HD/images/LANDSCAPE_169_HD/image.png</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SPORTS18_SYMHYP_1_HD/images/LOGO_HD/image.png" />
-  </programme>
-  <programme start="20260406093000 +0000" stop="20260406100000 +0000" channel="StarSportsSelect1.in@HD">
-    <title lang="en">PL Highlights Sunderland v Liverpool</title>
-    <desc lang="en">Get the glimpse of Premier League 2025-26 Live football as Sunderland face Liverpool at the Stadium of Light, delivering high-stakes intensity and competitive league drama.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_1_HD_2034505_06APR150000_06APR153000/images/LANDSCAPE_169/1770742350000_StarSportsSelectHD1_PLHighlightsSunderlandvLiverpool_2034505.jpg</image>
   </programme>
   <programme start="20260406100000 +0000" stop="20260406103000 +0000" channel="StarSportsSelect1.in@HD">
     <title lang="en">PL Highlights Man City v Fulham</title>
@@ -17829,11 +17784,6 @@
     <title lang="en">PL 25-26 Man City v Chelsea</title>
     <desc lang="en">PL 25-26</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_1_HD_2007587_08APR230000_09APR000000/images/LANDSCAPE_169/1767455578000_StarSportsSelectHD1_PL25-26ManCityvChelsea_2007587.jpg</image>
-  </programme>
-  <programme start="20260406093000 +0000" stop="20260406100000 +0000" channel="StarSportsSelect2.in@HD">
-    <title lang="en">PL Classic Man City v Chelsea</title>
-    <desc lang="en">A trip down memory lane with highlights of some classics from the Premier League</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_2_HD_1122114_06APR150000_06APR153000/images/LANDSCAPE_169/1767455803000_StarSportsSelectHD2_PLClassicManCityvChelsea_1122114.jpg</image>
   </programme>
   <programme start="20260406100000 +0000" stop="20260406103000 +0000" channel="StarSportsSelect2.in@HD">
     <title lang="en">TATA IPL 2026 - Cricket Countdown</title>
@@ -19231,12 +19181,6 @@
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_BOLLYWOOD_193657_09APR143300_09APR180700/images/LANDSCAPE_169_HD/ZeeBollywood_Movie_193657.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_BOLLYWOOD_193657_09APR143300_09APR180700/images/LOGO/ZeeBollywood_Movie_193657.png" />
-  </programme>
-  <programme start="20260406073300 +0000" stop="20260406101000 +0000" channel="ZeeCinema.in@HD">
-    <title lang="en">Ramaiya Vastavaiya</title>
-    <desc lang="en">Starring: Shruti Haasan,Girish Taurani. Urbanite Ram falls for rural beauty Sona, nurtured by her brother Raghuveer. Ram faces a test to earn Raghuveer's approval after a family dispute.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_CINEMA_HD_78514_06APR130300_06APR154000/images/LANDSCAPE_169_HD/ZeeCinemaHD_RamaiyaVastavaiya_78514.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_CINEMA_HD_78514_06APR130300_06APR154000/images/LOGO/ZeeCinemaHD_RamaiyaVastavaiya_78514.png" />
   </programme>
   <programme start="20260406101000 +0000" stop="20260406120300 +0000" channel="ZeeCinema.in@HD">
     <title lang="en">Mei</title>
