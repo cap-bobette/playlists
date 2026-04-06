@@ -23,23 +23,23 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 ##### 1 of 2: Below is copied from channels.m3u - eng to indian music
 
-#EX#EXTINF:-1 tvg-id="AndpriveHD.in@SD" group-title="India,EngMovies",Eng & PRIVE HD
-http://116.90.120.148:8000/play/a0it/index.m3u8
-#EXTINF:-1 tvg-id="Andflix.in@HD" group-title="India,EngMovies",Eng & Flix HD
+#EXTINF:-1 tvg-id="Andflix.in@HD" group-title="India,EngMovies",& Flix HD
 http://116.90.120.148:8000/play/a0il/index.m3u8
 http://103.161.153.165:8000/play/a01z/index.m3u8
-#EXTINF:-1 tvg-id="StarMovies.in@HD" group-title="India,EngMovies",Eng Star Movies HD
+#EXTINF:-1 tvg-id="AndpriveHD.in@SD" group-title="India,EngMovies",& PRIVE HD
+http://116.90.120.148:8000/play/a0it/index.m3u8
+#EXTINF:-1 tvg-id="StarMovies.in@HD" group-title="India,EngMovies",Star Movies HD
 http://116.90.120.148:8000/play/a0ik/index.m3u8
-#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" group-title="India,EngMovies",Eng Star Movies Select
+#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" group-title="India,EngMovies",Star Movies Select
 http://116.90.120.148:8000/play/a0ij/index.m3u8
 http://103.161.153.165:8000/play/strmshd/index.m3u8
-#EXTINF:-1 tvg-id="SonyPix.in@HD" group-title="India,EngMovies",Eng Sony Pix HD
+#EXTINF:-1 tvg-id="SonyPix.in@HD" group-title="India,EngMovies",Sony Pix HD
 http://116.90.120.148:8000/play/a0ii/index.m3u8
 http://103.161.153.165:8000/play/a04f/index.m3u8
-#EXTINF:-1 tvg-id="MoviesNow.in@HD" group-title="India,EngMovies",Eng Movies Now HD
+#EXTINF:-1 tvg-id="MoviesNow.in@HD" group-title="India,EngMovies",Movies Now HD
 http://116.90.120.148:8000/play/a0ib/index.m3u8
 http://103.161.153.165:8000/play/mnh/index.m3u8
-#EXTINF:-1 tvg-id="MoviesNowPlus.in@SD" group-title="India,EngMovies",Eng MN+ HD
+#EXTINF:-1 tvg-id="MoviesNowPlus.in@SD" group-title="India,EngMovies",MN+ HD
 http://116.90.120.148:8000/play/a0i4/index.m3u8
 #EXTINF:-1 tvg-id="Film4.uk@SD" group-title="UK,EngMovies",Film4 HD
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
@@ -51,7 +51,7 @@ https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u
 #EXTINF:-1 tvg-id="Andpictures.in@HD" group-title="India,EngMovies",& Picture HD
 http://116.90.120.148:8000/play/a0j4/index.m3u8
 http://103.161.153.165:8000/play/a05u/index.m3u8
-#EXTINF:-1 tvg-id="AndxplorHD.in@HD" group-title="India,EngMovies", Xplor HD
+#EXTINF:-1 tvg-id="AndxplorHD.in@HD" group-title="India,EngMovies",& Xplor HD
 http://103.161.153.165:8000/play/a05m/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@HD" group-title="India,Movies",Zee Cinema HD
 http://116.90.120.148:8000/play/a0hc/index.m3u8
