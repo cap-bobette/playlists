@@ -4,6 +4,7 @@
 http://116.90.120.148:8000/play/a0it/index.m3u8
 #EXTINF:-1 tvg-id="Andflix.in@HD" group-title="India,EngMovies",Eng & Flix HD
 http://116.90.120.148:8000/play/a0il/index.m3u8
+http://103.161.153.165:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" group-title="India,EngMovies",Eng Star Movies HD
 http://116.90.120.148:8000/play/a0ik/index.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" group-title="India,EngMovies",Eng Star Movies Select
@@ -23,6 +24,7 @@ https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Andpictures.in@HD" group-title="India,EngMovies",& Picture HD
 http://116.90.120.148:8000/play/a0j4/index.m3u8
+http://103.161.153.165:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@HD" group-title="India,Movies",Zee Cinema HD
 ##### http://103.161.153.165:8000/play/a00q/index.m3u8
 http://116.90.120.148:8000/play/a0hc/index.m3u8
