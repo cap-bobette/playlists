@@ -26,6 +26,7 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MOVIES_NOW_HD" lang="en" xmltv_id="MoviesNow.in@HD">Movies Now HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNSYMPLUS" lang="en" xmltv_id="MoviesNowPlus.in@SD">MN+</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMAND_PICTURES_HD" lang="en" xmltv_id="Andpictures.in@HD">&amp; Pictures HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD" lang="en" xmltv_id="AndxplorHD.in@HD">&amp;Xplor HD</channel>
 
   <!-- India Movies -->
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_B4U_KADAK" lang="en" xmltv_id="B4UKadak.in@SD">B4U Kadak</channel>
@@ -79,6 +80,7 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SPORTS18_SYMHYP_1_HD" lang="en" xmltv_id="StarSports2Hindi.in@HD">Star Sports 2 HD Hindi</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD" lang="en" xmltv_id="StarSportsSelect1.in@HD">Star Sports Select 1 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD" lang="en" xmltv_id="StarSportsSelect2.in@HD">Star Sports Select 2 HD</channel>
+  <channel site="streamingtvguides.com" site_id="WILLOW" lang="en" xmltv_id="WillowCricket">Willow Cricket</channel>
 
   <!-- Gujarati -->
   <channel site="epgshare01.online" site_id="IN4#Aastha.Gujarati.in" lang="en" xmltv_id="AasthaGujarati">Aastha Gujarati</channel>
