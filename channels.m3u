@@ -28,7 +28,7 @@ https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u
 #EXTINF:-1 tvg-id="Andpictures.in@HD" group-title="Movies",& Picture HD
 http://116.90.120.148:8000/play/a0j4/index.m3u8
 ##### http://103.161.153.165:8000/play/a05u/index.m3u8
-#EXTINF:-1 tvg-id="AndxplorHD.in@HD" group-title="Movies",& Xplor HD
+#EXTINF:-1 tvg-id="AndxplorHD.in" group-title="Movies",& Xplor HD
 http://103.161.153.165:8000/play/a05m/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@HD" group-title="Movies",Zee Cinema HD
 http://116.90.120.148:8000/play/a0hc/index.m3u8
@@ -59,7 +59,7 @@ http://116.90.120.148:8000/play/a0h0/index.m3u8
 http://116.90.120.148:8000/play/a0ji/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" group-title="Movies",Colors Cineplex Superhits
 http://116.90.120.148:8000/play/a0kl/index.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD" group-title="Movies",Colors Cineplex Bollywood
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" group-title="Movies",Colors Cineplex Bollywood
 http://116.90.120.148:8000/play/a0ki/index.m3u8
 ##### http://116.90.120.148:8000/play/a0ic/index.m3u8
 ##### http://103.182.170.32:8888/play/a01o
@@ -69,7 +69,7 @@ http://116.90.120.148:8000/play/a0ks/index.m3u8
 http://116.90.120.148:8000/play/a0j6/index.m3u8
 #EXTINF:-1 tvg-id="AnmolCinema2.in@SD" group-title="Movies",Anmol Cinema 2
 http://116.90.120.148:8000/play/a0ir/index.m3u8
-#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" group-title="Movies",Goldmines Bollywood
+#EXTINF:-1 tvg-id="GoldminesBollywood.in" group-title="Movies",Goldmines Bollywood
 http://116.90.120.148:8000/play/a0kj/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in@SD" group-title="Movies",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
@@ -100,15 +100,15 @@ http://115.42.65.142:9981/stream/channelid/617439714
 https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GeoNewsInternational.pk@SD" group-title="News",Geo News HD
 http://115.42.65.142:9981/stream/channelid/1823060648
-#EXTINF:-1 tvg-id="DunyaNews" group-title="News",Dunya News Internation
+#EXTINF:-1 tvg-id="DunyaEntertainment.pk" group-title="News",Dunya News Internation
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
-#EXTINF:-1 tvg-id="DunyaNews" group-title="News",Dunya News UK
+#EXTINF:-1 tvg-id="DunyaEntertainment.pk" group-title="News",Dunya News UK
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="News",24 News HD
 http://115.42.65.142:9981/stream/channelid/927423095
 #EXTINF:-1 tvg-id="92News" group-title="News",92 News
 http://115.42.65.142:9981/stream/channelid/1790337855
-#EXTINF:-1 tvg-id="" group-title="News",ABN News
+#EXTINF:-1 tvg-id="ABNNews.pk" group-title="News",ABN News
 https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="News",Aik News
 https://video.primexsports.com/pnn/live/playlist.m3u8
@@ -157,7 +157,7 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 http://115.42.65.142:9981/stream/channelid/303381625
 #EXTINF:-1 tvg-id="GeoKahani" group-title="Pakistani",Geo Kahani
 http://115.42.65.142:9981/stream/channelid/257140812
-#EXTINF:-1 tvg-id="" group-title="Pakistani",Geo Super
+#EXTINF:-1 tvg-id="GeoSuper.pk" group-title="Pakistani",Geo Super
 http://115.42.65.142:9981/stream/channelid/1333041791
 #EXTINF:-1 tvg-id="" group-title="Pakistani",GreenEnt HD
 http://115.42.65.142:9981/stream/channelid/1345854043

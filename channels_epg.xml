@@ -26,7 +26,7 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MOVIES_NOW_HD" lang="en" xmltv_id="MoviesNow.in@HD">Movies Now HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNSYMPLUS" lang="en" xmltv_id="MoviesNowPlus.in@SD">MN+</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMAND_PICTURES_HD" lang="en" xmltv_id="Andpictures.in@HD">&amp; Pictures HD</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD" lang="en" xmltv_id="AndxplorHD.in@HD">&amp;Xplor HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD" lang="en" xmltv_id="AndxplorHD.in">&amp;Xplor HD</channel>
 
   <!-- India Movies -->
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_B4U_KADAK" lang="en" xmltv_id="B4UKadak.in@SD">B4U Kadak</channel>
@@ -43,11 +43,11 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_MAX_2" lang="en" xmltv_id="SonyMax2.in@SD">Sony Max 2</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD" lang="en" xmltv_id="ColorsCineplex.in@HD">Colors Cineplex HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS" lang="en" xmltv_id="ColorsCineplexSuperhits.in@SD">Colors Cineplex Superhits</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD" lang="en" xmltv_id="ColorsCineplexBollywood.in@SD">Colors Cineplex Bollywood</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD" lang="en" xmltv_id="ColorsCineplexBollywood.in">Colors Cineplex Bollywood</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA" lang="en" xmltv_id="AnmolCinema.in@SD">Anmol Cinema</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2" lang="en" xmltv_id="AnmolCinema2.in@SD">Anmol Cinema 2</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOLDMINES" lang="en" xmltv_id="Goldmines.in@SD">Goldmines</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOLDMINES_BOLLYWOOD" lang="en" xmltv_id="GoldminesBollywood.in@SD">Goldmines Bollywood</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOLDMINES_BOLLYWOOD" lang="en" xmltv_id="GoldminesBollywood.in">Goldmines Bollywood</channel>
   <channel site="tataplay.com" site_id="1499" lang="en" xmltv_id="GoldminesMovies.in@SD">Goldmines Movies</channel>
 
   <!-- India Punjabi Movies -->
