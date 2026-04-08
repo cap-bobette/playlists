@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://cap-bobette.github.io/playlists/guide.xml"
 
-#EXTINF:-1 tvg-id="Andflix.in@HD" group-title="English Movies",& Flix HD
-http://116.90.120.148:8000/play/a0il/index.m3u8
-http://103.161.153.165:8000/play/a01z/index.m3u8
-#EXTINF:-1 tvg-id="AndpriveHD.in@SD" group-title="English Movies",& PRIVE HD
-http://116.90.120.148:8000/play/a0it/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" group-title="English Movies",Star Movies HD
 http://116.90.120.148:8000/play/a0ik/index.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" group-title="English Movies",Star Movies Select
 http://116.90.120.148:8000/play/a0ij/index.m3u8
 http://103.161.153.165:8000/play/strmshd/index.m3u8
+#EXTINF:-1 tvg-id="Andflix.in@HD" group-title="English Movies",& Flix HD
+http://103.161.153.165:8000/play/a01z/index.m3u8
+http://116.90.120.148:8000/play/a0il/index.m3u8
+#EXTINF:-1 tvg-id="AndpriveHD.in@SD" group-title="English Movies",& PRIVE HD
+http://116.90.120.148:8000/play/a0it/index.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@HD" group-title="English Movies",Sony Pix HD
 http://116.90.120.148:8000/play/a0ii/index.m3u8
 http://103.161.153.165:8000/play/a04f/index.m3u8
