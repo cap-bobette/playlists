@@ -8,35 +8,37 @@ http://116.90.120.148:8000/play/a0ij/index.m3u8
 #EXTINF:-1 tvg-id="Andflix.in@HD" group-title="English Movies",& Flix HD
 http://116.90.120.148:8000/play/a0il/index.m3u8
 ##### http://103.161.153.165:8000/play/a01z/index.m3u8
-#EXTINF:-1 tvg-id="AndpriveHD.in@SD" group-title="English Movies",& PRIVE HD
-http://116.90.120.148:8000/play/a0it/index.m3u8
+##### #EXTINF:-1 tvg-id="AndpriveHD.in@SD" group-title="English Movies",& PRIVE HD
+##### http://116.90.120.148:8000/play/a0it/index.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@HD" group-title="English Movies",Sony Pix HD
 http://116.90.120.148:8000/play/a0ii/index.m3u8
 ##### http://103.161.153.165:8000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-id="MoviesNow.in@HD" group-title="English Movies",Movies Now HD
 http://116.90.120.148:8000/play/a0ib/index.m3u8
 ##### http://103.161.153.165:8000/play/mnh/index.m3u8
-#EXTINF:-1 tvg-id="MoviesNowPlus.in@SD" group-title="English Movies",MN+ HD
+#EXTINF:-1 tvg-id="MoviesNowPlus.in@SD" group-title="English Movies",Movies Now +
 http://116.90.120.148:8000/play/a0i4/index.m3u8
 #EXTINF:-1 tvg-id="Film4.uk@SD" group-title="English Movies",Film4 HD
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 
 #EXTINF:-1 tvg-id="B4UKadak.in@SD" group-title="Movies",B4U Kadak
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
+##Alternative## https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in@India" group-title="Movies",B4U Movies
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
+##Alternative## https://cdn-2.pishow.tv/live/419/master.m3u8
 #EXTINF:-1 tvg-id="Andpictures.in@HD" group-title="Movies",& Picture HD
 http://116.90.120.148:8000/play/a0j4/index.m3u8
 ##### http://103.161.153.165:8000/play/a05u/index.m3u8
-#EXTINF:-1 tvg-id="AndxplorHD.in" group-title="Movies",& Xplor HD
-http://103.161.153.165:8000/play/a05m/index.m3u8
+##### EXTINF:-1 tvg-id="AndxplorHD.in" group-title="Movies",& Xplor HD
+##### http://103.161.153.165:8000/play/a05m/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@HD" group-title="Movies",Zee Cinema HD
 http://116.90.120.148:8000/play/a0hc/index.m3u8
-##### http://103.161.153.165:8000/play/a00q/index.m3u8
+ ##### http://103.161.153.165:8000/play/a00q/index.m3u8
 ##### http://116.90.120.151:8000/play/a0hc/index.m3u8
 ##### http://103.99.249.139/zeecinema/index.m3u8
-#EXTINF:-1 tvg-id="ZeeBollywood.in@SD" group-title="Movies",Zee Bollywood
-http://116.90.120.148:8000/play/a0h6/index.m3u8
+##### #EXTINF:-1 tvg-id="ZeeBollywood.in@SD" group-title="Movies",Zee Bollywood
+##### http://116.90.120.148:8000/play/a0h6/index.m3u8
 #EXTINF:-1 tvg-id="StarGold.in@HD" group-title="Movies",Star Gold HD
 http://116.90.120.148:8000/play/a0gy/index.m3u8
 ##### http://103.161.153.165:8000/play/a05b/index.m3u8
@@ -53,26 +55,29 @@ http://116.90.120.148:8000/play/a0j2/index.m3u8
 http://116.90.120.148:8000/play/a0ka/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@HD" group-title="Movies",Sony Max HD
 http://116.90.120.148:8000/play/a0jf/index.m3u8
-#EXTINF:-1 tvg-id="SonyMax2.in@SD" group-title="Movies",Sony Max 2
-http://116.90.120.148:8000/play/a0h0/index.m3u8
+##### #EXTINF:-1 tvg-id="SonyMax2.in@SD" group-title="Movies",Sony Max 2
+##### http://116.90.120.148:8000/play/a0h0/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in@HD" group-title="Movies",Colors Cineplex HD
 http://116.90.120.148:8000/play/a0ji/index.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" group-title="Movies",Colors Cineplex Superhits
-http://116.90.120.148:8000/play/a0kl/index.m3u8
+##### #EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" group-title="Movies",Colors Cineplex Superhits
+##### http://116.90.120.148:8000/play/a0kl/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" group-title="Movies",Colors Cineplex Bollywood
-http://116.90.120.148:8000/play/a0ki/index.m3u8
-##### http://116.90.120.148:8000/play/a0ic/index.m3u8
+http://103.157.248.140:8000/play/a00x/index.m3u8
+##Alternative## http://116.90.120.148:8000/play/a0ki/index.m3u8 #no video on samsung
+##Alternative## http://116.90.120.148:8000/play/a0ic/index.m3u8  #no video on samsung
 ##### http://103.182.170.32:8888/play/a01o
-#EXTINF:-1 tvg-id="AnmolCinema.in@SD" group-title="Movies",Anmol Cinema Zee
-http://116.90.120.148:8000/play/a0ks/index.m3u8
+##### #EXTINF:-1 tvg-id="AnmolCinema.in@SD" group-title="Movies",Anmol Cinema Zee
+##### http://116.90.120.148:8000/play/a0ks/index.m3u8
 #EXTINF:-1 tvg-id="AnmolCinema.in@SD" group-title="Movies",Anmol Cinema
 http://116.90.120.148:8000/play/a0j6/index.m3u8
 #EXTINF:-1 tvg-id="AnmolCinema2.in@SD" group-title="Movies",Anmol Cinema 2
 http://116.90.120.148:8000/play/a0ir/index.m3u8
-#EXTINF:-1 tvg-id="GoldminesBollywood.in" group-title="Movies",Goldmines Bollywood
-http://116.90.120.148:8000/play/a0kj/index.m3u8
+##### #EXTINF:-1 tvg-id="GoldminesBollywood.in" group-title="Movies",Goldmines Bollywood
+##### http://116.90.120.148:8000/play/a0kj/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in@SD" group-title="Movies",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-id="Goldmines2.in@SD" group-title="Movies",Goldmines 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in@SD" group-title="Movies",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="Movies",ZB Cinema
@@ -80,12 +85,14 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 #EXTINF:-1 tvg-id="Pitaara.in@SD" group-title="Movies",Pitaara Movies
 http://116.90.120.148:8000/play/a0ky/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Movies",PTC Punjabi
+https://cdn-2.pishow.tv/live/1604/master.m3u8
 
 #EXTINF:-1 tvg-id="9XM.in@SD" group-title="Music",9XM
 https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in@India" group-title="Music",B4U Music
 http://115.42.65.142:9981/stream/channelid/972957830
-##### https://cdn-2.pishow.tv/live/415/master.m3u8
+##Alternative## https://cdn-2.pishow.tv/live/415/master.m3u8
 ##### http://116.90.120.148:8000/play/a0k3/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Music",JooMusic
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
@@ -192,7 +199,7 @@ https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ITV2.uk@SD" group-title="UK",ITV2
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
-#EXTINF:-1 tvg-id="ITV3.uk@SD" group-title="UK",ITV3 (1080p)
+#EXTINF:-1 tvg-id="ITV3.uk@SD" group-title="UK",ITV3
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 #EXTINF:-1 tvg-id="ITV4.uk@SD" group-title="UK",ITV4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
@@ -202,8 +209,8 @@ https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 #EXTINF:-1 tvg-id="Eurosport.in@SD" group-title="Sports",Eurosport
 http://116.90.120.148:8000/play/a0ip/index.m3u8
 ##### http://103.161.153.165:8000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen1.in@HD" group-title="Sports",Sony Sports Ten 1 HD
-http://103.161.153.165:8000/play/sonyten1/index.m3u8
+##### #EXTINF:-1 tvg-id="SonySportsTen1.in@HD" group-title="Sports",Sony Sports Ten 1 HD
+##### http://103.161.153.165:8000/play/sonyten1/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD" group-title="Sports",Sony Sports Ten 2 HD
 http://116.90.120.148:8000/play/a0ih/index.m3u8
 ##### http://103.161.153.165:8000/play/sonyt2hd/index.m3u8
@@ -227,8 +234,8 @@ http://116.90.120.148:8000/play/a0h9/index.m3u8
 #EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" group-title="Sports",Star Sports Select 2 HD
 http://116.90.120.148:8000/play/a0ha/index.m3u8
 ##### http://103.161.153.165:8000/play/starspsel2/index.m3u8
-#EXTINF:-1 tvg-id="WillowCricket" group-title="Sports",Willow Cricket
-http://103.161.153.165:8000/play/willowcrichd/index.m3u8
+##### #EXTINF:-1 tvg-id="WillowCricket" group-title="Sports",Willow Cricket
+##### http://103.161.153.165:8000/play/willowcrichd/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports",A Sports HD
 http://115.42.65.142:9981/stream/channelid/908074797
