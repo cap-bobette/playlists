@@ -66,6 +66,16 @@ http://103.157.248.140:8000/play/a00x/index.m3u8
 ##Alternative## http://116.90.120.148:8000/play/a0ki/index.m3u8 # (non samsung)
 ##Alternative## http://116.90.120.148:8000/play/a0ic/index.m3u8 # (non samsung)
 ##### http://103.182.170.32:8888/play/a01o
+#EXTINF:-1 tvg-id="TheMovieClub.in@HD" group-title="Movies",The Movie Club
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+#EXTINF:-1 tvg-id="TheMovieClub.in@Plus2" group-title="Movies",The Movie Club +2
+https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
+#EXTINF:-1 tvg-id="BollywoodClassic.ro@SD" group-title="Movies",Bollywood Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8?ads.vf=QzgeokcHKvy
+#EXTINF:-1 tvg-id="BollywoodHD.ro@SD" group-title="Movies",Bollywood HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.vf=lWu9a-np_Vi
 ##### #EXTINF:-1 tvg-id="AnmolCinema.in@SD" group-title="Movies",Anmol Cinema Zee (non samsung)
 ##### http://116.90.120.148:8000/play/a0ks/index.m3u8
 ##### #EXTINF:-1 tvg-id="AnmolCinema.in@SD" group-title="Movies",Anmol Cinema
