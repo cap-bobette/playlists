@@ -34,6 +34,7 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_B4U_MOVIES" lang="en" xmltv_id="B4UMovies.in@India">B4U Movies</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD" lang="en" xmltv_id="ZeeCinema.in@HD">Zee Cinema HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD" lang="en" xmltv_id="ZeeBollywood.in@SD">Zee Bollywood</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_CLASSIC" lang="en" xmltv_id="ZeeClassic.in@SD">Zee Classic</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_HD" lang="en" xmltv_id="StarGold.in@HD">Star Gold HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_2" lang="en" xmltv_id="StarGold2.in@SD">Star Gold 2</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_THRILLS" lang="en" xmltv_id="StarGoldThrills.in@SD">Star Gold Thrills</channel>
@@ -42,6 +43,7 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES" lang="en" xmltv_id="StarUtsavMovies.in@SD">Star Utsav Movies</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_MAX_HD" lang="en" xmltv_id="SonyMax.in@HD">Sony MAX HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_MAX_2" lang="en" xmltv_id="SonyMax2.in@SD">Sony Max 2</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_WAH" lang="en" xmltv_id="SonyWah.in@SD">Sony Wah</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD" lang="en" xmltv_id="ColorsCineplex.in@HD">Colors Cineplex HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS" lang="en" xmltv_id="ColorsCineplexSuperhits.in@SD">Colors Cineplex Superhits</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD" lang="en" xmltv_id="ColorsCineplexBollywood.in">Colors Cineplex Bollywood</channel>
@@ -57,6 +59,14 @@
 
   <!-- India Punjabi Movies -->
   <channel site="tataplay.com" site_id="624" lang="en" xmltv_id="Pitaara.in@SD">Pitaara Movies</channel>
+  
+  <!-- India Channels -->
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_HD" lang="en" xmltv_id="Colors.in@HD">Colors HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SAB_HD" lang="en" xmltv_id="SonySAB.in@HD">Sony SAB HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_PAL" lang="en" xmltv_id="SonyPal.in@SD">Sony Pal</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_PLUS_HD" lang="en" xmltv_id="StarPlus.in@HD">Star Plus HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_UTSAV" lang="en" xmltv_id="StarUtsav.in@SD">Star Utsav</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_TV_HD" lang="en" xmltv_id="ZeeTV.in@HD">Zee TV HD</channel>
 
   <!-- UK -->
   <channel site="dna.fi" site_id="ch-820639" lang="fi" xmltv_id="AlJazeera.qa@English">Al Jazeera English</channel>
