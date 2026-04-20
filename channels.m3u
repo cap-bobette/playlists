@@ -59,8 +59,8 @@ http://116.90.120.148:8000/play/a0j2/index.m3u8
 http://116.90.120.148:8000/play/a0jf/index.m3u8
 ##EXTINF:-1 tvg-id="SonyMax2.in@SD" group-title="Movies",Sony Max 2
 #http://116.90.120.148:8000/play/a0h0/index.m3u8
-#EXTINF:-1 tvg-id="SonyWah.in@SD" group-title="Movies",Sony Wah
-http://116.90.120.148:8000/play/a0kt/index.m3u8
+##EXTINF:-1 tvg-id="SonyWah.in@SD" group-title="Movies",Sony Wah
+#http://116.90.120.148:8000/play/a0kt/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in@HD" group-title="Movies",Colors Cineplex HD
 http://116.90.120.148:8000/play/a0ji/index.m3u8
 ##EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" group-title="Movies",Colors Cineplex Superhits (non samsung)
@@ -114,8 +114,8 @@ http://116.90.120.148:8000/play/a0gx/index.m3u8
 http://116.90.120.148:8000/play/a0hz/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in@HD" group-title="India",Star Plus HD
 http://116.90.120.148:8000/play/a0gr/index.m3u8
-#EXTINF:-1 tvg-id="StarUtsav.in@SD" group-title="India",Star Utsav
-http://116.90.120.148:8000/play/a0kc/index.m3u8
+##EXTINF:-1 tvg-id="StarUtsav.in@SD" group-title="India",Star Utsav
+#http://116.90.120.148:8000/play/a0kc/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in@HD" group-title="India",Zee TV HD
 http://116.90.120.148:8000/play/a0hk/index.m3u8
 
