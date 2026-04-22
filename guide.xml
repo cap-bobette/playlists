@@ -640,12 +640,6 @@
     <icon src="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" />
     <url>https://tv24.co.uk</url>
   </channel>
-  <programme start="20260422210000 +0000" stop="20260422213000 +0000" channel="9XM.in@SD">
-    <title lang="en">9XM Raatbhar</title>
-    <desc lang="en">A compilation of melodious songs composed by noted musicians played back to back</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1451736_23APR023000_23APR030000/images/LANDSCAPE_169_HD/9XM_9XMRaatbhar_1451736.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1451736_23APR023000_23APR030000/images/LOGO/9XM_9XMRaatbhar_1451736.png" />
-  </programme>
   <programme start="20260422213000 +0000" stop="20260422220000 +0000" channel="9XM.in@SD">
     <title lang="en">9XM Raatbhar</title>
     <desc lang="en">A compilation of melodious songs composed by noted musicians played back to back</desc>
@@ -1527,6 +1521,12 @@
     <desc lang="en">A compilation of melodious songs composed by noted musicians played back to back</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1451736_26APR023000_26APR030000/images/LANDSCAPE_169_HD/9XM_9XMRaatbhar_1451736.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1451736_26APR023000_26APR030000/images/LOGO/9XM_9XMRaatbhar_1451736.png" />
+  </programme>
+  <programme start="20260425213000 +0000" stop="20260425220000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM Raatbhar</title>
+    <desc lang="en">A compilation of melodious songs composed by noted musicians played back to back</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1451736_26APR030000_26APR033000/images/LANDSCAPE_169_HD/9XM_9XMRaatbhar_1451736.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1451736_26APR030000_26APR033000/images/LOGO/9XM_9XMRaatbhar_1451736.png" />
   </programme>
   <programme start="20260422153000 +0000" stop="20260422160000 +0000" channel="ABPASMITA">
     <title lang="en">Top 50</title>
@@ -2487,6 +2487,11 @@
     <desc lang="en">Join DPW ILT20 thrills when MI Emirates take on Desert Vipers at Dubai International Stadium, Dubai, UAE, showcasing elite T20 cricket performances.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SYMANDFLIX_HD_2067837_25APR222500_26APR024800/images/LANDSCAPE_169/1776373904000_FLIXHD_DPWILT20MIEvsDV_2067837.jpg</image>
   </programme>
+  <programme start="20260425211800 +0000" stop="20260426003800 +0000" channel="Andflix.in@HD">
+    <title lang="en">DPW ILT20 SW vs ADKR</title>
+    <desc lang="en">Watch DPW ILT20 unfold as Sharjah Warriors meet Abu Dhabi Knight Riders at Sharjah Cricket Stadium, Sharjah, UAE, with pride and points at stake.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SYMANDFLIX_HD_2067838_26APR024800_26APR060800/images/LANDSCAPE_169/1776376308000_FLIXHD_DPWILT20SWvsADKR_2067838.jpg</image>
+  </programme>
   <programme start="20260422205100 +0000" stop="20260422222100 +0000" channel="Andpictures.in@HD">
     <title lang="en">Thoda Lutf Thoda Ishq</title>
     <desc lang="en">Jhumroo and Ghungroo, two good-for-nothing, unemployed womanisers, realize their dream when they get jobs working at a beauty parlour run by two beautiful women.</desc>
@@ -2662,12 +2667,6 @@
     <desc lang="en">Two best friends, Aditya and Anushka love each other but are unaware of their feelings. However, realisation strikes when they begin to feel jealous of each other's partners at Aditya's wedding.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SYMAND_PICTURES_HD_490938_26APR020000_26APR075200/images/LANDSCAPE_169_HD/PICTURESHD_WeddingPullav_490938.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SYMAND_PICTURES_HD_490938_26APR020000_26APR075200/images/LOGO/PICTURESHD_WeddingPullav_490938.png" />
-  </programme>
-  <programme start="20260422200200 +0000" stop="20260422213500 +0000" channel="AndxplorHD.in">
-    <title lang="en">Kadvi Hawa</title>
-    <desc lang="en">A grim tale of farming hardship: Mahua, a farmer, faces suicide pressures. An elderly man, another farmer, and a debt collector strike a dangerous pact to survive.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SYMANDXPLOR_HD_843969_23APR013200_23APR030500/images/LANDSCAPE_169_HD/AndxplorHD_KadviHawa_843969.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SYMANDXPLOR_HD_843969_23APR013200_23APR030500/images/LOGO/AndxplorHD_KadviHawa_843969.png" />
   </programme>
   <programme start="20260422213500 +0000" stop="20260422235200 +0000" channel="AndxplorHD.in">
     <title lang="en">Chakravyuh</title>
@@ -3318,6 +3317,12 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_B4U_KADAK_239515_26APR000000_26APR030000/images/LANDSCAPE_169_HD/B4UKadak_Movie_239515.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_B4U_KADAK_239515_26APR000000_26APR030000/images/LOGO/B4UKadak_Movie_239515.png" />
   </programme>
+  <programme start="20260425213000 +0000" stop="20260426003000 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_B4U_KADAK_239515_26APR030000_26APR060000/images/LANDSCAPE_169_HD/B4UKadak_Movie_239515.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_B4U_KADAK_239515_26APR030000_26APR060000/images/LOGO/B4UKadak_Movie_239515.png" />
+  </programme>
   <programme start="20260422203200 +0000" stop="20260422224000 +0000" channel="B4UMovies.in@India">
     <title lang="en">Ajab Gazabb Love</title>
     <desc lang="en">Rajveer falls in love with Madhuri. He realizes that she hates rich people. So Rajveer, along with his family, pretends to be poor to win Madhuri's love</desc>
@@ -3442,6 +3447,11 @@
     <title lang="en">Movie</title>
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_B4U_MOVIES_93414_26APR000000_26APR030000/images/LANDSCAPE_169_HD/B4UMovies_Movie_93414.jpg</image>
+  </programme>
+  <programme start="20260425213000 +0000" stop="20260426003000 +0000" channel="B4UMovies.in@India">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_B4U_MOVIES_93414_26APR030000_26APR060000/images/LANDSCAPE_169_HD/B4UMovies_Movie_93414.jpg</image>
   </programme>
   <programme start="20260422203000 +0000" stop="20260422233000 +0000" channel="B4UMusic.in@India">
     <title lang="en">Bajao</title>
@@ -3837,7 +3847,7 @@
   <programme start="20260422180000 +0000" stop="20260422210000 +0000" channel="BBCFour.uk@HD">
     <title lang="en">Snooker: World Championship</title>
     <desc lang="en">Coverage of day 5 of the World Snooker Championship at the Crucible Theatre, Sheffield.</desc>
-    <image>https://img.freeviewplay.tv/p963592bdfafc20f43dbd773d6fc90835?w=800</image>
+    <image>https://img.freeviewplay.tv/p92a15e1b11f39b902d5aa50727f8b5f3?w=800</image>
   </programme>
   <programme start="20260422210000 +0000" stop="20260422214000 +0000" channel="BBCFour.uk@HD">
     <title lang="en">This Life</title>
@@ -4062,7 +4072,7 @@
   <programme start="20260422090000 +0000" stop="20260422093000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/pf0a79c3a2b239d2e25fc60487da0a558?w=800</image>
+    <image>https://img.freeviewplay.tv/pa3952f86d36e9a3d5375f854104e4de6?w=800</image>
   </programme>
   <programme start="20260422093000 +0000" stop="20260422100000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -4072,7 +4082,7 @@
   <programme start="20260422100000 +0000" stop="20260422103000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/pa3952f86d36e9a3d5375f854104e4de6?w=800</image>
+    <image>https://img.freeviewplay.tv/pf0a79c3a2b239d2e25fc60487da0a558?w=800</image>
   </programme>
   <programme start="20260422103000 +0000" stop="20260422104500 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -4087,27 +4097,27 @@
   <programme start="20260422105500 +0000" stop="20260422120000 +0000" channel="BBCNews.uk">
     <title lang="en">Politics Live</title>
     <desc lang="en">Keir Starmer takes PMQs as the row over the vetting of Peter Mandelson for US ambassador continues.</desc>
-    <image>https://img.freeviewplay.tv/pf4eaf5f3d2ba30377229c4cc52b3145f?w=800</image>
+    <image>https://img.freeviewplay.tv/p4dbd5a353c2805d70915ed83104a35ba?w=800</image>
   </programme>
   <programme start="20260422120000 +0000" stop="20260422130000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News at One</title>
     <desc lang="en">The latest national and international news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p8f181f504493a85ac52a14d3e75145d3?w=800</image>
+    <image>https://img.freeviewplay.tv/pf8787b2ebbebc4b2437872593ff71b37?w=800</image>
   </programme>
   <programme start="20260422130000 +0000" stop="20260422133000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <image>https://img.freeviewplay.tv/p4d05220d92bbe1ae3e4688eaa0e66a46?w=800</image>
+    <image>https://img.freeviewplay.tv/pb433177c72ebfb81c7bf51b343349cbe?w=800</image>
   </programme>
   <programme start="20260422133000 +0000" stop="20260422134500 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today - NYSE Opening Bell</title>
     <desc lang="en">Bringing the latest business news and up-to-date informed analysis from New York and around the world.</desc>
-    <image>https://img.freeviewplay.tv/peaec66f7fa0762d5254a5b7d01ae6674?w=800</image>
+    <image>https://img.freeviewplay.tv/pe290cf55fca4e56526faa24b1c6ace19?w=800</image>
   </programme>
   <programme start="20260422134500 +0000" stop="20260422140000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <image>https://img.freeviewplay.tv/p4d05220d92bbe1ae3e4688eaa0e66a46?w=800</image>
+    <image>https://img.freeviewplay.tv/pb433177c72ebfb81c7bf51b343349cbe?w=800</image>
   </programme>
   <programme start="20260422140000 +0000" stop="20260422143000 +0000" channel="BBCNews.uk">
     <title lang="en">Verified Live</title>
@@ -4127,7 +4137,7 @@
   <programme start="20260422153000 +0000" stop="20260422160000 +0000" channel="BBCNews.uk">
     <title lang="en">Banning Social Media: What Do Young People Think?</title>
     <desc lang="en">Pria Rai, De-Graft Mensah and Kirsty Grant are live in Bolton for a special programme exploring what students think about a social media ban.</desc>
-    <image>https://img.freeviewplay.tv/p03e677654d9afbe5cccc1b40b08c07cb?w=800</image>
+    <image>https://img.freeviewplay.tv/p1d97b8468a33be40794086568d2ce854?w=800</image>
   </programme>
   <programme start="20260422160000 +0000" stop="20260422163000 +0000" channel="BBCNews.uk">
     <title lang="en">Verified Live</title>
@@ -4142,7 +4152,7 @@
   <programme start="20260422170000 +0000" stop="20260422173000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News at Six</title>
     <desc lang="en">The latest national and international news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p6ce35f3f683780f8bb2923cbb6d5ea81?w=800</image>
+    <image>https://img.freeviewplay.tv/p2fe118d833fd9a66b9dc596bf0ef34cf?w=800</image>
   </programme>
   <programme start="20260422173000 +0000" stop="20260422174500 +0000" channel="BBCNews.uk">
     <title lang="en">The Iran War</title>
@@ -4419,10 +4429,15 @@
     <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
     <image>https://img.freeviewplay.tv/p622ab261ec5a14a5adec31718f61275e?w=800</image>
   </programme>
-  <programme start="20260423180000 +0000" stop="20260423190000 +0000" channel="BBCNews.uk">
-    <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
-    <image>https://img.freeviewplay.tv/p6527abbb2370791e4dc57b6c491abe43?w=800</image>
+  <programme start="20260423180000 +0000" stop="20260423183000 +0000" channel="BBCNews.uk">
+    <title lang="en">The World Today with Maryam Moshiri</title>
+    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
+    <image>https://img.freeviewplay.tv/p622ab261ec5a14a5adec31718f61275e?w=800</image>
+  </programme>
+  <programme start="20260423183000 +0000" stop="20260423190000 +0000" channel="BBCNews.uk">
+    <title lang="en">The World Today with Maryam Moshiri</title>
+    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
+    <image>https://img.freeviewplay.tv/p622ab261ec5a14a5adec31718f61275e?w=800</image>
   </programme>
   <programme start="20260423190000 +0000" stop="20260423193000 +0000" channel="BBCNews.uk">
     <title lang="en">The Context USA</title>
@@ -4434,14 +4449,10 @@
     <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
     <image>https://img.freeviewplay.tv/p1ef1dd18273e136296e4dd71e3e5c49a?w=800</image>
   </programme>
-  <programme start="20260423200000 +0000" stop="20260423203000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Context</title>
-    <desc lang="en">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <image>https://img.freeviewplay.tv/pd08c7ba41a9d094d6f1f1c96bda53f46?w=800</image>
-  </programme>
-  <programme start="20260423203000 +0000" stop="20260423210000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Context</title>
-    <desc lang="en">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+  <programme start="20260423200000 +0000" stop="20260423210000 +0000" channel="BBCNews.uk">
+    <title lang="en">Question Time</title>
+    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <image>https://img.freeviewplay.tv/p6527abbb2370791e4dc57b6c491abe43?w=800</image>
   </programme>
   <programme start="20260423210000 +0000" stop="20260423213000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News at Ten</title>
@@ -4745,8 +4756,8 @@
   </programme>
   <programme start="20260422083000 +0000" stop="20260422094500 +0000" channel="BBCOne.uk@LondonHD">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
-    <image>https://img.freeviewplay.tv/p5e8005959dec831d970236b857cfd770?w=800</image>
+    <desc lang="en">Helen Skelton and Greg Rutherford hear why speeding offences are rising, DIY SOS's Nick Knowles investigates the impact of housing developments on wildlife, and finance expert Laura Pomfret explains Power of Attorney. Also, Dr Oscar separates fact from fiction in the latest health headlines, Radio 2’s Book Club, free shops helping cut waste, and actress Barbara Flynn on Beyond Paradise.</desc>
+    <image>https://img.freeviewplay.tv/p9b69f585d5c1f0cea20e4e232e2b47d0?w=800</image>
   </programme>
   <programme start="20260422094500 +0000" stop="20260422101500 +0000" channel="BBCOne.uk@LondonHD">
     <title lang="en">Expert Witness</title>
@@ -4766,7 +4777,7 @@
   <programme start="20260422120000 +0000" stop="20260422130000 +0000" channel="BBCOne.uk@LondonHD">
     <title lang="en">BBC News at One</title>
     <desc lang="en">The latest national and international news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p8f181f504493a85ac52a14d3e75145d3?w=800</image>
+    <image>https://img.freeviewplay.tv/pf8787b2ebbebc4b2437872593ff71b37?w=800</image>
   </programme>
   <programme start="20260422130000 +0000" stop="20260422133000 +0000" channel="BBCOne.uk@LondonHD">
     <title lang="en">Shift the Thrift</title>
@@ -4786,7 +4797,7 @@
   <programme start="20260422144500 +0000" stop="20260422153000 +0000" channel="BBCOne.uk@LondonHD">
     <title lang="en">Make It at Market</title>
     <desc lang="en">Crocheter Tiana from London and ceramic artist Pip from Lancashire are both hoping Dom and his team of mentors can help them turn their talent into profitable businesses. With a love of colourful fashion and a passion for accessories, Tiana has been running her own crochet business for several years. However, sales have slumped, and she wants to find out where she’s going wrong. Mentor Jeanette Sloan thinks Tiana has a strong sense of identity, but her pricing is a problem. Will Jeannette’s advice help kick-start Tiana’s business? Pip, who is a potter, feels she’s facing the last roll of the dice to create a successful ceramics business. Mentor Stuart believes she has the skills but needs to find the confidence to sell her work fast. Each maker is given eight weeks to put their mentors’ advice into practice, but do they have what it takes to build sustainable businesses?</desc>
-    <image>https://img.freeviewplay.tv/p91838a465c2e9c791aff3844878f9735?w=800</image>
+    <image>https://img.freeviewplay.tv/p022e8a4a839774dfb19f6f105059918a?w=800</image>
   </programme>
   <programme start="20260422153000 +0000" stop="20260422161500 +0000" channel="BBCOne.uk@LondonHD">
     <title lang="en">The Finish Line</title>
@@ -4801,7 +4812,7 @@
   <programme start="20260422170000 +0000" stop="20260422173000 +0000" channel="BBCOne.uk@LondonHD">
     <title lang="en">BBC News at Six</title>
     <desc lang="en">The latest national and international news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p7b750bd6caef2a5ab6fbc5ca53e10337?w=800</image>
+    <image>https://img.freeviewplay.tv/p2fe118d833fd9a66b9dc596bf0ef34cf?w=800</image>
   </programme>
   <programme start="20260422173000 +0000" stop="20260422175500 +0000" channel="BBCOne.uk@LondonHD">
     <title lang="en">BBC London</title>
@@ -4815,8 +4826,8 @@
   </programme>
   <programme start="20260422180000 +0000" stop="20260422183000 +0000" channel="BBCOne.uk@LondonHD">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Vernon Kay bring you the stories that matter from across the country.</desc>
-    <image>https://img.freeviewplay.tv/pe21648a9f94f161d1b92c77f5761c933?w=800</image>
+    <desc lang="en">Graham Norton, Lindsay Duncan and Emma Laird join Alex and Vernon on the sofa, and Matt has your weekly Watchdog news.</desc>
+    <image>https://img.freeviewplay.tv/p7c6df1e03269301343b0b3760749f361?w=800</image>
   </programme>
   <programme start="20260422183000 +0000" stop="20260422190000 +0000" channel="BBCOne.uk@LondonHD">
     <title lang="en">EastEnders</title>
@@ -4856,7 +4867,7 @@
   <programme start="20260422232500 +0000" stop="20260422233000 +0000" channel="BBCOne.uk@LondonHD">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
-    <image>https://img.freeviewplay.tv/p56189b998ed18f0001a5e3cdca51b9c6?w=800</image>
+    <image>https://img.freeviewplay.tv/p59903917848a7c4be94b41a3d2f7292c?w=800</image>
   </programme>
   <programme start="20260422233000 +0000" stop="20260423050000 +0000" channel="BBCOne.uk@LondonHD">
     <title lang="en">Joins BBC News</title>
@@ -5201,7 +5212,7 @@
   <programme start="20260423025000 +0000" stop="20260423043000 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm</desc>
-    <image>https://img.freeviewplay.tv/pa2bd173369ea0efe6fd731e911367515?w=800</image>
+    <image>https://img.freeviewplay.tv/p47a92a6af1bfeb383bf9beeae843d970?w=800</image>
   </programme>
   <programme start="20260423043000 +0000" stop="20260423175800 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
@@ -5211,7 +5222,7 @@
   <programme start="20260423175800 +0000" stop="20260423180000 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm</desc>
-    <image>https://img.freeviewplay.tv/pa2bd173369ea0efe6fd731e911367515?w=800</image>
+    <image>https://img.freeviewplay.tv/p47a92a6af1bfeb383bf9beeae843d970?w=800</image>
   </programme>
   <programme start="20260423180000 +0000" stop="20260423180500 +0000" channel="BBCThree.uk@HD">
     <title lang="en">The Catch Up</title>
@@ -5266,7 +5277,7 @@
   <programme start="20260424001000 +0000" stop="20260424010000 +0000" channel="BBCThree.uk@HD">
     <title lang="en">Stacey Dooley</title>
     <desc lang="en">Facing court delays and the anxiety of preparing for court, Stacey follows the young women, who question if they can continue. Will they get the outcome they are hoping for?</desc>
-    <image>https://img.freeviewplay.tv/p94df66e08bd5a1abd319418b83f79bc5?w=800</image>
+    <image>https://img.freeviewplay.tv/p975c34d6f5972834b63846083c717689?w=800</image>
   </programme>
   <programme start="20260424010000 +0000" stop="20260424020000 +0000" channel="BBCThree.uk@HD">
     <title lang="en">Top Gear</title>
@@ -5281,17 +5292,17 @@
   <programme start="20260424030000 +0000" stop="20260424043000 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm</desc>
-    <image>https://img.freeviewplay.tv/p47a92a6af1bfeb383bf9beeae843d970?w=800</image>
+    <image>https://img.freeviewplay.tv/pa2bd173369ea0efe6fd731e911367515?w=800</image>
   </programme>
   <programme start="20260424043000 +0000" stop="20260424175800 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm</desc>
-    <image>https://img.freeviewplay.tv/p47a92a6af1bfeb383bf9beeae843d970?w=800</image>
+    <image>https://img.freeviewplay.tv/pa2bd173369ea0efe6fd731e911367515?w=800</image>
   </programme>
   <programme start="20260424175800 +0000" stop="20260424180000 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm</desc>
-    <image>https://img.freeviewplay.tv/p47a92a6af1bfeb383bf9beeae843d970?w=800</image>
+    <image>https://img.freeviewplay.tv/pa2bd173369ea0efe6fd731e911367515?w=800</image>
   </programme>
   <programme start="20260424180000 +0000" stop="20260424180500 +0000" channel="BBCThree.uk@HD">
     <title lang="en">The Catch Up</title>
@@ -5386,22 +5397,22 @@
   <programme start="20260422080000 +0000" stop="20260422090000 +0000" channel="BBCTwo.uk@HD">
     <title lang="en">BBC News</title>
     <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <image>https://img.freeviewplay.tv/pa3952f86d36e9a3d5375f854104e4de6?w=800</image>
+    <image>https://img.freeviewplay.tv/pf0a79c3a2b239d2e25fc60487da0a558?w=800</image>
   </programme>
   <programme start="20260422090000 +0000" stop="20260422101500 +0000" channel="BBCTwo.uk@HD">
     <title lang="en">Snooker: World Championship</title>
     <desc lang="en">Coverage of day 5 of the World Snooker Championship at the Crucible Theatre, Sheffield.</desc>
-    <image>https://img.freeviewplay.tv/pa814f2858f1c2f5cc7e2743e600177d0?w=800</image>
+    <image>https://img.freeviewplay.tv/p3366c100727ea892d89c1f5105312485?w=800</image>
   </programme>
   <programme start="20260422101500 +0000" stop="20260422120000 +0000" channel="BBCTwo.uk@HD">
     <title lang="en">Politics Live</title>
     <desc lang="en">Keir Starmer takes PMQs as the row over the vetting of Peter Mandelson for US ambassador continues.</desc>
-    <image>https://img.freeviewplay.tv/pf4eaf5f3d2ba30377229c4cc52b3145f?w=800</image>
+    <image>https://img.freeviewplay.tv/p4dbd5a353c2805d70915ed83104a35ba?w=800</image>
   </programme>
   <programme start="20260422120000 +0000" stop="20260422170000 +0000" channel="BBCTwo.uk@HD">
     <title lang="en">Snooker: World Championship</title>
     <desc lang="en">Coverage of day 5 of the World Snooker Championship at the Crucible Theatre, Sheffield.</desc>
-    <image>https://img.freeviewplay.tv/pae7819221c13dd5008f70c8ec203f398?w=800</image>
+    <image>https://img.freeviewplay.tv/p31bc1af198f51923dc467f9cfc430a81?w=800</image>
   </programme>
   <programme start="20260422170000 +0000" stop="20260422173000 +0000" channel="BBCTwo.uk@HD">
     <title lang="en">Richard Osman's House of Games</title>
@@ -5441,7 +5452,7 @@
   <programme start="20260422220500 +0000" stop="20260422223000 +0000" channel="BBCTwo.uk@HD">
     <title lang="en">Unspun World with John Simpson</title>
     <desc lang="en">This week John Simpson, in discussion with the BBC's unparalleled range of experts across the world, analyses the confrontation between Iran and the United States in the Gulf, looks at the humanitarian situation in Lebanon and examines the effect of the downfall of the Hungarian Prime Minister, Viktor Orban, on the European Union.</desc>
-    <image>https://img.freeviewplay.tv/p4a8d0eeb6b29f9b1fe8d06e405ba63d0?w=800</image>
+    <image>https://img.freeviewplay.tv/p6ceb34c4ec2edcc86a79d389021b711d?w=800</image>
   </programme>
   <programme start="20260422223000 +0000" stop="20260422232500 +0000" channel="BBCTwo.uk@HD">
     <title lang="en">Inside Britain's National Parks</title>
@@ -5531,7 +5542,7 @@
   <programme start="20260423200000 +0000" stop="20260423210000 +0000" channel="BBCTwo.uk@HD">
     <title lang="en">Saving Lives at Sea</title>
     <desc lang="en">Whenever their pagers sound, the volunteers of the RNLI immediately find themselves under pressure. In Port Isaac on the north coast of Cornwall, the crew race to the rescue of a woman with a spinal injury; she’s in a precarious position on a rock face, with the light fading. In Pembrokeshire, south west Wales, the Little &amp; Broadhaven crew receive a mayday call about a capsized dinghy with three people in the water. In Mudeford on the Dorset coast, a search for a missing kayaker quickly escalates when it emerges that there are six more kayaks unaccounted for. And in Eyemouth on the east coast of Scotland, the crew respond to an unusual rescue: a swan that’s become tangled in fishing line in the harbour.</desc>
-    <image>https://img.freeviewplay.tv/pa43e89e2bb32d781873b3fa86ef3feb5?w=800</image>
+    <image>https://img.freeviewplay.tv/p611e5841303a31b49bb1fc1ab2171bb9?w=800</image>
   </programme>
   <programme start="20260423210000 +0000" stop="20260423213000 +0000" channel="BBCTwo.uk@HD">
     <title lang="en">Mortimer &amp; Whitehouse: Gone Fishing</title>
@@ -5551,7 +5562,7 @@
   <programme start="20260423230000 +0000" stop="20260424010000 +0000" channel="BBCTwo.uk@HD">
     <title lang="en">Snooker: World Championship</title>
     <desc lang="en">Highlights from the sixth day of the World Snooker Championship in Sheffield.</desc>
-    <image>https://img.freeviewplay.tv/p35653e2f837af1502abef0a147c72b11?w=800</image>
+    <image>https://img.freeviewplay.tv/pa7dc2010785ca3d0f3fe3aabc31ccde6?w=800</image>
   </programme>
   <programme start="20260424010000 +0000" stop="20260424020000 +0000" channel="BBCTwo.uk@HD">
     <title lang="en">Great British Menu</title>
@@ -5596,7 +5607,7 @@
   <programme start="20260424080000 +0000" stop="20260424090000 +0000" channel="BBCTwo.uk@HD">
     <title lang="en">BBC News</title>
     <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <image>https://img.freeviewplay.tv/padeedc3c839a2bbbe6a02b875e74ee7b?w=800</image>
+    <image>https://img.freeviewplay.tv/p3d22611c2ab9a912a70c01653f578b07?w=800</image>
   </programme>
   <programme start="20260424090000 +0000" stop="20260424120000 +0000" channel="BBCTwo.uk@HD">
     <title lang="en">Snooker: World Championship</title>
@@ -5667,10 +5678,6 @@
     <title lang="en">Snooker: World Championship</title>
     <desc lang="en">Highlights from the seventh day of the World Snooker Championship in Sheffield.</desc>
     <image>https://img.freeviewplay.tv/p2e8a98606006ed7e22fdbd6f41a688ee?w=800</image>
-  </programme>
-  <programme start="20260422184445 +0000" stop="20260422213621 +0000" channel="BollywoodClassic.ro@SD">
-    <title lang="en">Azaad Desh Ke Gulam</title>
-    <desc lang="en">Bharti, a law student from a rich family, lives a comfortable life. Her life changes when she learns that her father is in illegal activities.</desc>
   </programme>
   <programme start="20260422214054 +0000" stop="20260423000440 +0000" channel="BollywoodClassic.ro@SD">
     <title lang="en">Pati Patni Aur Woh 1978</title>
@@ -5841,7 +5848,7 @@
   <programme start="20260422061000 +0000" stop="20260422062000 +0000" channel="CBBC.uk@HD">
     <title lang="en">Danger Mouse</title>
     <desc lang="en">Animated series. DM and Penfold go back to school to thwart the plans of an evil food scientist and his killer hot dogs.</desc>
-    <image>https://img.freeviewplay.tv/pb21a92b26ce148448dc51ad882cf481e?w=800</image>
+    <image>https://img.freeviewplay.tv/p2ead84b32a440a8a4c58d9f3dd2ea6b3?w=800</image>
   </programme>
   <programme start="20260422062000 +0000" stop="20260422063500 +0000" channel="CBBC.uk@HD">
     <title lang="en">Super Happy Magic Forest</title>
@@ -5881,12 +5888,12 @@
   <programme start="20260422073500 +0000" stop="20260422074500 +0000" channel="CBBC.uk@HD">
     <title lang="en">Odd Squad</title>
     <desc lang="en">The Odd Squad investigates strange events. A villain sets off a backwards bubble.</desc>
-    <image>https://img.freeviewplay.tv/p5735709859512b49f407a3f2a3aa5876?w=800</image>
+    <image>https://img.freeviewplay.tv/p21fa5e6faba1a67b922bbcfda493bdd3?w=800</image>
   </programme>
   <programme start="20260422074500 +0000" stop="20260422080000 +0000" channel="CBBC.uk@HD">
     <title lang="en">Dennis &amp; Gnasher Unleashed!</title>
     <desc lang="en">It’s time for Gnasher’s annual bath, but the stinky hound will do anything to avoid the tub. Dennis and Gnasher go head to head in a town-wide game of cat and mouse – or rather, tripe hound and wheelie bathtub.</desc>
-    <image>https://img.freeviewplay.tv/p9cd3695300ecc962061ac4a3338675c2?w=800</image>
+    <image>https://img.freeviewplay.tv/pe34f29120f0c27eea43b9d18f44cb88e?w=800</image>
   </programme>
   <programme start="20260422080000 +0000" stop="20260422082000 +0000" channel="CBBC.uk@HD">
     <title lang="en">Bitesize Daily: 5-7 Year Olds</title>
@@ -5906,7 +5913,7 @@
   <programme start="20260422091000 +0000" stop="20260422092500 +0000" channel="CBBC.uk@HD">
     <title lang="en">DIY Deadly with Steve Backshall</title>
     <desc lang="en">In this unprecedented time of lockdown there has never been a better time to learn about the wildlife around us, and Deadly 60 fans have been sending in their videos, photos and questions for Steve Backshall to answer. In this episode Steve focuses on our woodland wildlife, which hides some of our most fascinating and secretive animals. And judging by CBBC’s most observant viewers, our forests packed full of deadly animals! Steve explores why bees swarm, explains how bizarre bugs feed, and revels in the antics of a snuffling Badger! In a DIY demo, Steve then shows us how to catch Britain’s most secretive animals on film by using a camera trap! But that’s not all. The audience gets their chance to Beat Backshall in a 60 second quickfire round. The question is, how many can Steve get right before his time is up? In a fun-filled, fast and furious 13 minutes, we’ll also get to see some of the best bits from 13 years of deadly exploration. Steve gets stung by killer bees and gets a bit too close a south African Badger that’s armed with serious attitude!</desc>
-    <image>https://img.freeviewplay.tv/pb6057b30528009a7210944c3cbb8d68e?w=800</image>
+    <image>https://img.freeviewplay.tv/p1a2856596162e2a1f6457d876bbe0c63?w=800</image>
   </programme>
   <programme start="20260422092500 +0000" stop="20260422095500 +0000" channel="CBBC.uk@HD">
     <title lang="en">Art Ninja</title>
@@ -5926,12 +5933,12 @@
   <programme start="20260422103000 +0000" stop="20260422105500 +0000" channel="CBBC.uk@HD">
     <title lang="en">Operation Ouch!</title>
     <desc lang="en">Did you know your body is full of crystals? Herman the mantis shrimp is in the lab to help the doctors explain how your incredible body not only makes crystals in your bones and teeth but also stops them from doing damage to your kidneys. Say hello to new Oucher Anneeka, join Dr Dan as he goes on duty in a breathlessness clinic, and prepare for a huge medical discovery in Time Machine as the Cupboard of Everything heads into the past. Meanwhile, in the Emergency Department, Noha has arrived to find out why she keeps fainting, and has Jacob broken his toe?</desc>
-    <image>https://img.freeviewplay.tv/p969d387b0842d3e9e1be7e0e9ae8708d?w=800</image>
+    <image>https://img.freeviewplay.tv/p762b017158836e61f52079a65c27a81e?w=800</image>
   </programme>
   <programme start="20260422105500 +0000" stop="20260422112500 +0000" channel="CBBC.uk@HD">
     <title lang="en">Britain's Best Young Artist</title>
     <desc lang="en">It’s the collage round, and three young artists must create a piece of art based on the coastline of Anglesey. But who will impress the judges and go through to the semi-finals?</desc>
-    <image>https://img.freeviewplay.tv/pbe520180a8dd7e3cafd72ebb7a964c16?w=800</image>
+    <image>https://img.freeviewplay.tv/p9a636a686e88b396a91066e8f43b7140?w=800</image>
   </programme>
   <programme start="20260422112500 +0000" stop="20260422115000 +0000" channel="CBBC.uk@HD">
     <title lang="en">Gym Stars</title>
@@ -5941,7 +5948,7 @@
   <programme start="20260422115000 +0000" stop="20260422121000 +0000" channel="CBBC.uk@HD">
     <title lang="en">BMX All Stars</title>
     <desc lang="en">Danny-Jake has a daunting task ahead of him - can he take on some of the biggest BMX jumps in the world? And can Erick secure his dream job as a mechanic and keep his BMX turning?</desc>
-    <image>https://img.freeviewplay.tv/p4306e486cc6bd440303823ac9d9352f6?w=800</image>
+    <image>https://img.freeviewplay.tv/paebd6037669cc2bcb980fb8ea7796869?w=800</image>
   </programme>
   <programme start="20260422121000 +0000" stop="20260422122000 +0000" channel="CBBC.uk@HD">
     <title lang="en">Octonauts: Above &amp; Beyond</title>
@@ -5951,7 +5958,7 @@
   <programme start="20260422122000 +0000" stop="20260422123000 +0000" channel="CBBC.uk@HD">
     <title lang="en">Big Lizard</title>
     <desc lang="en">Twig steals Cosima's volleyball. A chase leads Big Lizard and Cosima to her den... and also to a happy discovery!</desc>
-    <image>https://img.freeviewplay.tv/p829b01f327371b632e98b1a2998be38f?w=800</image>
+    <image>https://img.freeviewplay.tv/pc4e2f4a0fc3465e46ed4f0f1dc9d0143?w=800</image>
   </programme>
   <programme start="20260422123000 +0000" stop="20260422124000 +0000" channel="CBBC.uk@HD">
     <title lang="en">Piripenguins</title>
@@ -5966,7 +5973,7 @@
   <programme start="20260422125000 +0000" stop="20260422130000 +0000" channel="CBBC.uk@HD">
     <title lang="en">Super Happy Magic Forest</title>
     <desc lang="en">Mr Friendlyface accompanies the heroes on a quest and makes everything worse by angering a Big Ole Worm, putting all their lives in danger.</desc>
-    <image>https://img.freeviewplay.tv/p28959173c8cf68487b46b6a7e57e5f25?w=800</image>
+    <image>https://img.freeviewplay.tv/p5d5fc7b8eb10082814afe11d0b3dc7db?w=800</image>
   </programme>
   <programme start="20260422130000 +0000" stop="20260422133000 +0000" channel="CBBC.uk@HD">
     <title lang="en">Operation Ouch!</title>
@@ -5986,17 +5993,17 @@
   <programme start="20260422140500 +0000" stop="20260422142000 +0000" channel="CBBC.uk@HD">
     <title lang="en">Dennis &amp; Gnasher Unleashed!</title>
     <desc lang="en">Deep in the caverns below Beanotown town hall, a mysterious species of over-sized hamsters may or may not exist, so may or may not be at risk of being hunted down and turned into fluffy slippers.</desc>
-    <image>https://img.freeviewplay.tv/pfb21074123dc25b37153cc4e5719b3ef?w=800</image>
+    <image>https://img.freeviewplay.tv/pbd0702cc5afebf8a17005c88036a955a?w=800</image>
   </programme>
   <programme start="20260422142000 +0000" stop="20260422143000 +0000" channel="CBBC.uk@HD">
     <title lang="en">Super Happy Magic Forest</title>
     <desc lang="en">When tasked with the simple quest of building a flat-packed wardrobe, the heroes fail to read the instructions and are whirled into a wonky world.</desc>
-    <image>https://img.freeviewplay.tv/pb7deb542b557edde37b8d10af30afbd6?w=800</image>
+    <image>https://img.freeviewplay.tv/pf38460d5796f66f080494e50a707bfe9?w=800</image>
   </programme>
   <programme start="20260422143000 +0000" stop="20260422144500 +0000" channel="CBBC.uk@HD">
     <title lang="en">Boy Girl Dog Cat Mouse Cheese</title>
     <desc lang="en">After her siblings accidentally insult her dreams of being a pop star, Cheese is bonked on the head and starts to believe she's a huge celebrity! Mouse says they all must play along, because if they ruin the illusion then there's a chance Cheese could go bonkers. Cheese turns into a diva, making outrageous demands from her siblings, and soon enough they're sick of it. But when they learn she was duping them all along, they set out to teach her a lesson...</desc>
-    <image>https://img.freeviewplay.tv/p4540d9337e6bd866504e38a486ddadec?w=800</image>
+    <image>https://img.freeviewplay.tv/p14a1115347d34b91e20f1ae4f511a207?w=800</image>
   </programme>
   <programme start="20260422144500 +0000" stop="20260422145000 +0000" channel="CBBC.uk@HD">
     <title lang="en">Grizzy and the Lemmings</title>
@@ -6204,7 +6211,7 @@
   <programme start="20260423125000 +0000" stop="20260423130000 +0000" channel="CBBC.uk@HD">
     <title lang="en">Super Happy Magic Forest</title>
     <desc lang="en">When a witch struggles to master her new wand, Twinkle decides to have a go, only to make her friends vanish. She must now go on a solo quest to find them.</desc>
-    <image>https://img.freeviewplay.tv/p0f70c51f662eb1e9f7b58d6b81511ec0?w=800</image>
+    <image>https://img.freeviewplay.tv/pe8ffd82fa6a0473f9a678858ca366860?w=800</image>
   </programme>
   <programme start="20260423130000 +0000" stop="20260423133000 +0000" channel="CBBC.uk@HD">
     <title lang="en">Operation Ouch!</title>
@@ -6462,7 +6469,7 @@
   <programme start="20260424133000 +0000" stop="20260424134500 +0000" channel="CBBC.uk@HD">
     <title lang="en">Bro's in Control</title>
     <desc lang="en">Little bro Callum sends Adam and Joe to the seaside to see who can build the greatest sandcastle in a bid to avoid the wheel of doom!</desc>
-    <image>https://img.freeviewplay.tv/pa5734e58b0434b6cc38bc06697626910?w=800</image>
+    <image>https://img.freeviewplay.tv/pa1e581c0b2edb0a8f4e62471b0976dfb?w=800</image>
   </programme>
   <programme start="20260424134500 +0000" stop="20260424140000 +0000" channel="CBBC.uk@HD">
     <title lang="en">Bro's in Control</title>
@@ -6658,9 +6665,9 @@
     <image>https://img.freeviewplay.tv/p5501a5a50a9324079b233b95dfe1e8d4?w=800</image>
   </programme>
   <programme start="20260422110500 +0000" stop="20260422111000 +0000" channel="Channel4.uk@HD">
-    <title lang="en">Channel 4 News</title>
-    <desc lang="en">Channel 4's midday news summary</desc>
-    <image>https://img.freeviewplay.tv/pac4943a529a118f6a66dd37da6f28f3a?w=800</image>
+    <title lang="en">Channel 4 News Summary</title>
+    <desc lang="en">Channel 4's midday news summary. [S]</desc>
+    <image>https://img.freeviewplay.tv/p6ab4ad6ae39a6a3cbbf558df630f4680?w=800</image>
   </programme>
   <programme start="20260422111000 +0000" stop="20260422121000 +0000" channel="Channel4.uk@HD">
     <title lang="en">Find It, Fix It, Flog It</title>
@@ -6699,8 +6706,8 @@
   </programme>
   <programme start="20260422180000 +0000" stop="20260422190000 +0000" channel="Channel4.uk@HD">
     <title lang="en">Channel 4 News</title>
-    <desc lang="en">Downing Street says the PM has the full backing of the Cabinet. Iran says it has attacked three ships in the Strait of Hormuz, just hours after Donald Trump extended the ceasefire.</desc>
-    <image>https://img.freeviewplay.tv/p3614b0b87bf827523ebac0702aa90a25?w=800</image>
+    <desc lang="en">Channel 4's flagship news programme. Including the weather. [S]</desc>
+    <image>https://img.freeviewplay.tv/p7137977878ce471b7ad93a4626423cd5?w=800</image>
   </programme>
   <programme start="20260422190000 +0000" stop="20260422200000 +0000" channel="Channel4.uk@HD">
     <title lang="en">Help! I Bought It at Auction with Sarah Beeny</title>
@@ -7272,12 +7279,12 @@
   <programme start="20260422180000 +0000" stop="20260422190000 +0000" channel="Channel5.uk@HD">
     <title lang="en">Springtime on the Farm</title>
     <desc lang="en">Helen Skelton joins Rob and Dave Nicholson for an emotional lamb delivery that doesn't go to plan. There's drama in the stables as Shire horse Brook goes into labour. And we visit the remarkable New Gokul farm.</desc>
-    <image>https://img.freeviewplay.tv/pdda020b2fc1d349ad06c55fd0dce0353?w=800</image>
+    <image>https://img.freeviewplay.tv/p30dc10bf4a5200c86c736c557efab253?w=800</image>
   </programme>
   <programme start="20260422190000 +0000" stop="20260422200000 +0000" channel="Channel5.uk@HD">
     <title lang="en">Warship: Life in the Royal Navy</title>
     <desc lang="en">JJ Chalmers returns to his Royal Marine roots to face one of their toughest challenges on the unforgiving terrain of Dartmoor. Kate Humble finds herself in the thick of the action aboard HMS Iron Duke.</desc>
-    <image>https://img.freeviewplay.tv/pf69d51f9a0be0b1f449339254f7dba18?w=800</image>
+    <image>https://img.freeviewplay.tv/p4d87944cc250b074e048bc89a822b441?w=800</image>
   </programme>
   <programme start="20260422200000 +0000" stop="20260422210000 +0000" channel="Channel5.uk@HD">
     <title lang="en">Egypt with Dan Snow</title>
@@ -7942,12 +7949,6 @@
   <programme start="20260423153000 +0000" stop="20260423160000 +0000" channel="CNBCBAJAR">
     <title lang="en">Bajar Samachar</title>
     <desc lang="en">The host presents the latest development and updates in the business sector while providing a detailed report on the financial market.</desc>
-  </programme>
-  <programme start="20260422201700 +0000" stop="20260422211900 +0000" channel="Colors.in@HD">
-    <title lang="en">Laughter Chefs Unlimited Entertainment S01</title>
-    <desc lang="en">A mouthwatering mix of celebrity charm, culinary prowess, and comedic flair! Six dynamic couples bring laughter and flavor to the kitchen stage in this delightful non-fiction extravaganza.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_HD_1663411_23APR014700_23APR024900/images/LANDSCAPE_169_HD/COLORSHD_LaughterChefsUnlimitedEntertainment_1663411.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_HD_1663411_23APR014700_23APR024900/images/LOGO/COLORSHD_LaughterChefsUnlimitedEntertainment_1663411.png" />
   </programme>
   <programme start="20260422211900 +0000" stop="20260422222100 +0000" channel="Colors.in@HD">
     <title lang="en">Laughter Chefs Unlimited Entertainment S01</title>
@@ -8696,12 +8697,6 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_HD_438752_26APR023100_26APR041000/images/LANDSCAPE_169_HD/ColorsCineplexHD_Movie_438752.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_HD_438752_26APR023100_26APR041000/images/LOGO/ColorsCineplexHD_Movie_438752.png" />
   </programme>
-  <programme start="20260422200300 +0000" stop="20260422212300 +0000" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Bal Ganesh And Friends From Zeba V</title>
-    <desc lang="en">Devotees Topi, Dhoti, and Suit-Boot journey to planet Zeba with Bal Ganesh tales, sharing stories with friends in a gentle, adventurous celebration of devotion worldwide.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_BOLLYWOOD_2012115_23APR013300_23APR025300/images/LANDSCAPE_169_HD/COLORSCINEPLEXBOLLYWOOD_BalGaneshAndFriendsFromZebaV_2012115.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_BOLLYWOOD_2012115_23APR013300_23APR025300/images/LOGO/COLORSCINEPLEXBOLLYWOOD_BalGaneshAndFriendsFromZebaV_2012115.png" />
-  </programme>
   <programme start="20260422212300 +0000" stop="20260422234300 +0000" channel="ColorsCineplexBollywood.in">
     <title lang="en">Surya Putra Shanidev</title>
     <desc lang="en">A mythological saga portraying the journey of Shanidev, his divine powers, and his role in delivering justice. It explores devotion, karma, and the balance between good and evil in human lives.</desc>
@@ -8849,6 +8844,12 @@
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_BOLLYWOOD_1117090_26APR005300_26APR030400/images/LANDSCAPE_169_HD/COLORSCINEPLEXBOLLYWOOD_Movie_1117090.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_BOLLYWOOD_1117090_26APR005300_26APR030400/images/LOGO/COLORSCINEPLEXBOLLYWOOD_Movie_1117090.png" />
+  </programme>
+  <programme start="20260425213400 +0000" stop="20260426010900 +0000" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_BOLLYWOOD_1117090_26APR030400_26APR063900/images/LANDSCAPE_169_HD/COLORSCINEPLEXBOLLYWOOD_Movie_1117090.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_BOLLYWOOD_1117090_26APR030400_26APR063900/images/LOGO/COLORSCINEPLEXBOLLYWOOD_Movie_1117090.png" />
   </programme>
   <programme start="20260422203200 +0000" stop="20260422233000 +0000" channel="ColorsCineplexSuperhits.in@SD">
     <title lang="en">Chakravarthy</title>
@@ -9496,6 +9497,11 @@
     <desc lang="en">Experience the excitement of the World Pickleball League as elite international players compete in high-energy matches at the K.D. Jadhav Indoor Hall, New Delhi, India.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_EUROSPORT_2026958_26APR011500_26APR030000/images/LANDSCAPE_169/1769852338000_Eurosport_WorldPickleballLeague_2026958.jpg</image>
   </programme>
+  <programme start="20260425213000 +0000" stop="20260425233000 +0000" channel="Eurosport.in@SD">
+    <title lang="en">Eredivisie Soccer</title>
+    <desc lang="en">Catch the thrill of Eredivisie Soccer as top Dutch clubs battle for supremacy at iconic venues like Johan Cruyff Arena, Amsterdam, Netherlands, delivering fast-paced league action.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_EUROSPORT_1851894_26APR030000_26APR050000/images/LANDSCAPE_169/1743938440000_Eurosport_EredivisieSoccer_1851894.jpg</image>
+  </programme>
   <programme start="20260422004500 +0000" stop="20260422023500 +0000" channel="Film4.uk@SD">
     <title lang="en">I Am Not a Witch</title>
     <desc lang="en">(2017) Rungano Nyoni's surreal, BAFTA-winning satirical drama. In rural Zambia, villagers accuse a quiet, serious-looking girl of witchcraft. In Nyanja/Bemba/Tonga/subs.</desc>
@@ -9515,7 +9521,6 @@
   </programme>
   <programme start="20260422114000 +0000" stop="20260422134500 +0000" channel="Film4.uk@SD">
     <title lang="en">Prince Valiant</title>
-    <desc lang="en">(1954) Swashbuckling adventure with Robert Wagner and James Mason. Can a young Viking prince become a knight of the Round Table and stop an evil plot to kill King Arthur?</desc>
     <image>https://img.freeviewplay.tv/pdc08a5698cf0abb2d48467adefa9369d?w=800</image>
   </programme>
   <programme start="20260422134500 +0000" stop="20260422153000 +0000" channel="Film4.uk@SD">
@@ -9624,12 +9629,6 @@
     <title lang="en">Alita: Battle Angel</title>
     <desc lang="en">(2019) Partially animated action film based on a popular manga comic. Alita, a deadly cyborg brought back to life by a mourning scientist, sets out to discover her true identity. [AD,S]</desc>
     <image>https://img.freeviewplay.tv/e109bb6f7142d8eb85aea03f69e494ae9?w=800</image>
-  </programme>
-  <programme start="20260422193000 +0000" stop="20260422212500 +0000" channel="Goldmines.in@SD">
-    <title lang="en">Vijetha</title>
-    <desc lang="en">Ram, a careless youth, grows up oblivious to the sacrifices his father makes to fulfil his desires.however, a major incident motivates him to change his ways of living and respect his father's hardwork.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_GOLDMINES_1411076_23APR010000_23APR025500/images/LANDSCAPE_169_HD/Goldmines_Vijetha_1411076.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_GOLDMINES_1411076_23APR010000_23APR025500/images/LOGO/Goldmines_Vijetha_1411076.png" />
   </programme>
   <programme start="20260422212500 +0000" stop="20260422221500 +0000" channel="Goldmines.in@SD">
     <title lang="en">Scene</title>
@@ -9787,10 +9786,11 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_GOLDMINES_973987_26APR005800_26APR030800/images/LANDSCAPE_169_HD/Goldmines_Movie_973987.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_GOLDMINES_973987_26APR005800_26APR030800/images/LOGO/Goldmines_Movie_973987.png" />
   </programme>
-  <programme start="20260422195800 +0000" stop="20260422214600 +0000" channel="GoldminesBollywood.in">
-    <title lang="en">Gunda</title>
-    <desc lang="en">Shankar, an honest man, innocently comes in the way of a gang lord's mission, leading to them killing his father and sister. shankar vows that he shall get his revenge by eliminating the whole gang.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_GOLDMINES_BOLLYWOOD_1194101_23APR012800_23APR031600/images/LANDSCAPE_169/1681941513000_GoldminesBollywood_Gunda_1194101.jpg</image>
+  <programme start="20260425213800 +0000" stop="20260426003000 +0000" channel="Goldmines.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_GOLDMINES_973987_26APR030800_26APR060000/images/LANDSCAPE_169_HD/Goldmines_Movie_973987.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_GOLDMINES_973987_26APR030800_26APR060000/images/LOGO/Goldmines_Movie_973987.png" />
   </programme>
   <programme start="20260422214600 +0000" stop="20260422224100 +0000" channel="GoldminesBollywood.in">
     <title lang="en">Gunda</title>
@@ -10488,7 +10488,7 @@
     </rating>
     <icon src="https://images.pluto.tv/series/5c9610e1312eab347410e418/tile_1767133516520.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme start="20260423214921 +0000" stop="20260425233000 +0000" channel="HomesUnderHammer.us@UK">
+  <programme start="20260423214921 +0000" stop="20260426233000 +0000" channel="HomesUnderHammer.us@UK">
     <title lang="en">Homes Under Hammer</title>
     <sub-title lang="en">Homes Under Hammer</sub-title>
     <desc lang="en">no info available</desc>
@@ -11020,17 +11020,17 @@
   <programme start="20260422190000 +0000" stop="20260422210000 +0000" channel="ITV3.uk@SD">
     <title lang="en">Midsomer Murders</title>
     <desc lang="en">While family life is far from normal at the home of Eileen Fountain - the steward at prestigious Whiteoaks Golf Club - club captain Martin Crisp is trying to buy back nearby Pellings, a rambling manor house once owned by his family, from golfing president Will Tunstall. As the peaceful setting of the prestigious club is rocked by death and controversy when a golfer is bludgeoned to death near the notorious 13th hole known as Crisp's Folly, Barnaby and Jones learn that crime is rife there...</desc>
-    <image>https://img.freeviewplay.tv/p320851083c2964df371c8b6b3dc7050d?w=800</image>
+    <image>https://img.freeviewplay.tv/p9d3b55f2394542c324fe095e38d01f00?w=800</image>
   </programme>
   <programme start="20260422210000 +0000" stop="20260422220000 +0000" channel="ITV3.uk@SD">
     <title lang="en">DCI Banks</title>
     <desc lang="en">Detective drama series based on novels by Peter Robinson. DCI Banks is called in to investigate a fire - evidence suggests that the victim was involved in a lucrative art forgery scam, but confusion mounts as to the killer's intended victim when a second body is discovered. Banks becomes convinced that one of the victims' relatives is withholding vital information, but his theory brings him into conflict with DS Annie Cabbot - is Cabbot herself crossing the line when she begins an affair with the art expert on the case?</desc>
-    <image>https://img.freeviewplay.tv/p3252999d46017f5e570dda49faa5e85d?w=800</image>
+    <image>https://img.freeviewplay.tv/pac282c58a9913ce1aece397deb7f7c0b?w=800</image>
   </programme>
   <programme start="20260422220000 +0000" stop="20260422225000 +0000" channel="ITV3.uk@SD">
     <title lang="en">DCI Banks</title>
     <desc lang="en">Detective drama series based on novels by Peter Robinson. When Tom McMahon dies in a second suspicious fire, Banks focuses his investigation on the ringleader of the art forgery scam - when he discovers that Annie has started a relationship with Mark Keane, the art expert in the investigation, Banks worries that their actions will seriously compromise the case. Determined to prove a connection between the Asperns and the murders, Banks realises who the serial killer might be - and that Annie's life is now in grave danger.</desc>
-    <image>https://img.freeviewplay.tv/p8369a73addbda7dcce8ebed6c563e8c8?w=800</image>
+    <image>https://img.freeviewplay.tv/pbc8f38a8bb428688446c051b8fad23d1?w=800</image>
   </programme>
   <programme start="20260422225000 +0000" stop="20260423005000 +0000" channel="ITV3.uk@SD">
     <title lang="en">Lewis</title>
@@ -12230,21 +12230,6 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_25APR210000_26APR000000/images/LANDSCAPE_169_HD/MOVIESNOWHD_Movie_362522.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_362522_25APR210000_26APR000000/images/LOGO/MOVIESNOWHD_Movie_362522.png" />
   </programme>
-  <programme start="20260422192300 +0000" stop="20260422211800 +0000" channel="MoviesNowPlus.in@SD">
-    <title lang="en">The Pursuit Of Happyness (2006)</title>
-    <desc lang="en">A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_874610_23APR005300_23APR024800/images/LANDSCAPE_169/1756684870000_MNplusHD_ThePursuitOfHappyness2006_874610.jpg</image>
-  </programme>
-  <programme start="20260422211800 +0000" stop="20260422212500 +0000" channel="MoviesNowPlus.in@SD">
-    <title lang="en">LLL S03 SHAAN</title>
-    <desc lang="en">The host engages in a candid conversation with celebrity guests who share intimate details about their personal and professional lives</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2047066_23APR024800_23APR025500/images/LANDSCAPE_169/1773432616000_MNplusHD_LLLS03SHAAN_2047066.jpg</image>
-  </programme>
-  <programme start="20260422212500 +0000" stop="20260422213500 +0000" channel="MoviesNowPlus.in@SD">
-    <title lang="en">LLL S03 SHAAN</title>
-    <desc lang="en">The host engages in a candid conversation with celebrity guests who share intimate details about their personal and professional lives</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_2047066_23APR025500_23APR030500/images/LANDSCAPE_169/1773432616000_MNplusHD_LLLS03SHAAN_2047066.jpg</image>
-  </programme>
   <programme start="20260422213500 +0000" stop="20260422222200 +0000" channel="MoviesNowPlus.in@SD">
     <title lang="en">The Love Laugh Live Show</title>
     <desc lang="en">A prominent Indian news anchor interviews famous celebrities and brings out their fun side by talking about their life and love stories.</desc>
@@ -13156,6 +13141,12 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_MAX_2_144494_26APR000000_26APR030000/images/LANDSCAPE_169_HD/Max2_Movie_144494.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_MAX_2_144494_26APR000000_26APR030000/images/LOGO/Max2_Movie_144494.png" />
   </programme>
+  <programme start="20260425213000 +0000" stop="20260426003000 +0000" channel="SonyMax2.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_MAX_2_144494_26APR030000_26APR060000/images/LANDSCAPE_169_HD/Max2_Movie_144494.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_MAX_2_144494_26APR030000_26APR060000/images/LOGO/Max2_Movie_144494.png" />
+  </programme>
   <programme start="20260422205800 +0000" stop="20260422223100 +0000" channel="SonyMax.in@HD">
     <title lang="en">Kya Bolti Tu?</title>
     <desc lang="en">A young woman breaks up with her boyfriend when she learns he does not believe in true love, but her next boyfriend is not a perfect match either.</desc>
@@ -13348,11 +13339,11 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_MAX_HD_295700_26APR000000_26APR030000/images/LANDSCAPE_169_HD/MaxHD_Movie_295700.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_MAX_HD_295700_26APR000000_26APR030000/images/LOGO/MaxHD_Movie_295700.png" />
   </programme>
-  <programme start="20260422205900 +0000" stop="20260422213700 +0000" channel="SonyPal.in@SD">
-    <title lang="en">CID</title>
-    <desc lang="en">ACP Pradyuman, Daya and Abhijeet are an elite trio of officers who work for the CID. They seek the help of professional forensic expert Dr Salunkhe and solve various criminal cases.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PAL_280376_23APR022900_23APR030700/images/LANDSCAPE_169_HD/SONYPAL_CID_280376.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PAL_280376_23APR022900_23APR030700/images/LOGO/SONYPAL_CID_280376.png" />
+  <programme start="20260425213000 +0000" stop="20260426003000 +0000" channel="SonyMax.in@HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_MAX_HD_295700_26APR030000_26APR060000/images/LANDSCAPE_169_HD/MaxHD_Movie_295700.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_MAX_HD_295700_26APR030000_26APR060000/images/LOGO/MaxHD_Movie_295700.png" />
   </programme>
   <programme start="20260422213700 +0000" stop="20260422221100 +0000" channel="SonyPal.in@SD">
     <title lang="en">CID</title>
@@ -14239,6 +14230,12 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PAL_280376_26APR023700_26APR030900/images/LANDSCAPE_169_HD/SONYPAL_CID_280376.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PAL_280376_26APR023700_26APR030900/images/LOGO/SONYPAL_CID_280376.png" />
   </programme>
+  <programme start="20260425213900 +0000" stop="20260425222300 +0000" channel="SonyPal.in@SD">
+    <title lang="en">CID</title>
+    <desc lang="en">ACP Pradyuman, Daya and Abhijeet are an elite trio of officers who work for the CID. They seek the help of professional forensic expert Dr Salunkhe and solve various criminal cases.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PAL_280376_26APR030900_26APR035300/images/LANDSCAPE_169_HD/SONYPAL_CID_280376.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PAL_280376_26APR030900_26APR035300/images/LOGO/SONYPAL_CID_280376.png" />
+  </programme>
   <programme start="20260422203800 +0000" stop="20260422221100 +0000" channel="SonyPix.in@HD">
     <title lang="en">Alpha</title>
     <desc lang="en">Abandoned and left for dead, Keda must forge an unlikely alliance with a lone wolf to survive the harsh realities of the prehistoric wilderness.</desc>
@@ -14431,11 +14428,11 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PIX_HD_174077_26APR015400_26APR031900/images/LANDSCAPE_169_HD/PIXHD_Movie_174077.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PIX_HD_174077_26APR015400_26APR031900/images/LOGO/PIXHD_Movie_174077.png" />
   </programme>
-  <programme start="20260422210000 +0000" stop="20260422213000 +0000" channel="SonySAB.in@HD">
-    <title lang="en">Itti Si Khushi</title>
-    <desc lang="en">Anvita, 21, unexpectedly leads her family after parental neglect, sacrificing her dreams to care for five younger siblings. Set in Mumbai, it showcases resilience and quiet strength.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SAB_HD_1929631_23APR023000_23APR030000/images/LANDSCAPE_169_HD/SABTVHD_IttiSiKhushi_1929631.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SAB_HD_1929631_23APR023000_23APR030000/images/LOGO/SABTVHD_IttiSiKhushi_1929631.png" />
+  <programme start="20260425214900 +0000" stop="20260425231600 +0000" channel="SonyPix.in@HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PIX_HD_174077_26APR031900_26APR044600/images/LANDSCAPE_169_HD/PIXHD_Movie_174077.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PIX_HD_174077_26APR031900_26APR044600/images/LOGO/PIXHD_Movie_174077.png" />
   </programme>
   <programme start="20260422213000 +0000" stop="20260422220000 +0000" channel="SonySAB.in@HD">
     <title lang="en">Pushpa Impossible</title>
@@ -15301,16 +15298,16 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SAB_HD_1929631_26APR023000_26APR030000/images/LANDSCAPE_169_HD/SABTVHD_IttiSiKhushi_1929631.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SAB_HD_1929631_26APR023000_26APR030000/images/LOGO/SABTVHD_IttiSiKhushi_1929631.png" />
   </programme>
+  <programme start="20260425213000 +0000" stop="20260425220000 +0000" channel="SonySAB.in@HD">
+    <title lang="en">Pushpa Impossible</title>
+    <desc lang="en">Pushpa's transformative journey depicts an uneducated mother's rise to entrepreneurship and academic success. Her story is a powerful testament to resilience and unwavering hope.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SAB_HD_1302219_26APR030000_26APR033000/images/LANDSCAPE_169_HD/SABTVHD_PushpaImpossible_1302219.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SAB_HD_1302219_26APR030000_26APR033000/images/LOGO/SABTVHD_PushpaImpossible_1302219.png" />
+  </programme>
   <programme start="20260422193000 +0000" stop="20260422223000 +0000" channel="SonySportsTen2.in@HD">
     <title lang="en">UFC Fight Night - Strickland vs Hernandez</title>
     <desc lang="en">See Sean Strickland battle Anthony Hernandez live from UFC Apex, Las Vegas, USA, showcasing gritty striking, strong pressure fighting, and high-intensity UFC Fight Night moments.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2055159_23APR010000_23APR040000/images/LANDSCAPE_169/1774466185000_SONYSportsTEN2HD_UFCFightNight-StricklandvsHernandez_2055159.jpg</image>
-  </programme>
-  <programme start="20260422203000 +0000" stop="20260422213000 +0000" channel="SonySportsTen2.in@HD">
-    <title lang="en">England v India - 2nd ODI, Bristol (2007) - Highlights</title>
-    <desc lang="en">Watch the 2nd ODI highlights between England v India Bristol 2007</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1215608_23APR020000_23APR030000/images/LANDSCAPE_169_HD/SONYSportsTEN1HD_EnglandvIndia-2ndODIBristol2007-Highlights_1215608.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1215608_23APR020000_23APR030000/images/LOGO/SONYSportsTEN1HD_EnglandvIndia-2ndODIBristol2007-Highlights_1215608.png" />
   </programme>
   <programme start="20260422213000 +0000" stop="20260422223000 +0000" channel="SonySportsTen2.in@HD">
     <title lang="en">UFC FIGHT O'CLOCK 2.0 - HEAVYWEIGHT</title>
@@ -15911,11 +15908,11 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1846286_26APR020000_26APR030000/images/LANDSCAPE_169_HD/SONYSportsTEN1HD_Coca-ColaCup1998Highlights-Final-AusvsInd_1846286.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1846286_26APR020000_26APR030000/images/LOGO/SONYSportsTEN1HD_Coca-ColaCup1998Highlights-Final-AusvsInd_1846286.png" />
   </programme>
-  <programme start="20260422210000 +0000" stop="20260422213000 +0000" channel="SonySportsTen3Hindi.in@HD">
-    <title lang="en">Formula E 2026 (S12) Round 3 Miami International E-Prix Highlights</title>
-    <desc lang="en">Watch highlights of the Formula E 2026 Miami E-Prix Round 3 race, featuring high-speed duels, key overtakes, dramatic moments and intense electric racing action.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_3_HD_2063065_23APR023000_23APR030000/images/LANDSCAPE_169_HD/SonySportsTen3HindiHD_FormulaE2026S12Round3MiamiInternationalE-PrixHighlights_2063065.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_3_HD_2063065_23APR023000_23APR030000/images/LOGO/SonySportsTen3HindiHD_FormulaE2026S12Round3MiamiInternationalE-PrixHighlights_2063065.png" />
+  <programme start="20260425213000 +0000" stop="20260425223000 +0000" channel="SonySportsTen2.in@HD">
+    <title lang="en">UFC FIGHT O'CLOCK 2.0 - HEAVYWEIGHT</title>
+    <desc lang="en">UFC FIGHT O'CLOCK 2.0 - HEAVYWEIGHT</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_2069036_26APR030000_26APR040000/images/LANDSCAPE_169_HD/SONYSportsTEN1HD_UFCFIGHTOCLOCK20-HEAVYWEIGHT_2069036.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_2069036_26APR030000_26APR040000/images/LOGO/SONYSportsTEN1HD_UFCFIGHTOCLOCK20-HEAVYWEIGHT_2069036.png" />
   </programme>
   <programme start="20260422213000 +0000" stop="20260422223000 +0000" channel="SonySportsTen3Hindi.in@HD">
     <title lang="en">UFC FIGHT O'CLOCK 2.0 - HEAVYWEIGHT</title>
@@ -16454,11 +16451,11 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_3_HD_2063066_26APR023000_26APR030000/images/LANDSCAPE_169_HD/SonySportsTen3HindiHD_FormulaE2026S12Round6SpainMadridJaramaE-PrixHighlights_2063066.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_3_HD_2063066_26APR023000_26APR030000/images/LOGO/SonySportsTen3HindiHD_FormulaE2026S12Round6SpainMadridJaramaE-PrixHighlights_2063066.png" />
   </programme>
-  <programme start="20260422203000 +0000" stop="20260422213000 +0000" channel="SonySportsTen5.in@HD">
-    <title lang="en">DP World Asia Cup 2025 India vs Oman</title>
-    <desc lang="en">Watch the live telecast of the Asia Cup cricket match between India and Oman as both teams compete with pride and intensity.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_5_HD_2028731_23APR020000_23APR030000/images/LANDSCAPE_169_HD/SONYSportsTEN5HD_DPWorldAsiaCup2025IndiavsOman_2028731.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_5_HD_2028731_23APR020000_23APR030000/images/LOGO/SONYSportsTEN5HD_DPWorldAsiaCup2025IndiavsOman_2028731.png" />
+  <programme start="20260425213000 +0000" stop="20260425223000 +0000" channel="SonySportsTen3Hindi.in@HD">
+    <title lang="en">UFC FIGHT O'CLOCK 2.0 - HEAVYWEIGHT</title>
+    <desc lang="en">UFC FIGHT O'CLOCK 2.0 - HEAVYWEIGHT</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_3_HD_2069069_26APR030000_26APR040000/images/LANDSCAPE_169_HD/SonySportsTen3HindiHD_UFCFIGHTOCLOCK20-HEAVYWEIGHT_2069069.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_3_HD_2069069_26APR030000_26APR040000/images/LOGO/SonySportsTen3HindiHD_UFCFIGHTOCLOCK20-HEAVYWEIGHT_2069069.png" />
   </programme>
   <programme start="20260422213000 +0000" stop="20260422223000 +0000" channel="SonySportsTen5.in@HD">
     <title lang="en">Asia Cup 2016 - Bangladesh Sri Lanka Highlights</title>
@@ -16890,6 +16887,11 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_5_HD_1966636_26APR020000_26APR030000/images/LANDSCAPE_169_HD/SONYSportsTEN5HD_DPWorldAsiaCup2025Highlights-SuperFour-IndiavsSriLanka_1966636.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_5_HD_1966636_26APR020000_26APR030000/images/LOGO/SONYSportsTEN5HD_DPWorldAsiaCup2025Highlights-SuperFour-IndiavsSriLanka_1966636.png" />
   </programme>
+  <programme start="20260425213000 +0000" stop="20260425223000 +0000" channel="SonySportsTen5.in@HD">
+    <title lang="en">Asia Cup 2016 - Pakistan vs Sri Lanka Highlights</title>
+    <desc lang="en">Asia Cup 2016 - Pakistan vs Sri Lanka Highlights</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_5_HD_2041516_26APR030000_26APR040000/images/LANDSCAPE_169/1772220728000_SONYSportsTEN5HD_AsiaCup2016-PakistanvsSriLankaHighlights_2041516.jpg</image>
+  </programme>
   <programme start="20260422204000 +0000" stop="20260422223400 +0000" channel="SonyWah.in@SD">
     <title lang="en">Maryan</title>
     <desc lang="en">Maryan goes to work in an oil company in Sudan to pay back the loans of his uncle. While on his way back, he and his co-workers are held hostage by terrorists.</desc>
@@ -17235,11 +17237,11 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_2_907394_26APR000000_26APR030000/images/LANDSCAPE_169_HD/StarGold2_Movie_907394.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_2_907394_26APR000000_26APR030000/images/LOGO/StarGold2_Movie_907394.png" />
   </programme>
-  <programme start="20260422193000 +0000" stop="20260422213200 +0000" channel="StarGold.in@HD">
-    <title lang="en">Maharaj</title>
-    <desc lang="en">Based on a real-life historic court case, a bold journalist questions a revered leader's immoral behavior.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_HD_1752641_23APR010000_23APR030200/images/LANDSCAPE_169/1756684870000_StarGold2_Maharaj_1730150.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_HD_1752641_23APR010000_23APR030200/images/LOGO/StarGold2_Maharaj_1730150.png" />
+  <programme start="20260425213000 +0000" stop="20260426003000 +0000" channel="StarGold2.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_2_907394_26APR030000_26APR060000/images/LANDSCAPE_169_HD/StarGold2_Movie_907394.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_2_907394_26APR030000_26APR060000/images/LOGO/StarGold2_Movie_907394.png" />
   </programme>
   <programme start="20260422213200 +0000" stop="20260422231500 +0000" channel="StarGold.in@HD">
     <title lang="en">Gayatri</title>
@@ -17401,6 +17403,12 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_HD_194879_26APR004100_26APR024400/images/LANDSCAPE_169_HD/STARGOLDHD_Movie_194879.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_HD_194879_26APR004100_26APR024400/images/LOGO/STARGOLDHD_Movie_194879.png" />
   </programme>
+  <programme start="20260425211400 +0000" stop="20260425233500 +0000" channel="StarGold.in@HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_HD_194879_26APR024400_26APR050500/images/LANDSCAPE_169_HD/STARGOLDHD_Movie_194879.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_HD_194879_26APR024400_26APR050500/images/LOGO/STARGOLDHD_Movie_194879.png" />
+  </programme>
   <programme start="20260422204400 +0000" stop="20260422231200 +0000" channel="StarGoldRomance.in@SD">
     <title lang="en">Bachna Ae Haseeno</title>
     <desc lang="en">Raj, the ultimate playboy, faces rejection and decides it's time to change his ways. He embarks on a journey of redemption, reconnecting with past flames to win back Gayatri's heart.</desc>
@@ -17555,11 +17563,6 @@
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_ROMANCE_4368_26APR020000_26APR044600/images/LANDSCAPE_169_HD/StarGoldRomance_Movie_4368.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_ROMANCE_4368_26APR020000_26APR044600/images/LOGO/StarGoldRomance_Movie_4368.png" />
-  </programme>
-  <programme start="20260422202200 +0000" stop="20260422214400 +0000" channel="StarGoldSelect.in@SD">
-    <title lang="en">Mantra</title>
-    <desc lang="en">An entrepreneur juggles global challenges and the demands of his business while striving to find that elusive work-life balance. Can he keep everything in harmony? Join his journey!</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_SELECT_659854_23APR015200_23APR031400/images/LANDSCAPE_169/1772531170000_StarGoldSelect_Mantra_659854.jpg</image>
   </programme>
   <programme start="20260422214400 +0000" stop="20260422235100 +0000" channel="StarGoldSelect.in@SD">
     <title lang="en">Ishaqzaade</title>
@@ -17895,12 +17898,6 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_THRILLS_2792_26APR020400_26APR033300/images/LANDSCAPE_169_HD/StarGoldThrills_Movie_2792.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_THRILLS_2792_26APR020400_26APR033300/images/LOGO/StarGoldThrills_Movie_2792.png" />
   </programme>
-  <programme start="20260422204700 +0000" stop="20260422212900 +0000" channel="StarMovies.in@HD">
-    <title lang="en">Filler</title>
-    <desc lang="en">Catch non-stop promos, music, and fun fillers from your favorite movies and shows. It's the perfect way to enjoy all the excitement without missing a beat!</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_MOVIES_HD_29789_23APR021700_23APR025900/images/LANDSCAPE_169_HD/STARMOVIESHD_Filler_29789.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_MOVIES_HD_29789_23APR021700_23APR025900/images/LOGO/STARMOVIESHD_Filler_29789.png" />
-  </programme>
   <programme start="20260422212900 +0000" stop="20260422225600 +0000" channel="StarMovies.in@HD">
     <title lang="en">Unbending Mr. Fang</title>
     <desc lang="en">After learning martial arts, Fong Sai-yuk comes back to Zhaoqing and gets immediately involved in a corruption case. The Governor of Nine Gates is ordered to lead a squad to kill witnesses.</desc>
@@ -18087,6 +18084,12 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_MOVIES_HD_11985_26APR000000_26APR030000/images/LANDSCAPE_169_HD/STARMOVIESHD_Movie_11985.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_MOVIES_HD_11985_26APR000000_26APR030000/images/LOGO/STARMOVIESHD_Movie_11985.png" />
   </programme>
+  <programme start="20260425213000 +0000" stop="20260426003000 +0000" channel="StarMovies.in@HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_MOVIES_HD_11985_26APR030000_26APR060000/images/LANDSCAPE_169_HD/STARMOVIESHD_Movie_11985.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_MOVIES_HD_11985_26APR030000_26APR060000/images/LOGO/STARMOVIESHD_Movie_11985.png" />
+  </programme>
   <programme start="20260422205400 +0000" stop="20260422221600 +0000" channel="StarMoviesSelect.in@HD">
     <title lang="en">Kunlun Battle</title>
     <desc lang="en">After the Kunlun gatekeeper is betrayed and ruined by his own people, his son joins forces with a shark man to fight their way back into Kunlun and avenge his father.</desc>
@@ -18266,6 +18269,11 @@
     <title lang="en">Movie</title>
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_MOVIES_SELECT_HD_254781_26APR000000_26APR030000/images/LANDSCAPE_169/1722674273000_StarMoviesSelectHD_Movie_254781.jpg</image>
+  </programme>
+  <programme start="20260425213000 +0000" stop="20260426003000 +0000" channel="StarMoviesSelect.in@HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_MOVIES_SELECT_HD_254781_26APR030000_26APR060000/images/LANDSCAPE_169/1722674273000_StarMoviesSelectHD_Movie_254781.jpg</image>
   </programme>
   <programme start="20260422193000 +0000" stop="20260422223000 +0000" channel="StarPlus.in@HD">
     <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
@@ -18722,12 +18730,6 @@
     <desc lang="en">Following in her mother's footsteps, Abhira aspires to be a lawyer. And for Ruhi, love equals everything! What happens when their lives intertwine with Armaan?</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_PLUS_HD_10145_26APR010000_26APR040000/images/LANDSCAPE_169_HD/STARPLUSHD_YehRishtaKyaKehlataHai_10145.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_PLUS_HD_10145_26APR010000_26APR040000/images/LOGO/STARPLUSHD_YehRishtaKyaKehlataHai_10145.png" />
-  </programme>
-  <programme start="20260422210000 +0000" stop="20260422213000 +0000" channel="StarSports1.in@HD">
-    <title lang="en">TATA IPL 2026 HLs SRH v CSK</title>
-    <desc lang="en">Watch the highlights of the Indian Premier League 2026 cricket match as Sunrisers Hyderabad faced Chennai Super Kings in an exciting contest.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2066520_23APR023000_23APR030000/images/LANDSCAPE_169_HD/StarSportsHD1_TATAIPL2026HLsSRHvCSK_2066520.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2066520_23APR023000_23APR030000/images/LOGO/StarSportsHD1_TATAIPL2026HLsSRHvCSK_2066520.png" />
   </programme>
   <programme start="20260422213000 +0000" stop="20260422220000 +0000" channel="StarSports1.in@HD">
     <title lang="en">TATA IPL 2026 HLs KKR v RR</title>
@@ -19619,11 +19621,11 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2067555_26APR023000_26APR030000/images/LANDSCAPE_169_HD/StarSportsHD1_TATAIPL2026HLsGTvMI_2067555.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2067555_26APR023000_26APR030000/images/LOGO/StarSportsHD1_TATAIPL2026HLsGTvMI_2067555.png" />
   </programme>
-  <programme start="20260422210000 +0000" stop="20260422213000 +0000" channel="StarSports1Hindi.in@HD">
-    <title lang="en">TATA IPL 2026 HLs SRH v CSK</title>
-    <desc lang="en">Watch the highlights of the Indian Premier League 2026 cricket match as Sunrisers Hyderabad faced Chennai Super Kings in an exciting contest.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2066503_23APR023000_23APR030000/images/LANDSCAPE_169_HD/STARSPORTS1HINDIHD_TATAIPL2026HLsSRHvCSK_2066503.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2066503_23APR023000_23APR030000/images/LOGO/STARSPORTS1HINDIHD_TATAIPL2026HLsSRHvCSK_2066503.png" />
+  <programme start="20260425213000 +0000" stop="20260425220000 +0000" channel="StarSports1.in@HD">
+    <title lang="en">TATA IPL 2026 HLs SRH v DC</title>
+    <desc lang="en">Highlights of the IPL match from the 2026 season 19</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2067832_26APR030000_26APR033000/images/LANDSCAPE_169_HD/StarSportsHD1_TATAIPL2026HLsSRHvDC_2067832.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2067832_26APR030000_26APR033000/images/LOGO/StarSportsHD1_TATAIPL2026HLsSRHvDC_2067832.png" />
   </programme>
   <programme start="20260422213000 +0000" stop="20260422220000 +0000" channel="StarSports1Hindi.in@HD">
     <title lang="en">TATA IPL 2026 HLs KKR v RR</title>
@@ -20523,11 +20525,11 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2067562_26APR023000_26APR030000/images/LANDSCAPE_169_HD/STARSPORTS1HINDIHD_TATAIPL2026HLsGTvMI_2067562.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2067562_26APR023000_26APR030000/images/LOGO/STARSPORTS1HINDIHD_TATAIPL2026HLsGTvMI_2067562.png" />
   </programme>
-  <programme start="20260422210000 +0000" stop="20260422213000 +0000" channel="StarSports2Hindi.in@HD">
-    <title lang="en">TATA IPL 2026 HLs GT v KKR</title>
-    <desc lang="en">Watch the highlights of the Indian Premier League 2026 cricket match as Gujarat Titans faced Kolkata Knight Riders in an exciting contest.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2066649_23APR023000_23APR030000/images/LANDSCAPE_169_HD/StarSports2HindiHD_TATAIPL2026HLsGTvKKR_2066649.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2066649_23APR023000_23APR030000/images/LOGO/StarSports2HindiHD_TATAIPL2026HLsGTvKKR_2066649.png" />
+  <programme start="20260425213000 +0000" stop="20260425220000 +0000" channel="StarSports1Hindi.in@HD">
+    <title lang="en">TATA IPL 2026 HLs SRH v DC</title>
+    <desc lang="en">Catch the best of TATA IPL 2026 as Sunrisers Hyderabad take on Delhi Capitals, with high-impact performances and match-winning plays.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2067846_26APR030000_26APR033000/images/LANDSCAPE_169_HD/STARSPORTS1HINDIHD_TATAIPL2026HLsSRHvDC_2067846.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2067846_26APR030000_26APR033000/images/LOGO/STARSPORTS1HINDIHD_TATAIPL2026HLsSRHvDC_2067846.png" />
   </programme>
   <programme start="20260422213000 +0000" stop="20260422220000 +0000" channel="StarSports2Hindi.in@HD">
     <title lang="en">TATA IPL 2026 HLs LSG v RR</title>
@@ -21482,6 +21484,11 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2067511_26APR023000_26APR030000/images/LANDSCAPE_169_HD/StarSports1_TATAIPL2026HLsKKRvRR_2067550.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2067511_26APR023000_26APR030000/images/LOGO/StarSports1_TATAIPL2026HLsKKRvRR_2067550.png" />
   </programme>
+  <programme start="20260425213000 +0000" stop="20260425220000 +0000" channel="StarSports2Hindi.in@HD">
+    <title lang="en">TATA IPL 2026 HLs DC v PBKS</title>
+    <desc lang="en">Highlights of the IPL match from the 2026 season 19</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2069876_26APR030000_26APR033000/images/LANDSCAPE_169/1756684870000_Sports_201.jpg</image>
+  </programme>
   <programme start="20260422210000 +0000" stop="20260422220000 +0000" channel="StarSportsSelect1.in@HD">
     <title lang="en">Matchday Live</title>
     <desc lang="en">Dive into the moment with Matchday Live at Srikantadatta Narasimha Raja Wadeyar Ground, Mysore, on August 21, 2025. Real-time coverage and expert insights roll in.</desc>
@@ -22127,11 +22134,6 @@
     <desc lang="en">PL 25-26</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_1_HD_2069930_26APR020000_26APR040000/images/LANDSCAPE_169/1756684870000_Sports_201.jpg</image>
   </programme>
-  <programme start="20260422210000 +0000" stop="20260422213000 +0000" channel="StarSportsSelect2.in@HD">
-    <title lang="en">PL Highlights Man City v Arsenal</title>
-    <desc lang="en">PL Highlights - 30 minute shows that feature best matches from the weekend.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_2_HD_1282404_23APR023000_23APR030000/images/LANDSCAPE_169/1682545305000_StarSportsSelectHD2_PLHighlightsManCityvArsenal_1282404.jpg</image>
-  </programme>
   <programme start="20260422213000 +0000" stop="20260422220000 +0000" channel="StarSportsSelect2.in@HD">
     <title lang="en">TATA IPL 2026 HLs LSG v RR</title>
     <desc lang="en">Highlights of the IPL match from the 2026 season 19</desc>
@@ -22583,6 +22585,11 @@
     <title lang="en">Live BWF 2026</title>
     <desc lang="en">Watch the thrilling live badminton action of the BWF 2026, where top players swing fast, rivals push limits, and fans cheer every exciting rally all night.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_2_HD_2036221_26APR010000_26APR030000/images/LANDSCAPE_169/1772319305000_StarSportsSelectHD2_LiveBWF2026_2036221.jpg</image>
+  </programme>
+  <programme start="20260425213000 +0000" stop="20260425220000 +0000" channel="StarSportsSelect2.in@HD">
+    <title lang="en">TATA IPL 2026 HLs DC v PBKS</title>
+    <desc lang="en">Highlights of the IPL match from the 2026 season 19</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_2_HD_2069936_26APR030000_26APR033000/images/LANDSCAPE_169/1756684870000_Sports_201.jpg</image>
   </programme>
   <programme start="20260422204500 +0000" stop="20260422230000 +0000" channel="StarUtsav.in@SD">
     <title lang="en">Ye Hai Mohabbatein</title>
@@ -23370,12 +23377,6 @@
     <title lang="en">Fatafat Samachar</title>
     <desc lang="en">The host presents a brief and quick overview of some of the most important stories and the latest developments from all over the country.</desc>
   </programme>
-  <programme start="20260422195200 +0000" stop="20260422214300 +0000" channel="ZeeBollywood.in@SD">
-    <title lang="en">Aag Se Khelenge</title>
-    <desc lang="en">Shekhar teams up with Johnny to fight Zaka's empire. But when he discovers Ravi Saxena died months ago, everything he believed about his ally - and their mission - starts to unravel.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_BOLLYWOOD_1395448_23APR012200_23APR031300/images/LANDSCAPE_169_HD/ZeeBollywood_AagSeKhelenge_1395448.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_BOLLYWOOD_1395448_23APR012200_23APR031300/images/LOGO/ZeeBollywood_AagSeKhelenge_1395448.png" />
-  </programme>
   <programme start="20260422214300 +0000" stop="20260422234900 +0000" channel="ZeeBollywood.in@SD">
     <title lang="en">Kasoor</title>
     <desc lang="en">Shekhar hires Simran as lawyer, she falls for him, unaware of his intentions.</desc>
@@ -23533,12 +23534,6 @@
     <title lang="en">Moksha Salvation</title>
     <desc lang="en">Vikram and Ritika plan to rob a bank to fund their business of providing free legal services to impoverished people. However, things get complicated when she is found dead.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_BOLLYWOOD_1359690_26APR020000_26APR043400/images/LANDSCAPE_169/1772207768000_ZeeBollywood_MokshaSalvation_1359690.jpg</image>
-  </programme>
-  <programme start="20260422191100 +0000" stop="20260422211900 +0000" channel="ZeeCinema.in@HD">
-    <title lang="en">Chup: Revenge of the Artist</title>
-    <desc lang="en">Starring: Sunny Deol,Dulquer Salman. Lonesome florist and new love and a psychopath targeting critics in Mumbai. Inspector Arvind Mathur and Dr. Zenobia investigate the possible connection.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_CINEMA_HD_1579953_23APR004100_23APR024900/images/LANDSCAPE_169_HD/ZeeCinemaHD_ChupRevengeoftheArtist_1579953.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_CINEMA_HD_1579953_23APR004100_23APR024900/images/LOGO/ZeeCinemaHD_ChupRevengeoftheArtist_1579953.png" />
   </programme>
   <programme start="20260422211900 +0000" stop="20260422223200 +0000" channel="ZeeCinema.in@HD">
     <title lang="en">Cycle Kick</title>
@@ -23856,12 +23851,6 @@
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_CLASSIC_775612_26APR013300_26APR034500/images/LANDSCAPE_169_HD/UTVMoviesInternational_Movie_202382.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_CLASSIC_775612_26APR013300_26APR034500/images/LOGO/UTVMoviesInternational_Movie_202382.png" />
-  </programme>
-  <programme start="20260422210200 +0000" stop="20260422212400 +0000" channel="ZeeTV.in@HD">
-    <title lang="en">Jagadhatri</title>
-    <desc lang="en">After an evening of recitation and song, Shreemoti and Rajiv discover four friends dead. Panicked, Shreemoti calls Swayambhu, who arrives and questions Rajiv, farmhouse owner, about the tragedy.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_TV_HD_1981776_23APR023200_23APR025400/images/LANDSCAPE_169_HD/ZEETVHD_Jagadhatri_1981776.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_TV_HD_1981776_23APR023200_23APR025400/images/LOGO/ZEETVHD_Jagadhatri_1981776.png" />
   </programme>
   <programme start="20260422212400 +0000" stop="20260422215700 +0000" channel="ZeeTV.in@HD">
     <title lang="en">Saru</title>
@@ -24678,6 +24667,12 @@
     <desc lang="en">After an evening of recitation and song, Shreemoti and Rajiv discover four friends dead. Panicked, Shreemoti calls Swayambhu, who arrives and questions Rajiv, farmhouse owner, about the tragedy.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_TV_HD_1981776_26APR023000_26APR030000/images/LANDSCAPE_169_HD/ZEETVHD_Jagadhatri_1981776.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_TV_HD_1981776_26APR023000_26APR030000/images/LOGO/ZEETVHD_Jagadhatri_1981776.png" />
+  </programme>
+  <programme start="20260425213000 +0000" stop="20260425220000 +0000" channel="ZeeTV.in@HD">
+    <title lang="en">Saru</title>
+    <desc lang="en">A kabaddi champion from Rajasthan moves to Mumbai to chase her dreams. Along the way, she reunites with her family and fights hard to earn her mother the respect she truly deserves.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_TV_HD_1875385_26APR030000_26APR033000/images/LANDSCAPE_169_HD/ZEETVHD_Saru_1875385.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_TV_HD_1875385_26APR030000_26APR033000/images/LOGO/ZEETVHD_Saru_1875385.png" />
   </programme>
   <programme start="20260422203000 +0000" stop="20260422233000 +0000" channel="Zoom.in@SD">
     <title lang="en">#Nightout</title>
