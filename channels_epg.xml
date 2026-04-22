@@ -110,7 +110,7 @@
 
   <!-- just so that I can get icon working -->
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="GeoKahani">GeoKahani</channel>
-  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id=""></channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="GeoSuper">GeoSuper</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id=""></channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id=""></channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id=""></channel>
@@ -119,7 +119,7 @@
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id=""></channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id=""></channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="ZBCinema">ZBCinema</channel>
-  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="NextFilmi">NextFilmi</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="NextFilmi">NextFilmy</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="PTCPunjabi">PTCPunjabi</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="8XM">8XM</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="ARYMusic">ARYMusic</channel>
@@ -127,8 +127,10 @@
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="PTCMusic">PTCMusic</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="ZoomGlobal">ZoomGlobal</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="24News">24News</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="24News">92News</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="AajNews">AajNews</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="AikNews">AikNews</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="ABNNews">ABNNews</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="BOLNews">BOLNews</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="DawnNews">DawnNews</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="DunyaNews">DunyaNews</channel>
@@ -138,6 +140,7 @@
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="HumNews">HumNews</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="LahoreNews">LahoreNews</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="NewsOne">NewsOne</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="PTVNews">PTVNews</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="SamaaTV">SamaaTV</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="AlQuran">AlQuran</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="AajEntertainment">AajEntertainment</channel>

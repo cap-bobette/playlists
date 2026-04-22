@@ -98,7 +98,7 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-id="ZBCinema" group-title="Movies",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
-#EXTINF:-1 tvg-id="NextFilmi" group-title="Movies",Next Filmi
+#EXTINF:-1 tvg-id="NextFilmy" group-title="Movies",Next Filmy
 http://115.42.65.142:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-id="Pitaara.in@SD" group-title="Movies",Pitaara Movies
@@ -149,7 +149,7 @@ http://115.42.65.142:8000/play/a005/index.m3u8
 #http://115.42.65.142:9981/stream/channelid/1790337855
 #EXTINF:-1 tvg-id="AajNews" group-title="News",Aaj News
 http://115.42.65.142:8000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-id="ABNNews.pk" group-title="News",ABN News
+#EXTINF:-1 tvg-id="ABNNews" group-title="News",ABN News
 https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
 #EXTINF:-1 tvg-id="AikNews" group-title="News",Aik News
 http://116.90.120.148:8000/play/a022/index.m3u8
@@ -188,7 +188,7 @@ http://115.42.65.142:8000/play/a02b/index.m3u8
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsOne" group-title="News",News One
 https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
-#EXTINF:-1 tvg-id="PTVNews.pk" group-title="News",PTV News HD
+#EXTINF:-1 tvg-id="PTVNews" group-title="News",PTV News HD
 http://115.42.65.142:8000/play/a031/index.m3u8
 #http://175.107.244.52:4456/play/a040/index.m3u8
 #http://115.42.65.142:9981/stream/channelid/660684389
@@ -255,7 +255,7 @@ http://115.42.65.142:8000/play/a001/index.m3u8
 http://115.42.65.142:8000/play/a012/index.m3u8
 #http://116.90.120.148:8000/play/a023/index.m3u8
 #http://115.42.65.142:9981/stream/channelid/257140812
-#EXTINF:-1 tvg-id="GeoSuper.pk" group-title="Pakistani",Geo Super
+#EXTINF:-1 tvg-id="GeoSuper" group-title="Pakistani",Geo Super
 http://115.42.65.142:8000/play/a013/index.m3u8
 #http://175.107.244.52:4456/play/a06z/index.m3u8
 #http://115.42.65.142:9981/stream/channelid/1333041791
