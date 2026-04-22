@@ -5,12 +5,10 @@
   <!--<channel site="tv24.co.uk" site_id="geo-news" lang="en" xmltv_id="GeoNewsTv24">Geo News</channel> 
   <channel site="epgshare01.online" site_id="UK1#GEO.News.uk" lang="en" xmltv_id="GEONewsEpgShare01">GEO News</channel>
   -->
-  <channel site="tv24.co.uk" site_id="samaa-tv" lang="en" xmltv_id="SamaaTV">Samaa TV</channel> 
-  
   <!-- Pakistan General -->
   <!--<channel site="epgshare01.online" site_id="UK1#GEO.TV.uk" lang="en" xmltv_id="GeoTVEpgShareo1">GEO TV</channel>
   <channel site="tv24.co.uk" site_id="geo-tv" lang="en" xmltv_id="GeoTVTv24">GEO TV</channel>
-  --> 
+  -->
   
   <!-- India Music -->
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_9XM" lang="en" xmltv_id="9XM.in@SD">9XM</channel>
@@ -110,4 +108,45 @@
   <channel site="epgshare01.online" site_id="IN4#ZEE.24.KALAK.in" lang="en" xmltv_id="ZEE24KALAK">ZEE 24 KALAK</channel>
   <channel site="tataplay.com" site_id="1627" lang="en" xmltv_id="LakshyaTV">Lakshya TV</channel>
 
+  <!-- just so that I can get icon working -->
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="ZBCinema">ZBCinema</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="NextFilmi">NextFilmi</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="PTCPunjabi">PTCPunjabi</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="8XM">8XM</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="ARYMusic">ARYMusic</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="JooMusic">JooMusic</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="PTCMusic">PTCMusic</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="ZoomGlobal">ZoomGlobal</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="24News">24News</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="AajNews">AajNews</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="AikNews">AikNews</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="BOLNews">BOLNews</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="DawnNews">DawnNews</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="DunyaNews">DunyaNews</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="ExpressNews">ExpressNews</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="GeoNewsTez">GeoNewsTez</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="GNN">GNN</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="HumNews">HumNews</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="LahoreNews">LahoreNews</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="NewsOne">NewsOne</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="SamaaTV">SamaaTV</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="AlQuran">AlQuran</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="AajEntertainment">AajEntertainment</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="Aan">Aan</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="APlus">APlus</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="Apna">Apna</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="ARYQtv">ARYQtv</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="ARYZindagi">ARYZindagi</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="ATV">ATV</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="aurLife">aurLife</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="BOLEntertainment">BOLEntertainment</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="DiscoverPakistan">DiscoverPakistan</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="Express">Express</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="GreenEnt">GreenEnt</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="HumHD">HumHD</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="HumMasala">HumMasala</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="HUMSitaray">HUMSitaray</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="VenusEntertainment">VenusEntertainment</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="ASports">ASports</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="TenSports">TenSports</channel>
 </channels>
