@@ -134,10 +134,69 @@ jobs:
           print(f"Done: {len(seen_channels)} total channels, {len(seen_programmes)} total programmes")
           EOF
 
+      - name: Inject missing channel icons
+        run: |
+          python3 - <<'EOF'
+          import xml.etree.ElementTree as ET
+          import json
+          import os
+
+          icons_file = 'channel_icons.json'
+          guide_file = 'guide.xml'
+
+          # Load user-defined icons if file exists
+          icon_map = {}
+          if os.path.exists(icons_file):
+              with open(icons_file, 'r') as f:
+                  icon_map = json.load(f)
+              print(f"Loaded {len(icon_map)} entries from {icons_file}")
+          else:
+              print("No channel_icons.json found, will only report missing icons.")
+
+          tree = ET.parse(guide_file)
+          root = tree.getroot()
+
+          patched = 0
+          overridden = 0
+          missing = {}
+
+          for channel in root.findall('channel'):
+              cid = channel.get('id', '')
+              name = channel.findtext('display-name', default=cid)
+              existing_icon = channel.find('icon')
+
+              if cid in icon_map:
+                  # Always apply from icon_map, overriding whatever is there
+                  if existing_icon is not None:
+                      existing_icon.set('src', icon_map[cid])
+                      overridden += 1
+                  else:
+                      icon_el = ET.Element('icon')
+                      icon_el.set('src', icon_map[cid])
+                      channel.insert(1, icon_el)
+                      patched += 1
+              elif existing_icon is None:
+                  # No icon from grabber and not in icon_map — record as missing
+                  missing[cid] = ""
+
+          # Write missing_channel_icons.json for user to fill in URLs
+          with open('missing_channel_icons.json', 'w') as f:
+              json.dump(missing, f, indent=2)
+          print(f"Missing icons written to missing_channel_icons.json: {len(missing)} channels")
+
+          ET.indent(root, space='  ')
+          out_tree = ET.ElementTree(root)
+          with open(guide_file, 'wb') as out:
+              out.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
+              out_tree.write(out, encoding='utf-8', xml_declaration=False)
+
+          print(f"Done: {patched} icons injected, {overridden} icons overridden")
+          EOF
+
       - name: Commit and push guide.xml
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add guide.xml
-          git diff --staged --quiet || git commit -m "chore: updated guide.xml [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git add guide.xml missing_channel_icons.json
+          git diff --staged --quiet || git commit -m "chore: updated guide.xml missing_channel_icons.json [$(date -u '+%Y-%m-%d %H:%M UTC')]"
           git push
