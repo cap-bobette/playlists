@@ -4,6 +4,13 @@ on:
   schedule:
     - cron: '3 3 * * *'   # 3:03am UTC daily # '3 3,15 * * *' 3:03AM and 3:03PM
   workflow_dispatch:           # allows manual trigger from GitHub Actions tab
+  push:
+    paths:
+      - 'channels.m3u'
+      - 'channels_epg.xml'
+      - 'channels_epg_minus4.xml'
+      - 'channels_icons.json'
+      - 'gujrati.m3u'
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
