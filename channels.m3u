@@ -5,9 +5,6 @@ http://116.90.120.148:8000/play/a0ik/index.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" group-title="English Movies",Star Movies Select
 http://116.90.120.148:8000/play/a0ij/index.m3u8
 #http://103.161.153.165:8000/play/strmshd/index.m3u8
-#EXTINF:-1 tvg-id="Andflix.in@HD" group-title="English Movies",& Flix HD
-http://116.90.120.148:8000/play/a0il/index.m3u8
-#http://103.161.153.165:8000/play/a01z/index.m3u8
 ##EXTINF:-1 tvg-id="AndpriveHD.in@SD" group-title="English Movies",& PRIVE HD
 #http://116.90.120.148:8000/play/a0it/index.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@HD" group-title="English Movies",Sony Pix HD
@@ -95,8 +92,8 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 #https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in@SD" group-title="Movies",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 tvg-id="ZBCinema" group-title="Movies",ZB Cinema
-https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+##EXTINF:-1 tvg-id="ZBCinema" group-title="Movies",ZB Cinema
+#https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 #EXTINF:-1 tvg-id="NextFilmy" group-title="Movies",Next Filmy
 http://115.42.65.142:8000/play/a04h/index.m3u8
@@ -313,6 +310,9 @@ https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 #EXTINF:-1 tvg-id="Eurosport.in@SD" group-title="Sports",Eurosport
 http://116.90.120.148:8000/play/a0ip/index.m3u8
 #http://103.161.153.165:8000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-id="Andflix.in@HD" group-title="English Movies",& Flix HD
+http://116.90.120.148:8000/play/a0il/index.m3u8
+#http://103.161.153.165:8000/play/a01z/index.m3u8
 ##EXTINF:-1 tvg-id="SonySportsTen1.in@HD" group-title="Sports",Sony Sports Ten 1 HD
 #http://103.161.153.165:8000/play/sonyten1/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD" group-title="Sports",Sony Sports Ten 2 HD
