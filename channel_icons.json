@@ -3,8 +3,8 @@
   "WillowCricket": "",
   "ZBCinema": "",
   "NextFilmy": "",
-  "ZoomGlobal": "https://www.lyngsat.com/logo/tv/zz/zoom-in.svg",
   "AlQuran": "",
+  "ZoomGlobal": "https://www.lyngsat.com/logo/tv/zz/zoom-in.svg",
   "BollywoodClassic.ro@SD": "https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20231219_184825_52.png",
   "BollywoodHD.ro@SD": "https://a.jsrdn.com/hls/23077/bollywood-hd/logo_20231219_184845_51.png",
   "HomesUnderHammer.us@UK": "https://cdn.televisioncatchup.co.uk/images/programs/homes-under-the-hammer.jpg",
@@ -63,7 +63,7 @@
   "Express": "https://www.lyngsat.com/logo/tv/ee/express_entertainment_pk.png",
   "GeoEntertainment": "https://www.lyngsat.com/logo/tv/gg/geo_tv_uk.png",
   "GeoKahani": "https://www.lyngsat.com/logo/tv/gg/geo_kahani_pk.png",
-  "GeoSuper": "https://www.lyngsat.com/logo/tv/gg/geo_kahani_pk.png",
+  "GeoSuper": "https://www.geosuper.tv/assets/front/images/super-logo.png",
   "GreenEnt": "https://www.lyngsat.com/logo/tv/gg/green-entertainment-pk.png",
   "HumHD": "https://www.lyngsat.com/logo/tv/hh/hum_tv_pk.png",
   "HumMasala": "https://www.lyngsat.com/logo/tv/hh/hum-masala.png",
@@ -71,5 +71,6 @@
   "PTVNational": "https://www.lyngsat.com/logo/tv/pp/ptv_national_pk.png",
   "PTVHome": "https://www.lyngsat.com/logo/tv/pp/ptv-home-pk.png",
   "VenusEntertainment": "https://www.lyngsat.com/logo/tv/vv/v-entertainment-pk.png",
-  "ASports": "https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png"
+  "ASports": "https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png",
+  "PTVSports": "https://www.lyngsat.com/logo/tv/pp/ptv-sports-pk.png"
 }

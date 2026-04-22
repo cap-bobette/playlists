@@ -100,6 +100,7 @@
   <channel site="epgshare01.online" site_id="IN4#Aastha.Gujarati.in" lang="en" xmltv_id="AasthaGujarati">Aastha Gujarati</channel>
   <channel site="epgshare01.online" site_id="IN4#ABP.ASMITA.in" lang="en" xmltv_id="ABPASMITA">ABP ASMITA</channel>
   <channel site="epgshare01.online" site_id="IN4#CNBC.BAJAR.in" lang="en" xmltv_id="CNBCBAJAR">CNBC BAJAR</channel>
+  <channel site="epgshare01.online" site_id="IN4#CNBC.BAJAR.in" lang="en" xmltv_id="CNBCBAJAR">CNBC BAJAR</channel>
   <channel site="epgshare01.online" site_id="IN4#DD.GIRNAR.in" lang="en" xmltv_id="DDGIRNAR">DD GIRNAR</channel>
   <channel site="epgshare01.online" site_id="IN4#GUJARAT.FIRST.in" lang="en" xmltv_id="GUJARATFIRST">GUJARAT FIRST</channel>
   <channel site="epgshare01.online" site_id="IN4#NEWS18.GUJARATI.in" lang="en" xmltv_id="NEWS18GUJARATI">NEWS18 GUJARATI</channel>
@@ -111,15 +112,8 @@
   <!-- just so that I can get icon working -->
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="GeoKahani">GeoKahani</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="GeoSuper">GeoSuper</channel>
-  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id=""></channel>
-  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id=""></channel>
-  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id=""></channel>
-  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id=""></channel>
-  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id=""></channel>
-  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id=""></channel>
-  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id=""></channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="ZBCinema">ZBCinema</channel>
-  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="NextFilmi">NextFilmy</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="NextFilmy">NextFilmy</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="PTCPunjabi">PTCPunjabi</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="8XM">8XM</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="ARYMusic">ARYMusic</channel>
@@ -127,7 +121,7 @@
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="PTCMusic">PTCMusic</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="ZoomGlobal">ZoomGlobal</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="24News">24News</channel>
-  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="24News">92News</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="92News">92News</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="AajNews">AajNews</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="AikNews">AikNews</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="ABNNews">ABNNews</channel>
@@ -158,7 +152,10 @@
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="HumHD">HumHD</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="HumMasala">HumMasala</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="HUMSitaray">HUMSitaray</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="PTVNational">PTVNational</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="PTVHome">PTVHome</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="VenusEntertainment">VenusEntertainment</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="ASports">ASports</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="PTVSports">PTVSports</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="TenSports">TenSports</channel>
 </channels>
