@@ -109,6 +109,15 @@
   <channel site="tataplay.com" site_id="1627" lang="en" xmltv_id="LakshyaTV">Lakshya TV</channel>
 
   <!-- just so that I can get icon working -->
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="GeoKahani">GeoKahani</channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id=""></channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id=""></channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id=""></channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id=""></channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id=""></channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id=""></channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id=""></channel>
+  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id=""></channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="ZBCinema">ZBCinema</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="NextFilmi">NextFilmi</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="PTCPunjabi">PTCPunjabi</channel>

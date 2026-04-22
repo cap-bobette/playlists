@@ -173,9 +173,9 @@ https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8    #uk
 #EXTINF:-1 tvg-id="ExpressNews" group-title="News",Express News
 http://115.42.65.142:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="GeoNewsInternational.pk@SD" group-title="News",Geo News SD
+#EXTINF:-1 tvg-id="GeoNews" group-title="News",Geo News SD
 https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="GeoNewsInternational.pk@SD" group-title="News",Geo News HD
+#EXTINF:-1 tvg-id="GeoNews" group-title="News",Geo News HD
 http://115.42.65.142:8000/play/a015/index.m3u8
 #http://115.42.65.142:9981/stream/channelid/1823060648
 #EXTINF:-1 tvg-id="GeoNewsTez" group-title="News",Geo News Tez
@@ -245,9 +245,9 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 http://115.42.65.142:8000/play/a01n/index.m3u8
 #http://175.107.244.52:4456/play/a038/index.m3u8
 #http://115.42.65.142:9981/stream/channelid/1259642615
-#EXTINF:-1 tvg-id="GeoUK.pk@SD" group-title="Pakistani",Geo Entertainment SD
+#EXTINF:-1 tvg-id="GeoEntertainment" group-title="Pakistani",Geo Entertainment SD
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="GeoUK.pk@SD" group-title="Pakistani",Geo Entertainment HD
+#EXTINF:-1 tvg-id="GeoEntertainment" group-title="Pakistani",Geo Entertainment HD
 http://115.42.65.142:8000/play/a001/index.m3u8
 #http://116.90.120.148:8000/play/a021/index.m3u8
 #http://115.42.65.142:9981/stream/channelid/303381625
@@ -269,19 +269,20 @@ http://115.42.65.142:8000/play/a04k/index.m3u8
 #http://115.42.65.142:9981/stream/channelid/1898098051  # (low quality)
 #EXTINF:-1 tvg-id="HumMasala" group-title="Pakistani",Hum Masala
 http://115.42.65.142:8000/play/a02r/index.m3u8
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/HUM-Sitaray-Channel-logo.webp?id=30" tvg-id="HUMSitaray" group-title="Pakistani",HUM Sitaray
+#EXTINF:-1 tvg-id="HUMSitaray" group-title="Pakistani",HUM Sitaray
 http://115.42.65.142:8000/play/a02s/index.m3u8
 #https://cdn05khi.tamashaweb.com:8087/jazzauth/HumSitaray-abr/live/vsat-107H/chunks.m3u8?
 #https://cdn24lhr.tamashaweb.com:8087/jazzauth/HumSitaray-abr/live/vsat-107H/chunks.m3u8?
+#http:// tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/HUM-Sitaray-Channel-logo.webp?id=30"
 ##EXTINF:-1 tvg-id="Kay2" group-title="Pakistani",Kay2 HD
 #http://163.61.227.29:8000/play/a038/index.m3u8
-#EXTINF:-1 tvg-id="PTVNational.pk" group-title="Pakistani",PTV National
+#EXTINF:-1 tvg-id="PTVNational" group-title="Pakistani",PTV National
 http://115.42.65.142:8000/play/a00v/index.m3u8
 #http://175.107.244.52:4456/play/a07y/index.m3u8
 #http://115.42.65.142:9981/stream/channelid/780595309
 ##EXTINF:-1 tvg-id="PTVGlobal.pk" group-title="Pakistani",PTV Global
 #http://115.42.65.142:9981/stream/channelid/2136971336
-#EXTINF:-1 tvg-id="PTVHome.pk" group-title="Pakistani",PTV Home
+#EXTINF:-1 tvg-id="PTVHome" group-title="Pakistani",PTV Home
 http://115.42.65.142:8000/play/a030/index.m3u8
 #http://175.107.244.52:4456/play/a03z/index.m3u8
 #http://115.42.65.142:9981/stream/channelid/1847794509
