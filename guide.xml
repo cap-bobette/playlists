@@ -772,12 +772,10 @@
     <display-name>Universal.Movies.us2</display-name>
     <url>https://epgshare01.online</url>
   </channel>
-  <programme start="20260425143000 +0000" stop="20260425150000 +0000" channel="9XM.in@SD">
-    <title lang="en">9XM Shayarism</title>
-    <desc lang="en">A playlist with famous artists plays many well-known songs quickly. This curated collection offers a timeless listening experience for music lovers. Enjoy the iconic tracks!</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1898037_25APR200000_25APR203000/images/LANDSCAPE_169_HD/9XM_9XMShayarism_1898037.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1898037_25APR200000_25APR203000/images/LOGO/9XM_9XMShayarism_1898037.png" />
-  </programme>
+  <channel id="Universal.Westerns.us2">
+    <display-name>Universal.Westerns.us2</display-name>
+    <url>https://epgshare01.online</url>
+  </channel>
   <programme start="20260425150000 +0000" stop="20260425153000 +0000" channel="9XM.in@SD">
     <title lang="en">9XM Shayarism</title>
     <desc lang="en">A playlist with famous artists plays many well-known songs quickly. This curated collection offers a timeless listening experience for music lovers. Enjoy the iconic tracks!</desc>
@@ -16533,7 +16531,7 @@
     </rating>
     <image>https://image.tmdb.org/t/p/original/kqVpdanNgWs1cuI1aenPkqYK95d.jpg</image>
   </programme>
-  <programme start="20260425000000 +0000" stop="20260425120239 +0000" channel="HomesUnderHammer.us@UK">
+  <programme start="20260425000000 +0000" stop="20260425131339 +0000" channel="HomesUnderHammer.us@UK">
     <title lang="en">Homes Under Hammer</title>
     <sub-title lang="en">Homes Under Hammer</sub-title>
     <desc lang="en">no info available</desc>
@@ -16544,24 +16542,6 @@
       <value>no rating</value>
     </rating>
     <icon src="https://images.pluto.tv/channels/5c5c2e9d8002db3c3e0b1c72/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
-  <programme start="20260425120239 +0000" stop="20260425131339 +0000" channel="HomesUnderHammer.us@UK">
-    <title lang="en">Homes Under The Hammer</title>
-    <sub-title lang="en">Episode 16</sub-title>
-    <desc lang="en">Martin and Lucy visit properties in Kent, Essex and Markham.</desc>
-    <credits>
-      <actor>Martin Roberts</actor>
-      <actor>Lucy Alexander</actor>
-    </credits>
-    <date>20031103</date>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">1.15.0/1</episode-num>
-    <episode-num system="onscreen">S02E16</episode-num>
-    <rating>
-      <value>All</value>
-    </rating>
-    <icon src="https://images.pluto.tv/series/5c9610e1312eab347410e418/tile_1767133516520.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
   <programme start="20260425131339 +0000" stop="20260425142239 +0000" channel="HomesUnderHammer.us@UK">
     <title lang="en">Homes Under The Hammer</title>
@@ -16966,7 +16946,25 @@
     </rating>
     <icon src="https://images.pluto.tv/series/5c9610e1312eab347410e418/tile_1767133516520.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme start="20260426144456 +0000" stop="20260429233000 +0000" channel="HomesUnderHammer.us@UK">
+  <programme start="20260426144456 +0000" stop="20260426155456 +0000" channel="HomesUnderHammer.us@UK">
+    <title lang="en">Homes Under The Hammer: Episode 25</title>
+    <sub-title lang="en">Episode 25</sub-title>
+    <desc lang="en">Lucy and Martin visit a house in Plymouth, a 400 year old cottage in Dorset and finally a wacky but wonky two bedroomed flat in Liverpool.</desc>
+    <credits>
+      <actor>Lucy Alexander</actor>
+      <actor>Martin Roberts</actor>
+    </credits>
+    <date>20060101</date>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">4.24.0/1</episode-num>
+    <episode-num system="onscreen">S05E25</episode-num>
+    <rating>
+      <value>All</value>
+    </rating>
+    <icon src="https://images.pluto.tv/series/5c9610e1312eab347410e418/tile_1767133516520.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+  </programme>
+  <programme start="20260426155456 +0000" stop="20260428233000 +0000" channel="HomesUnderHammer.us@UK">
     <title lang="en">Homes Under Hammer</title>
     <sub-title lang="en">Homes Under Hammer</sub-title>
     <desc lang="en">no info available</desc>
@@ -23335,12 +23333,6 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PIX_HD_174077_28APR180000_28APR210000/images/LANDSCAPE_169_HD/PIXHD_Movie_174077.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PIX_HD_174077_28APR180000_28APR210000/images/LOGO/PIXHD_Movie_174077.png" />
   </programme>
-  <programme start="20260425143000 +0000" stop="20260425150000 +0000" channel="SonySAB.in@HD">
-    <title lang="en">Hui Gumm Yaadein, Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">Dr Dev, a brilliant doctor, must rebuild his life after losing eight years of memory in an accident. His ex-wife Dr Srishti gave up her career to raise their children and run his hospital.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SAB_HD_2061811_25APR200000_25APR203000/images/LANDSCAPE_169_HD/SABTVHD_HuiGummYaadeinEkDoctorDoZindagiyaan_2061811.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SAB_HD_2061811_25APR200000_25APR203000/images/LOGO/SABTVHD_HuiGummYaadeinEkDoctorDoZindagiyaan_2061811.png" />
-  </programme>
   <programme start="20260425150000 +0000" stop="20260425153000 +0000" channel="SonySAB.in@HD">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc lang="en">Gokuldham Society is full of quirky neighbours who laugh, fight, and come together through every challenge. A mix of comedy, emotion, and strong community spirit.</desc>
@@ -24854,12 +24846,6 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1852369_28APR200000_28APR210000/images/LANDSCAPE_169_HD/SONYSportsTEN1HD_NewZealandVsIndia20202ndT20Highlights_1852369.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1852369_28APR200000_28APR210000/images/LOGO/SONYSportsTEN1HD_NewZealandVsIndia20202ndT20Highlights_1852369.png" />
   </programme>
-  <programme start="20260425143000 +0000" stop="20260425150000 +0000" channel="SonySportsTen3Hindi.in@HD">
-    <title lang="en">ACC MEN'S U19 ASIA CUP 2025 - SFs India vs Sri Lanka Highlights</title>
-    <desc lang="en">Catch highlights of ACC Men's U19 Asia Cup 2025 Semi-Final between India and Sri Lanka at Dubai International Stadium, Dubai, UAE, in a high-pressure cricket battle.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_3_HD_2001820_25APR200000_25APR203000/images/LANDSCAPE_169_HD/SonySportsTen3HindiHD_ACCMENSU19ASIACUP2025-SFsIndiavsSriLankaHighlights_2001820.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_3_HD_2001820_25APR200000_25APR203000/images/LOGO/SonySportsTen3HindiHD_ACCMENSU19ASIACUP2025-SFsIndiavsSriLankaHighlights_2001820.png" />
-  </programme>
   <programme start="20260425150000 +0000" stop="20260425153000 +0000" channel="SonySportsTen3Hindi.in@HD">
     <title lang="en">The Emirates FA Cup 2025-26 - QFs - Manchester City vs Liverpool Highlights</title>
     <desc lang="en">The Emirates FA Cup 2025-26 - QFs - Manchester City vs Liverpool Highlights</desc>
@@ -25360,11 +25346,6 @@
     <desc lang="en">Catch the cricket highlights of Asia Cup 2023 match held between Sri Lanka and India at R. Premadasa Stadium, Colombo on September 12, 2023.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_3_HD_1940145_28APR203000_28APR213000/images/LANDSCAPE_169_HD/SonySportsTen3HindiHD_AsiaCup2023PAKvINDHighlights_1940145.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_3_HD_1940145_28APR203000_28APR213000/images/LOGO/SonySportsTen3HindiHD_AsiaCup2023PAKvINDHighlights_1940145.png" />
-  </programme>
-  <programme start="20260425130000 +0000" stop="20260425150000 +0000" channel="SonySportsTen5.in@HD">
-    <title lang="en">Live Chanmari FC vs Diamond Harbour FC: INDIAN FOOTBALL LEAGUE 2025-26</title>
-    <desc lang="en">Live Chanmari FC vs Diamond Harbour FC: INDIAN FOOTBALL LEAGUE 2025-26</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_5_HD_2070003_25APR183000_25APR203000/images/LANDSCAPE_169/1777068254000_SONYSportsTEN5HD_LiveChanmariFCvsDiamondHarbourFCINDIANFOOTBALLLEAGUE2025-26_2070003.jpg</image>
   </programme>
   <programme start="20260425150000 +0000" stop="20260425153000 +0000" channel="SonySportsTen5.in@HD">
     <title lang="en">INDIAN FOOTBALL LEAGUE 2025-26 MD 9 Real Kashmir FC vs Sreenidi Deccan FC Highlights</title>
@@ -27309,12 +27290,6 @@
     <title lang="en">Movie</title>
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_MOVIES_SELECT_HD_254781_28APR180000_28APR210000/images/LANDSCAPE_169/1722674273000_StarMoviesSelectHD_Movie_254781.jpg</image>
-  </programme>
-  <programme start="20260425143000 +0000" stop="20260425150000 +0000" channel="StarPlus.in@HD">
-    <title lang="en">Oh Humnava Tum Dena Saath Mera</title>
-    <desc lang="en">Aparajita, an artist with a past, and Rakshit, a reserved businessman wary of love, meet. Their relationship faces challenges, but friendship and hope may spark romance.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_PLUS_HD_2067301_25APR200000_25APR203000/images/LANDSCAPE_169_HD/STARPLUSHD_OhHumnavaTumDenaSaathMera_2067301.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_PLUS_HD_2067301_25APR200000_25APR203000/images/LOGO/STARPLUSHD_OhHumnavaTumDenaSaathMera_2067301.png" />
   </programme>
   <programme start="20260425150000 +0000" stop="20260425153000 +0000" channel="StarPlus.in@HD">
     <title lang="en">Mr. &amp; Mrs. Parshuram</title>
@@ -31279,6 +31254,12 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_1_HD_1933413_28APR203000_28APR203500/images/LANDSCAPE_169_HD/StarSportsSelectHD1_PLFiller_1933413.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_1_HD_1933413_28APR203000_28APR203500/images/LOGO/StarSportsSelectHD1_PLFiller_1933413.png" />
   </programme>
+  <programme start="20260428150500 +0000" stop="20260428151500 +0000" channel="StarSportsSelect1.in@HD">
+    <title lang="en">PL Filler</title>
+    <desc lang="en">Premier League Filler shows exciting football moments, match highlights, and player stories. It's perfect for fans who love quick updates and behind-the-scenes action.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_1_HD_1933413_28APR203500_28APR204500/images/LANDSCAPE_169_HD/StarSportsSelectHD1_PLFiller_1933413.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_1_HD_1933413_28APR203500_28APR204500/images/LOGO/StarSportsSelectHD1_PLFiller_1933413.png" />
+  </programme>
   <programme start="20260425140000 +0000" stop="20260425160000 +0000" channel="StarSportsSelect2.in@HD">
     <title lang="en">Live PL 25-26 Wolves v Tottenham Hotspur</title>
     <desc lang="en">Experience Live Premier League 2025-26 once again as Wolves take on Tottenham Hotspur at Molineux Stadium, Wolverhampton, England, under a charged atmosphere.</desc>
@@ -31659,12 +31640,6 @@
     <title lang="en">5TH T20I WOMEN'S HLS SA v IND</title>
     <desc lang="en">5TH T20I WOMEN'S HLS</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_2_HD_2070782_28APR203000_28APR204500/images/LANDSCAPE_169/1756684870000_Sports_201.jpg</image>
-  </programme>
-  <programme start="20260425143000 +0000" stop="20260425150000 +0000" channel="StarUtsav.in@SD">
-    <title lang="en">Udne Ki Aasha</title>
-    <desc lang="en">A determined young woman faces endless struggles yet refuses to give up on her dreams, inspiring those around her with courage, resilience and hope.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_UTSAV_2055705_25APR200000_25APR203000/images/LANDSCAPE_169_HD/STARUTSAV_UdneKiAasha_2055705.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_UTSAV_2055705_25APR200000_25APR203000/images/LOGO/STARUTSAV_UdneKiAasha_2055705.png" />
   </programme>
   <programme start="20260425150000 +0000" stop="20260425180000 +0000" channel="StarUtsav.in@SD">
     <title lang="en">Ye Hai Mohabbatein</title>
@@ -33347,6 +33322,386 @@
     <title lang="en">The First Purge</title>
     <desc lang="en">Violence and mayhem spread across the nation when the New Founding Fathers of America try a radical sociological experiment that allows citizens to vent their aggression for one night in an isolated community.&amp;quot;,&amp;quot;large&amp;quot;:&amp;quot;To push the crime rate below one percent for the rest of the year, the New Founding Fathers of America try a radical sociological experiment that allows citizens to vent their aggression for one night in an isolated community. The idea soon explodes across the nation when the violence of the oppressors meets the rage of the marginalized.</desc>
   </programme>
+  <programme start="20260425003200 +0000" stop="20260425015900 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">A mischievous young woman (Sharon Farrell) is forced to leave the wagon train after stealing Charlie Wooster&amp;apos;s kitchen utensils.</desc>
+  </programme>
+  <programme start="20260425015900 +0000" stop="20260425032600 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">An overabundance of suspects and lack of clues make a murder investigation difficult.</desc>
+  </programme>
+  <programme start="20260425032600 +0000" stop="20260425042200 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Laramie</title>
+    <desc lang="en">Bob Blayne&amp;apos;s sons come looking for Jess, bent on revenge because Jess maimed their father years ago; though Jess tries to avoid a shootout, when Slim is injured Jess is forced into action.</desc>
+  </programme>
+  <programme start="20260425042200 +0000" stop="20260425051700 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Laramie</title>
+    <desc lang="en">Slim investigates when a ranch fight leads to death, but Slim is not convinced the Arapaho chief found with the body is the killer.</desc>
+  </programme>
+  <programme start="20260425051700 +0000" stop="20260425061300 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Laramie</title>
+    <desc lang="en">Though they don&amp;apos;t trust him, Slim and Jess are forced to watch an injured ex-con who was forced to assist in a bank robbery.</desc>
+  </programme>
+  <programme start="20260425061300 +0000" stop="20260425070800 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Laramie</title>
+    <desc lang="en">While on the trail with a couple facing financial issues, Jess and the couple find a mule loaded with sacks of gold.</desc>
+  </programme>
+  <programme start="20260425070800 +0000" stop="20260425080400 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Laramie</title>
+    <desc lang="en">When he plans to ride shotgun on a stage carrying a bank shipment, Jess is asked to look the other way and allow a robbery, but when Jess tries to have the man arrested, the office manager refuses to press charges.</desc>
+  </programme>
+  <programme start="20260425080400 +0000" stop="20260425085900 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Laramie</title>
+    <desc lang="en">Jess finds remains of a U.S. Army wagon that disappeared during the war that contained $60,000 in gold.</desc>
+  </programme>
+  <programme start="20260425085900 +0000" stop="20260425092700 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Jim Hardie guards a stagecoach carrying gold.</desc>
+  </programme>
+  <programme start="20260425092700 +0000" stop="20260425095500 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Jim investigates killing during robbery.</desc>
+  </programme>
+  <programme start="20260425095500 +0000" stop="20260425102200 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Hardie goes under cover to the town of Alder Gulch to investigate stagecoach robberies.</desc>
+  </programme>
+  <programme start="20260425102200 +0000" stop="20260425105000 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Jim is sent to Moose Creek, Canada, to identify the corpse of an outlaw only he has seen, but the man was killed with a shotgun blast to the face, which makes him hard hard to identify; a woman claims the body is her brother&amp;apos;s body.</desc>
+  </programme>
+  <programme start="20260425105000 +0000" stop="20260425111800 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">The son of a dead man accused of a stage coach robbery finds an empty strongbox in the attic and hopes that Jim Hardie can help him uncover the real thieves.</desc>
+  </programme>
+  <programme start="20260425111800 +0000" stop="20260425114600 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Hardie gives a job to the son of a former employee who was fired.</desc>
+  </programme>
+  <programme start="20260425114600 +0000" stop="20260425121400 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Hardie tries to prevent a lynching when a town&amp;apos;s hard cases accuse a Basque sheepherder of the abduction a young girl.</desc>
+  </programme>
+  <programme start="20260425121400 +0000" stop="20260425124100 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Jim goes undercover as a trainee for Wells Fargo, to try and find out who is supplying renegade Indians with the guns they are using on their murderous raids.</desc>
+  </programme>
+  <programme start="20260425124100 +0000" stop="20260425130900 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Hardie isn&amp;apos;t pleased when a man and beautiful woman insist on becoming passengers on the stagecoach he will use.</desc>
+  </programme>
+  <programme start="20260425130900 +0000" stop="20260425133700 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Jim Hardie is ordered to infiltrate Sam Bass&amp;apos; gang so that he can learn where they hole up between raids.</desc>
+  </programme>
+  <programme start="20260425133700 +0000" stop="20260425140500 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Jim Hardie is called in to investigate what happened to a long overdue stagecoach; among passengers were the son of a wealthy rancher and his fiancee.</desc>
+  </programme>
+  <programme start="20260425140500 +0000" stop="20260425143300 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Jim Hardie joins a group of passengers aboard a stagecoach that includes a woman and her son, a reporter and an outlaw.</desc>
+  </programme>
+  <programme start="20260425143300 +0000" stop="20260425150100 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">When Jesse James and his gang are suspected of robbing a bank in Missouri, Jim Hardie goes under cover to try to find the outlaw.</desc>
+  </programme>
+  <programme start="20260425150100 +0000" stop="20260425152800 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Hardie is called to investigate when a Wells Fargo agent dies and a large sum of money is determined to be missing from the man&amp;apos;s office.</desc>
+  </programme>
+  <programme start="20260425152800 +0000" stop="20260425155600 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Outlaw Belle Starr and her gang rob a train on which Jim Hardie is a passenger, and he tries to lure her from hiding by tempting her with a prominent racehorse.</desc>
+  </programme>
+  <programme start="20260425155600 +0000" stop="20260425172200 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">A lieutenant (Ron Hayes) investigates the theft of Army supplies.</desc>
+  </programme>
+  <programme start="20260425172200 +0000" stop="20260425184800 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">An elderly man (John Doucette) saves a criminal (Clu Gulager) from a lynching.</desc>
+  </programme>
+  <programme start="20260425184800 +0000" stop="20260425201500 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">Barnaby runs away after Hawks spanks him. Guest star: Martin Balsam.</desc>
+  </programme>
+  <programme start="20260425201500 +0000" stop="20260425214100 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">The townspeople fear an Indian uprising.</desc>
+  </programme>
+  <programme start="20260425214100 +0000" stop="20260425230800 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">The wagon train becomes a casino on wheels after a famous gambler (Charles Drake) hops on board.</desc>
+  </programme>
+  <programme start="20260425230800 +0000" stop="20260426003500 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">An aging pioneer (Neville Brand) heads to the wilderness to die when he realizes that his days of glory are behind him.</desc>
+  </programme>
+  <programme start="20260426003500 +0000" stop="20260426020200 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">The wagon train reaches the end of the trail. Guest star: Tom Skerritt.</desc>
+  </programme>
+  <programme start="20260426020200 +0000" stop="20260426025900 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">On his wedding day, an ex-lawman (Robert Ryan) gets into a fight with an old enemy.</desc>
+  </programme>
+  <programme start="20260426025900 +0000" stop="20260426035600 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">Coop and Barnaby set out to stalk buffalo with a group of hide hunters, one of whom delights in taunting Barnaby.</desc>
+  </programme>
+  <programme start="20260426035600 +0000" stop="20260426045100 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Laramie</title>
+    <desc lang="en">Slim and Jess try to help a mysterious stranger who&amp;apos;s been hiding in the mountains, killing Sherman cattle and leaving gold pieces to pay for the animals.</desc>
+  </programme>
+  <programme start="20260426045100 +0000" stop="20260426054700 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Laramie</title>
+    <desc lang="en">Jess is critically wounded when he tries to warn Marshal McGary, who is transporting a prisoner to hang, that the prisoner&amp;apos;s brother plans to attack the tumbleweed wagon.</desc>
+  </programme>
+  <programme start="20260426054700 +0000" stop="20260426064200 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Laramie</title>
+    <desc lang="en">Slim finds an injured young woman, only to be mistaken for one of her kidnappers when her father finds them.</desc>
+  </programme>
+  <programme start="20260426064200 +0000" stop="20260426073800 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Laramie</title>
+    <desc lang="en">Jess catches a man in the freight office who he thinks is casing the place for the Logan gang, though he has no proof.</desc>
+  </programme>
+  <programme start="20260426073800 +0000" stop="20260426083300 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Laramie</title>
+    <desc lang="en">After doing Slim a good turn, a saloon girl asks Slim to help her father return money he&amp;apos;d embezzled from a Montana bank.</desc>
+  </programme>
+  <programme start="20260426083300 +0000" stop="20260426092900 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Laramie</title>
+    <desc lang="en">Upon returning home from a cattle drive, Slim learns a neighbor&amp;apos;s son was killed when he stayed behind in Riverton.</desc>
+  </programme>
+  <programme start="20260426092900 +0000" stop="20260426095600 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">A rookie outlaw holds up the stage carrying cash that Jim is waiting for, prompting Jim to go off looking for the thief, but he finds he needs the criminal&amp;apos;s help when the two must evade an Indian attack.</desc>
+  </programme>
+  <programme start="20260426095600 +0000" stop="20260426102400 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Jim joins a father who&amp;apos;s searching for his missing son in the Superstition Mountains -- an area held sacred by the Apaches.</desc>
+  </programme>
+  <programme start="20260426102400 +0000" stop="20260426105200 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">As the only witness to a robbery, Hardie is targeted by the robber&amp;apos;s partner.</desc>
+  </programme>
+  <programme start="20260426105200 +0000" stop="20260426112000 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Jim goes on the hunt for a band of robbers that is targeting Pony Express riders.</desc>
+  </programme>
+  <programme start="20260426112000 +0000" stop="20260426114700 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Jim Hardie is sent to negotiate a right of way for their stagecoaches through Sam Brundage&amp;apos;s property.</desc>
+  </programme>
+  <programme start="20260426114700 +0000" stop="20260426121500 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Hardie investigates a stagecoach holdup where white men disguised as Indians kill the driver and the guard and leave a lady for dead.</desc>
+  </programme>
+  <programme start="20260426121500 +0000" stop="20260426124200 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">At the Wells Fargo auction, a man and a woman bid vigorously on a destroyed suitcase.</desc>
+  </programme>
+  <programme start="20260426124200 +0000" stop="20260426131000 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Hardie is sent in when a stagecoach is robbed near the Arizona-New Mexico border, and he learns that the only thing taken was a scrappy dog whose collar may be evidence to prove a murder.</desc>
+  </programme>
+  <programme start="20260426131000 +0000" stop="20260426133800 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Jim Hardie and his Wells Fargo agents set a trap for the notorious Stillwell gang, but the outlaws manage to outwit the detectives and escape with five thousand dollars.</desc>
+  </programme>
+  <programme start="20260426133800 +0000" stop="20260426140600 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Jim Hardie tries to clear a colleague of a murder charge after the man is found standing over a dead man, holding a smoking gun.</desc>
+  </programme>
+  <programme start="20260426140600 +0000" stop="20260426143300 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">The Wells Fargo team is tasked with protecting a shipment of jade in San Francisco.</desc>
+  </programme>
+  <programme start="20260426143300 +0000" stop="20260426150100 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Hardie rides with a bigoted general on a mission to quell a Sioux uprising.</desc>
+  </programme>
+  <programme start="20260426150100 +0000" stop="20260426152900 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Hardie spends Christmas hunting for gunrunners moving weapons across the Mexican border.</desc>
+  </programme>
+  <programme start="20260426152900 +0000" stop="20260426155600 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">An old friend of Jim Hardie&amp;apos;s is killed in a Wells Fargo express office robbery.</desc>
+  </programme>
+  <programme start="20260426155600 +0000" stop="20260426162400 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Hardie tries to find a prisoner&amp;apos;s hidden loot.</desc>
+  </programme>
+  <programme start="20260426162400 +0000" stop="20260426172100 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">An embittered outlaw (Bobby Darin) doesn&amp;apos;t want any friends but he&amp;apos;s stuck with one little orphaned girl.</desc>
+  </programme>
+  <programme start="20260426172100 +0000" stop="20260426181800 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">Hawks and Barnaby escort a girl to Sam Race&amp;apos;s tent city of honky-tonks and con games, but the girl is dismayed when she find that the man has hired her as a saloon girl.</desc>
+  </programme>
+  <programme start="20260426181800 +0000" stop="20260426191500 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">Going to the aid of a stagecoach under fire, Coop finds a Bostonian lady (Dana Wynter) to be the only surviving passenger.</desc>
+  </programme>
+  <programme start="20260426191500 +0000" stop="20260426201200 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">A dust-covered delirious Irishmen (Leslie Nieslen) stumbles into camp and falls unconscious; he&amp;apos;s the leader of an emigrant band that&amp;apos;s been victimized and sees no reason to trust Hale.</desc>
+  </programme>
+  <programme start="20260426201200 +0000" stop="20260426210900 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">Coop becomes attracted to a half-breed Indian girl (Diane Baker) found wandering in the wilderness.</desc>
+  </programme>
+  <programme start="20260426210900 +0000" stop="20260426220700 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">The train doesn&amp;apos;t have enough room for all who want to join, including an ex-convict whose life has been threatened by his former partner.</desc>
+  </programme>
+  <programme start="20260426220700 +0000" stop="20260426230400 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">Despite Hale&amp;apos;s edict that the train will bypass Denver, a wealthy young woman (Deborah Walley) is determined to get to the mile high city.</desc>
+  </programme>
+  <programme start="20260426230400 +0000" stop="20260427000100 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">Coop&amp;apos;s boyhood blood brother (Guy Stockwell), now blind, joins the wagon train seeking revenge.</desc>
+  </programme>
+  <programme start="20260427000100 +0000" stop="20260427005800 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">Trouble strikes the wagon train when Coop is wounded, Hawks falls ill and a band of hostile Indians prepares to attack.</desc>
+  </programme>
+  <programme start="20260427005800 +0000" stop="20260427015500 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">A little girl&amp;apos;s cries are heard during the night, but Charlie is the only one to catch a glimpse of her before she vanishes.</desc>
+  </programme>
+  <programme start="20260427015500 +0000" stop="20260427025200 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">With the assistance of Charlie and Barnaby, a would-be inventor (Tom Ewell) works feverishly to launch the first flying machine.</desc>
+  </programme>
+  <programme start="20260427025200 +0000" stop="20260427035000 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">After shooting Charlie, an outlaw gang whose members include two women force Coop to lead them to water.</desc>
+  </programme>
+  <programme start="20260427035000 +0000" stop="20260427044500 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Laramie</title>
+    <desc lang="en">Drifter Jess Harper arrives in Laramie searching for a man, but gunfire sends him out into the countryside, where he meets rancher Slim Sherman and his brother, Andy.</desc>
+  </programme>
+  <programme start="20260427044500 +0000" stop="20260427054100 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Laramie</title>
+    <desc lang="en">A down-on-his-luck drifter with ties to Jess arrives at the Sherman station with a lady preacher; though Jess tries to avoid the man, events force Jess to become involved.</desc>
+  </programme>
+  <programme start="20260427054100 +0000" stop="20260427063600 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Laramie</title>
+    <desc lang="en">Martha Chambers takes refuge from vengeful Indians at the Sherman ranch after she kills the son of a Pawnee chief in a moment of blind terror.</desc>
+  </programme>
+  <programme start="20260427063600 +0000" stop="20260427073200 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Laramie</title>
+    <desc lang="en">Gil Brady seeks out help from his brother-in-law, Jess Harper, when he deserts the calvary and heads for Canada.</desc>
+  </programme>
+  <programme start="20260427073200 +0000" stop="20260427082700 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Laramie</title>
+    <desc lang="en">Tully Hatch, the man who saved Jess Harper&amp;apos;s life and later made him a deputy sheriff, has been accused of robbing a bank and Jess feels he must help him.</desc>
+  </programme>
+  <programme start="20260427082700 +0000" stop="20260427092300 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Laramie</title>
+    <desc lang="en">Jess takes on an undercover job for the sheriff, acting as a guide for an outlaw who&amp;apos;s searching for money stolen in an earlier robbery.</desc>
+  </programme>
+  <programme start="20260427092300 +0000" stop="20260427095000 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Jim protects a woman who is a material witness in a San Francisco corruption investigation.</desc>
+  </programme>
+  <programme start="20260427095000 +0000" stop="20260427101800 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">A young man helps Jim investigate.</desc>
+  </programme>
+  <programme start="20260427101800 +0000" stop="20260427104600 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Hardie attempts to break up a gang of outlaws that steals buffalo hides.</desc>
+  </programme>
+  <programme start="20260427104600 +0000" stop="20260427111300 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">When Wells Fargo is accused of stealing high-grade gold ore from mine wagons and then a new Wells Fargo investigator dies in a mine, Hardie must investigate.</desc>
+  </programme>
+  <programme start="20260427111300 +0000" stop="20260427114100 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Wanted outlaw Bill Longley and Jim Hardie join forces to retrieve money stolen from Wells Fargo by another outlaw.</desc>
+  </programme>
+  <programme start="20260427114100 +0000" stop="20260427120900 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Hardie enlists the aid of a criminal to find the outlaws who kidnapped a U.S. senator, offering the man parole and a reward for his help.</desc>
+  </programme>
+  <programme start="20260427120900 +0000" stop="20260427123600 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Outlaws force Dr. Alice MacCauley to treat their wounded leader.</desc>
+  </programme>
+  <programme start="20260427123600 +0000" stop="20260427130400 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Hardie investigates the disappearance of a Wells Fargo agent sent to stake a claim in Oklahoma.</desc>
+  </programme>
+  <programme start="20260427130400 +0000" stop="20260427133200 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">An outlaw gang abducts Jim, who&amp;apos;s guarding a payroll, and uses Jim&amp;apos;s ID to rob the local Wells Fargo safe.</desc>
+  </programme>
+  <programme start="20260427133200 +0000" stop="20260427135900 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Following his capture by Hardie, the notorious Johnny Ringo asks to care for his dying sister.</desc>
+  </programme>
+  <programme start="20260427135900 +0000" stop="20260427142700 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Hardie helps organize the town&amp;apos;s citizens to bring good government to the community.</desc>
+  </programme>
+  <programme start="20260427142700 +0000" stop="20260427145500 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Hardie rides a stagecoach to help protect a valuable gold shipment.</desc>
+  </programme>
+  <programme start="20260427145500 +0000" stop="20260427152200 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Jim Hardie tries to prove the innocence of a gunslinger who has been framed for a stagecoach robbery and murder.</desc>
+  </programme>
+  <programme start="20260427152200 +0000" stop="20260427155000 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Hardie guns down an ex-convict.</desc>
+  </programme>
+  <programme start="20260427155000 +0000" stop="20260427161700 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Tales of Wells Fargo</title>
+    <desc lang="en">Hardie looks for the murderer of a man scheduled to receive a reward from Wells Fargo.</desc>
+  </programme>
+  <programme start="20260427161700 +0000" stop="20260427171500 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">Hale breaks up a scuffle between a gambler and his former sweetheart (Jeanette Nolan).</desc>
+  </programme>
+  <programme start="20260427171500 +0000" stop="20260427181200 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">A woman traveler in the wagon train (Marta Kristen) has a premonition that Coop&amp;apos;s life is in danger.</desc>
+  </programme>
+  <programme start="20260427181200 +0000" stop="20260427190900 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">Refusing what she considers to be a ridiculous fee to join the wagon train, a willful spinster plans to follow along in her lone wagon.</desc>
+  </programme>
+  <programme start="20260427190900 +0000" stop="20260427200600 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">Charlie and Coop ride into a deserted town where it appears that everyone left in a big hurry.</desc>
+  </programme>
+  <programme start="20260427200600 +0000" stop="20260427210300 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">Because the Indians are in awe of an old-timers&amp;apos; giant horse, a Clydesdale who is nineteen hands high and weighs three thousand pounds, the elderly man is able to pass safely through their hostile territory.</desc>
+  </programme>
+  <programme start="20260427210300 +0000" stop="20260427220000 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">An expectant couple, already deep in debt, need cash for the wife&amp;apos;s medical care.</desc>
+  </programme>
+  <programme start="20260427220000 +0000" stop="20260427225800 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">A female ferryboat skipper (Cathy Lewis) gets a pleasant surprise when the train brings her two visitors, her sailor son (Robert Stanton) and his new bride.</desc>
+  </programme>
+  <programme start="20260427225800 +0000" stop="20260427235500 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">While visiting an old girlfriend (Jennifer Billingsley), Coop finds he&amp;apos;s been recruited to pose as the husband of the woman&amp;apos;s twin sister.</desc>
+  </programme>
+  <programme start="20260427235500 +0000" stop="20260428005200 +0000" channel="Universal.Westerns.us2">
+    <title lang="en">Wagon Train</title>
+    <desc lang="en">Barnaby kills a masked bandit and is then guilt-stricken when he learns that his victim was a boy his own age.</desc>
+  </programme>
   <programme start="20260425033000 +0000" stop="20260425040000 +0000" channel="ZEE24KALAK">
     <title lang="en">Fatafat Samachar</title>
     <desc lang="en">The host presents a brief and quick overview of some of the most important stories and the latest developments from all over the country.</desc>
@@ -34019,12 +34374,6 @@
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_CLASSIC_775612_28APR190000_28APR224100/images/LANDSCAPE_169_HD/UTVMoviesInternational_Movie_202382.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_CLASSIC_775612_28APR190000_28APR224100/images/LOGO/UTVMoviesInternational_Movie_202382.png" />
-  </programme>
-  <programme start="20260425140900 +0000" stop="20260425150800 +0000" channel="ZeeTV.in@HD">
-    <title lang="en">Lakshmi Nivas</title>
-    <desc lang="en">A multi-generational drama showing daughters' struggles, family loyalty, and societal expectations in a rural setup.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_TV_HD_2012764_25APR193900_25APR203800/images/LANDSCAPE_169_HD/ZEETVHD_LakshmiNivas_2012764.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_TV_HD_2012764_25APR193900_25APR203800/images/LOGO/ZEETVHD_LakshmiNivas_2012764.png" />
   </programme>
   <programme start="20260425150800 +0000" stop="20260425153800 +0000" channel="ZeeTV.in@HD">
     <title lang="en">Tumm Se Tumm Tak</title>
