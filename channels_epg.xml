@@ -158,4 +158,11 @@
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="ASports">ASports</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="PTVSports">PTVSports</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="TenSports">TenSports</channel>
+  
+  
+  <channel site="xumo.tv" site_id="50#99951377" lang="en" xmltv_id="AMCThrillers.us@SD">AMC Thrillers</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD2500018X6" lang="en" xmltv_id="">Stories by AMC</channel>
+  <channel site="directv.com" site_id="6a2752b0-1ce4-494f-9788-7931e8222025" lang="en" xmltv_id="">Cinemax</channel>
+  <channel site="directv.com" site_id="45cdfc9d-1228-4b50-8987-7c82db99f1ba" lang="en" xmltv_id="">Cinemax Hits</channel>
+  
 </channels>
