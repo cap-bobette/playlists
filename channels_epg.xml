@@ -161,8 +161,33 @@
   
   
   <channel site="xumo.tv" site_id="50#99951377" lang="en" xmltv_id="AMCThrillers.us@SD">AMC Thrillers</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD2500018X6" lang="en" xmltv_id="">Stories by AMC</channel>
-  <channel site="directv.com" site_id="6a2752b0-1ce4-494f-9788-7931e8222025" lang="en" xmltv_id="">Cinemax</channel>
-  <channel site="directv.com" site_id="45cdfc9d-1228-4b50-8987-7c82db99f1ba" lang="en" xmltv_id="">Cinemax Hits</channel>
+  <channel site="epgshare01.online" site_id="US2#Stories.by.AMC.us2" lang="en" xmltv_id="Stories.by.AMC.us2">Stories by AMC</channel>
+  <channel site="plex.tv" site_id="616df1e90dfa27ee465797fa" lang="en" xmltv_id="CineLife.us@SD">CineLife</channel>
+  <channel site="epgshare01.online" site_id="US2#Cinemax.HD.us2" lang="en" xmltv_id="Cinemax.HD.us2">Cinemax</channel>
+  <channel site="epgshare01.online" site_id="US2#Cinemax.Hits.us2" lang="en" xmltv_id="Cinemax.Hits.us2">Cinemax Hits</channel>
+  <channel site="epgshare01.online" site_id="US2#FX.HD.us2" lang="en" xmltv_id="FX.HD.us2">FX</channel>
+  <channel site="epgshare01.online" site_id="US2#FX.Movie.Channel.HD.us2" lang="en" xmltv_id="FX.Movie.Channel.HD.us2">FX Movie Channel</channel>
+  <channel site="epgshare01.online" site_id="US2#HBO.East.us2" lang="en" xmltv_id="HBO.East.us2">HBO</channel>
+  <channel site="epgshare01.online" site_id="US2#HBO.Hits.us2" lang="en" xmltv_id="HBO.Hits.us2">HBO Hits</channel>
+  <channel site="epgshare01.online" site_id="US2#HBO.Movies.us2" lang="en" xmltv_id="HBO.Movies.us2">HBO Movies</channel>
+  <channel site="plex.tv" site_id="644c4bc17472b186783f35a0" lang="en" xmltv_id="HerSphere.us@SD">HerSphere by Lionsgate</channel>
+  <channel site="plex.tv" site_id="641496bf238e21f260e7844a" lang="en" xmltv_id="OuterSphere.us@SD">OuterSphere by Lionsgate</channel>
+  <channel site="epgshare01.online" site_id="US2#MGM+..HD.us2" lang="en" xmltv_id="MGM+.HD.us2">MGM+</channel>
+  <channel site="epgshare01.online" site_id="US2#MGM+.Hits.HD.us2" lang="en" xmltv_id="MGM+.Hits.HD.us2">MGM+ Hits</channel>
+  <channel site="epgshare01.online" site_id="US2#MGM.Presents.us2" lang="en" xmltv_id="MGM.Presents.us2">MGM.Presents.us2</channel>
+  <channel site="epgshare01.online" site_id="US2#MGM.Presents.Action.us2" lang="en" xmltv_id="MGM.Presents.Action.us2">MGM.Presents.Action.us2</channel>
+  <channel site="epgshare01.online" site_id="US2#MGM.Presents:.Westerns.us2" lang="en" xmltv_id="MGM.Presents:.Westerns.us2">MGM.Presents:.Westerns.us2</channel>
+  <channel site="epgshare01.online" site_id="US2#MGM.Presents:.Horror.us2" lang="en" xmltv_id="MGM.Presents:.Horror.us2">MGM.Presents:.Horror.us2</channel>
+  <channel site="epgshare01.online" site_id="US2#" lang="en" xmltv_id=""></channel>
+  <channel site="epgshare01.online" site_id="US2#" lang="en" xmltv_id=""></channel>
+  <channel site="epgshare01.online" site_id="US2#" lang="en" xmltv_id=""></channel>
+  <channel site="epgshare01.online" site_id="US2#" lang="en" xmltv_id=""></channel>
+  <channel site="epgshare01.online" site_id="US2#" lang="en" xmltv_id=""></channel>
+  <channel site="epgshare01.online" site_id="US2#" lang="en" xmltv_id=""></channel>
+  <channel site="epgshare01.online" site_id="US2#" lang="en" xmltv_id=""></channel>
+  <channel site="epgshare01.online" site_id="US2#" lang="en" xmltv_id=""></channel>
+  <channel site="epgshare01.online" site_id="US2#" lang="en" xmltv_id=""></channel>
+  <channel site="epgshare01.online" site_id="US2#" lang="en" xmltv_id=""></channel>
   
+
 </channels>
