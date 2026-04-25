@@ -385,13 +385,13 @@ https://d3o593mz1glx8d.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 http://epicboss.live/bjune@teksavvy.com/5193594414/19074
 #EXTINF:-1 tvg-id="MGM+.Hits.HD.us2" tvg-name="MGM+ Hits" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true" group-title="English Movies",MGM+ Hits
 http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14164
-#EXTINF:-1 tvg-id="MGM.Presents.us2" tvg-name="MGM Presents" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/mgm_presents_us._SL170_FMpng_.png" group-title="English Movies",MGM Present
+#EXTINF:-1 tvg-id="MGM.Presents.us2" tvg-name="MGM Presents" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/mgm_presents_us._SL170_FMpng_.png" group-title="English Movies",MGM Presents
 https://ffef67628f584802af88ab884a963471.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1071-MGMPRESENTS-TCLTV/7035defd-1fc3-49cd-9dd6-8f646549cc42/0.m3u8
-#EXTINF:-1 tvg-id="MGM.Presents.Action.us2" tvg-name="MGM Presents Action" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/mgm_presents_action_us._SL170_FMpng_.png" group-title="English Movies",MGM Present Action
+#EXTINF:-1 tvg-id="MGM.Presents.Action.us2" tvg-name="MGM Presents Action" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/mgm_presents_action_us._SL170_FMpng_.png" group-title="English Movies",MGM Presents Action
 https://de52c7baf4d24192aab606854046c219.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1147-MGMPRESENTSACTION-TCLTV/cf093a9e-2702-4532-979d-76034058eb9c/0.m3u8
-#EXTINF:-1 tvg-id="MGM.Presents:.Westerns.us2" tvg-name="MGM Presents Westerns" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/mgm_presents_westerns_us._SL170_FMpng_.png" group-title="English Movies",MGM Present Westerns
+#EXTINF:-1 tvg-id="MGM.Presents:.Westerns.us2" tvg-name="MGM Presents Westerns" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/mgm_presents_westerns_us._SL170_FMpng_.png" group-title="English Movies",MGM Presents Westerns
 https://4d749f8e02534ddd81f7656943147d0f.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1148-MGMPRESENTSWESTERNS-TCLTV/47337481-340d-4efe-8ff9-a22470dc48fd/0.m3u8
-#EXTINF:-1 tvg-id="MGM.Presents:.Horror.us2" tvg-name="MGM Presents Horror" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/mgm_presents_horror._SL170_FMpng_.png" group-title="English Movies",MGM Present Horror
+#EXTINF:-1 tvg-id="MGM.Presents:.Horror.us2" tvg-name="MGM Presents Horror" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/mgm_presents_horror._SL170_FMpng_.png" group-title="English Movies",MGM Presents Horror
 https://99f62fea411048679ce5e233e88f2b95.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1217-MGMPRESENTSHORROR-TCLTV/55852247-e42e-4f5f-81b9-54a3f0a893bf/0.m3u8
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Paramount+ with Showtime" tvg-logo="https://www.paramountpluswithshowtime.com/svg/showtime-plus.svg" group-title="English Movies",Paramount+ with Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
