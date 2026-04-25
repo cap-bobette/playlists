@@ -190,7 +190,7 @@
   <channel site="epgshare01.online" site_id="US2#Universal.Crime.us2" lang="en" xmltv_id="Universal.Crime.us2">Universal.Crime.us2</channel>
   <channel site="epgshare01.online" site_id="US2#Universal.Monsters.us2" lang="en" xmltv_id="Universal.Monsters.us2">Universal.Monsters.us2</channel>
   <channel site="epgshare01.online" site_id="US2#Universal.Movies.us2" lang="en" xmltv_id="Universal.Movies.us2">Universal.Movies.us2</channel>
-  <channel site="epgshare01.online" site_id="US2#Universal.Westerns.us2" lang="en" xmltv_id="Universal.Westerns.us2"></channel>  
+  <channel site="epgshare01.online" site_id="US2#Universal.Westerns.us2" lang="en" xmltv_id="Universal.Westerns.us2">Universal.Westerns.us2</channel>  
   <channel site="epgshare01.online" site_id="US2#" lang="en" xmltv_id=""></channel>
   <channel site="epgshare01.online" site_id="US2#" lang="en" xmltv_id=""></channel>
   
