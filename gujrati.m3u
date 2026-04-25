@@ -21,26 +21,7 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24kalak/v1/manifest/611d79b
 #EXTINF:11 tvg-id="LakshyaTV",Lakshya TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lakshya-tv/index.m3u8?ads.vf=o5tDPMkI440
 
-##### 1 of 2: Below is copied from channels.m3u - eng to indian music
-
-#EXTINF:-1 tvg-id="StarMovies.in@HD" group-title="English Movies",Star Movies HD
-http://116.90.120.148:8000/play/a0ik/index.m3u8
-#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" group-title="English Movies",Star Movies Select
-http://116.90.120.148:8000/play/a0ij/index.m3u8
-#http://103.161.153.165:8000/play/strmshd/index.m3u8
-##EXTINF:-1 tvg-id="AndpriveHD.in@SD" group-title="English Movies",& PRIVE HD
-#http://116.90.120.148:8000/play/a0it/index.m3u8
-#EXTINF:-1 tvg-id="SonyPix.in@HD" group-title="English Movies",Sony Pix HD
-http://116.90.120.148:8000/play/a0ii/index.m3u8
-#http://103.161.153.165:8000/play/a04f/index.m3u8
-#EXTINF:-1 tvg-id="MoviesNow.in@HD" group-title="English Movies",Movies Now HD
-http://116.90.120.148:8000/play/a0ib/index.m3u8
-#http://103.161.153.165:8000/play/mnh/index.m3u8
-#EXTINF:-1 tvg-id="MoviesNowPlus.in@SD" group-title="English Movies",Movies Now +
-http://116.90.120.148:8000/play/a0i4/index.m3u8
-#EXTINF:-1 tvg-id="Film4.uk@SD" group-title="English Movies",Film4 HD
-https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
-
+##### 1 of 2: Below is copied from channels.m3u - movies to indian music
 #EXTINF:-1 tvg-id="B4UKadak.in@SD" group-title="Movies",B4U Kadak
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
 #https://cdn-2.pishow.tv/live/227/master.m3u8
@@ -126,17 +107,17 @@ http://116.90.120.148:8000/play/a0ky/index.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabi" group-title="Movies",PTC Punjabi
 https://cdn-2.pishow.tv/live/1604/master.m3u8
 
-#EXTINF:-1 tvg-id="Colors.in@HD" group-title="India",Colors HD
+#EXTINF:-1 tvg-id="Colors.in@HD" group-title="Indian",Colors HD
 http://116.90.120.148:8000/play/a0gt/index.m3u8
-#EXTINF:-1 tvg-id="SonySAB.in@HD" group-title="India",Sony Sab HD
+#EXTINF:-1 tvg-id="SonySAB.in@HD" group-title="Indian",Sony Sab HD
 http://116.90.120.148:8000/play/a0gx/index.m3u8
-#EXTINF:-1 tvg-id="SonyPal.in@SD" group-title="India",Sony Pal
+#EXTINF:-1 tvg-id="SonyPal.in@SD" group-title="Indian",Sony Pal
 http://116.90.120.148:8000/play/a0hz/index.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in@HD" group-title="India",Star Plus HD
+#EXTINF:-1 tvg-id="StarPlus.in@HD" group-title="Indian",Star Plus HD
 http://116.90.120.148:8000/play/a0gr/index.m3u8
-##EXTINF:-1 tvg-id="StarUtsav.in@SD" group-title="India",Star Utsav
+##EXTINF:-1 tvg-id="StarUtsav.in@SD" group-title="Indian",Star Utsav
 #http://116.90.120.148:8000/play/a0kc/index.m3u8
-#EXTINF:-1 tvg-id="ZeeTV.in@HD" group-title="India",Zee TV HD
+#EXTINF:-1 tvg-id="ZeeTV.in@HD" group-title="Indian",Zee TV HD
 http://116.90.120.148:8000/play/a0hk/index.m3u8
 
 #EXTINF:-1 tvg-id="8XM" group-title="Music",8XM
@@ -159,12 +140,11 @@ https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 
 
-##### 2 of 2: Below is copied from channels.m3u for SPORTS section
-
+##### 2 of 2: Below is copied from channels.m3u for Eng/India Sports to English Movies
 #EXTINF:-1 tvg-id="Eurosport.in@SD" group-title="Sports",Eurosport
 http://116.90.120.148:8000/play/a0ip/index.m3u8
 #http://103.161.153.165:8000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="Andflix.in@HD" group-title="English Movies",& Flix HD
+#EXTINF:-1 tvg-id="Andflix.in@HD" group-title="Sports",& Flix HD
 http://116.90.120.148:8000/play/a0il/index.m3u8
 #http://103.161.153.165:8000/play/a01z/index.m3u8
 ##EXTINF:-1 tvg-id="SonySportsTen1.in@HD" group-title="Sports",Sony Sports Ten 1 HD
@@ -194,3 +174,88 @@ http://116.90.120.148:8000/play/a0ha/index.m3u8
 #http://103.161.153.165:8000/play/starspsel2/index.m3u8
 ##EXTINF:-1 tvg-id="WillowCricket" group-title="Sports",Willow Cricket
 #http://103.161.153.165:8000/play/willowcrichd/index.m3u8
+
+#EXTINF:-1 tvg-id="StarMovies.in@HD" group-title="English Movies",Star Movies HD
+http://116.90.120.148:8000/play/a0ik/index.m3u8
+#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" group-title="English Movies",Star Movies Select
+http://116.90.120.148:8000/play/a0ij/index.m3u8
+#http://103.161.153.165:8000/play/strmshd/index.m3u8
+##EXTINF:-1 tvg-id="AndpriveHD.in@SD" group-title="English Movies",& PRIVE HD
+#http://116.90.120.148:8000/play/a0it/index.m3u8
+#EXTINF:-1 tvg-id="SonyPix.in@HD" group-title="English Movies",Sony Pix HD
+http://116.90.120.148:8000/play/a0ii/index.m3u8
+#http://103.161.153.165:8000/play/a04f/index.m3u8
+#EXTINF:-1 tvg-id="MoviesNow.in@HD" group-title="English Movies",Movies Now HD
+http://116.90.120.148:8000/play/a0ib/index.m3u8
+#http://103.161.153.165:8000/play/mnh/index.m3u8
+#EXTINF:-1 tvg-id="MoviesNowPlus.in@SD" group-title="English Movies",Movies Now +
+http://116.90.120.148:8000/play/a0i4/index.m3u8
+#EXTINF:-1 tvg-id="Film4.uk@SD" group-title="English Movies",Film4 HD
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+
+#EXTINF:-1 tvg-id="AMCThrillers.us@SD" tvg-name="AMC Thrillers" tvg-logo="https://image.xumo.com/v1/channels/channel/99951377/168x168.png?type=color_onBlack" group-title="English Movies",AMC Thrillers
+https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/dbfca017-81b9-4a86-af1e-debe7e1a7666/4.m3u8
+#EXTINF:-1 tvg-id="Stories.by.AMC.us2" tvg-name="Stories by AMC" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png" group-title="English Movies",Stories by AMC
+https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/6f61dc83-1db6-47ca-91fa-c7a26dc238fb/5.m3u8
+#EXTINF:-1 tvg-id="CineLife.us@SD" tvg-name="CineLife" tvg-logo="https://images.squarespace-cdn.com/content/v1/585c3d2c579fb31beca3111d/1625253549584-JCQBQQILNEG6LDVEPQTM/CineLife-logo-color-RBG.png" group-title="English Movies",CINELIFE
+https://d3ugbz7t7lf3ux.cloudfront.net/ts-us-w2-n1/playlist/magnoliaA-cinelife-xumo/cb543d19796c628f84cb3b60cef341a2f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac755bdb80148b61299bce8c37683f03409a5e5afba358b1ebe75d10d06ca7b41455967a47e09f43c8821da689d15b9d5ed523f842cc97a6da871787d59b5e9361eb2736542369ebe313f2996fb6b0e201b837ec4a3c7c60d5e1fecb40359242471ccbebcaab60ec61b6e347af41477684052dfe5da464b81dafa16fada8a9d6414043c48e3b3361c86dc7fb78f0c819267b80c9a4eb4f1a33ef6c7f6927b703263d82f4c815cbe01d9fb52282bb53d059aa9e689487bb8fe3b1c21fd2758a8fc391334641741742a869e2cb3d957986389fc71d77081604b5cc018dc6f84e206e4ab1855cff1a0ff68ed8d4915d6d8a283072dc4df5174560c53f693cc228fa913325c90502973a30fe1764d31bb2e862a5e98ba5353ab3dfd54bb03abce24481a070dc07566e0bbdf62348560c2c809c012304399215aa83b0a21d6f27e3f8caf2c529482431055d018ea2aa30ac87ce2d1201d211414471031c820bc663bd531be04f6aea11036fc0194e66a2aabfb8d6f2a677f3bde7f8/32/1920x1080_5253600/index.m3u8?is_lat=0&us_privacy=
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/500px-Cinemax_2016.svg.png" group-title="English Movies",Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits" tvg-logo="https://static.hbo.com/2025-09/Cinemax_Hits_Plex_Logo_bw.svg" group-title="English Movies",Cinemax Hits
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/500px-FX_International_logo.svg.png" group-title="English Movies",FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/500px-FX_Movies_logo.svg.png" group-title="English Movies",FXM
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/10401
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="English Movies",HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-name="HBO Hits" tvg-logo="https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg" group-title="English Movies",HBO Hits
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-name="HBO Movies" tvg-logo="https://static.hbo.com/2025-09/HBO_Movies_Plex_Logo_bw.svg" group-title="English Movies",HBO Movies
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="HerSphere.us@SD" tvg-name="HerSphere by Lionsgate" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3ed082aa-5659-4fd0-8775-22613a65f924/HerSphere_1500x1000_Logo_Dark.png" group-title="English Movies",HerSphere by Lionsgate
+https://amg00353-lionsgatestudio-hersphere-lgus-3vv9h.amagi.tv/ts-us-w2-n2/playlist/amg00353-lionsgatestudio-hersphere-lgus/cb543e1f796c648e9dd43c66cef340a1f9431fde1d6988693eb5518975d10724d4efa89da914ac30578f6680255f314120369809a11f11afce7ba83e357978738388c33b99c5476ee78a74736eac7f1d56e00d13c03d285aedc43644c531bc720053cf0c6d5d3dc4fd2af5340d98d5158a7b2c95adc361277d4a3cce0b0ca7f941a6fce64346de7eb5e21a1b9c7e11e7845fc8814eee9dd55ac8429b27f617cb8fa5ded61686d09360ab52b2365319481398846addcd58a0d3996c349d7a2d34713f8b98b7db7815a5627c71d9d4ee823fbe79a08821922e36ab108e4a96238364a47bc88b239b8c8bef7d771c96f7724e099dbfd5e0933437ae28fcabffd30115f3912f5668e74efd1f717bfa92ca10978d1486a63091bb7b182dd29d37ebf7dcb8ce80bd75af11e5f5d1ad0f6e73394568e85ca68923df2ccb71abcb07384c4836c2f038ffa2fc6819416ab9b467e43626e3a0e1e8de0a2884610b4ae661d45e7700a65e575dd51dc6b41d41ac1b50ff5f56fa5c26ce41f3ad22e1b5c2976d51dce5e46dca41db8733efac7cc3013d5d11fdf03951414078d9ea14635a15f864d4e3f5c3422724c0d2f0a4b2395f063d041c008af69517f1ebfb053022fc09650a1b1113854ad16dcf124a0f20da1bddb87b04ef681a0ac2970d627943b8fb94afb3eb9030df17d2cbee77283f4971cf5b6f4055f492bd6bc0623414175c841c2a56ae17484bfc94cafcebee04a2a751990752264af3d13478340801096d9a947b9958e1986fdef1af67eacca62f1ff956cf00148d9eca65fdfa92ce550ae2c63d735ca1fa02f24004fd32e971f8b816d9b44648152c322ea8ea6fd66f8485e1ad409b28be010a78eb6ca28ce6c1ba0c3cdcb86c120c3d6c275a6f2c5166d4dbd1774e7fe9aa2ee558efef27c4283f081b62e8ab237bb9c15321c64d140da4a4d8c5a9c50d1fde7df179c51264cc32360acfff05b0c0d89cfb837c1a04dca0a24fbeac8785c9dab85614655714bef7767652e70bdfa822cd90470e85ee8ae1c9209e73e347dceed315cd1a81f6e67ec4f69cfae839025f283196a5cccf35e6e64e2fd77adf5e630c9d98e3f171fadece73129866d4a435498b0a5f79f68ad728e71c9dc204709bed0058d1677cc5edfe2d19ba4bcd4d0959d4fba84d1ef0ee2eb868a6a7c6653fe4baf6eb3d3c49873e93afb06768a1971c0e569f646dee56b7b812d8c410d4f64736230c767543b11219446c591b62929aaa7d903e00f7fed6438b459393e21dc9831fe7f28bdba1eb3f5a8cf80211c8de8661ac0ec1c386f434a51c34e438d1524fa7dcd5f0dce3d4bf949f37540c9348db24c975dae99ad14d465b2ae15e6e757fb55de21b195f91f350c88c4478c98bae548d5502054a3f18fb3492d055444c288ca65a98de616d202c13e0d109ba16fb145fd11927f34a21425f345347a385c4548b7a8b39e2a22b6f8fe1989166dfde588fccb9b7ef765fb8154c286f96b8889dd53350dd849a9d3012ecc86da71f783c6bcf9a8d747bfa874307fdb18660b4ac69e449625a8fb3337e9d6019415af23469838979f99b58f390d8f5a3/140/1920x1080_6046040/index.m3u8
+#EXTINF:-1 tvg-id="OuterSphere.us@SD" tvg-name="OuterSphere by Lionsgate" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png" group-title="English Movies",OuterSphere by Lionsgate
+https://d3o593mz1glx8d.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/00b50ee1-5798-469a-b438-53e6c394eccc/3.m3u8
+#EXTINF:-1 tvg-id="MGM+.HD.us2" tvg-name="MGM+" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" group-title="English Movies",MGM+
+http://epicboss.live/bjune@teksavvy.com/5193594414/19074
+#EXTINF:-1 tvg-id="MGM+.Hits.HD.us2" tvg-name="MGM+ Hits" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true" group-title="English Movies",MGM+ Hits
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14164
+#EXTINF:-1 tvg-id="MGM.Presents.us2" tvg-name="MGM Presents" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/mgm_presents_us._SL170_FMpng_.png" group-title="English Movies",MGM Present
+https://ffef67628f584802af88ab884a963471.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1071-MGMPRESENTS-TCLTV/7035defd-1fc3-49cd-9dd6-8f646549cc42/0.m3u8
+#EXTINF:-1 tvg-id="MGM.Presents.Action.us2" tvg-name="MGM Presents Action" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/mgm_presents_action_us._SL170_FMpng_.png" group-title="English Movies",MGM Present Action
+https://de52c7baf4d24192aab606854046c219.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1147-MGMPRESENTSACTION-TCLTV/cf093a9e-2702-4532-979d-76034058eb9c/0.m3u8
+#EXTINF:-1 tvg-id="MGM.Presents:.Westerns.us2" tvg-name="MGM Presents Westerns" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/mgm_presents_westerns_us._SL170_FMpng_.png" group-title="English Movies",MGM Present Westerns
+https://4d749f8e02534ddd81f7656943147d0f.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1148-MGMPRESENTSWESTERNS-TCLTV/47337481-340d-4efe-8ff9-a22470dc48fd/0.m3u8
+#EXTINF:-1 tvg-id="MGM.Presents:.Horror.us2" tvg-name="MGM Presents Horror" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/mgm_presents_horror._SL170_FMpng_.png" group-title="English Movies",MGM Present Horror
+https://99f62fea411048679ce5e233e88f2b95.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1217-MGMPRESENTSHORROR-TCLTV/55852247-e42e-4f5f-81b9-54a3f0a893bf/0.m3u8
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Paramount+ with Showtime" tvg-logo="https://www.paramountpluswithshowtime.com/svg/showtime-plus.svg" group-title="English Movies",Paramount+ with Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-name="Showtime 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="English Movies",Showtime 2
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14169
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="English Movies",Showtime Extreme
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14170
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-name="Showtime Family Zone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-family-zone-us.png?raw=true" group-title="English Movies",Showtime Family Zone
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14171
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="Showtime Showcase" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-showcase-us.png?raw=true" group-title="English Movies",Showtime Showcase
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/188733
+#EXTINF:-1 tvg-id="GB3000041I" tvg-name="Sony One Action Hits UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000041I_20260310T031838SQUARE.png" group-title="English Movies",Sony One Action HITS UK
+https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/af2459de-b2ca-47eb-8435-5e6998ec22dc/0.m3u8
+#EXTINF:-1 tvg-id="GB300003UI" tvg-name="Sony One Comedy Hits UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300003UI_20260224T031207SQUARE.png" group-title="English Movies",Sony One Comedy HITS UK
+https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/cc1d2891-3e9b-4e4c-a518-383d37092998/0.m3u8
+#EXTINF:-1 tvg-id="GB3000061H" tvg-name="Sony One Thriller TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000061H_20260224T031223SQUARE.png" group-title="English Movies",Sony One Thriller TV UK
+https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/02d6917b-e5da-46e2-82d5-c3b3103bfd0e/0.m3u8
+#EXTINF:-1 tvg-id="GB300007J7" tvg-name="Sony One FAVES UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300007J7_20260224T031219SQUARE.png" group-title="English Movies",Sony One FAVES UK
+https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/f3dfc4d0-f5ec-4ea8-b4b0-d0db3982bd9c/0.m3u8
+#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="English Movies",Sony Movie Channel
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14850
+#EXTINF:-1 tvg-id="Universal.Action.us2" tvg-name="Universal Action" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/universal_action_us._SL170_FMpng_.png" group-title="English Movies",Universal Action
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/fd4a4071-8a85-4989-9e8b-446ace3b7127/4.m3u8
+#EXTINF:-1 tvg-id="Universal.Crime.us2" tvg-name="Universal Crime" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Universal_Crime_FAST_TitleArt_White._SL170_FMpng_.png" group-title="English Movies",Universal Crime
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/8c099bf8-0c15-481f-a109-1a3162361da8/4.m3u8
+#EXTINF:-1 tvg-id="Universal.Monsters.us2" tvg-name="Universal Monsters" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/universal_monsters_us._SL170_FMpng_.png" group-title="English Movies",Universal Monsters
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/b0f73b6d-7181-4046-ad5f-62f4efa641c3/4.m3u8
+#EXTINF:-1 tvg-id="Universal.Movies.us2" tvg-name="Universal Movies" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/UniversalMovies-72-dpi-1920-x-1080-16-9-logo-aplha-channel-freevee-PNG_Jan_2025._SL170_FMpng_.png" group-title="English Movies",Universal Movies
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/e7275bfb-fb8d-49d8-969f-854481fa7e71/4.m3u8
+#EXTINF:-1 tvg-id="Universal.Westerns.us2" tvg-name="Universal Western" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Universal_Westerns_FAST_TitleArt_White._SL170_FMpng_.png" group-title="English Movies",Universal Western
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/a121f0f1-6195-47d3-aaeb-aebe124b0511/4.m3u8

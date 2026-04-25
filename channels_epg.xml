@@ -27,7 +27,7 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMAND_PICTURES_HD" lang="en" xmltv_id="Andpictures.in@HD">&amp; Pictures HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD" lang="en" xmltv_id="AndxplorHD.in">&amp;Xplor HD</channel>
 
-  <!-- India Movies -->
+  <!-- Movies -->
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_B4U_KADAK" lang="en" xmltv_id="B4UKadak.in@SD">B4U Kadak</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_B4U_MOVIES" lang="en" xmltv_id="B4UMovies.in@India">B4U Movies</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD" lang="en" xmltv_id="ZeeCinema.in@HD">Zee Cinema HD</channel>
@@ -54,11 +54,9 @@
   <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN40000100Y" lang="en" xmltv_id="TheMovieClub.in@Plus2">The Movie Club+2</channel>
   <channel site="distro.tv" site_id="87417" lang="en" xmltv_id="BollywoodClassic.ro@SD">Bollywood Classic</channel>
   <channel site="distro.tv" site_id="87418" lang="en" xmltv_id="BollywoodHD.ro@SD">Bollywood HD</channel>
-
-  <!-- India Punjabi Movies -->
   <channel site="tataplay.com" site_id="624" lang="en" xmltv_id="Pitaara.in@SD">Pitaara Movies</channel>
   
-  <!-- India Channels -->
+  <!-- Indian -->
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_HD" lang="en" xmltv_id="Colors.in@HD">Colors HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SAB_HD" lang="en" xmltv_id="SonySAB.in@HD">Sony SAB HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_PAL" lang="en" xmltv_id="SonyPal.in@SD">Sony Pal</channel>
@@ -159,7 +157,7 @@
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="PTVSports">PTVSports</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="TenSports">TenSports</channel>
   
-  
+  <!-- English Movies -->  
   <channel site="xumo.tv" site_id="50#99951377" lang="en" xmltv_id="AMCThrillers.us@SD">AMC Thrillers</channel>
   <channel site="epgshare01.online" site_id="US2#Stories.by.AMC.us2" lang="en" xmltv_id="Stories.by.AMC.us2">Stories by AMC</channel>
   <channel site="plex.tv" site_id="616df1e90dfa27ee465797fa" lang="en" xmltv_id="CineLife.us@SD">CineLife</channel>
@@ -172,20 +170,27 @@
   <channel site="epgshare01.online" site_id="US2#HBO.Movies.us2" lang="en" xmltv_id="HBO.Movies.us2">HBO Movies</channel>
   <channel site="plex.tv" site_id="644c4bc17472b186783f35a0" lang="en" xmltv_id="HerSphere.us@SD">HerSphere by Lionsgate</channel>
   <channel site="plex.tv" site_id="641496bf238e21f260e7844a" lang="en" xmltv_id="OuterSphere.us@SD">OuterSphere by Lionsgate</channel>
-  <channel site="epgshare01.online" site_id="US2#MGM+..HD.us2" lang="en" xmltv_id="MGM+.HD.us2">MGM+</channel>
+  <channel site="epgshare01.online" site_id="US2#MGM+.HD.us2" lang="en" xmltv_id="MGM+.HD.us2">MGM+</channel>
   <channel site="epgshare01.online" site_id="US2#MGM+.Hits.HD.us2" lang="en" xmltv_id="MGM+.Hits.HD.us2">MGM+ Hits</channel>
   <channel site="epgshare01.online" site_id="US2#MGM.Presents.us2" lang="en" xmltv_id="MGM.Presents.us2">MGM.Presents.us2</channel>
   <channel site="epgshare01.online" site_id="US2#MGM.Presents.Action.us2" lang="en" xmltv_id="MGM.Presents.Action.us2">MGM.Presents.Action.us2</channel>
   <channel site="epgshare01.online" site_id="US2#MGM.Presents:.Westerns.us2" lang="en" xmltv_id="MGM.Presents:.Westerns.us2">MGM.Presents:.Westerns.us2</channel>
   <channel site="epgshare01.online" site_id="US2#MGM.Presents:.Horror.us2" lang="en" xmltv_id="MGM.Presents:.Horror.us2">MGM.Presents:.Horror.us2</channel>
-  <channel site="epgshare01.online" site_id="US2#" lang="en" xmltv_id=""></channel>
-  <channel site="epgshare01.online" site_id="US2#" lang="en" xmltv_id=""></channel>
-  <channel site="epgshare01.online" site_id="US2#" lang="en" xmltv_id=""></channel>
-  <channel site="epgshare01.online" site_id="US2#" lang="en" xmltv_id=""></channel>
-  <channel site="epgshare01.online" site_id="US2#" lang="en" xmltv_id=""></channel>
-  <channel site="epgshare01.online" site_id="US2#" lang="en" xmltv_id=""></channel>
-  <channel site="epgshare01.online" site_id="US2#" lang="en" xmltv_id=""></channel>
-  <channel site="epgshare01.online" site_id="US2#" lang="en" xmltv_id=""></channel>
+  <channel site="epgshare01.online" site_id="US2#Paramount+.with.Showtime.HD.us2" lang="en" xmltv_id="Paramount+.with.Showtime.HD.us2">Paramount+.with.Showtime.HD.us2</channel>
+  <channel site="epgshare01.online" site_id="US2#Showtime.2.HD.us2" lang="en" xmltv_id="Showtime.2.HD.us2">Showtime.2.HD.us2</channel>
+  <channel site="epgshare01.online" site_id="US2#Showtime.Extreme.HD.us2" lang="en" xmltv_id="Showtime.Extreme.HD.us2">Showtime.Extreme.HD.us2</channel>
+  <channel site="epgshare01.online" site_id="US2#Showtime.Familyzone.HD.us2" lang="en" xmltv_id="Showtime.Familyzone.HD.us2">Showtime.Familyzone.HD.us2</channel>
+  <channel site="epgshare01.online" site_id="US2#Showtime.Showcase.HD.us2" lang="en" xmltv_id="Showtime.Showcase.HD.us2">Showtime.Showcase.HD.us2</channel>
+  <channel site="plex.tv" site_id="692111d750fe592fd6d5b7da" lang="en" xmltv_id="GB3000041I">Sony One Action Hits</channel>
+  <channel site="plex.tv" site_id="6920d9db5028288613484a78" lang="en" xmltv_id="GB300003UI">Sony One Comedy Hits</channel>
+  <channel site="plex.tv" site_id="6920da7250fe592fd6d5b7d3" lang="en" xmltv_id="GB3000061H">Sony One Thriller TV</channel>
+  <channel site="plex.tv" site_id="6920df415cbe620c1f9b6bab" lang="en" xmltv_id="GB300007J7">Sony One FAVES</channel>
+  <channel site="epgshare01.online" site_id="US2#Sony.Movie.Channel.HD.us2" lang="en" xmltv_id="Sony.Movie.Channel.HD.us2">Sony.Movie.Channel.HD.us2</channel>
+  <channel site="epgshare01.online" site_id="US2#Universal.Action.us2" lang="en" xmltv_id="Universal.Action.us2">Universal.Action.us2</channel>
+  <channel site="epgshare01.online" site_id="US2#Universal.Crime.us2" lang="en" xmltv_id="Universal.Crime.us2">Universal.Crime.us2</channel>
+  <channel site="epgshare01.online" site_id="US2#Universal.Monsters.us2" lang="en" xmltv_id="Universal.Monsters.us2">Universal.Monsters.us2</channel>
+  <channel site="epgshare01.online" site_id="US2#Universal.Movies.us2" lang="en" xmltv_id="Universal.Movies.us2">Universal.Movies.us2</channel>
+  <channel site="epgshare01.online" site_id="US2#Universal.Westerns.us2" lang="en" xmltv_id="Universal.Westerns.us2"></channel>  
   <channel site="epgshare01.online" site_id="US2#" lang="en" xmltv_id=""></channel>
   <channel site="epgshare01.online" site_id="US2#" lang="en" xmltv_id=""></channel>
   
