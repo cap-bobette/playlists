@@ -106,7 +106,8 @@ https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-id="ARYMusic" group-title="Music",ARY Music
 http://115.42.65.142:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in@India" group-title="Music",B4U Music
-http://116.90.120.148:8000/play/a0k3/index.m3u8
+https://jmp2.uk/stvp-IN3900017KM
+#http://116.90.120.148:8000/play/a0k3/index.m3u8 (non samsung)
 #http://115.42.65.142:9981/stream/channelid/972957830
 #https://cdn-2.pishow.tv/live/415/master.m3u8
 #EXTINF:-1 tvg-id="JooMusic" group-title="Music",JooMusic
