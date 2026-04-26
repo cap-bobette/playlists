@@ -6,11 +6,11 @@ on:
   workflow_dispatch:           # allows manual trigger from GitHub Actions tab
   push:
     paths:
-      - 'channels.m3u'
       - 'channels_epg.xml'
       - 'channels_epg_minus4.xml'
       - 'channels_icons.json'
-      - 'gujrati.m3u'
+      #- 'channels.m3u'
+      #- 'gujrati.m3u'
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
