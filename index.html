@@ -155,31 +155,32 @@
     
     <script>
         // Add your files here
-        const files = [
-            // Example entries - replace with your actual files
-            // { name: 'playlist1.m3u', url: 'playlist1.m3u' },
-            // { name: 'playlist2.m3u', url: 'playlist2.m3u' }
+        var files = [
+            { name: 'channels.m3u', url: 'channels.m3u' },
+            { name: 'guide.xml', url: 'guide.m3u' },
+            { name: 'gujrati.m3u', url: 'gujrati.m3u' }
         ];
         
         // Automatically detect files from the repository
         async function loadFiles() {
-            const fileList = document.getElementById('fileList');
+            const fileList = document.getElementById('fileList');           
             
-            // Try to fetch the GitHub API to get repository contents
             try {
-                const response = await fetch('https://api.github.com/repos/cap-bobette/playlists/contents/');
-                const data = await response.json();
+                // Try to fetch the GitHub API to get repository contents
+                // const response = await fetch('https://api.github.com/repos/cap-bobette/playlists/contents/');
+                // const data = await response.json();
                 
-                const filteredFiles = data.filter(item => 
-                    item.type === 'file' && item.name !== 'index.html'
-                );
+                // const filteredFiles = data.filter(item => 
+                //     item.type === 'file' && item.name !== 'index.html'
+                // );
+                // files = filteredFiles;
                 
-                if (filteredFiles.length === 0) {
+                if (files.length === 0) {
                     fileList.innerHTML = '<li class="file-item"><div class="file-name">No files found</div></li>';
                     return;
                 }
                 
-                filteredFiles.forEach(file => {
+                files.forEach(file => {
                     const li = document.createElement('li');
                     li.className = 'file-item';
                     const githubPagesUrl = `https://cap-bobette.github.io/playlists/${file.name}`;
