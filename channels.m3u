@@ -5,7 +5,7 @@ https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u
 #https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in@India" group-title="Movies",B4U Movies
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
-#https://cdn-2.pishow.tv/live/419/master.m3u8
+#https://cdn-2.pishow.tv/live/419/master.m3u8  # not valid
 #EXTINF:-1 tvg-id="Andpictures.in@HD" group-title="Movies",& Picture HD
 http://202.70.146.135:8000/play/a06b/index.m3u8
 #http://116.90.120.148:8000/play/a0j4/index.m3u8
@@ -263,7 +263,7 @@ http://115.42.65.142:8000/play/a030/index.m3u8
 #http://175.107.244.52:4456/play/a03z/index.m3u8
 #http://115.42.65.142:9981/stream/channelid/1847794509
 #EXTINF:-1 tvg-id="VenusEntertainment" group-title="Pakistani",Venus Entertainment
-http://115.42.65.142:8000/play/a02e/index.m3u8
+http://115.42.65.142:8000/play/a03m/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCFour.uk@HD" group-title="UK",BBC Four/CBeebies
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
