@@ -73,6 +73,11 @@ jobs:
           const outputFile = 'guide_minus4_shifted.xml'
           const OFFSET = 4 // change to 5 in winter if needed
 
+          // Exit gracefully if the input file doesn't exist
+          if (!fs.existsSync(inputFile)) {
+            console.log(`Skipping: ${inputFile} not found (no channels defined).`)
+            process.exit(0)
+          }
           const xml = fs.readFileSync(inputFile, 'utf-8')
 
           const shifted = xml.replace(/(\d{14}) ([+-]\d{4})/g, (_, datetime, tz) => {
