@@ -148,7 +148,7 @@ jobs:
           import json
           import os
 
-          icons_file = 'channel_icons.json'
+          icons_file = 'channels_icons.json'
           guide_file = 'guide.xml'
 
           # Load user-defined icons if file exists
@@ -158,7 +158,7 @@ jobs:
                   icon_map = json.load(f)
               print(f"Loaded {len(icon_map)} entries from {icons_file}")
           else:
-              print("No channel_icons.json found, will only report missing icons.")
+              print("No channels_icons.json found, will only report missing icons.")
 
           tree = ET.parse(guide_file)
           root = tree.getroot()
@@ -186,10 +186,10 @@ jobs:
                   # No icon from grabber and not in icon_map — record as missing
                   missing[cid] = ""
 
-          # Write missing_channel_icons.json for user to fill in URLs
-          with open('missing_channel_icons.json', 'w') as f:
+          # Write missing_channels_icons.json for user to fill in URLs
+          with open('missing_channels_icons.json', 'w') as f:
               json.dump(missing, f, indent=2)
-          print(f"Missing icons written to missing_channel_icons.json: {len(missing)} channels")
+          print(f"Missing icons written to missing_channels_icons.json: {len(missing)} channels")
 
           ET.indent(root, space='  ')
           out_tree = ET.ElementTree(root)
@@ -204,6 +204,6 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add guide.xml missing_channel_icons.json
-          git diff --staged --quiet || git commit -m "chore: updated guide.xml missing_channel_icons.json [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git add guide.xml missing_channels_icons.json
+          git diff --staged --quiet || git commit -m "chore: updated guide.xml missing_channels_icons.json [$(date -u '+%Y-%m-%d %H:%M UTC')]"
           git push
