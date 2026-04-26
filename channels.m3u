@@ -7,13 +7,11 @@ https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
 #https://cdn-2.pishow.tv/live/419/master.m3u8
 #EXTINF:-1 tvg-id="Andpictures.in@HD" group-title="Movies",& Picture HD
-http://116.90.120.148:8000/play/a0j4/index.m3u8
-#http://103.161.153.165:8000/play/a05u/index.m3u8
-##EXTINF:-1 tvg-id="AndxplorHD.in" group-title="Movies",& Xplor HD
-#http://103.161.153.165:8000/play/a05m/index.m3u8
+http://202.70.146.135:8000/play/a06b/index.m3u8
+#http://116.90.120.148:8000/play/a0j4/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@HD" group-title="Movies",Zee Cinema HD
-http://116.90.120.148:8000/play/a0hc/index.m3u8
-#http://103.161.153.165:8000/play/a00q/index.m3u8
+http://202.70.146.135:8000/play/a03f/index.m3u8
+#http://116.90.120.148:8000/play/a0hc/index.m3u8
 #http://116.90.120.151:8000/play/a0hc/index.m3u8
 #http://103.99.249.139/zeecinema/index.m3u8
 ##EXTINF:-1 tvg-id="ZeeBollywood.in@SD" group-title="Movies",Zee Bollywood
@@ -21,27 +19,32 @@ http://116.90.120.148:8000/play/a0hc/index.m3u8
 #EXTINF:-1 tvg-id="ZeeClassic.in@SD" group-title="Movies",Zee Classic
 http://116.90.120.148:8000/play/a0gq/index.m3u8
 #EXTINF:-1 tvg-id="StarGold.in@HD" group-title="Movies",Star Gold HD
-http://116.90.120.148:8000/play/a0gy/index.m3u8
-#http://103.161.153.165:8000/play/a05b/index.m3u8
+http://202.70.146.135:8000/play/a02a/index.m3u8
+#http://116.90.120.148:8000/play/a0gy/index.m3u8
 #EXTINF:-1 tvg-id="StarGold2.in@SD" group-title="Movies",Star Gold 2
-http://116.90.120.148:8000/play/a0hq/index.m3u8
+http://202.70.146.135:8000/play/a02d/index.m3u8
+#http://116.90.120.148:8000/play/a0hq/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldThrills.in@SD" group-title="Movies",Star Gold Thrills
-http://116.90.120.148:8000/play/a0gw/index.m3u8
+http://202.70.146.135:8000/play/a024/index.m3u8
+#http://116.90.120.148:8000/play/a0gw/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldRomance.in@SD" group-title="Movies",Star Gold Romance
-http://116.90.120.148:8000/play/a0he/index.m3u8
+http://202.70.146.135:8000/play/a044/index.m3u8
+#http://116.90.120.148:8000/play/a0he/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldSelect.in@SD" group-title="Movies",Star Gold Select
-http://116.90.120.148:8000/play/a0j2/index.m3u8
-#http://103.161.153.165:8000/play/a05b/index.m3u8
+http://202.70.146.135:8000/play/a068/index.m3u8
+#http://116.90.120.148:8000/play/a0j2/index.m3u8
 ##EXTINF:-1 tvg-id="StarUtsavMovies.in@SD" group-title="Movies",Star Utsav Movies (non samsung)
 #http://116.90.120.148:8000/play/a0ka/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@HD" group-title="Movies",Sony Max HD
-http://116.90.120.148:8000/play/a0jf/index.m3u8
+http://202.70.146.135:8000/play/a01g/index.m3u8
+#http://116.90.120.148:8000/play/a0jf/index.m3u8
 ##EXTINF:-1 tvg-id="SonyMax2.in@SD" group-title="Movies",Sony Max 2
 #http://116.90.120.148:8000/play/a0h0/index.m3u8
 ##EXTINF:-1 tvg-id="SonyWah.in@SD" group-title="Movies",Sony Wah
 #http://116.90.120.148:8000/play/a0kt/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in@HD" group-title="Movies",Colors Cineplex HD
-http://116.90.120.148:8000/play/a0ji/index.m3u8
+http://202.70.146.135:8000/play/a01b/index.m3u8
+#http://116.90.120.148:8000/play/a0ji/index.m3u8
 ##EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" group-title="Movies",Colors Cineplex Superhits (non samsung)
 #http://116.90.120.148:8000/play/a0kl/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" group-title="Movies",Colors Cineplex Bollywood
@@ -70,12 +73,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #http://116.90.120.148:8000/play/a0kj/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in@SD" group-title="Movies",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
-##EXTINF:-1 tvg-id="Goldmines2.in@SD" group-title="Movies",Goldmines 2
-#https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in@SD" group-title="Movies",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
-##EXTINF:-1 tvg-id="ZBCinema" group-title="Movies",ZB Cinema
-#https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 #EXTINF:-1 tvg-id="NextFilmy" group-title="Movies",Next Filmy
 http://115.42.65.142:8000/play/a04h/index.m3u8
@@ -86,17 +85,19 @@ http://116.90.120.148:8000/play/a0ky/index.m3u8
 https://cdn-2.pishow.tv/live/1604/master.m3u8
 
 #EXTINF:-1 tvg-id="Colors.in@HD" group-title="Indian",Colors HD
-http://116.90.120.148:8000/play/a0gt/index.m3u8
+http://202.70.146.135:8000/play/a00b/index.m3u8
+#http://116.90.120.148:8000/play/a0gt/index.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@HD" group-title="Indian",Sony Sab HD
-http://116.90.120.148:8000/play/a0gx/index.m3u8
+http://202.70.146.135:8000/play/a025/index.m3u8
+#http://116.90.120.148:8000/play/a0gx/index.m3u8
 #EXTINF:-1 tvg-id="SonyPal.in@SD" group-title="Indian",Sony Pal
 http://116.90.120.148:8000/play/a0hz/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in@HD" group-title="Indian",Star Plus HD
-http://116.90.120.148:8000/play/a0gr/index.m3u8
-##EXTINF:-1 tvg-id="StarUtsav.in@SD" group-title="Indian",Star Utsav
-#http://116.90.120.148:8000/play/a0kc/index.m3u8
+http://202.70.146.135:8000/play/a009/index.m3u8
+#http://116.90.120.148:8000/play/a0gr/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in@HD" group-title="Indian",Zee TV HD
-http://116.90.120.148:8000/play/a0hk/index.m3u8
+http://202.70.146.135:8000/play/a04g/index.m3u8
+#http://116.90.120.148:8000/play/a0hk/index.m3u8
 
 #EXTINF:-1 tvg-id="8XM" group-title="Music",8XM
 http://115.42.65.142:8000/play/a01v/index.m3u8
@@ -131,9 +132,9 @@ http://115.42.65.142:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="ABNNews" group-title="News",ABN News
 https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
 #EXTINF:-1 tvg-id="AikNews" group-title="News",Aik News
-http://116.90.120.148:8000/play/a022/index.m3u8
+http://115.42.65.142:8000/play/a04u/index.m3u8
 #https://video.primexsports.com/pnn/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ARYNews" group-title="News",ARY News Asia
+#EXTINF:-1 tvg-id="ARYNews" group-title="News",ARY News
 http://115.42.65.142:8000/play/a01a/index.m3u8
 #http://175.107.244.52:4456/play/a04y/index.m3u8
 #http://115.42.65.142:9981/stream/channelid/617439714
@@ -198,7 +199,7 @@ http://115.42.65.142:8000/play/a03t/index.m3u8
 http://115.42.65.142:8000/play/a01u/index.m3u8
 #http://175.107.244.52:4456/play/a03y/index.m3u8
 #http://115.42.65.142:9981/stream/channelid/1794391941
-#EXTINF:-1 tvg-id="ARYDigital" group-title="Pakistani",ARY Digital Asia HD
+#EXTINF:-1 tvg-id="ARYDigital" group-title="Pakistani",ARY Digital HD
 http://115.42.65.142:8000/play/a019/index.m3u8
 #http://103.229.254.25:7001/play/a07w/index.m3u8
 #http://115.42.65.142:9981/stream/channelid/1958895763
@@ -307,51 +308,37 @@ http://115.42.65.142:8000/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport.in@SD" group-title="Sports",Eurosport
 http://116.90.120.148:8000/play/a0ip/index.m3u8
-#http://103.161.153.165:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="Andflix.in@HD" group-title="Sports",& Flix HD
 http://116.90.120.148:8000/play/a0il/index.m3u8
-#http://103.161.153.165:8000/play/a01z/index.m3u8
-##EXTINF:-1 tvg-id="SonySportsTen1.in@HD" group-title="Sports",Sony Sports Ten 1 HD
-#http://103.161.153.165:8000/play/sonyten1/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD" group-title="Sports",Sony Sports Ten 2 HD
 http://116.90.120.148:8000/play/a0ih/index.m3u8
-#http://103.161.153.165:8000/play/sonyt2hd/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@HD" group-title="Sports",Sony Sports Ten 3 Hindi HD
 http://116.90.120.148:8000/play/a0go/index.m3u8
-#http://103.161.153.165:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen5.in@HD" group-title="Sports",Sony Sports Ten 5 HD
 http://116.90.120.148:8000/play/a0hb/index.m3u8
-#http://103.161.153.165:8000/play/snt5/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in@HD" group-title="Sports",Star Sports 1 HD
 http://116.90.120.148:8000/play/a0gs/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1Hindi.in@HD" group-title="Sports",Star Sports 1 HD Hindi
 http://116.90.120.148:8000/play/a0je/index.m3u8
-#http://103.161.153.165:8000/play/stp1h/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2Hindi.in@HD" group-title="Sports",Star Sports 2 HD Hindi
 http://116.90.120.148:8000/play/a0hi/index.m3u8
-#http://103.161.153.165:8000/play/stp2h/index.m3u8
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" group-title="Sports",Star Sports Select 1 HD
 http://116.90.120.148:8000/play/a0h9/index.m3u8
-#http://103.161.153.165:8000/play/starspsl1hd/index.m3u8
 #EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" group-title="Sports",Star Sports Select 2 HD
 http://116.90.120.148:8000/play/a0ha/index.m3u8
-#http://103.161.153.165:8000/play/starspsel2/index.m3u8
-##EXTINF:-1 tvg-id="WillowCricket" group-title="Sports",Willow Cricket
-#http://103.161.153.165:8000/play/willowcrichd/index.m3u8
 
 #EXTINF:-1 tvg-id="StarMovies.in@HD" group-title="English Movies",Star Movies HD
-http://116.90.120.148:8000/play/a0ik/index.m3u8
+http://202.70.146.135:8000/play/a06r/index.m3u8
+#http://116.90.120.148:8000/play/a0ik/index.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" group-title="English Movies",Star Movies Select
-http://116.90.120.148:8000/play/a0ij/index.m3u8
-#http://103.161.153.165:8000/play/strmshd/index.m3u8
-##EXTINF:-1 tvg-id="AndpriveHD.in@SD" group-title="English Movies",& PRIVE HD
-#http://116.90.120.148:8000/play/a0it/index.m3u8
+http://202.70.146.135:8000/play/a06q/index.m3u8
+#http://116.90.120.148:8000/play/a0ij/index.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@HD" group-title="English Movies",Sony Pix HD
-http://116.90.120.148:8000/play/a0ii/index.m3u8
-#http://103.161.153.165:8000/play/a04f/index.m3u8
+http://202.70.146.135:8000/play/a06p/index.m3u8
+#http://116.90.120.148:8000/play/a0ii/index.m3u8
 #EXTINF:-1 tvg-id="MoviesNow.in@HD" group-title="English Movies",Movies Now HD
-http://116.90.120.148:8000/play/a0ib/index.m3u8
-#http://103.161.153.165:8000/play/mnh/index.m3u8
+http://202.70.146.135:8000/play/a057/index.m3u8
+#http://116.90.120.148:8000/play/a0ib/index.m3u8
 #EXTINF:-1 tvg-id="MoviesNowPlus.in@SD" group-title="English Movies",Movies Now +
 http://116.90.120.148:8000/play/a0i4/index.m3u8
 #EXTINF:-1 tvg-id="Film4.uk@SD" group-title="English Movies",Film4 HD
