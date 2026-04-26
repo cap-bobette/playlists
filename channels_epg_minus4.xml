@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
 
-  <channel site="epgshare01.online" site_id="ASIANTELEVISION1#ATN.ARY.News.ca" lang="en" xmltv_id="ARYNews">ARY News</channel>
-  <channel site="epgshare01.online" site_id="ASIANTELEVISION1#ATN.ARY.Digital.ca" lang="en" xmltv_id="ARYDigital">ARY Digital</channel>
-  <channel site="sky.com" site_id="4407" lang="en" xmltv_id="GeoNews">GEO News</channel>  
-  <channel site="sky.com" site_id="4110" lang="en" xmltv_id="GeoEntertainment">Geo Entertainment</channel>
+  <!-- <channel site="epgshare01.online" site_id="ASIANTELEVISION1#ATN.ARY.News.ca" lang="en" xmltv_id="ARYNews">ARY News</channel> -->
+  <!-- <channel site="epgshare01.online" site_id="ASIANTELEVISION1#ATN.ARY.Digital.ca" lang="en" xmltv_id="ARYDigital">ARY Digital</channel> -->
+  <!-- <channel site="sky.com" site_id="4407" lang="en" xmltv_id="GeoNews">GEO News</channel>   -->
+  <!-- <channel site="sky.com" site_id="4110" lang="en" xmltv_id="GeoEntertainment">Geo Entertainment</channel> -->
 </channels>
