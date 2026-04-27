@@ -36,8 +36,8 @@
   <!-- <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN3900016WI" lang="en" xmltv_id="B4UMovies.in@India">B4U Movies</channel> -->
   <channel site="dishtv.in" site_id="142695" lang="en" xmltv_id="B4UKadak.in@SD">B4U Kadak</channel>
   <channel site="dishtv.in" site_id="140063" lang="en" xmltv_id="B4UMovies.in@India">B4U Movies</channel>
-  <!-- <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN4000600Q" lang="en" xmltv_id="Bollygold">Bollygold</channel> -->
-  <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_39" lang="en" xmltv_id="Bollygold">NH BollyGold</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN4000600Q" lang="en" xmltv_id="Bollygold">Bollygold</channel>
+  <!-- <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_39" lang="en" xmltv_id="Bollygold">NH BollyGold</channel> -->
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD" lang="en" xmltv_id="ZeeCinema.in@HD">Zee Cinema HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD" lang="en" xmltv_id="ZeeBollywood.in@SD">Zee Bollywood</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_CLASSIC" lang="en" xmltv_id="ZeeClassic.in@SD">Zee Classic</channel>
