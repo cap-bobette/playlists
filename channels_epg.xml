@@ -16,6 +16,7 @@
   <!-- <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN3900017KM" lang="en" xmltv_id="B4UMusic">B4U Music</channel> -->
   <channel site="dishtv.in" site_id="158141" lang="en" xmltv_id="B4UMusic">B4U Music</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZOOM" lang="en" xmltv_id="Zoom.in@SD">Zoom</channel>
+  <channel site="dishtv.in" site_id="143682" lang="en" xmltv_id="PTCMusic">PTC Music</channel>
 
   <!-- India EngMovies -->
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMANDPRIVE_HD" lang="en" xmltv_id="AndpriveHD.in@SD">&amp;Prive HD</channel>
@@ -65,6 +66,7 @@
   <channel site="tataplay.com" site_id="624" lang="en" xmltv_id="Pitaara.in@SD">Pitaara Movies</channel>
   <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN1600001OG" lang="en" xmltv_id="PitaaraComedy">Pitaara Comedy</channel>
   <!-- <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN1700002C8" lang="en" xmltv_id="Pitaara">Pitaara</channel> -->
+  <channel site="dishtv.in" site_id="159123" lang="en" xmltv_id="PTCPunjabi">PTC Punjabi</channel>
   
   <!-- Indian -->
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_HD" lang="en" xmltv_id="Colors.in@HD">Colors HD</channel>
@@ -117,6 +119,16 @@
   <channel site="epgshare01.online" site_id="IN4#ZEE.24.KALAK.in" lang="en" xmltv_id="ZEE24KALAK">ZEE 24 KALAK</channel>
   <channel site="tataplay.com" site_id="1627" lang="en" xmltv_id="LakshyaTV">Lakshya TV</channel>
 
+  <channel site="ontvtonight.com" site_id="us#69044281/hum-tv" lang="en" xmltv_id="HumHD">Hum HD</channel>
+  <channel site="ontvtonight.com" site_id="us#4169429699/hum-sitaray" lang="en" xmltv_id="HUMSitaray">Hum Sitaray</channel>
+  <channel site="ontvtonight.com" site_id="us#4169429700/geo-tv" lang="en" xmltv_id="GeoEntertainment">GEO Entertainment</channel>
+  <channel site="ontvtonight.com" site_id="us#4169462004/express-entertainment" lang="en" xmltv_id="Express">Express Entertainment</channel>
+  <!-- <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="HumHD">HumHD</channel> -->
+  <!-- <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="HUMSitaray">HUMSitaray</channel> -->
+  <!-- <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="GeoEntertainment">Geo Entertainment</channel> -->
+  <!-- <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="Express">Express</channel> -->
+  
+  
   <!-- just so that I can get logo icon working -->
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="GeoKahani">GeoKahani</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="GeoSuper">GeoSuper</channel>
@@ -158,12 +170,8 @@
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="aurLife">aurLife</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="BOLEntertainment">BOLEntertainment</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="DiscoverPakistan">DiscoverPakistan</channel>
-  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="Express">Express</channel>
-  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="GeoEntertainment">Geo Entertainment</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="GreenEnt">GreenEnt</channel>
-  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="HumHD">HumHD</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="HumMasala">HumMasala</channel>
-  <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="HUMSitaray">HUMSitaray</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="PTVNational">PTVNational</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="PTVHome">PTVHome</channel>
   <channel site="tv24.co.uk" site_id="atv" lang="en" xmltv_id="VenusEntertainment">VenusEntertainment</channel>
