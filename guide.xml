@@ -7,6 +7,7 @@
   </channel>
   <channel id="B4UMusic">
     <display-name>B4U Music</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900017KM_20250811T033432SQUARE.png" />
     <url>https://dishtv.in</url>
   </channel>
   <channel id="Zoom.in@SD">
@@ -66,7 +67,7 @@
   </channel>
   <channel id="B4UMovies.in@India">
     <display-name>B4U Movies</display-name>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900017KM_20250811T033432SQUARE.png" />
+    <icon src="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" />
     <url>https://dishtv.in</url>
   </channel>
   <channel id="Bollygold">
@@ -805,12 +806,6 @@
     <display-name>Universal.Westerns.us2</display-name>
     <url>https://epgshare01.online</url>
   </channel>
-  <programme start="20260427070000 +0000" stop="20260427073000 +0000" channel="9XM.in@SD">
-    <title lang="en">9XM Super Swag</title>
-    <desc lang="en">The compilation of popular songs being played back-to-back.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1153004_27APR123000_27APR130000/images/LANDSCAPE_169_HD/9XM_9XmSuperSwag_1153004.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1153004_27APR123000_27APR130000/images/LOGO/9XM_9XmSuperSwag_1153004.png" />
-  </programme>
   <programme start="20260427073000 +0000" stop="20260427080000 +0000" channel="9XM.in@SD">
     <title lang="en">9XM Bazillion Views</title>
     <desc lang="en">It is a compilation of popular and romantic songs for all music lovers.</desc>
@@ -2823,12 +2818,6 @@
     <title lang="en">DPW ILT20 DC vs SW</title>
     <desc lang="en">Watch exciting action as DC vs SW in DPW ILT20, delivering fast bowls, big hits, dramatic catches, and intense moments that keep fans on edge.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SYMANDFLIX_HD_2066814_30APR094700_30APR140500/images/LANDSCAPE_169/1776950124000_FLIXHD_DPWILT20DCvsSW_2066814.jpg</image>
-  </programme>
-  <programme start="20260427050900 +0000" stop="20260427073600 +0000" channel="Andpictures.in@HD">
-    <title lang="en">Kedarnath</title>
-    <desc lang="en">Mansoor, a quiet devotee, guides pilgrims toward a temple town. His life shifts when he meets Mukku, whose rebellious spirit pulls him into a powerful, transformative romance.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SYMAND_PICTURES_HD_800625_27APR103900_27APR130600/images/LANDSCAPE_169_HD/PICTURESHD_Kedarnath_800625.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SYMAND_PICTURES_HD_800625_27APR103900_27APR130600/images/LOGO/PICTURESHD_Kedarnath_800625.png" />
   </programme>
   <programme start="20260427073600 +0000" stop="20260427113700 +0000" channel="Andpictures.in@HD">
     <title lang="en">Gadar - Ek Prem Katha</title>
@@ -5764,7 +5753,7 @@
   <programme start="20260427010000 +0000" stop="20260427013000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
     <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p8526600d4006981c080e99f6ceced699?w=800</image>
+    <image>https://img.freeviewplay.tv/p0d2696d3db79d0abd7b45180e56bfef0?w=800</image>
   </programme>
   <programme start="20260427013000 +0000" stop="20260427014500 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -5809,7 +5798,7 @@
   <programme start="20260427040000 +0000" stop="20260427043000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p16e138ad07724365b5092611fef923de?w=800</image>
+    <image>https://img.freeviewplay.tv/p608eb6258389ec9c72e1a17779a2b824?w=800</image>
   </programme>
   <programme start="20260427043000 +0000" stop="20260427050000 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -6019,7 +6008,7 @@
   <programme start="20260428000000 +0000" stop="20260428003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/pfd754b837360115cae9f9d6e8d5a71e7?w=800</image>
+    <image>https://img.freeviewplay.tv/pa370796676fcefbc00f5d3a6e569c04f?w=800</image>
   </programme>
   <programme start="20260428003000 +0000" stop="20260428010000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
@@ -6074,7 +6063,7 @@
   <programme start="20260428040000 +0000" stop="20260428043000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/pa370796676fcefbc00f5d3a6e569c04f?w=800</image>
+    <image>https://img.freeviewplay.tv/pfd754b837360115cae9f9d6e8d5a71e7?w=800</image>
   </programme>
   <programme start="20260428043000 +0000" stop="20260428050000 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -6094,7 +6083,7 @@
   <programme start="20260428060000 +0000" stop="20260428063000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/pfd754b837360115cae9f9d6e8d5a71e7?w=800</image>
+    <image>https://img.freeviewplay.tv/pa370796676fcefbc00f5d3a6e569c04f?w=800</image>
   </programme>
   <programme start="20260428063000 +0000" stop="20260428070000 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -6119,12 +6108,12 @@
   <programme start="20260428083000 +0000" stop="20260428090000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/pa370796676fcefbc00f5d3a6e569c04f?w=800</image>
+    <image>https://img.freeviewplay.tv/pfd754b837360115cae9f9d6e8d5a71e7?w=800</image>
   </programme>
   <programme start="20260428090000 +0000" stop="20260428093000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/pa370796676fcefbc00f5d3a6e569c04f?w=800</image>
+    <image>https://img.freeviewplay.tv/pfd754b837360115cae9f9d6e8d5a71e7?w=800</image>
   </programme>
   <programme start="20260428093000 +0000" stop="20260428100000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -6259,7 +6248,7 @@
   <programme start="20260428230000 +0000" stop="20260428233000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/pfd754b837360115cae9f9d6e8d5a71e7?w=800</image>
+    <image>https://img.freeviewplay.tv/pa370796676fcefbc00f5d3a6e569c04f?w=800</image>
   </programme>
   <programme start="20260428233000 +0000" stop="20260429000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
@@ -6999,7 +6988,7 @@
   <programme start="20260428025500 +0000" stop="20260428043000 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm</desc>
-    <image>https://img.freeviewplay.tv/pa2bd173369ea0efe6fd731e911367515?w=800</image>
+    <image>https://img.freeviewplay.tv/p47a92a6af1bfeb383bf9beeae843d970?w=800</image>
   </programme>
   <programme start="20260428043000 +0000" stop="20260428175800 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
@@ -7009,7 +6998,7 @@
   <programme start="20260428175800 +0000" stop="20260428180000 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm</desc>
-    <image>https://img.freeviewplay.tv/pa2bd173369ea0efe6fd731e911367515?w=800</image>
+    <image>https://img.freeviewplay.tv/p47a92a6af1bfeb383bf9beeae843d970?w=800</image>
   </programme>
   <programme start="20260428180000 +0000" stop="20260428180500 +0000" channel="BBCThree.uk@HD">
     <title lang="en">The Catch Up</title>
@@ -7079,7 +7068,7 @@
   <programme start="20260429043000 +0000" stop="20260429175800 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm</desc>
-    <image>https://img.freeviewplay.tv/pa2bd173369ea0efe6fd731e911367515?w=800</image>
+    <image>https://img.freeviewplay.tv/p47a92a6af1bfeb383bf9beeae843d970?w=800</image>
   </programme>
   <programme start="20260429175800 +0000" stop="20260429180000 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
@@ -11537,7 +11526,7 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_SUPERHITS_988690_28APR210000_29APR000000/images/LANDSCAPE_169_HD/ColorsCineplexSuperhits_Movie_988690.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_SUPERHITS_988690_28APR210000_29APR000000/images/LOGO/ColorsCineplexSuperhits_Movie_988690.png" />
   </programme>
-  <programme start="20260429073000 +0000" stop="20260430073000 +0000" channel="ColorsCineplexSuperhits.in@SD">
+  <programme start="20260429074000 +0000" stop="20260430074000 +0000" channel="ColorsCineplexSuperhits.in@SD">
     <title lang="en">Colors Cineplex Superhits</title>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png" />
@@ -11741,11 +11730,6 @@
   <programme start="20260428033000 +0000" stop="20260428040000 +0000" channel="DDGIRNAR">
     <title lang="en">Shri Ramcharit Manas</title>
     <desc lang="en">A serene spiritual leader delves into the &amp;apos;Ramcharitmanas,&amp;apos; offering profound inputs on the epic poem that narrates the divine journey of Lord Rama.</desc>
-  </programme>
-  <programme start="20260427053000 +0000" stop="20260427073000 +0000" channel="Eurosport.in@SD">
-    <title lang="en">MLS Soccer</title>
-    <desc lang="en">MLS Soccer brings live action from major league soccer, featuring exciting matches and star players competing for victory across various teams in the U.S. and Canada.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_EUROSPORT_1869481_27APR110000_27APR130000/images/LANDSCAPE_169/1746116936000_Eurosport_MLSSoccer_1869481.jpg</image>
   </programme>
   <programme start="20260427073000 +0000" stop="20260427101500 +0000" channel="Eurosport.in@SD">
     <title lang="en">Professional Fighters League</title>
@@ -25925,12 +25909,6 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PIX_HD_174077_30APR111600_30APR134400/images/LANDSCAPE_169_HD/PIXHD_Movie_174077.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PIX_HD_174077_30APR111600_30APR134400/images/LOGO/PIXHD_Movie_174077.png" />
   </programme>
-  <programme start="20260427070000 +0000" stop="20260427073000 +0000" channel="SonySAB.in@HD">
-    <title lang="en">Maddam Sir</title>
-    <desc lang="en">The story revolves around new cases come to the Aminabad Police Station and how smartly, bravely, and emotionally their female cops handle it.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SAB_HD_920857_27APR123000_27APR130000/images/LANDSCAPE_169_HD/SABTVHD_MaddamSir_920857.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SAB_HD_920857_27APR123000_27APR130000/images/LOGO/SABTVHD_MaddamSir_920857.png" />
-  </programme>
   <programme start="20260427073000 +0000" stop="20260427080000 +0000" channel="SonySAB.in@HD">
     <title lang="en">Maddam Sir</title>
     <desc lang="en">The story revolves around new cases come to the Aminabad Police Station and how smartly, bravely, and emotionally their female cops handle it.</desc>
@@ -26800,11 +26778,6 @@
     <desc lang="en">The story revolves around new cases come to the Aminabad Police Station and how smartly, bravely, and emotionally their female cops handle it.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SAB_HD_920857_30APR130000_30APR133000/images/LANDSCAPE_169_HD/SABTVHD_MaddamSir_920857.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SAB_HD_920857_30APR130000_30APR133000/images/LOGO/SABTVHD_MaddamSir_920857.png" />
-  </programme>
-  <programme start="20260427063000 +0000" stop="20260427073000 +0000" channel="SonySportsTen2.in@HD">
-    <title lang="en">UFC Fight Night - Sterling vs Zalal</title>
-    <desc lang="en">UFC Fight Night - Sterling vs Zalal</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2071893_27APR120000_27APR130000/images/LANDSCAPE_169/1777249793000_SONYSportsTEN2HD_UFCFightNight-SterlingvsZalal_2071893.jpg</image>
   </programme>
   <programme start="20260427070000 +0000" stop="20260427100000 +0000" channel="SonySportsTen2.in@HD">
     <title lang="en">DP World Asia Cup 2025: Super 4 - Sri Lanka vs Bangladesh</title>
@@ -30357,12 +30330,6 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_PLUS_HD_10145_30APR113000_30APR143000/images/LANDSCAPE_169_HD/STARPLUSHD_YehRishtaKyaKehlataHai_10145.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_PLUS_HD_10145_30APR113000_30APR143000/images/LOGO/STARPLUSHD_YehRishtaKyaKehlataHai_10145.png" />
   </programme>
-  <programme start="20260427071500 +0000" stop="20260427073000 +0000" channel="StarSports1.in@HD">
-    <title lang="en">TATA IPL 2026 HLs GT v MI</title>
-    <desc lang="en">Watch IPL 2026 highlights featuring MI vs GT. Experience the thrill with key moments, big hits, and game-changing plays that define the match for fans.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2067555_27APR124500_27APR130000/images/LANDSCAPE_169_HD/StarSportsHD1_TATAIPL2026HLsGTvMI_2067555.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2067555_27APR124500_27APR130000/images/LOGO/StarSportsHD1_TATAIPL2026HLsGTvMI_2067555.png" />
-  </programme>
   <programme start="20260427073000 +0000" stop="20260427074500 +0000" channel="StarSports1.in@HD">
     <title lang="en">TATA IPL 2026 - Game Plan</title>
     <desc lang="en">TATA IPL 2026 Game Plan explores the strategic mindset and evolving tactics that shape how teams prepare for a high intensity IPL season</desc>
@@ -31322,12 +31289,6 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2051914_30APR130000_30APR131500/images/LANDSCAPE_169_HD/StarSportsHD1_TATAIPL2026-GamePlan_2051914.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2051914_30APR130000_30APR131500/images/LOGO/StarSportsHD1_TATAIPL2026-GamePlan_2051914.png" />
   </programme>
-  <programme start="20260427071500 +0000" stop="20260427073000 +0000" channel="StarSports1Hindi.in@HD">
-    <title lang="en">TATA IPL 2026 HLs GT v MI</title>
-    <desc lang="en">Relive TATA IPL 2026 highlights with Gujarat Titans facing Mumbai Indians, featuring explosive batting, sharp bowling spells and game-changing moments.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2067562_27APR124500_27APR130000/images/LANDSCAPE_169_HD/STARSPORTS1HINDIHD_TATAIPL2026HLsGTvMI_2067562.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2067562_27APR124500_27APR130000/images/LOGO/STARSPORTS1HINDIHD_TATAIPL2026HLsGTvMI_2067562.png" />
-  </programme>
   <programme start="20260427073000 +0000" stop="20260427074500 +0000" channel="StarSports1Hindi.in@HD">
     <title lang="en">TATA IPL 2026 - Game Plan</title>
     <desc lang="en">TATA IPL 2026 a?' Game Plan explores the strategic mindset and evolving tactics that shape how teams prepare for a high intensity IPL season</desc>
@@ -32286,12 +32247,6 @@
     <desc lang="en">TATA IPL 2026 a?' Game Plan explores the strategic mindset and evolving tactics that shape how teams prepare for a high intensity IPL season</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2051912_30APR130000_30APR131500/images/LANDSCAPE_169_HD/STARSPORTS1HINDIHD_TATAIPL2026-GamePlan_2051912.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2051912_30APR130000_30APR131500/images/LOGO/STARSPORTS1HINDIHD_TATAIPL2026-GamePlan_2051912.png" />
-  </programme>
-  <programme start="20260427071500 +0000" stop="20260427073000 +0000" channel="StarSports2Hindi.in@HD">
-    <title lang="en">TATA IPL 2026 HLs LSG v KKR</title>
-    <desc lang="en">Watch the thrilling IPL 2026 HLs match between LSG and KKR, featuring bowling, big sixes, fielding, and clutch moments that keep fans on edge tonight.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2069877_27APR124500_27APR130000/images/LANDSCAPE_169_HD/StarSports2HindiHD_TATAIPL2026HLsLSGvKKR_2069877.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2069877_27APR124500_27APR130000/images/LOGO/StarSports2HindiHD_TATAIPL2026HLsLSGvKKR_2069877.png" />
   </programme>
   <programme start="20260427073000 +0000" stop="20260427074500 +0000" channel="StarSports2Hindi.in@HD">
     <title lang="en">TATA IPL 2026 HLs CSK v GT</title>
@@ -33365,11 +33320,6 @@
     <desc lang="en">Daily highlights of the TATA IPL match from the 2024 season</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_1803230_30APR130000_30APR131500/images/LANDSCAPE_169_HD/StarSports2HindiHD_TATAIPL2024HighlightsMIvCSK_1803230.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_1803230_30APR130000_30APR131500/images/LOGO/StarSports2HindiHD_TATAIPL2024HighlightsMIvCSK_1803230.png" />
-  </programme>
-  <programme start="20260427070000 +0000" stop="20260427073000 +0000" channel="StarSportsSelect1.in@HD">
-    <title lang="en">PL Netbusters</title>
-    <desc lang="en">PL Netbusters: Watch this special segment focused on the most incredible goals and moments from the Premier League season, featuring stunning netbusters.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_1_HD_670892_27APR123000_27APR130000/images/LANDSCAPE_169/1726952222000_StarSportsSelectHD1_PLNetbusters_670892.jpg</image>
   </programme>
   <programme start="20260427073000 +0000" stop="20260427080000 +0000" channel="StarSportsSelect1.in@HD">
     <title lang="en">PL Classic Match Liverpool v Man Utd</title>
@@ -34566,12 +34516,6 @@
     <desc lang="en">TATA IPL 2026 a?' Game Plan explores the strategic mindset and evolving tactics that shape how teams prepare for a high intensity IPL season</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_2_HD_2053471_30APR130000_30APR131500/images/LANDSCAPE_169_HD/StarSportsSelectHD2_TATAIPL2026-GamePlan_2053471.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_2_HD_2053471_30APR130000_30APR131500/images/LOGO/StarSportsSelectHD2_TATAIPL2026-GamePlan_2053471.png" />
-  </programme>
-  <programme start="20260427063000 +0000" stop="20260427073000 +0000" channel="StarUtsav.in@SD">
-    <title lang="en">Do Dil Mil Rahe Hai</title>
-    <desc lang="en">Separated by a childhood accident, two former friends reunite years later as strangers, unaware of their shared past and driven by a deep mutual hatred.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_UTSAV_2067664_27APR120000_27APR130000/images/LANDSCAPE_169_HD/STARUTSAV_DoDilMilRaheHai_2067664.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_UTSAV_2067664_27APR120000_27APR130000/images/LOGO/STARUTSAV_DoDilMilRaheHai_2067664.png" />
   </programme>
   <programme start="20260427073000 +0000" stop="20260427083000 +0000" channel="StarUtsav.in@SD">
     <title lang="en">Ishq Wala Pyaar</title>
@@ -37374,11 +37318,11 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_CLASSIC_775612_30APR094500_30APR130600/images/LANDSCAPE_169_HD/UTVMoviesInternational_Movie_202382.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_CLASSIC_775612_30APR094500_30APR130600/images/LOGO/UTVMoviesInternational_Movie_202382.png" />
   </programme>
-  <programme start="20260427063000 +0000" stop="20260427073000 +0000" channel="ZeeTV.in@HD">
-    <title lang="en">Lakshmi Nivas</title>
-    <desc lang="en">A multi-generational drama showing daughters' struggles, family loyalty, and societal expectations in a rural setup.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_TV_HD_2012764_27APR120000_27APR130000/images/LANDSCAPE_169_HD/ZEETVHD_LakshmiNivas_2012764.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_TV_HD_2012764_27APR120000_27APR130000/images/LOGO/ZEETVHD_LakshmiNivas_2012764.png" />
+  <programme start="20260430073600 +0000" stop="20260430103700 +0000" channel="ZeeClassic.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_CLASSIC_775612_30APR130600_30APR160700/images/LANDSCAPE_169_HD/UTVMoviesInternational_Movie_202382.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_CLASSIC_775612_30APR130600_30APR160700/images/LOGO/UTVMoviesInternational_Movie_202382.png" />
   </programme>
   <programme start="20260427073000 +0000" stop="20260427075800 +0000" channel="ZeeTV.in@HD">
     <title lang="en">Saru</title>
@@ -38213,11 +38157,6 @@
     <desc lang="en">A kabaddi champion from Rajasthan moves to Mumbai to chase her dreams. Along the way, she reunites with her family and fights hard to earn her mother the respect she truly deserves.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_TV_HD_1875385_30APR130000_30APR133000/images/LANDSCAPE_169_HD/ZEETVHD_Saru_1875385.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_TV_HD_1875385_30APR130000_30APR133000/images/LOGO/ZEETVHD_Saru_1875385.png" />
-  </programme>
-  <programme start="20260427053000 +0000" stop="20260427073000 +0000" channel="Zoom.in@SD">
-    <title lang="en">Pyaar Hits</title>
-    <desc lang="en">Enjoy a delightful collection of iconic love songs, composed and performed by popular artists and musicians, bringing timeless romance and melodies to life in an unforgettable musical journey.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZOOM_1093765_27APR110000_27APR130000/images/LANDSCAPE_169/1725282976000_ZOOM_PyaarHits_1093765.jpg</image>
   </programme>
   <programme start="20260427073000 +0000" stop="20260427093000 +0000" channel="Zoom.in@SD">
     <title lang="en">Request Wala Show</title>
