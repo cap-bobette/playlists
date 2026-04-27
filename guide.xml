@@ -66,13 +66,13 @@
   </channel>
   <channel id="B4UMovies.in@India">
     <display-name>B4U Movies</display-name>
-    <icon src="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" />
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900017KM_20250811T033432SQUARE.png" />
     <url>https://dishtv.in</url>
   </channel>
   <channel id="Bollygold">
-    <display-name>NH BollyGold</display-name>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20251106T195128SQUARE.png" />
-    <url>https://airtelxstream.in</url>
+    <display-name>Bollygold</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20260415T004812SQUARE.png" />
+    <url>https://i.mjh.nz</url>
   </channel>
   <channel id="ZeeCinema.in@HD">
     <display-name>Zee Cinema HD</display-name>
@@ -196,7 +196,7 @@
   </channel>
   <channel id="Pitaara.in@SD">
     <display-name>Pitaara Movies</display-name>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656223879_0_20260313T095116474Z_84_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700002C8_20240612T015015SQUARE.png" />
     <url>https://tataplay.com</url>
   </channel>
   <channel id="PitaaraComedy">
@@ -805,12 +805,6 @@
     <display-name>Universal.Westerns.us2</display-name>
     <url>https://epgshare01.online</url>
   </channel>
-  <programme start="20260427063000 +0000" stop="20260427070000 +0000" channel="9XM.in@SD">
-    <title lang="en">9XM Super Swag</title>
-    <desc lang="en">The compilation of popular songs being played back-to-back.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1153004_27APR120000_27APR123000/images/LANDSCAPE_169_HD/9XM_9XmSuperSwag_1153004.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1153004_27APR120000_27APR123000/images/LOGO/9XM_9XmSuperSwag_1153004.png" />
-  </programme>
   <programme start="20260427070000 +0000" stop="20260427073000 +0000" channel="9XM.in@SD">
     <title lang="en">9XM Super Swag</title>
     <desc lang="en">The compilation of popular songs being played back-to-back.</desc>
@@ -1698,6 +1692,12 @@
     <desc lang="en">The compilation of popular songs being played back-to-back.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1153004_30APR123000_30APR130000/images/LANDSCAPE_169_HD/9XM_9XmSuperSwag_1153004.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1153004_30APR123000_30APR130000/images/LOGO/9XM_9XmSuperSwag_1153004.png" />
+  </programme>
+  <programme start="20260430073000 +0000" stop="20260430080000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM Bazillion Views</title>
+    <desc lang="en">It is a compilation of popular and romantic songs for all music lovers.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1297245_30APR130000_30APR133000/images/LANDSCAPE_169_HD/9XM_9XMBazillionViews_1297245.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1297245_30APR130000_30APR133000/images/LOGO/9XM_9XMBazillionViews_1297245.png" />
   </programme>
   <programme start="20260427033000 +0000" stop="20260427040000 +0000" channel="ABPASMITA">
     <title lang="en">Asmita News</title>
@@ -5566,17 +5566,17 @@
     <image>https://dtil.tmsimg.com/assets/p8219596_b_h10_ab.jpg?lock=1280x720</image>
     <icon src="https://dtil.tmsimg.com/assets/p8219596_b_h9_ab.jpg?lock=880x660" />
   </programme>
-  <programme start="20260427001000 +0000" stop="20260427011000 +0000" channel="BBCFour.uk@HD">
+  <programme start="20260427005000 +0000" stop="20260427015000 +0000" channel="BBCFour.uk@HD">
     <title lang="en">Genius of the Ancient World</title>
     <desc lang="en">Historian Bettany Hughes is in Greece, on the trail of the hugely influential maverick thinker Socrates, who was executed for his beliefs.</desc>
     <image>https://img.freeviewplay.tv/pcd3f9cd633ab3a1b2778d48cd6038eb4?w=800</image>
   </programme>
-  <programme start="20260427011000 +0000" stop="20260427021000 +0000" channel="BBCFour.uk@HD">
+  <programme start="20260427015000 +0000" stop="20260427025000 +0000" channel="BBCFour.uk@HD">
     <title lang="en">The Riviera: A History in Pictures</title>
     <desc lang="en">Richard E Grant explores how modern art and the Riviera grew up together when France's Cote d'Azur became the hedonistic playground and experimental studio for the great masters of 20th-century painting. With Henri Matisse and Pablo Picasso resident on the coast, other artists from Jean Cocteau to Henri Lartigue, Raoul Dufy to Fernand Leger and Francis Picabia to Sergei Diaghilev were drawn to the area. As transatlantic liners brought America's super-rich to the region, art and celebrity became integrally intertwined as cultural gurus and multimillionaires all partied on the beach. In an era of sunshine and bathing, of cinema and fast cars, of the Ballets Russes and Monte Carlo casinos, Grant discovers the extraordinary output of what became briefly the world's creative hub.</desc>
     <image>https://img.freeviewplay.tv/pdd9f0e57b331c6bd62d787188eaca093?w=800</image>
   </programme>
-  <programme start="20260427021000 +0000" stop="20260427043000 +0000" channel="BBCFour.uk@HD">
+  <programme start="20260427025000 +0000" stop="20260427043000 +0000" channel="BBCFour.uk@HD">
     <title lang="en">This is BBC Four</title>
     <desc lang="en">Programmes start at 7.00pm.</desc>
     <image>https://img.freeviewplay.tv/p00e2d22899d8336f45458ab80ac4f0c5?w=800</image>
@@ -5819,7 +5819,7 @@
   <programme start="20260427050000 +0000" stop="20260427053000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p608eb6258389ec9c72e1a17779a2b824?w=800</image>
+    <image>https://img.freeviewplay.tv/p16e138ad07724365b5092611fef923de?w=800</image>
   </programme>
   <programme start="20260427053000 +0000" stop="20260427060000 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -5859,7 +5859,7 @@
   <programme start="20260427090000 +0000" stop="20260427093000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p16e138ad07724365b5092611fef923de?w=800</image>
+    <image>https://img.freeviewplay.tv/p608eb6258389ec9c72e1a17779a2b824?w=800</image>
   </programme>
   <programme start="20260427093000 +0000" stop="20260427100000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -5869,7 +5869,7 @@
   <programme start="20260427100000 +0000" stop="20260427103000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p608eb6258389ec9c72e1a17779a2b824?w=800</image>
+    <image>https://img.freeviewplay.tv/p16e138ad07724365b5092611fef923de?w=800</image>
   </programme>
   <programme start="20260427103000 +0000" stop="20260427104500 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -5879,7 +5879,7 @@
   <programme start="20260427104500 +0000" stop="20260427110000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p608eb6258389ec9c72e1a17779a2b824?w=800</image>
+    <image>https://img.freeviewplay.tv/p16e138ad07724365b5092611fef923de?w=800</image>
   </programme>
   <programme start="20260427110000 +0000" stop="20260427113000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
@@ -5944,7 +5944,7 @@
   <programme start="20260427163000 +0000" stop="20260427170000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p608eb6258389ec9c72e1a17779a2b824?w=800</image>
+    <image>https://img.freeviewplay.tv/p16e138ad07724365b5092611fef923de?w=800</image>
   </programme>
   <programme start="20260427170000 +0000" stop="20260427173000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News at Six</title>
@@ -6919,17 +6919,17 @@
   <programme start="20260427030000 +0000" stop="20260427043000 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm</desc>
-    <image>https://img.freeviewplay.tv/pa2bd173369ea0efe6fd731e911367515?w=800</image>
+    <image>https://img.freeviewplay.tv/p47a92a6af1bfeb383bf9beeae843d970?w=800</image>
   </programme>
   <programme start="20260427043000 +0000" stop="20260427175800 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm</desc>
-    <image>https://img.freeviewplay.tv/p47a92a6af1bfeb383bf9beeae843d970?w=800</image>
+    <image>https://img.freeviewplay.tv/pa2bd173369ea0efe6fd731e911367515?w=800</image>
   </programme>
   <programme start="20260427175800 +0000" stop="20260427180000 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm</desc>
-    <image>https://img.freeviewplay.tv/pa2bd173369ea0efe6fd731e911367515?w=800</image>
+    <image>https://img.freeviewplay.tv/p47a92a6af1bfeb383bf9beeae843d970?w=800</image>
   </programme>
   <programme start="20260427180000 +0000" stop="20260427180500 +0000" channel="BBCThree.uk@HD">
     <title lang="en">The Catch Up</title>
@@ -7004,7 +7004,7 @@
   <programme start="20260428043000 +0000" stop="20260428175800 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm</desc>
-    <image>https://img.freeviewplay.tv/p47a92a6af1bfeb383bf9beeae843d970?w=800</image>
+    <image>https://img.freeviewplay.tv/pa2bd173369ea0efe6fd731e911367515?w=800</image>
   </programme>
   <programme start="20260428175800 +0000" stop="20260428180000 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
@@ -7079,7 +7079,7 @@
   <programme start="20260429043000 +0000" stop="20260429175800 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm</desc>
-    <image>https://img.freeviewplay.tv/p47a92a6af1bfeb383bf9beeae843d970?w=800</image>
+    <image>https://img.freeviewplay.tv/pa2bd173369ea0efe6fd731e911367515?w=800</image>
   </programme>
   <programme start="20260429175800 +0000" stop="20260429180000 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
@@ -7426,30 +7426,23 @@
     <desc lang="en">Highlights of the quarter-finals on day 12 of the World Snooker Championship in Sheffield.</desc>
     <image>https://img.freeviewplay.tv/pb6eefd7f02f91aab0201c42a280355aa?w=800</image>
   </programme>
-  <programme start="20260427041158 +0000" stop="20260427072447 +0000" channel="Bollygold">
-    <title lang="en">Shaan</title>
-    <desc lang="en">Two brothers go after the international mafia kingpin who murdered their cop brother. They are later joined by another man who wants revenge against the gangster.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/RUNNTV/PROGRAM/69ee0099a34d60700f8c0d6b/images/LANDSCAPE_169/41526c61-c564-43f0-92fb-98311cd12ce5.png</image>
+  <programme start="20260427095116 +0000" stop="20260427125108 +0000" channel="Bollygold">
+    <title lang="en">Shalimar</title>
+    <sub-title>Shalimar 1978</sub-title>
+    <desc lang="en">Kumar, a thief, aspires to be mafia boss Sir John's successor by stealing Shalimar, a priceless diamond. Adamant to succeed in his mission, Kumar must overcome many tribulations to seize the diamond.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
   </programme>
-  <programme start="20260427072447 +0000" stop="20260427101539 +0000" channel="Bollygold">
-    <title lang="en">Tum Haseen Main Jawan</title>
-    <desc lang="en">A navy officer who has had a number of affairs with attractive young women meets a beautiful girl and falls in love. Though she loves him in return, another admirer of hers tells the officer that she is deceiving him and is the mother of a child.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/RUNNTV/PROGRAM/69ee0099a34d60700f8c0d6f/images/LANDSCAPE_169/86ce1ae7-69ed-43e5-bf30-5b587f55086f.png</image>
-  </programme>
-  <programme start="20260427101539 +0000" stop="20260427124327 +0000" channel="Bollygold">
-    <title lang="en">Ek Hassina Do Deewane</title>
-    <desc lang="en">Amar, an orthodox businessman marries Neeta; slowly he starts mentally torturing her which leads to their divorce. Amar makes a deal with Neeta before filing for a divorce. Will she agree?</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/RUNNTV/PROGRAM/69ee0099a34d60700f8c0d74/images/LANDSCAPE_169/6c6417f8-26a5-48c8-812a-d9a7dd324021.png</image>
-  </programme>
-  <programme start="20260428070000 +0000" stop="20260429070000 +0000" channel="Bollygold">
-    <title lang="en">NH BollyGold</title>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/RUNNTV/LIVECHANNEL/67ed3b489555833db945e37f/images/LANDSCAPE_169/4bcc489a-09bb-4215-850e-6e78161efe12.png</image>
-    <icon src="https://image.airtel.tv/grandslam/content/2025_05_07/NH-BollyGold960X540.png" />
-  </programme>
-  <programme start="20260429070000 +0000" stop="20260430070000 +0000" channel="Bollygold">
-    <title lang="en">NH BollyGold</title>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/RUNNTV/LIVECHANNEL/67ed3b489555833db945e37f/images/LANDSCAPE_169/4bcc489a-09bb-4215-850e-6e78161efe12.png</image>
-    <icon src="https://image.airtel.tv/grandslam/content/2025_05_07/NH-BollyGold960X540.png" />
+  <programme start="20260427125108 +0000" stop="20260427152836 +0000" channel="Bollygold">
+    <title lang="en">Anari</title>
+    <sub-title>Anari 1975_HD</sub-title>
+    <desc lang="en">The film follows Raja and Poonam, a young couple whose romance is strained by extreme poverty, family responsibilities, and a tempting, immoral job offer, putting their love and moral compass to the test</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
   </programme>
   <programme start="20260427063241 +0000" stop="20260427090621 +0000" channel="BollywoodClassic.ro@SD">
     <title lang="en">Dhund</title>
@@ -11467,12 +11460,6 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_BOLLYWOOD_1117090_30APR121700_30APR143000/images/LANDSCAPE_169_HD/COLORSCINEPLEXBOLLYWOOD_Movie_1117090.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_BOLLYWOOD_1117090_30APR121700_30APR143000/images/LOGO/COLORSCINEPLEXBOLLYWOOD_Movie_1117090.png" />
   </programme>
-  <programme start="20260427041800 +0000" stop="20260427071200 +0000" channel="ColorsCineplexSuperhits.in@SD">
-    <title lang="en">Indian Soldier Never On Holiday</title>
-    <desc lang="en">An army captain visits Mumbai to be with his family. An explosion in the city sets him off on a mission to find and disable a terrorist sleeper cell.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_SUPERHITS_1175419_27APR094800_27APR124200/images/LANDSCAPE_169_HD/RishteyCineplex1_IndianSoldierNeverOnHoliday_1175419.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_SUPERHITS_1175419_27APR094800_27APR124200/images/LOGO/RishteyCineplex1_IndianSoldierNeverOnHoliday_1175419.png" />
-  </programme>
   <programme start="20260427071200 +0000" stop="20260427095900 +0000" channel="ColorsCineplexSuperhits.in@SD">
     <title lang="en">Fidaa</title>
     <desc lang="en">Varun, an NRI medical student, falls for Bhanu, a lively young woman. But their personal differences lead to complications, testing their love and commitment in unexpected ways.</desc>
@@ -11550,7 +11537,7 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_SUPERHITS_988690_28APR210000_29APR000000/images/LANDSCAPE_169_HD/ColorsCineplexSuperhits_Movie_988690.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_SUPERHITS_988690_28APR210000_29APR000000/images/LOGO/ColorsCineplexSuperhits_Movie_988690.png" />
   </programme>
-  <programme start="20260429070000 +0000" stop="20260430070000 +0000" channel="ColorsCineplexSuperhits.in@SD">
+  <programme start="20260429073000 +0000" stop="20260430073000 +0000" channel="ColorsCineplexSuperhits.in@SD">
     <title lang="en">Colors Cineplex Superhits</title>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png" />
@@ -11994,6 +11981,11 @@
     <title lang="en">MLS Soccer</title>
     <desc lang="en">MLS Soccer brings live action from major league soccer, featuring exciting matches and star players competing for victory across various teams in the U.S. and Canada.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_EUROSPORT_1869481_30APR110000_30APR130000/images/LANDSCAPE_169/1746116936000_Eurosport_MLSSoccer_1869481.jpg</image>
+  </programme>
+  <programme start="20260430073000 +0000" stop="20260430103000 +0000" channel="Eurosport.in@SD">
+    <title lang="en">TNA No Surrender</title>
+    <desc lang="en">A high-octane wrestling event where TNA's top superstars battle it out with no backing down, featuring intense rivalries, dramatic storylines, and thrilling in-ring action.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_EUROSPORT_1851901_30APR130000_30APR160000/images/LANDSCAPE_169/1743940621000_Eurosport_TNANoSurrender_1851901.jpg</image>
   </programme>
   <programme start="20260427001000 +0000" stop="20260427020500 +0000" channel="Film4.uk@SD">
     <title lang="en">Happy Death Day 2U</title>
@@ -16478,11 +16470,6 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_GOLDMINES_973987_30APR110000_30APR134100/images/LANDSCAPE_169_HD/Goldmines_Movie_973987.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_GOLDMINES_973987_30APR110000_30APR134100/images/LOGO/Goldmines_Movie_973987.png" />
   </programme>
-  <programme start="20260427043100 +0000" stop="20260427071900 +0000" channel="GoldminesBollywood.in">
-    <title lang="en">Nagina</title>
-    <desc lang="en">The film revolves around rajni, a shape-shifting cobra who marries a civilian to avenge the death of her spouse at the hands of an evil saint.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_GOLDMINES_BOLLYWOOD_1194886_27APR100100_27APR124900/images/LANDSCAPE_169/1740561819000_GoldminesBollywood_Nagina_1194886.jpg</image>
-  </programme>
   <programme start="20260427071900 +0000" stop="20260427100300 +0000" channel="GoldminesBollywood.in">
     <title lang="en">Ghar Parivar</title>
     <desc lang="en">Shankar loves his stepmother and brothers as his own. but the happy family disintegrates due to the vested interests of one of the brother's wives and a greedy moneylender.</desc>
@@ -19211,7 +19198,7 @@
   <programme start="20260427050000 +0000" stop="20260427054500 +0000" channel="ITV2.uk@SD">
     <title lang="en">Great Chocolate Showdown</title>
     <desc lang="en">An ooey-gooey, decadent chocolate dessert competition series where 10 home bakers go head-to-head in the indulgent world of chocolate for a 50,000-dollar grand prize. The eight home bakers take a journey to the world of galaxy mirror glaze as they create a solar system cake for their technique test, then flex their taste buds in the elimination challenge as they identify ingredients in a taste-off.</desc>
-    <image>https://img.freeviewplay.tv/p1a547b51e8717d3713a4896b5e2f1eff?w=800</image>
+    <image>https://img.freeviewplay.tv/p21f2bd38fb341a5bf60494fc41d1af6e?w=800</image>
   </programme>
   <programme start="20260427054500 +0000" stop="20260427063500 +0000" channel="ITV2.uk@SD">
     <title lang="en">Gordon Ramsay's Food Stars USA</title>
@@ -21809,11 +21796,6 @@
     <desc lang="en">IMF agent Ethan Hunt clashes with a ruthless arms dealer and risking his life and his fiancee's safety.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_1329789_30APR111500_30APR131500/images/LANDSCAPE_169_HD/MOVIESNOWHD_MissionImpossibleIII_1329789.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_1329789_30APR111500_30APR131500/images/LOGO/MOVIESNOWHD_MissionImpossibleIII_1329789.png" />
-  </programme>
-  <programme start="20260427050500 +0000" stop="20260427070500 +0000" channel="MoviesNowPlus.in@SD">
-    <title lang="en">Inferno (2016)</title>
-    <desc lang="en">Robert Langdon, with amnesia, teams up with Sienna to thwart a global plot.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MNSYMPLUS_1732305_27APR103500_27APR123500/images/LANDSCAPE_169/1729940348000_MNplusHD_Inferno2016_1732305.jpg</image>
   </programme>
   <programme start="20260427070500 +0000" stop="20260427090500 +0000" channel="MoviesNowPlus.in@SD">
     <title lang="en">Angels &amp; Demons</title>
@@ -24546,12 +24528,6 @@
     <title lang="en">Sunset</title>
     <desc lang="en">Having retired from a life of gunfights and peacekeeping, the great Wyatt Earp (James Garner) has landed a job as adviser to a Western movie about himself. On the set of the silent picture, he gets to know Tom Mix (Bruce Willis), an actor who specializes in Westerns, who has been hired to portray Earp. Not long after making each others&amp;apos; acquaintance, they find out that Earp&amp;apos;s ex-girlfriend&amp;apos;s son is missing, and the man responsible may be studio chief Alfie Alperin (Malcolm McDowell).</desc>
   </programme>
-  <programme start="20260427051300 +0000" stop="20260427072800 +0000" channel="SonyMax2.in@SD">
-    <title lang="en">Bade Ghar Ki Beti</title>
-    <desc lang="en">Mala, a poor girl, marries into a wealthy family at the patriarch's request. After his death, she faces abuse from her in-laws and must fight to restore peace and dignity in the family.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_MAX_2_1786944_27APR104300_27APR125800/images/LANDSCAPE_169_HD/Max2_BadeGharKiBeti_1786944.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_MAX_2_1786944_27APR104300_27APR125800/images/LOGO/Max2_BadeGharKiBeti_1786944.png" />
-  </programme>
   <programme start="20260427072800 +0000" stop="20260427111000 +0000" channel="SonyMax2.in@SD">
     <title lang="en">Kshatriya</title>
     <desc lang="en">In Rajasthan, two royal families clash over their annual buffalo sacrifice ritual after one parent returns from England opposed to it. Years later, their kids' reunion might mend the divide.</desc>
@@ -24700,12 +24676,6 @@
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_MAX_2_144494_30APR120000_30APR150000/images/LANDSCAPE_169_HD/Max2_Movie_144494.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_MAX_2_144494_30APR120000_30APR150000/images/LOGO/Max2_Movie_144494.png" />
-  </programme>
-  <programme start="20260427050000 +0000" stop="20260427070600 +0000" channel="SonyMax.in@HD">
-    <title lang="en">Srinivasa Kalyanam</title>
-    <desc lang="en">Srinivas falls in love with Sridevi. However, problems arise in the form of the difference of opinion between Srinivas and her father.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_MAX_HD_831709_27APR103000_27APR123600/images/LANDSCAPE_169_HD/MaxHD_SrinivasaKalyanam_831709.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_MAX_HD_831709_27APR103000_27APR123600/images/LOGO/MaxHD_SrinivasaKalyanam_831709.png" />
   </programme>
   <programme start="20260427070600 +0000" stop="20260427095200 +0000" channel="SonyMax.in@HD">
     <title lang="en">Tere Ishk Mein</title>
@@ -24862,18 +24832,6 @@
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_MAX_HD_295700_30APR120000_30APR150000/images/LANDSCAPE_169_HD/MaxHD_Movie_295700.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_MAX_HD_295700_30APR120000_30APR150000/images/LOGO/MaxHD_Movie_295700.png" />
-  </programme>
-  <programme start="20260427062800 +0000" stop="20260427070300 +0000" channel="SonyPal.in@SD">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah S01</title>
-    <desc lang="en">Gokuldham Society is full of quirky neighbours who laugh, fight, and come together through every challenge. A mix of comedy, emotion, and strong community spirit.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PAL_1665884_27APR115800_27APR123300/images/LANDSCAPE_169_HD/SONYPAL_TaarakMehtaKaOoltahChashmahS01_1665884.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PAL_1665884_27APR115800_27APR123300/images/LOGO/SONYPAL_TaarakMehtaKaOoltahChashmahS01_1665884.png" />
-  </programme>
-  <programme start="20260427070300 +0000" stop="20260427072200 +0000" channel="SonyPal.in@SD">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah S01</title>
-    <desc lang="en">Gokuldham Society is full of quirky neighbours who laugh, fight, and come together through every challenge. A mix of comedy, emotion, and strong community spirit.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PAL_1665884_27APR123300_27APR125200/images/LANDSCAPE_169_HD/SONYPAL_TaarakMehtaKaOoltahChashmahS01_1665884.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PAL_1665884_27APR123300_27APR125200/images/LOGO/SONYPAL_TaarakMehtaKaOoltahChashmahS01_1665884.png" />
   </programme>
   <programme start="20260427072200 +0000" stop="20260427074300 +0000" channel="SonyPal.in@SD">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah S01</title>
@@ -25733,6 +25691,12 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PAL_1665884_30APR122800_30APR125600/images/LANDSCAPE_169_HD/SONYPAL_TaarakMehtaKaOoltahChashmahS01_1665884.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PAL_1665884_30APR122800_30APR125600/images/LOGO/SONYPAL_TaarakMehtaKaOoltahChashmahS01_1665884.png" />
   </programme>
+  <programme start="20260430072600 +0000" stop="20260430074500 +0000" channel="SonyPal.in@SD">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah S01</title>
+    <desc lang="en">Gokuldham Society is full of quirky neighbours who laugh, fight, and come together through every challenge. A mix of comedy, emotion, and strong community spirit.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PAL_1665884_30APR125600_30APR131500/images/LANDSCAPE_169_HD/SONYPAL_TaarakMehtaKaOoltahChashmahS01_1665884.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PAL_1665884_30APR125600_30APR131500/images/LOGO/SONYPAL_TaarakMehtaKaOoltahChashmahS01_1665884.png" />
+  </programme>
   <programme start="20260427063300 +0000" stop="20260427083000 +0000" channel="SonyPix.in@HD">
     <title lang="en">Bad Boys For Life</title>
     <desc lang="en">Detectives Mike Lowrey and Marcus Burnett join the Miami Police Department's special team AMMO to bring down the ruthless Armando, who is on a mission to kill Mike at his mother Isabel's orders.</desc>
@@ -25960,12 +25924,6 @@
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PIX_HD_174077_30APR111600_30APR134400/images/LANDSCAPE_169_HD/PIXHD_Movie_174077.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PIX_HD_174077_30APR111600_30APR134400/images/LOGO/PIXHD_Movie_174077.png" />
-  </programme>
-  <programme start="20260427063000 +0000" stop="20260427070000 +0000" channel="SonySAB.in@HD">
-    <title lang="en">Itti Si Khushi</title>
-    <desc lang="en">Anvita, 21, unexpectedly leads her family after parental neglect, sacrificing her dreams to care for five younger siblings. Set in Mumbai, it showcases resilience and quiet strength.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SAB_HD_1929631_27APR120000_27APR123000/images/LANDSCAPE_169_HD/SABTVHD_IttiSiKhushi_1929631.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SAB_HD_1929631_27APR120000_27APR123000/images/LOGO/SABTVHD_IttiSiKhushi_1929631.png" />
   </programme>
   <programme start="20260427070000 +0000" stop="20260427073000 +0000" channel="SonySAB.in@HD">
     <title lang="en">Maddam Sir</title>
@@ -26837,11 +26795,16 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SAB_HD_920857_30APR123000_30APR130000/images/LANDSCAPE_169_HD/SABTVHD_MaddamSir_920857.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SAB_HD_920857_30APR123000_30APR130000/images/LOGO/SABTVHD_MaddamSir_920857.png" />
   </programme>
-  <programme start="20260427063000 +0000" stop="20260427070000 +0000" channel="SonySportsTen2.in@HD">
-    <title lang="en">Sri Lanka vs India 2024 1st T20I Highlights</title>
-    <desc lang="en">Watch the highlights of the 2024 1st T20i match between Sri Lanka and India.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1688889_27APR120000_27APR123000/images/LANDSCAPE_169_HD/SONYSportsTEN1HD_SriLankavsIndia20241stT20IHighlights_1688889.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1688889_27APR120000_27APR123000/images/LOGO/SONYSportsTEN1HD_SriLankavsIndia20241stT20IHighlights_1688889.png" />
+  <programme start="20260430073000 +0000" stop="20260430080000 +0000" channel="SonySAB.in@HD">
+    <title lang="en">Maddam Sir</title>
+    <desc lang="en">The story revolves around new cases come to the Aminabad Police Station and how smartly, bravely, and emotionally their female cops handle it.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SAB_HD_920857_30APR130000_30APR133000/images/LANDSCAPE_169_HD/SABTVHD_MaddamSir_920857.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SAB_HD_920857_30APR130000_30APR133000/images/LOGO/SABTVHD_MaddamSir_920857.png" />
+  </programme>
+  <programme start="20260427063000 +0000" stop="20260427073000 +0000" channel="SonySportsTen2.in@HD">
+    <title lang="en">UFC Fight Night - Sterling vs Zalal</title>
+    <desc lang="en">UFC Fight Night - Sterling vs Zalal</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2071893_27APR120000_27APR130000/images/LANDSCAPE_169/1777249793000_SONYSportsTEN2HD_UFCFightNight-SterlingvsZalal_2071893.jpg</image>
   </programme>
   <programme start="20260427070000 +0000" stop="20260427100000 +0000" channel="SonySportsTen2.in@HD">
     <title lang="en">DP World Asia Cup 2025: Super 4 - Sri Lanka vs Bangladesh</title>
@@ -27116,16 +27079,16 @@
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1346529_28APR163000_28APR170000/images/LOGO/SONYSportsTEN1HD_England-WvsIndia-W20221stODIHighlights_1346529.png" />
   </programme>
   <programme start="20260428113000 +0000" stop="20260428120000 +0000" channel="SonySportsTen2.in@HD">
-    <title lang="en">EQ for 2026 FIFA World Cup Play-offs Finals Bosnia-Herzegovina vs Italy Highlights</title>
-    <desc lang="en">Watch playoff qualification drama as Bosnia-Herzegovina faced Italy in the 2026 FIFA World Cup Play-offs, with highlights from Sarajevo, Bosnia-Herzegovina.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2063960_28APR170000_28APR173000/images/LANDSCAPE_169_HD/SONYSportsTEN2HD_EQfor2026FIFAWorldCupPlay-offsFinalsBosnia-HerzegovinavsItalyHighlights_2063960.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2063960_28APR170000_28APR173000/images/LOGO/SONYSportsTEN2HD_EQfor2026FIFAWorldCupPlay-offsFinalsBosnia-HerzegovinavsItalyHighlights_2063960.png" />
+    <title lang="en">Sri Lanka vs India 2024 2nd T20I Highlights</title>
+    <desc lang="en">Watch the highlights of the 2024 2nd T20i match between Sri Lanka and India.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1688888_28APR170000_28APR173000/images/LANDSCAPE_169_HD/SONYSportsTEN1HD_SriLankavsIndia20242ndT20IHighlights_1688888.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1688888_28APR170000_28APR173000/images/LOGO/SONYSportsTEN1HD_SriLankavsIndia20242ndT20IHighlights_1688888.png" />
   </programme>
-  <programme start="20260428120000 +0000" stop="20260428123000 +0000" channel="SonySportsTen2.in@HD">
-    <title lang="en">EQ for 2026 FIFA World Cup Play-offs Finals Sweden vs Poland Highlights</title>
-    <desc lang="en">EQ for 2026 FIFA World Cup Play-offs Finals Sweden vs Poland Highlights</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2069635_28APR173000_28APR180000/images/LANDSCAPE_169_HD/SONYSportsTEN2HD_EQfor2026FIFAWorldCupPlay-offsFinalsSwedenvsPolandHighlights_2069635.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2069635_28APR173000_28APR180000/images/LOGO/SONYSportsTEN2HD_EQfor2026FIFAWorldCupPlay-offsFinalsSwedenvsPolandHighlights_2069635.png" />
+  <programme start="20260428120000 +0000" stop="20260428130000 +0000" channel="SonySportsTen2.in@HD">
+    <title lang="en">Asia Cup 2022 : PAK v IND Highlights</title>
+    <desc lang="en">India and Pakistan went head-to-head in a tense 2022 Asia Cup match. Big hits, bold moves-see how it unfolded. Watch the highlights now.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1945741_28APR173000_28APR183000/images/LANDSCAPE_169_HD/SONYSportsTEN1HD_AsiaCup2022PAKvINDHighlights_1945741.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1945741_28APR173000_28APR183000/images/LOGO/SONYSportsTEN1HD_AsiaCup2022PAKvINDHighlights_1945741.png" />
   </programme>
   <programme start="20260428123000 +0000" stop="20260428133000 +0000" channel="SonySportsTen2.in@HD">
     <title lang="en">UFC FIGHT O'CLOCK 2.0 - WOMEN'S STRAWWEIGHT</title>
@@ -27138,11 +27101,10 @@
     <desc lang="en">The Emirates FA Cup 2025-26 : SF 1 - Manchester City vs Southampton</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_2071670_28APR183000_28APR190000/images/LANDSCAPE_169/1777239752000_SONYSportsTEN1HD_TheEmiratesFACup2025-26SF1-ManchesterCityvsSouthampton_2071670.jpg</image>
   </programme>
-  <programme start="20260428133000 +0000" stop="20260428140000 +0000" channel="SonySportsTen2.in@HD">
-    <title lang="en">ISL 2025-26 MD 5 Chennaiyin FC vs Mohammedan SC Highlights</title>
-    <desc lang="en">Relive highlights from the Indian Super League match between Chennaiyin FC and Mohammedan SC, filled with attacking play, dramatic chances and memorable football moments.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2048304_28APR190000_28APR193000/images/LANDSCAPE_169_HD/SONYSportsTEN2HD_ISL2025-26MD5ChennaiyinFCvsMohammedanSCHighlights_2048304.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2048304_28APR190000_28APR193000/images/LOGO/SONYSportsTEN2HD_ISL2025-26MD5ChennaiyinFCvsMohammedanSCHighlights_2048304.png" />
+  <programme start="20260428133000 +0000" stop="20260428143000 +0000" channel="SonySportsTen2.in@HD">
+    <title lang="en">UFC FIGHT O'CLOCK 2.0 - WOMEN'S STRAWWEIGHT</title>
+    <desc lang="en">UFC FIGHT O'CLOCK 2.0 - WOMEN'S STRAWWEIGHT</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_2071678_28APR190000_28APR200000/images/LANDSCAPE_169/1777240149000_SONYSportsTEN1HD_UFCFIGHTOCLOCK20-WOMENSSTRAWWEIGHT_2071678.jpg</image>
   </programme>
   <programme start="20260428140000 +0000" stop="20260428160000 +0000" channel="SonySportsTen2.in@HD">
     <title lang="en">UEFA Champions League 2025/26 Quarter-Final - Leg 2 - Arsenal vs Sporting CP</title>
@@ -27169,22 +27131,22 @@
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2069669_28APR213000_28APR220000/images/LOGO/SONYSportsTEN2HD_UCL2025-26QFLeg2MD14-LiverpoolvsParisHighlights_2069669.png" />
   </programme>
   <programme start="20260428163000 +0000" stop="20260428173000 +0000" channel="SonySportsTen2.in@HD">
-    <title lang="en">UFC FIGHT O'CLOCK 2.0 - WOMEN'S STRAWWEIGHT</title>
-    <desc lang="en">UFC FIGHT O'CLOCK 2.0 - WOMEN'S STRAWWEIGHT</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2069091_28APR220000_28APR230000/images/LANDSCAPE_169_HD/SONYSportsTEN2HD_UFCFIGHTOCLOCK20-WOMENSSTRAWWEIGHT_2069091.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2069091_28APR220000_28APR230000/images/LOGO/SONYSportsTEN2HD_UFCFIGHTOCLOCK20-WOMENSSTRAWWEIGHT_2069091.png" />
+    <title lang="en">Eng vs Ind 2025 2nd Test Highlights</title>
+    <desc lang="en">Tune into ENG vs IND 2025 2nd Test highlights from Old Trafford, Manchester-a gripping contest of classic Test cricket with bold strokes and fierce bowling spells.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1904215_28APR220000_28APR230000/images/LANDSCAPE_169_HD/SONYSportsTEN1HD_EngvsInd20252ndTestHighlights_1904215.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1904215_28APR220000_28APR230000/images/LOGO/SONYSportsTEN1HD_EngvsInd20252ndTestHighlights_1904215.png" />
   </programme>
   <programme start="20260428173000 +0000" stop="20260428180000 +0000" channel="SonySportsTen2.in@HD">
-    <title lang="en">FA Cup 2025/26 QF - Southhampton vs Arsenal Highlights</title>
-    <desc lang="en">Relive FA Cup quarter-final drama as Southampton faced Arsenal, with highlights capturing key goals and turning points from St Mary's Stadium, Southampton, England.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2062971_28APR230000_28APR233000/images/LANDSCAPE_169_HD/SONYSportsTEN2HD_FACup202526QF-SouthhamptonvsArsenalHighlights_2062971.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2062971_28APR230000_28APR233000/images/LOGO/SONYSportsTEN2HD_FACup202526QF-SouthhamptonvsArsenalHighlights_2062971.png" />
+    <title lang="en">Sri Lanka vs India 2024 2nd T20I Highlights</title>
+    <desc lang="en">Watch the highlights of the 2024 2nd T20i match between Sri Lanka and India.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1688888_28APR230000_28APR233000/images/LANDSCAPE_169_HD/SONYSportsTEN1HD_SriLankavsIndia20242ndT20IHighlights_1688888.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1688888_28APR230000_28APR233000/images/LOGO/SONYSportsTEN1HD_SriLankavsIndia20242ndT20IHighlights_1688888.png" />
   </programme>
-  <programme start="20260428180000 +0000" stop="20260428183000 +0000" channel="SonySportsTen2.in@HD">
-    <title lang="en">FA Cup 2025/26 QF - West Ham United vs Leeds United Highlights</title>
-    <desc lang="en">Catch FA Cup drama again with highlights from West Ham United vs Leeds United in the 2025/26 Quarter-Final at London Stadium, England.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2062738_28APR233000_29APR000000/images/LANDSCAPE_169_HD/SONYSportsTEN2HD_FACup202526QF-WestHamUnitedvsLeedsUnitedHighlights_2062738.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2062738_28APR233000_29APR000000/images/LOGO/SONYSportsTEN2HD_FACup202526QF-WestHamUnitedvsLeedsUnitedHighlights_2062738.png" />
+  <programme start="20260428180000 +0000" stop="20260428190000 +0000" channel="SonySportsTen2.in@HD">
+    <title lang="en">Asia Cup 2023 : PAK v IND Highlights</title>
+    <desc lang="en">Watch the Asia Cup 2023 IND vs PAK highlights showcase thrilling cricket action, intense rivalry, dramatic moments, and standout performances from both teams.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1944574_28APR233000_29APR003000/images/LANDSCAPE_169_HD/SONYSportsTEN1HD_AsiaCup2023PAKvINDHighlights_1944574.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1944574_28APR233000_29APR003000/images/LOGO/SONYSportsTEN1HD_AsiaCup2023PAKvINDHighlights_1944574.png" />
   </programme>
   <programme start="20260428183000 +0000" stop="20260428193000 +0000" channel="SonySportsTen2.in@HD">
     <title lang="en">UEL 2025-26 Highlightss :Q. F. 2nd Leg MD14</title>
@@ -27198,11 +27160,11 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1497437_29APR003000_29APR010000/images/LANDSCAPE_169_HD/SONYSportsTEN1HD_EnglandvsNewZealand20232ndT20IHighlights_1497437.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1497437_29APR003000_29APR010000/images/LOGO/SONYSportsTEN1HD_EnglandvsNewZealand20232ndT20IHighlights_1497437.png" />
   </programme>
-  <programme start="20260428193000 +0000" stop="20260428223000 +0000" channel="SonySportsTen2.in@HD">
-    <title lang="en">UFC Fight Night - Strickland vs Hernandez</title>
-    <desc lang="en">See Sean Strickland battle Anthony Hernandez live from UFC Apex, Las Vegas, USA, showcasing gritty striking, strong pressure fighting, and high-intensity UFC Fight Night moments.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2055159_29APR010000_29APR040000/images/LANDSCAPE_169_HD/SONYSportsTEN2HD_UFCFightNight-StricklandvsHernandez_2055159.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2055159_29APR010000_29APR040000/images/LOGO/SONYSportsTEN2HD_UFCFightNight-StricklandvsHernandez_2055159.png" />
+  <programme start="20260428193000 +0000" stop="20260428203000 +0000" channel="SonySportsTen2.in@HD">
+    <title lang="en">NATWEST Series 2002 Eng vs Ind - FINAL Highlights</title>
+    <desc lang="en">Relive cricketing excellence with NatWest Series 2002 Final highlights as England battled India at the historic Lord's Cricket Ground, London, England.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_2063999_29APR010000_29APR020000/images/LANDSCAPE_169_HD/SONYSportsTEN1HD_NATWESTSeries2002EngvsInd-FINALHighlights_2063999.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_2063999_29APR010000_29APR020000/images/LOGO/SONYSportsTEN1HD_NATWESTSeries2002EngvsInd-FINALHighlights_2063999.png" />
   </programme>
   <programme start="20260428203000 +0000" stop="20260428210000 +0000" channel="SonySportsTen2.in@HD">
     <title lang="en">DP World Asia Cup 2025: Super 4 India vs Pakistan Highlights</title>
@@ -27222,11 +27184,11 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_2063999_29APR030000_29APR040000/images/LANDSCAPE_169_HD/SONYSportsTEN1HD_NATWESTSeries2002EngvsInd-FINALHighlights_2063999.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_2063999_29APR030000_29APR040000/images/LOGO/SONYSportsTEN1HD_NATWESTSeries2002EngvsInd-FINALHighlights_2063999.png" />
   </programme>
-  <programme start="20260428223000 +0000" stop="20260429003000 +0000" channel="SonySportsTen2.in@HD">
-    <title lang="en">The Emirates FA Cup2025-26 Southhampton vs Arsenal</title>
-    <desc lang="en">The Emirates FA Cup2025-26 Southhampton vs Arsenal</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2069673_29APR040000_29APR060000/images/LANDSCAPE_169_HD/SONYSportsTEN2HD_TheEmiratesFACup2025-26SouthhamptonvsArsenal_2069673.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2069673_29APR040000_29APR060000/images/LOGO/SONYSportsTEN2HD_TheEmiratesFACup2025-26SouthhamptonvsArsenal_2069673.png" />
+  <programme start="20260428223000 +0000" stop="20260428230000 +0000" channel="SonySportsTen2.in@HD">
+    <title lang="en">New Zealand vs South Africa 2026 3rd T20I Highlights</title>
+    <desc lang="en">New Zealand vs South Africa 2026 3rd T20I Highlights</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_2058490_29APR040000_29APR043000/images/LANDSCAPE_169_HD/SONYSportsTEN1HD_NewZealandvsSouthAfrica20263rdT20IHighlights_2058490.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_2058490_29APR040000_29APR043000/images/LOGO/SONYSportsTEN1HD_NewZealandvsSouthAfrica20263rdT20IHighlights_2058490.png" />
   </programme>
   <programme start="20260428230000 +0000" stop="20260428233000 +0000" channel="SonySportsTen2.in@HD">
     <title lang="en">ACC Men's Asia Cup U19 2025: India vs Pakistan Highlights</title>
@@ -27241,16 +27203,15 @@
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_2069036_29APR050000_29APR060000/images/LOGO/SONYSportsTEN1HD_UFCFIGHTOCLOCK20-HEAVYWEIGHT_2069036.png" />
   </programme>
   <programme start="20260429003000 +0000" stop="20260429013000 +0000" channel="SonySportsTen2.in@HD">
-    <title lang="en">Main Event UFC 304: Edwards vs Muhammad</title>
-    <desc lang="en">Main Event UFC 304: Edwards vs Muhammad</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2069674_29APR060000_29APR070000/images/LANDSCAPE_169/1776882069000_SONYSportsTEN2HD_MainEventUFC304EdwardsvsMuhammad_2069674.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2069674_29APR060000_29APR070000/images/LOGO/SONYSportsTEN2HD_MainEventUFC304EdwardsvsMuhammad_2069674.png" />
+    <title lang="en">New Zealand Vs India 2020 3rd T20 Highlights</title>
+    <desc lang="en">New Zealand Vs India 2020 3rd T20 Highlights showcases exciting cricket action as the teams fight hard to secure victory.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1852368_29APR060000_29APR070000/images/LANDSCAPE_169_HD/SONYSportsTEN1HD_NewZealandVsIndia20203rdT20Highlights_1852368.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1852368_29APR060000_29APR070000/images/LOGO/SONYSportsTEN1HD_NewZealandVsIndia20203rdT20Highlights_1852368.png" />
   </programme>
-  <programme start="20260429013000 +0000" stop="20260429023000 +0000" channel="SonySportsTen2.in@HD">
-    <title lang="en">UFC FIGHT O'CLOCK 2.0 - WOMEN'S STRAWWEIGHT</title>
-    <desc lang="en">UFC FIGHT O'CLOCK 2.0 - WOMEN'S STRAWWEIGHT</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2069091_29APR070000_29APR080000/images/LANDSCAPE_169_HD/SONYSportsTEN2HD_UFCFIGHTOCLOCK20-WOMENSSTRAWWEIGHT_2069091.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2069091_29APR070000_29APR080000/images/LOGO/SONYSportsTEN2HD_UFCFIGHTOCLOCK20-WOMENSSTRAWWEIGHT_2069091.png" />
+  <programme start="20260429013000 +0000" stop="20260429020000 +0000" channel="SonySportsTen2.in@HD">
+    <title lang="en">UCL 2025-26: SFs Leg 1- Paris vs Bayern Munich Highlights</title>
+    <desc lang="en">UCL 2025-26: SFs Leg 1- Paris vs Bayern Munich Highlights</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_2071676_29APR070000_29APR073000/images/LANDSCAPE_169/1756684870000_Sports_201.jpg</image>
   </programme>
   <programme start="20260429020000 +0000" stop="20260429023000 +0000" channel="SonySportsTen2.in@HD">
     <title lang="en">Best Of the Test - Eng vs Ind 2025 1st Test</title>
@@ -27259,28 +27220,26 @@
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1900132_29APR073000_29APR080000/images/LOGO/SONYSportsTEN1HD_BestOftheTest-EngvsInd20251stTest_1900132.png" />
   </programme>
   <programme start="20260429023000 +0000" stop="20260429030000 +0000" channel="SonySportsTen2.in@HD">
-    <title lang="en">WWE Evolve</title>
-    <desc lang="en">WWE Evolve showcases rising wrestling stars, intense matches, and dramatic rivalries as new talent steps into the spotlight.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_1969888_29APR080000_29APR083000/images/LANDSCAPE_169_HD/SONYSportsTEN2HD_WWEEvolve_1969888.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_1969888_29APR080000_29APR083000/images/LOGO/SONYSportsTEN2HD_WWEEvolve_1969888.png" />
+    <title lang="en">Sri Lanka vs India 2024 3rd T20i Highlights</title>
+    <desc lang="en">Watch the highlights of 3rd T20I match between Sri Lanka and India in India tour of Sri Lanka, 2024</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1692753_29APR080000_29APR083000/images/LANDSCAPE_169_HD/SONYSportsTEN1HD_SriLankavsIndia20243rdT20IHighlights_1692753.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_1692753_29APR080000_29APR083000/images/LOGO/SONYSportsTEN1HD_SriLankavsIndia20243rdT20IHighlights_1692753.png" />
   </programme>
   <programme start="20260429030000 +0000" stop="20260429040000 +0000" channel="SonySportsTen2.in@HD">
-    <title lang="en">Bundesliga 2025-26 RD Highlights</title>
-    <desc lang="en">Watch Bundesliga 2025-26 Round Day highlights from stadiums across Germany, showcasing standout goals and performances from August 22-31, 2025.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_1934592_29APR083000_29APR093000/images/LANDSCAPE_169_HD/SONYSportsTEN2HD_Bundesliga2025-26RDHighlights_1934592.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_1934592_29APR083000_29APR093000/images/LOGO/SONYSportsTEN2HD_Bundesliga2025-26RDHighlights_1934592.png" />
+    <title lang="en">UFC FIGHT O'CLOCK 2.0 - WOMEN'S STRAWWEIGHT</title>
+    <desc lang="en">UFC FIGHT O'CLOCK 2.0 - WOMEN'S STRAWWEIGHT</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_2071678_29APR083000_29APR093000/images/LANDSCAPE_169/1777240149000_SONYSportsTEN1HD_UFCFIGHTOCLOCK20-WOMENSSTRAWWEIGHT_2071678.jpg</image>
   </programme>
   <programme start="20260429040000 +0000" stop="20260429043000 +0000" channel="SonySportsTen2.in@HD">
-    <title lang="en">Asian Tour 2026 Highlights: Selangor Master,Malaysia</title>
-    <desc lang="en">Asian Tour 2026 Highlights: Selangor Master,Malaysia</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2069099_29APR093000_29APR100000/images/LANDSCAPE_169_HD/SONYSportsTEN2HD_AsianTour2026HighlightsSelangorMasterMalaysia_2069099.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_2069099_29APR093000_29APR100000/images/LOGO/SONYSportsTEN2HD_AsianTour2026HighlightsSelangorMasterMalaysia_2069099.png" />
+    <title lang="en">ACC Men's Asia Cup U19 2025: India vs UAE Highlights</title>
+    <desc lang="en">Relive U19 cricket action: ACC Asia Cup 2025 - India vs UAE highlights emerging stars at Dubai International Stadium, UAE.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_2009939_29APR093000_29APR100000/images/LANDSCAPE_169_HD/SONYSportsTEN1HD_ACCMensAsiaCupU192025IndiavsUAEHighlights_2009939.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_2009939_29APR093000_29APR100000/images/LOGO/SONYSportsTEN1HD_ACCMensAsiaCupU192025IndiavsUAEHighlights_2009939.png" />
   </programme>
-  <programme start="20260429043000 +0000" stop="20260429093000 +0000" channel="SonySportsTen2.in@HD">
-    <title lang="en">WWE Evolve</title>
-    <desc lang="en">WWE Evolve showcases rising wrestling stars, intense matches, and dramatic rivalries as new talent steps into the spotlight.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_1969888_29APR100000_29APR150000/images/LANDSCAPE_169_HD/SONYSportsTEN2HD_WWEEvolve_1969888.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_2_HD_1969888_29APR100000_29APR150000/images/LOGO/SONYSportsTEN2HD_WWEEvolve_1969888.png" />
+  <programme start="20260429043000 +0000" stop="20260429050000 +0000" channel="SonySportsTen2.in@HD">
+    <title lang="en">UCL 2025-26: SFs Leg 1- Paris vs Bayern Munich Highlights</title>
+    <desc lang="en">UCL 2025-26: SFs Leg 1- Paris vs Bayern Munich Highlights</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_2071676_29APR100000_29APR103000/images/LANDSCAPE_169/1756684870000_Sports_201.jpg</image>
   </programme>
   <programme start="20260429050000 +0000" stop="20260429060000 +0000" channel="SonySportsTen2.in@HD">
     <title lang="en">Asia Cup 2022 : PAK v IND Highlights</title>
@@ -27519,12 +27478,6 @@
     <title lang="en">DP World Asia Cup 2025: Super 4 - India vs Bangladesh</title>
     <desc lang="en">DP World Asia Cup 2025: Super 4 - India vs Bangladesh</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_1_HD_2071667_30APR123000_30APR153000/images/LANDSCAPE_169/1756684870000_Sports_201.jpg</image>
-  </programme>
-  <programme start="20260427063000 +0000" stop="20260427070000 +0000" channel="SonySportsTen3Hindi.in@HD">
-    <title lang="en">Sri Lanka vs India 2024 1st T20I Highlights</title>
-    <desc lang="en">Get a glimpse of Sri Lanka vs India 2024 1st T20I Highlights featuring national cricket teams in India tour of Sri Lanka T20I Series 2024 at Pallekele International Cricket Stadium, Kandy, Sri Lanka.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_3_HD_1689190_27APR120000_27APR123000/images/LANDSCAPE_169_HD/SonySportsTen3HindiHD_SriLankavsIndia20241stT20IHighlights_1689190.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SPORTS_TEN_3_HD_1689190_27APR120000_27APR123000/images/LOGO/SonySportsTen3HindiHD_SriLankavsIndia20241stT20IHighlights_1689190.png" />
   </programme>
   <programme start="20260427070000 +0000" stop="20260427100000 +0000" channel="SonySportsTen3Hindi.in@HD">
     <title lang="en">DP World Asia Cup 2025: Super 4 - Sri Lanka vs Bangladesh</title>
@@ -30404,18 +30357,6 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_PLUS_HD_10145_30APR113000_30APR143000/images/LANDSCAPE_169_HD/STARPLUSHD_YehRishtaKyaKehlataHai_10145.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_PLUS_HD_10145_30APR113000_30APR143000/images/LOGO/STARPLUSHD_YehRishtaKyaKehlataHai_10145.png" />
   </programme>
-  <programme start="20260427063000 +0000" stop="20260427070000 +0000" channel="StarSports1.in@HD">
-    <title lang="en">TATA IPL 2026 - Cricket Countdown</title>
-    <desc lang="en">TATA IPL 2026 a?' Cricket Countdown celebrates the tournament's most thrilling moments, revisiting iconic performances, turning points, and unforgettable highlights from past IPL seasons.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2048497_27APR120000_27APR123000/images/LANDSCAPE_169_HD/StarSportsHD1_TATAIPL2026-CricketCountdown_2048497.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2048497_27APR120000_27APR123000/images/LOGO/StarSportsHD1_TATAIPL2026-CricketCountdown_2048497.png" />
-  </programme>
-  <programme start="20260427070000 +0000" stop="20260427071500 +0000" channel="StarSports1.in@HD">
-    <title lang="en">TATA IPL 2026 Superstars - Top Performan</title>
-    <desc lang="en">Top Performances of TATA IPL 2026 Superstar players like Pant, Hardik Pandya, SKY, Shreyas Iyer</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2059283_27APR123000_27APR124500/images/LANDSCAPE_169_HD/StarSportsHD1_TATAIPL2026Superstars-TopPerforman_2059283.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2059283_27APR123000_27APR124500/images/LOGO/StarSportsHD1_TATAIPL2026Superstars-TopPerforman_2059283.png" />
-  </programme>
   <programme start="20260427071500 +0000" stop="20260427073000 +0000" channel="StarSports1.in@HD">
     <title lang="en">TATA IPL 2026 HLs GT v MI</title>
     <desc lang="en">Watch IPL 2026 highlights featuring MI vs GT. Experience the thrill with key moments, big hits, and game-changing plays that define the match for fans.</desc>
@@ -31375,17 +31316,11 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2048497_30APR123000_30APR130000/images/LANDSCAPE_169_HD/StarSportsHD1_TATAIPL2026-CricketCountdown_2048497.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2048497_30APR123000_30APR130000/images/LOGO/StarSportsHD1_TATAIPL2026-CricketCountdown_2048497.png" />
   </programme>
-  <programme start="20260427063000 +0000" stop="20260427070000 +0000" channel="StarSports1Hindi.in@HD">
-    <title lang="en">TATA IPL 2026 - Cricket Countdown</title>
-    <desc lang="en">TATA IPL 2026 a?' Cricket Countdown celebrates the tournament's most thrilling moments, revisiting iconic performances, turning points, and unforgettable highlights from past IPL seasons.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2048610_27APR120000_27APR123000/images/LANDSCAPE_169_HD/STARSPORTS1HINDIHD_TATAIPL2026-CricketCountdown_2048610.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2048610_27APR120000_27APR123000/images/LOGO/STARSPORTS1HINDIHD_TATAIPL2026-CricketCountdown_2048610.png" />
-  </programme>
-  <programme start="20260427070000 +0000" stop="20260427071500 +0000" channel="StarSports1Hindi.in@HD">
-    <title lang="en">TATA IPL 2026 Superstars - Top Performan</title>
-    <desc lang="en">Top Performances of TATA IPL 2026 Superstar players like Pant, Hardik Pandya, SKY, Shreyas Iyer</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2059268_27APR123000_27APR124500/images/LANDSCAPE_169_HD/STARSPORTS1HINDIHD_TATAIPL2026Superstars-TopPerforman_2059268.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2059268_27APR123000_27APR124500/images/LOGO/STARSPORTS1HINDIHD_TATAIPL2026Superstars-TopPerforman_2059268.png" />
+  <programme start="20260430073000 +0000" stop="20260430074500 +0000" channel="StarSports1.in@HD">
+    <title lang="en">TATA IPL 2026 - Game Plan</title>
+    <desc lang="en">TATA IPL 2026 Game Plan explores the strategic mindset and evolving tactics that shape how teams prepare for a high intensity IPL season</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2051914_30APR130000_30APR131500/images/LANDSCAPE_169_HD/StarSportsHD1_TATAIPL2026-GamePlan_2051914.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2051914_30APR130000_30APR131500/images/LOGO/StarSportsHD1_TATAIPL2026-GamePlan_2051914.png" />
   </programme>
   <programme start="20260427071500 +0000" stop="20260427073000 +0000" channel="StarSports1Hindi.in@HD">
     <title lang="en">TATA IPL 2026 HLs GT v MI</title>
@@ -32346,17 +32281,11 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2048610_30APR123000_30APR130000/images/LANDSCAPE_169_HD/STARSPORTS1HINDIHD_TATAIPL2026-CricketCountdown_2048610.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2048610_30APR123000_30APR130000/images/LOGO/STARSPORTS1HINDIHD_TATAIPL2026-CricketCountdown_2048610.png" />
   </programme>
-  <programme start="20260427064500 +0000" stop="20260427070000 +0000" channel="StarSports2Hindi.in@HD">
-    <title lang="en">TATA IPL 2026 - Dil Se Dilli</title>
-    <desc lang="en">Dil Se Dilli captures the passion and intensity of Delhi Capitals through player stories, match previews, and rising talent. A snapshot of Delhi's bold, young, and never back down spirit</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2058142_27APR121500_27APR123000/images/LANDSCAPE_169_HD/StarSports2HindiHD_TATAIPL2026-DilSeDilli_2058142.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2058142_27APR121500_27APR123000/images/LOGO/StarSports2HindiHD_TATAIPL2026-DilSeDilli_2058142.png" />
-  </programme>
-  <programme start="20260427070000 +0000" stop="20260427071500 +0000" channel="StarSports2Hindi.in@HD">
-    <title lang="en">Match Point - TATA IPL 2026</title>
-    <desc lang="en">Match Point - TATA IPL 2026 delivers a crisp post-match review with expert insights on key moments, turning points, and performances that shaped the game</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2056156_27APR123000_27APR124500/images/LANDSCAPE_169_HD/StarSports2HindiHD_MatchPoint-TATAIPL2026_2056156.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2056156_27APR123000_27APR124500/images/LOGO/StarSports2HindiHD_MatchPoint-TATAIPL2026_2056156.png" />
+  <programme start="20260430073000 +0000" stop="20260430074500 +0000" channel="StarSports1Hindi.in@HD">
+    <title lang="en">TATA IPL 2026 - Game Plan</title>
+    <desc lang="en">TATA IPL 2026 a?' Game Plan explores the strategic mindset and evolving tactics that shape how teams prepare for a high intensity IPL season</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2051912_30APR130000_30APR131500/images/LANDSCAPE_169_HD/STARSPORTS1HINDIHD_TATAIPL2026-GamePlan_2051912.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2051912_30APR130000_30APR131500/images/LOGO/STARSPORTS1HINDIHD_TATAIPL2026-GamePlan_2051912.png" />
   </programme>
   <programme start="20260427071500 +0000" stop="20260427073000 +0000" channel="StarSports2Hindi.in@HD">
     <title lang="en">TATA IPL 2026 HLs LSG v KKR</title>
@@ -33425,10 +33354,17 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2056156_30APR123000_30APR124500/images/LANDSCAPE_169_HD/StarSports2HindiHD_MatchPoint-TATAIPL2026_2056156.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2056156_30APR123000_30APR124500/images/LOGO/StarSports2HindiHD_MatchPoint-TATAIPL2026_2056156.png" />
   </programme>
-  <programme start="20260427063000 +0000" stop="20260427070000 +0000" channel="StarSportsSelect1.in@HD">
-    <title lang="en">PL Classic Liverpool v Man Utd</title>
-    <desc lang="en">A trip down memory lane with highlights of some classics from the Premier League</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_1_HD_971233_27APR120000_27APR123000/images/LANDSCAPE_169/1760207265000_StarSportsSelectHD1_PLClassicLiverpoolvManUtd_971233.jpg</image>
+  <programme start="20260430071500 +0000" stop="20260430073000 +0000" channel="StarSports2Hindi.in@HD">
+    <title lang="en">TATA IPL 2026 HLs LSG v RR</title>
+    <desc lang="en">Watch the thrilling IPL 2026 HLs match between LSG and RR, featuring bowling, big sixes, fielding, and clutch moments that keep fans on edge tonight.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2069376_30APR124500_30APR130000/images/LANDSCAPE_169_HD/StarSports1_TATAIPL2026HLsLSGvRR_2067827.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2069376_30APR124500_30APR130000/images/LOGO/StarSports1_TATAIPL2026HLsLSGvRR_2067827.png" />
+  </programme>
+  <programme start="20260430073000 +0000" stop="20260430074500 +0000" channel="StarSports2Hindi.in@HD">
+    <title lang="en">TATA IPL 2024 Highlights MI v CSK</title>
+    <desc lang="en">Daily highlights of the TATA IPL match from the 2024 season</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_1803230_30APR130000_30APR131500/images/LANDSCAPE_169_HD/StarSports2HindiHD_TATAIPL2024HighlightsMIvCSK_1803230.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_1803230_30APR130000_30APR131500/images/LOGO/StarSports2HindiHD_TATAIPL2024HighlightsMIvCSK_1803230.png" />
   </programme>
   <programme start="20260427070000 +0000" stop="20260427073000 +0000" channel="StarSportsSelect1.in@HD">
     <title lang="en">PL Netbusters</title>
@@ -34171,6 +34107,11 @@
     <desc lang="en">PL Netbusters: Watch this special segment focused on the most incredible goals and moments from the Premier League season, featuring stunning netbusters.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_1_HD_670892_30APR123000_30APR130000/images/LANDSCAPE_169/1726952222000_StarSportsSelectHD1_PLNetbusters_670892.jpg</image>
   </programme>
+  <programme start="20260430073000 +0000" stop="20260430080000 +0000" channel="StarSportsSelect1.in@HD">
+    <title lang="en">PL Classic Liverpool v Man Utd</title>
+    <desc lang="en">A trip down memory lane with highlights of some classics from the Premier League</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_1_HD_971233_30APR130000_30APR133000/images/LANDSCAPE_169/1760207265000_StarSportsSelectHD1_PLClassicLiverpoolvManUtd_971233.jpg</image>
+  </programme>
   <programme start="20260427063000 +0000" stop="20260427113000 +0000" channel="StarSportsSelect2.in@HD">
     <title lang="en">BWF 2026</title>
     <desc lang="en">The 2026 BWF World Championships, the 30th edition of the event, will be held in New Delhi. This marks India's first time hosting the tournament since 2009.</desc>
@@ -34620,6 +34561,12 @@
     <desc lang="en">PL 25/26 - 30minute shows that feature best matches from the weekend.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_2_HD_2069937_30APR123000_30APR130000/images/LANDSCAPE_169/1777105250000_StarSportsSelectHD2_PLHighlightsWolvesvTottenhamHotspur_2069937.jpg</image>
   </programme>
+  <programme start="20260430073000 +0000" stop="20260430074500 +0000" channel="StarSportsSelect2.in@HD">
+    <title lang="en">TATA IPL 2026 - Game Plan</title>
+    <desc lang="en">TATA IPL 2026 a?' Game Plan explores the strategic mindset and evolving tactics that shape how teams prepare for a high intensity IPL season</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_2_HD_2053471_30APR130000_30APR131500/images/LANDSCAPE_169_HD/StarSportsSelectHD2_TATAIPL2026-GamePlan_2053471.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_2_HD_2053471_30APR130000_30APR131500/images/LOGO/StarSportsSelectHD2_TATAIPL2026-GamePlan_2053471.png" />
+  </programme>
   <programme start="20260427063000 +0000" stop="20260427073000 +0000" channel="StarUtsav.in@SD">
     <title lang="en">Do Dil Mil Rahe Hai</title>
     <desc lang="en">Separated by a childhood accident, two former friends reunite years later as strangers, unaware of their shared past and driven by a deep mutual hatred.</desc>
@@ -34842,11 +34789,11 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_UTSAV_2067664_30APR120000_30APR130000/images/LANDSCAPE_169_HD/STARUTSAV_DoDilMilRaheHai_2067664.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_UTSAV_2067664_30APR120000_30APR130000/images/LOGO/STARUTSAV_DoDilMilRaheHai_2067664.png" />
   </programme>
-  <programme start="20260427033600 +0000" stop="20260427070100 +0000" channel="StarUtsavMovies.in@SD">
-    <title lang="en">Shiv Mahima</title>
-    <desc lang="en">A mythological story on the life and miracles of Lord Shiva.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_UTSAV_MOVIES_1327720_27APR090600_27APR123100/images/LANDSCAPE_169_HD/StarUtsavMovies_ShivMahima_1327720.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_UTSAV_MOVIES_1327720_27APR090600_27APR123100/images/LOGO/StarUtsavMovies_ShivMahima_1327720.png" />
+  <programme start="20260430073000 +0000" stop="20260430083000 +0000" channel="StarUtsav.in@SD">
+    <title lang="en">Ishq Wala Pyaar</title>
+    <desc lang="en">Ajinkiya, a lawyer and music lover, searches for a girl for his music video. He meets Ovi, a driven banker, and despite their different worlds, love blossoms.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_UTSAV_2033840_30APR130000_30APR140000/images/LANDSCAPE_169_HD/STARUTSAV_IshqWalaPyaar_2033840.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_UTSAV_2033840_30APR130000_30APR140000/images/LOGO/STARUTSAV_IshqWalaPyaar_2033840.png" />
   </programme>
   <programme start="20260427070100 +0000" stop="20260427094400 +0000" channel="StarUtsavMovies.in@SD">
     <title lang="en">Jaisi Karni Waisi Bharni</title>
@@ -37108,12 +37055,6 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_BOLLYWOOD_261942_30APR113900_30APR140300/images/LANDSCAPE_169_HD/ZeeBollywood_Aarzoo_261942.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_BOLLYWOOD_261942_30APR113900_30APR140300/images/LOGO/ZeeBollywood_Aarzoo_261942.png" />
   </programme>
-  <programme start="20260427042900 +0000" stop="20260427070000 +0000" channel="ZeeCinema.in@HD">
-    <title lang="en">Bangarraju</title>
-    <desc lang="en">Starring: Nagarjuna,Ramya Krishna. Chinna Bangarraju continues his grandpa's legacy as a flirt. Grandma worries about his loneliness and sets out to find him a companion before she leaves.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_CINEMA_HD_1319465_27APR095900_27APR123000/images/LANDSCAPE_169_HD/ZeeCinemaHD_Bangarraju_1319465.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_CINEMA_HD_1319465_27APR095900_27APR123000/images/LOGO/ZeeCinemaHD_Bangarraju_1319465.png" />
-  </programme>
   <programme start="20260427070000 +0000" stop="20260427092300 +0000" channel="ZeeCinema.in@HD">
     <title lang="en">Geeta Govinda</title>
     <desc lang="en">Starring: Deverakonda, Rashmika Mandanna. An innocent young lecturer is misunderstood as a pervert and despised by a woman who co-incidentally turns out to be the younger sister of his brother-in-law.</desc>
@@ -37272,12 +37213,6 @@
     <desc lang="en">Starring: Akshay Kumar,Karisma Kapoor. A reformed criminal, Babu finds purpose in raising a train crash survivor as his own. But when his past resurfaces, his newfound happiness hangs in the balance.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_CINEMA_HD_505416_30APR101100_30APR133600/images/LANDSCAPE_169_HD/ZeeCinemaHD_Jaanwar_505416.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_CINEMA_HD_505416_30APR101100_30APR133600/images/LOGO/ZeeCinemaHD_Jaanwar_505416.png" />
-  </programme>
-  <programme start="20260427035800 +0000" stop="20260427070800 +0000" channel="ZeeClassic.in@SD">
-    <title lang="en">Waris</title>
-    <desc lang="en">Frustrated by the king's behaviour, the queen leaves the kingdom with her son. Years later, when the king dies, the officials search for his son.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_CLASSIC_790157_27APR092800_27APR123800/images/LANDSCAPE_169_HD/ZeeClassic1_Waris_790157.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_CLASSIC_790157_27APR092800_27APR123800/images/LOGO/ZeeClassic1_Waris_790157.png" />
   </programme>
   <programme start="20260427070800 +0000" stop="20260427101500 +0000" channel="ZeeClassic.in@SD">
     <title lang="en">Anokha Bandhan</title>
@@ -38273,6 +38208,12 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_TV_HD_2012764_30APR120000_30APR130000/images/LANDSCAPE_169_HD/ZEETVHD_LakshmiNivas_2012764.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_TV_HD_2012764_30APR120000_30APR130000/images/LOGO/ZEETVHD_LakshmiNivas_2012764.png" />
   </programme>
+  <programme start="20260430073000 +0000" stop="20260430080000 +0000" channel="ZeeTV.in@HD">
+    <title lang="en">Saru</title>
+    <desc lang="en">A kabaddi champion from Rajasthan moves to Mumbai to chase her dreams. Along the way, she reunites with her family and fights hard to earn her mother the respect she truly deserves.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_TV_HD_1875385_30APR130000_30APR133000/images/LANDSCAPE_169_HD/ZEETVHD_Saru_1875385.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_TV_HD_1875385_30APR130000_30APR133000/images/LOGO/ZEETVHD_Saru_1875385.png" />
+  </programme>
   <programme start="20260427053000 +0000" stop="20260427073000 +0000" channel="Zoom.in@SD">
     <title lang="en">Pyaar Hits</title>
     <desc lang="en">Enjoy a delightful collection of iconic love songs, composed and performed by popular artists and musicians, bringing timeless romance and melodies to life in an unforgettable musical journey.</desc>
@@ -38502,5 +38443,10 @@
     <title lang="en">Zoombastic Top 10</title>
     <desc lang="en">Enjoy a non-stop mix of music! This compilation features the top ten songs from amazing artists. Listen to your favorite tunes and discover new hits in this awesome playlist.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZOOM_1545689_30APR120000_30APR130000/images/LANDSCAPE_169/1701881724000_ZOOM_ZoombasticTop10_1545689.jpg</image>
+  </programme>
+  <programme start="20260430073000 +0000" stop="20260430093000 +0000" channel="Zoom.in@SD">
+    <title lang="en">Request Wala Show</title>
+    <desc lang="en">Request Wala Show is a 60-minute music show on Zoom TV that features a compilation of popular songs by renowned artists.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZOOM_1470317_30APR130000_30APR150000/images/LANDSCAPE_169/1725282874000_ZOOM_RequestWalaShow_1470317.jpg</image>
   </programme>
 </tv>
