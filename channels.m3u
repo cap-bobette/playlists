@@ -87,7 +87,7 @@ http://115.42.65.142:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="PitaaraComedy" group-title="Movies",Pitaara Comedy
 https://jmp2.uk/stvp-IN1600001OG
 #https://amg01864-amg01864c1-samsung-in-3266.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01864-pitaaratvfast-pitaaracomedy-samsungin/playlist.m3u8?ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D
-#EXTINF:-1 tvg-id="Pitaara" group-title="Movies",Pitaara Movies
+#EXTINF:-1 tvg-id="Pitaara.in@SD" group-title="Movies",Pitaara Movies
 https://jmp2.uk/stvp-IN1700002C8
 #http://116.90.120.148:8000/play/a0ky/index.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabi" group-title="Movies",PTC Punjabi
