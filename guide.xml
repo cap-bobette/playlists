@@ -15,6 +15,11 @@
     <icon src="https://dtil.tmsimg.com/assets/s157600_ld_h15_aa.png?lock=720x540" />
     <url>https://airtelxstream.in</url>
   </channel>
+  <channel id="PTCMusic">
+    <display-name>PTC Music</display-name>
+    <icon src="https://www.ptcnetwork.com/wp-content/uploads/2021/09/music.jpg" />
+    <url>https://dishtv.in</url>
+  </channel>
   <channel id="AndpriveHD.in@SD">
     <display-name>&amp;Prive HD</display-name>
     <icon src="https://dtil.tmsimg.com/assets/GNLZZGG0022J69M.png?lock=720x540" />
@@ -204,6 +209,11 @@
     <display-name>Pitaara Comedy</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600001OG_20240612T015018SQUARE.png" />
     <url>https://i.mjh.nz</url>
+  </channel>
+  <channel id="PTCPunjabi">
+    <display-name>PTC Punjabi</display-name>
+    <icon src="https://www.ptcnetwork.com/wp-content/uploads/2021/09/ptcp.jpg" />
+    <url>https://dishtv.in</url>
   </channel>
   <channel id="Colors.in@HD">
     <display-name>Colors HD</display-name>
@@ -410,6 +420,26 @@
     <icon src="https://www.lyngsat.com/logo/tv/ll/lakshya-tv-in.png" />
     <url>https://tataplay.com</url>
   </channel>
+  <channel id="HumHD">
+    <display-name>Hum HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" />
+    <url>https://ontvtonight.com</url>
+  </channel>
+  <channel id="HUMSitaray">
+    <display-name>Hum Sitaray</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/e/e7/Hum_Sitaray_Logo.png" />
+    <url>https://ontvtonight.com</url>
+  </channel>
+  <channel id="GeoEntertainment">
+    <display-name>GEO Entertainment</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/d/d4/Geo_Entertainment.png" />
+    <url>https://ontvtonight.com</url>
+  </channel>
+  <channel id="Express">
+    <display-name>Express Entertainment</display-name>
+    <icon src="https://www.expressentertainment.tv/wp-content/uploads/2024/05/cropped-logo-HD.png" />
+    <url>https://ontvtonight.com</url>
+  </channel>
   <channel id="GeoKahani">
     <display-name>GeoKahani</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/d/d8/Geo_Kahani.png" />
@@ -430,11 +460,6 @@
     <icon src="" />
     <url>https://tv24.co.uk</url>
   </channel>
-  <channel id="PTCPunjabi">
-    <display-name>PTCPunjabi</display-name>
-    <icon src="https://www.ptcnetwork.com/wp-content/uploads/2021/09/ptcp.jpg" />
-    <url>https://tv24.co.uk</url>
-  </channel>
   <channel id="8XM">
     <display-name>8XM</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png" />
@@ -448,11 +473,6 @@
   <channel id="JooMusic">
     <display-name>JooMusic</display-name>
     <icon src="https://www.joomusic.info/assets/images/logo.png" />
-    <url>https://tv24.co.uk</url>
-  </channel>
-  <channel id="PTCMusic">
-    <display-name>PTCMusic</display-name>
-    <icon src="https://www.ptcnetwork.com/wp-content/uploads/2021/09/music.jpg" />
     <url>https://tv24.co.uk</url>
   </channel>
   <channel id="ZoomGlobal">
@@ -610,34 +630,14 @@
     <icon src="https://discoverpakistan.tv/assets/dp-logo-DEj6gG6U.png" />
     <url>https://tv24.co.uk</url>
   </channel>
-  <channel id="Express">
-    <display-name>Express</display-name>
-    <icon src="https://www.expressentertainment.tv/wp-content/uploads/2024/05/cropped-logo-HD.png" />
-    <url>https://tv24.co.uk</url>
-  </channel>
-  <channel id="GeoEntertainment">
-    <display-name>Geo Entertainment</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/d/d4/Geo_Entertainment.png" />
-    <url>https://tv24.co.uk</url>
-  </channel>
   <channel id="GreenEnt">
     <display-name>GreenEnt</display-name>
     <icon src="https://greenentertainment.tv/_next/static/media/GreenLogo.7e0f62ea.svg" />
     <url>https://tv24.co.uk</url>
   </channel>
-  <channel id="HumHD">
-    <display-name>HumHD</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" />
-    <url>https://tv24.co.uk</url>
-  </channel>
   <channel id="HumMasala">
     <display-name>HumMasala</display-name>
     <icon src="https://humenglish341f88e60e.blob.core.windows.net/humenglish/masala_tv/uploads/2019/12/masala-logo.png" />
-    <url>https://tv24.co.uk</url>
-  </channel>
-  <channel id="HUMSitaray">
-    <display-name>HUMSitaray</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/e/e7/Hum_Sitaray_Logo.png" />
     <url>https://tv24.co.uk</url>
   </channel>
   <channel id="PTVNational">
@@ -1693,6 +1693,12 @@
     <desc lang="en">It is a compilation of popular and romantic songs for all music lovers.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1297245_30APR130000_30APR133000/images/LANDSCAPE_169_HD/9XM_9XMBazillionViews_1297245.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1297245_30APR130000_30APR133000/images/LOGO/9XM_9XMBazillionViews_1297245.png" />
+  </programme>
+  <programme start="20260430080000 +0000" stop="20260430083000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM Bazillion Views</title>
+    <desc lang="en">It is a compilation of popular and romantic songs for all music lovers.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1297245_30APR133000_30APR140000/images/LANDSCAPE_169_HD/9XM_9XMBazillionViews_1297245.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_9XM_1297245_30APR133000_30APR140000/images/LOGO/9XM_9XMBazillionViews_1297245.png" />
   </programme>
   <programme start="20260427033000 +0000" stop="20260427040000 +0000" channel="ABPASMITA">
     <title lang="en">Asmita News</title>
@@ -3157,11 +3163,6 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SYMANDXPLOR_HD_811250_30APR120500_30APR143300/images/LANDSCAPE_169_HD/xplorHD_Mom_811250.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SYMANDXPLOR_HD_811250_30APR120500_30APR143300/images/LOGO/xplorHD_Mom_811250.png" />
   </programme>
-  <programme start="20260427051600 +0000" stop="20260427075900 +0000" channel="AnmolCinema2.in@SD">
-    <title lang="en">Rocket Gang</title>
-    <desc lang="en">Rocket Gang is a 2022 Indian Hindi-language musical supernatural comedy film directed by Bosco Martis. Produced by Zee Studios, it stars Aditya Seal and Nikita Dutta.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_ANMOL_CINEMA_2_1648840_27APR104600_27APR132900/images/LANDSCAPE_169/1714850260000_ZeeAnmolCinema2_RocketGang_1648840.jpg</image>
-  </programme>
   <programme start="20260427075900 +0000" stop="20260427102500 +0000" channel="AnmolCinema2.in@SD">
     <title lang="en">Entertainment</title>
     <desc lang="en">Akhil, a struggling underdog, discovers his wealthy father's death but finds a surprising twist in inheritance.</desc>
@@ -3470,6 +3471,12 @@
     <desc lang="en">Manorama and Ajay fall in love with each other despite the differences in their class and upbringing. However, her malicious uncles refuse to accept their relationship and try to get rid of Ajay.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_ANMOL_CINEMA_794361_30APR103900_30APR131100/images/LANDSCAPE_169_HD/ZeeAnmolCinema_Ajay_794361.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_ANMOL_CINEMA_794361_30APR103900_30APR131100/images/LOGO/ZeeAnmolCinema_Ajay_794361.png" />
+  </programme>
+  <programme start="20260430074100 +0000" stop="20260430102600 +0000" channel="AnmolCinema.in@SD">
+    <title lang="en">Koyla</title>
+    <desc lang="en">Shah Rukh Khan plays a mute servant betrayed by his love, left for dead, who returns to seek revenge on those who wronged him, leading to a journey filled with pain and retribution.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_ANMOL_CINEMA_988545_30APR131100_30APR155600/images/LANDSCAPE_169_HD/AnmolCinema_Koyla_988545.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_ANMOL_CINEMA_988545_30APR131100_30APR155600/images/LOGO/AnmolCinema_Koyla_988545.png" />
   </programme>
   <programme start="20260426190200 +0000" stop="20260426213800 +0000" channel="B4UKadak.in@SD">
     <title lang="en">Market Raja MBBS</title>
@@ -4604,323 +4611,6 @@
     <image>https://dtil.tmsimg.com/assets/p809737_b_h8_af.jpg?lock=1280x720</image>
     <icon src="https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660" />
   </programme>
-  <programme start="20260426183000 +0000" stop="20260426203000 +0000" channel="B4UMusic">
-    <title lang="en">Bajao</title>
-    <title lang="hi">बाजाओ</title>
-    <title lang="ta">பஜாவோ</title>
-    <title lang="te">బజావో</title>
-    <title lang="mr">बजाओ</title>
-    <desc lang="en">Tune in to Bajao to watch what's new and what's cool. Bringing you some of the latest, hottest and exclusive tracks every day.</desc>
-    <desc lang="hi">दर्शकों के मनोरंजन के लिए विभिन्न प्रसिद्ध कलाकारों द्वारा रचित कुछ नवीनतम बॉलीवुड गीतों का संकलन प्रस्तुत किया जाता है।</desc>
-    <desc lang="te">వివిధ ప్రసిద్ధ కళాకారులచే స్వరపరచబడిన కొన్ని తాజా బాలీవుడ్ పాటలతో ప్రేక్షకులను అలరించడానికి త్వరితగతిన ప్రసారం చేస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">Music</category>
-    <category lang="hi">संगीत</category>
-    <category lang="ta">இசை</category>
-    <category lang="te">సంగీతం</category>
-    <category lang="mr">संगीत</category>
-    <image>https://dtil.tmsimg.com/assets/p209190_b_h10_aa.jpg?lock=1280x720</image>
-    <icon src="https://dtil.tmsimg.com/assets/p209190_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme start="20260426203000 +0000" stop="20260426233000 +0000" channel="B4UMusic">
-    <title lang="en">Bajao</title>
-    <title lang="hi">बाजाओ</title>
-    <title lang="ta">பஜாவோ</title>
-    <title lang="te">బజావో</title>
-    <title lang="mr">बजाओ</title>
-    <desc lang="en">Tune in to Bajao to watch what's new and what's cool. Bringing you some of the latest, hottest and exclusive tracks every day.</desc>
-    <desc lang="hi">दर्शकों के मनोरंजन के लिए विभिन्न प्रसिद्ध कलाकारों द्वारा रचित कुछ नवीनतम बॉलीवुड गीतों का संकलन प्रस्तुत किया जाता है।</desc>
-    <desc lang="te">వివిధ ప్రసిద్ధ కళాకారులచే స్వరపరచబడిన కొన్ని తాజా బాలీవుడ్ పాటలతో ప్రేక్షకులను అలరించడానికి త్వరితగతిన ప్రసారం చేస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">Music</category>
-    <category lang="hi">संगीत</category>
-    <category lang="ta">இசை</category>
-    <category lang="te">సంగీతం</category>
-    <category lang="mr">संगीत</category>
-    <image>https://dtil.tmsimg.com/assets/p209190_b_h10_aa.jpg?lock=1280x720</image>
-    <icon src="https://dtil.tmsimg.com/assets/p209190_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme start="20260426233000 +0000" stop="20260427013000 +0000" channel="B4UMusic">
-    <title lang="en">Aawaaz De Kahan Hai</title>
-    <title lang="hi">आवाज़ दे कहाँ है</title>
-    <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
-    <desc lang="hi">विभिन्न कलाकारों द्वारा गाए गए बॉलीवुड फिल्मों के कुछ सबसे लोकप्रिय गीतों का व्यापक संकलन लगातार प्रस्तुत किया जाता है।</desc>
-    <date>20000101</date>
-    <category lang="en">Music</category>
-    <category lang="hi">संगीत</category>
-    <category lang="ta">இசை</category>
-    <category lang="te">సంగీతం</category>
-    <category lang="mr">संगीत</category>
-    <image>https://dtil.tmsimg.com/assets/p8219596_b_h10_ab.jpg?lock=1280x720</image>
-    <icon src="https://dtil.tmsimg.com/assets/p8219596_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme start="20260427013000 +0000" stop="20260427023000 +0000" channel="B4UMusic">
-    <title lang="en">Morning Masala</title>
-    <desc lang="en">This is Music - Music Category</desc>
-    <date>20000101</date>
-    <category lang="en">Music</category>
-    <category lang="hi">संगीत</category>
-    <category lang="ta">இசை</category>
-    <category lang="te">సంగీతం</category>
-    <category lang="mr">संगीत</category>
-    <image>https://dtil.tmsimg.com/assets/p29776195_b_h10_ab.jpg?lock=1280x720</image>
-    <icon src="https://dtil.tmsimg.com/assets/p29776195_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme start="20260427023000 +0000" stop="20260427033000 +0000" channel="B4UMusic">
-    <title lang="en">Morning Masala</title>
-    <desc lang="en">This is Music - Music Category</desc>
-    <date>20000101</date>
-    <category lang="en">Music</category>
-    <category lang="hi">संगीत</category>
-    <category lang="ta">இசை</category>
-    <category lang="te">సంగీతం</category>
-    <category lang="mr">संगीत</category>
-    <image>https://dtil.tmsimg.com/assets/p29776195_b_h10_ab.jpg?lock=1280x720</image>
-    <icon src="https://dtil.tmsimg.com/assets/p29776195_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme start="20260427033000 +0000" stop="20260427043000 +0000" channel="B4UMusic">
-    <title lang="en">Morning Masala</title>
-    <desc lang="en">This is Music - Music Category</desc>
-    <date>20000101</date>
-    <category lang="en">Music</category>
-    <category lang="hi">संगीत</category>
-    <category lang="ta">இசை</category>
-    <category lang="te">సంగీతం</category>
-    <category lang="mr">संगीत</category>
-    <image>https://dtil.tmsimg.com/assets/p29776195_b_h10_ab.jpg?lock=1280x720</image>
-    <icon src="https://dtil.tmsimg.com/assets/p29776195_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme start="20260427043000 +0000" stop="20260427053000 +0000" channel="B4UMusic">
-    <title lang="en">Morning Masala</title>
-    <desc lang="en">This is Music - Music Category</desc>
-    <date>20000101</date>
-    <category lang="en">Music</category>
-    <category lang="hi">संगीत</category>
-    <category lang="ta">இசை</category>
-    <category lang="te">సంగీతం</category>
-    <category lang="mr">संगीत</category>
-    <image>https://dtil.tmsimg.com/assets/p29776195_b_h10_ab.jpg?lock=1280x720</image>
-    <icon src="https://dtil.tmsimg.com/assets/p29776195_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme start="20260427053000 +0000" stop="20260427063000 +0000" channel="B4UMusic">
-    <title lang="en">Morning Masala</title>
-    <desc lang="en">This is Music - Music Category</desc>
-    <date>20000101</date>
-    <category lang="en">Music</category>
-    <category lang="hi">संगीत</category>
-    <category lang="ta">இசை</category>
-    <category lang="te">సంగీతం</category>
-    <category lang="mr">संगीत</category>
-    <image>https://dtil.tmsimg.com/assets/p29776195_b_h10_ab.jpg?lock=1280x720</image>
-    <icon src="https://dtil.tmsimg.com/assets/p29776195_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme start="20260427063000 +0000" stop="20260427073000 +0000" channel="B4UMusic">
-    <title lang="en">Bajao</title>
-    <title lang="hi">बाजाओ</title>
-    <title lang="ta">பஜாவோ</title>
-    <title lang="te">బజావో</title>
-    <title lang="mr">बजाओ</title>
-    <desc lang="en">Tune in to Bajao to watch what's new and what's cool. Bringing you some of the latest, hottest and exclusive tracks every day.</desc>
-    <desc lang="hi">दर्शकों के मनोरंजन के लिए विभिन्न प्रसिद्ध कलाकारों द्वारा रचित कुछ नवीनतम बॉलीवुड गीतों का संकलन प्रस्तुत किया जाता है।</desc>
-    <desc lang="te">వివిధ ప్రసిద్ధ కళాకారులచే స్వరపరచబడిన కొన్ని తాజా బాలీవుడ్ పాటలతో ప్రేక్షకులను అలరించడానికి త్వరితగతిన ప్రసారం చేస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">Music</category>
-    <category lang="hi">संगीत</category>
-    <category lang="ta">இசை</category>
-    <category lang="te">సంగీతం</category>
-    <category lang="mr">संगीत</category>
-    <image>https://dtil.tmsimg.com/assets/p209190_b_h10_aa.jpg?lock=1280x720</image>
-    <icon src="https://dtil.tmsimg.com/assets/p209190_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme start="20260427073000 +0000" stop="20260427083000 +0000" channel="B4UMusic">
-    <title lang="en">Bajao</title>
-    <title lang="hi">बाजाओ</title>
-    <title lang="ta">பஜாவோ</title>
-    <title lang="te">బజావో</title>
-    <title lang="mr">बजाओ</title>
-    <desc lang="en">Tune in to Bajao to watch what's new and what's cool. Bringing you some of the latest, hottest and exclusive tracks every day.</desc>
-    <desc lang="hi">दर्शकों के मनोरंजन के लिए विभिन्न प्रसिद्ध कलाकारों द्वारा रचित कुछ नवीनतम बॉलीवुड गीतों का संकलन प्रस्तुत किया जाता है।</desc>
-    <desc lang="te">వివిధ ప్రసిద్ధ కళాకారులచే స్వరపరచబడిన కొన్ని తాజా బాలీవుడ్ పాటలతో ప్రేక్షకులను అలరించడానికి త్వరితగతిన ప్రసారం చేస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">Music</category>
-    <category lang="hi">संगीत</category>
-    <category lang="ta">இசை</category>
-    <category lang="te">సంగీతం</category>
-    <category lang="mr">संगीत</category>
-    <image>https://dtil.tmsimg.com/assets/p209190_b_h10_aa.jpg?lock=1280x720</image>
-    <icon src="https://dtil.tmsimg.com/assets/p209190_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme start="20260427083000 +0000" stop="20260427093000 +0000" channel="B4UMusic">
-    <title lang="en">SOLID HITS</title>
-    <title lang="hi">सॉलिड हिट्स</title>
-    <title lang="ta">சாலிட் ஹிட்ஸ்</title>
-    <title lang="te">సాలిడ్ హిట్స్</title>
-    <title lang="mr">सॉलिड हिट्स</title>
-    <desc lang="en">A comprehensive compilation of the most well-known songs from renowned artists across a variety of genres.</desc>
-    <desc lang="hi">यह कार्यक्रम, प्रसिद्ध गायकों द्वारा प्रस्तुत और संगीतबद्ध कुछ हिट् गीतों का एक व्यापक संकलन पेश करता है।</desc>
-    <desc lang="te">ప్రముఖ గాయకులు, సంగీతకారులు స్వరపరచి ఆలపించిన ప్రసిద్ధ బాలీవుడ్ చలన చిత్రాలలోని అత్యంత ప్రజాదరణ పొందిన పాటల ప్రసారం.</desc>
-    <desc lang="mr">प्रसिद्ध गायक, संगीतकार व कलाकारांचा समावेश असलेल्या, लोकप्रिय बॉलीवूड चित्रपटांमधील काही प्रसिद्ध गाण्यांचे संकलन ऐका.</desc>
-    <date>20000101</date>
-    <category lang="en">Music</category>
-    <category lang="hi">संगीत</category>
-    <category lang="ta">இசை</category>
-    <category lang="te">సంగీతం</category>
-    <category lang="mr">संगीत</category>
-    <image>https://dtil.tmsimg.com/assets/p7859053_b_h10_ad.jpg?lock=1280x720</image>
-    <icon src="https://dtil.tmsimg.com/assets/p7859053_b_h9_ac.jpg?lock=880x660" />
-  </programme>
-  <programme start="20260427093000 +0000" stop="20260427103000 +0000" channel="B4UMusic">
-    <title lang="en">SOLID HITS</title>
-    <title lang="hi">सॉलिड हिट्स</title>
-    <title lang="ta">சாலிட் ஹிட்ஸ்</title>
-    <title lang="te">సాలిడ్ హిట్స్</title>
-    <title lang="mr">सॉलिड हिट्स</title>
-    <desc lang="en">A comprehensive compilation of the most well-known songs from renowned artists across a variety of genres.</desc>
-    <desc lang="hi">यह कार्यक्रम, प्रसिद्ध गायकों द्वारा प्रस्तुत और संगीतबद्ध कुछ हिट् गीतों का एक व्यापक संकलन पेश करता है।</desc>
-    <desc lang="te">ప్రముఖ గాయకులు, సంగీతకారులు స్వరపరచి ఆలపించిన ప్రసిద్ధ బాలీవుడ్ చలన చిత్రాలలోని అత్యంత ప్రజాదరణ పొందిన పాటల ప్రసారం.</desc>
-    <desc lang="mr">प्रसिद्ध गायक, संगीतकार व कलाकारांचा समावेश असलेल्या, लोकप्रिय बॉलीवूड चित्रपटांमधील काही प्रसिद्ध गाण्यांचे संकलन ऐका.</desc>
-    <date>20000101</date>
-    <category lang="en">Music</category>
-    <category lang="hi">संगीत</category>
-    <category lang="ta">இசை</category>
-    <category lang="te">సంగీతం</category>
-    <category lang="mr">संगीत</category>
-    <image>https://dtil.tmsimg.com/assets/p7859053_b_h10_ad.jpg?lock=1280x720</image>
-    <icon src="https://dtil.tmsimg.com/assets/p7859053_b_h9_ac.jpg?lock=880x660" />
-  </programme>
-  <programme start="20260427103000 +0000" stop="20260427113000 +0000" channel="B4UMusic">
-    <title lang="en">BOOM BOX</title>
-    <title lang="hi">बूम बॉक्स</title>
-    <title lang="ta">பூம் பாக்ஸ்</title>
-    <title lang="te">బూమ్ బాక్స్</title>
-    <title lang="mr">बूम बॉक्स</title>
-    <desc lang="en">A comprehensive collection of the most popular Bollywood dance tracks and top club hits play back to back.</desc>
-    <desc lang="hi">विभिन्न कलाकारों द्वारा रचित पैर थिरकाने वाले प्रसिद्ध नृत्य गीतों का व्यापक संकलन प्रस्तुत किया जाता है।</desc>
-    <desc lang="te">వివిధ కళాకారులు స్వరపరిచిన, ఉత్సాహాన్ని కలిగించే అనేక ప్రసిద్ధ నృత్య గీతాల సమగ్ర సంకలనాన్ని ప్రసారం చేస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">Music</category>
-    <category lang="hi">संगीत</category>
-    <category lang="ta">இசை</category>
-    <category lang="te">సంగీతం</category>
-    <category lang="mr">संगीत</category>
-    <image>https://dtil.tmsimg.com/assets/p8233593_b_h8_ab.jpg?lock=1280x720</image>
-    <icon src="https://dtil.tmsimg.com/assets/p8233593_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme start="20260427113000 +0000" stop="20260427123000 +0000" channel="B4UMusic">
-    <title lang="en">BOOM BOX</title>
-    <title lang="hi">बूम बॉक्स</title>
-    <title lang="ta">பூம் பாக்ஸ்</title>
-    <title lang="te">బూమ్ బాక్స్</title>
-    <title lang="mr">बूम बॉक्स</title>
-    <desc lang="en">A comprehensive collection of the most popular Bollywood dance tracks and top club hits play back to back.</desc>
-    <desc lang="hi">विभिन्न कलाकारों द्वारा रचित पैर थिरकाने वाले प्रसिद्ध नृत्य गीतों का व्यापक संकलन प्रस्तुत किया जाता है।</desc>
-    <desc lang="te">వివిధ కళాకారులు స్వరపరిచిన, ఉత్సాహాన్ని కలిగించే అనేక ప్రసిద్ధ నృత్య గీతాల సమగ్ర సంకలనాన్ని ప్రసారం చేస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">Music</category>
-    <category lang="hi">संगीत</category>
-    <category lang="ta">இசை</category>
-    <category lang="te">సంగీతం</category>
-    <category lang="mr">संगीत</category>
-    <image>https://dtil.tmsimg.com/assets/p8233593_b_h8_ab.jpg?lock=1280x720</image>
-    <icon src="https://dtil.tmsimg.com/assets/p8233593_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme start="20260427123000 +0000" stop="20260427133000 +0000" channel="B4UMusic">
-    <title lang="en">BOOM BOX</title>
-    <title lang="hi">बूम बॉक्स</title>
-    <title lang="ta">பூம் பாக்ஸ்</title>
-    <title lang="te">బూమ్ బాక్స్</title>
-    <title lang="mr">बूम बॉक्स</title>
-    <desc lang="en">A comprehensive collection of the most popular Bollywood dance tracks and top club hits play back to back.</desc>
-    <desc lang="hi">विभिन्न कलाकारों द्वारा रचित पैर थिरकाने वाले प्रसिद्ध नृत्य गीतों का व्यापक संकलन प्रस्तुत किया जाता है।</desc>
-    <desc lang="te">వివిధ కళాకారులు స్వరపరిచిన, ఉత్సాహాన్ని కలిగించే అనేక ప్రసిద్ధ నృత్య గీతాల సమగ్ర సంకలనాన్ని ప్రసారం చేస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">Music</category>
-    <category lang="hi">संगीत</category>
-    <category lang="ta">இசை</category>
-    <category lang="te">సంగీతం</category>
-    <category lang="mr">संगीत</category>
-    <image>https://dtil.tmsimg.com/assets/p8233593_b_h8_ab.jpg?lock=1280x720</image>
-    <icon src="https://dtil.tmsimg.com/assets/p8233593_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme start="20260427133000 +0000" stop="20260427143000 +0000" channel="B4UMusic">
-    <title lang="en">BOOM BOX</title>
-    <title lang="hi">बूम बॉक्स</title>
-    <title lang="ta">பூம் பாக்ஸ்</title>
-    <title lang="te">బూమ్ బాక్స్</title>
-    <title lang="mr">बूम बॉक्स</title>
-    <desc lang="en">A comprehensive collection of the most popular Bollywood dance tracks and top club hits play back to back.</desc>
-    <desc lang="hi">विभिन्न कलाकारों द्वारा रचित पैर थिरकाने वाले प्रसिद्ध नृत्य गीतों का व्यापक संकलन प्रस्तुत किया जाता है।</desc>
-    <desc lang="te">వివిధ కళాకారులు స్వరపరిచిన, ఉత్సాహాన్ని కలిగించే అనేక ప్రసిద్ధ నృత్య గీతాల సమగ్ర సంకలనాన్ని ప్రసారం చేస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">Music</category>
-    <category lang="hi">संगीत</category>
-    <category lang="ta">இசை</category>
-    <category lang="te">సంగీతం</category>
-    <category lang="mr">संगीत</category>
-    <image>https://dtil.tmsimg.com/assets/p8233593_b_h8_ab.jpg?lock=1280x720</image>
-    <icon src="https://dtil.tmsimg.com/assets/p8233593_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme start="20260427143000 +0000" stop="20260427153000 +0000" channel="B4UMusic">
-    <title lang="en">SOLID HITS</title>
-    <title lang="hi">सॉलिड हिट्स</title>
-    <title lang="ta">சாலிட் ஹிட்ஸ்</title>
-    <title lang="te">సాలిడ్ హిట్స్</title>
-    <title lang="mr">सॉलिड हिट्स</title>
-    <desc lang="en">A comprehensive compilation of the most well-known songs from renowned artists across a variety of genres.</desc>
-    <desc lang="hi">यह कार्यक्रम, प्रसिद्ध गायकों द्वारा प्रस्तुत और संगीतबद्ध कुछ हिट् गीतों का एक व्यापक संकलन पेश करता है।</desc>
-    <desc lang="te">ప్రముఖ గాయకులు, సంగీతకారులు స్వరపరచి ఆలపించిన ప్రసిద్ధ బాలీవుడ్ చలన చిత్రాలలోని అత్యంత ప్రజాదరణ పొందిన పాటల ప్రసారం.</desc>
-    <desc lang="mr">प्रसिद्ध गायक, संगीतकार व कलाकारांचा समावेश असलेल्या, लोकप्रिय बॉलीवूड चित्रपटांमधील काही प्रसिद्ध गाण्यांचे संकलन ऐका.</desc>
-    <date>20000101</date>
-    <category lang="en">Music</category>
-    <category lang="hi">संगीत</category>
-    <category lang="ta">இசை</category>
-    <category lang="te">సంగీతం</category>
-    <category lang="mr">संगीत</category>
-    <image>https://dtil.tmsimg.com/assets/p7859053_b_h10_ad.jpg?lock=1280x720</image>
-    <icon src="https://dtil.tmsimg.com/assets/p7859053_b_h9_ac.jpg?lock=880x660" />
-  </programme>
-  <programme start="20260427153000 +0000" stop="20260427163000 +0000" channel="B4UMusic">
-    <title lang="en">Aawaaz De Kahan Hai</title>
-    <title lang="hi">आवाज़ दे कहाँ है</title>
-    <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
-    <desc lang="hi">विभिन्न कलाकारों द्वारा गाए गए बॉलीवुड फिल्मों के कुछ सबसे लोकप्रिय गीतों का व्यापक संकलन लगातार प्रस्तुत किया जाता है।</desc>
-    <date>20000101</date>
-    <category lang="en">Music</category>
-    <category lang="hi">संगीत</category>
-    <category lang="ta">இசை</category>
-    <category lang="te">సంగీతం</category>
-    <category lang="mr">संगीत</category>
-    <image>https://dtil.tmsimg.com/assets/p8219596_b_h10_ab.jpg?lock=1280x720</image>
-    <icon src="https://dtil.tmsimg.com/assets/p8219596_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme start="20260427163000 +0000" stop="20260427173000 +0000" channel="B4UMusic">
-    <title lang="en">Aawaaz De Kahan Hai</title>
-    <title lang="hi">आवाज़ दे कहाँ है</title>
-    <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
-    <desc lang="hi">विभिन्न कलाकारों द्वारा गाए गए बॉलीवुड फिल्मों के कुछ सबसे लोकप्रिय गीतों का व्यापक संकलन लगातार प्रस्तुत किया जाता है।</desc>
-    <date>20000101</date>
-    <category lang="en">Music</category>
-    <category lang="hi">संगीत</category>
-    <category lang="ta">இசை</category>
-    <category lang="te">సంగీతం</category>
-    <category lang="mr">संगीत</category>
-    <image>https://dtil.tmsimg.com/assets/p8219596_b_h10_ab.jpg?lock=1280x720</image>
-    <icon src="https://dtil.tmsimg.com/assets/p8219596_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme start="20260427173000 +0000" stop="20260427183000 +0000" channel="B4UMusic">
-    <title lang="en">Aawaaz De Kahan Hai</title>
-    <title lang="hi">आवाज़ दे कहाँ है</title>
-    <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
-    <desc lang="hi">विभिन्न कलाकारों द्वारा गाए गए बॉलीवुड फिल्मों के कुछ सबसे लोकप्रिय गीतों का व्यापक संकलन लगातार प्रस्तुत किया जाता है।</desc>
-    <date>20000101</date>
-    <category lang="en">Music</category>
-    <category lang="hi">संगीत</category>
-    <category lang="ta">இசை</category>
-    <category lang="te">సంగీతం</category>
-    <category lang="mr">संगीत</category>
-    <image>https://dtil.tmsimg.com/assets/p8219596_b_h10_ab.jpg?lock=1280x720</image>
-    <icon src="https://dtil.tmsimg.com/assets/p8219596_b_h9_ab.jpg?lock=880x660" />
-  </programme>
   <programme start="20260427183000 +0000" stop="20260427203000 +0000" channel="B4UMusic">
     <title lang="en">Bajao</title>
     <title lang="hi">बाजाओ</title>
@@ -5753,7 +5443,7 @@
   <programme start="20260427010000 +0000" stop="20260427013000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
     <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p0d2696d3db79d0abd7b45180e56bfef0?w=800</image>
+    <image>https://img.freeviewplay.tv/p8526600d4006981c080e99f6ceced699?w=800</image>
   </programme>
   <programme start="20260427013000 +0000" stop="20260427014500 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -5798,7 +5488,7 @@
   <programme start="20260427040000 +0000" stop="20260427043000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/p608eb6258389ec9c72e1a17779a2b824?w=800</image>
+    <image>https://img.freeviewplay.tv/p16e138ad07724365b5092611fef923de?w=800</image>
   </programme>
   <programme start="20260427043000 +0000" stop="20260427050000 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -6008,7 +5698,7 @@
   <programme start="20260428000000 +0000" stop="20260428003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/pa370796676fcefbc00f5d3a6e569c04f?w=800</image>
+    <image>https://img.freeviewplay.tv/pfd754b837360115cae9f9d6e8d5a71e7?w=800</image>
   </programme>
   <programme start="20260428003000 +0000" stop="20260428010000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
@@ -6063,7 +5753,7 @@
   <programme start="20260428040000 +0000" stop="20260428043000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/pfd754b837360115cae9f9d6e8d5a71e7?w=800</image>
+    <image>https://img.freeviewplay.tv/pa370796676fcefbc00f5d3a6e569c04f?w=800</image>
   </programme>
   <programme start="20260428043000 +0000" stop="20260428050000 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -6083,7 +5773,7 @@
   <programme start="20260428060000 +0000" stop="20260428063000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/pa370796676fcefbc00f5d3a6e569c04f?w=800</image>
+    <image>https://img.freeviewplay.tv/pfd754b837360115cae9f9d6e8d5a71e7?w=800</image>
   </programme>
   <programme start="20260428063000 +0000" stop="20260428070000 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -6108,12 +5798,12 @@
   <programme start="20260428083000 +0000" stop="20260428090000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/pfd754b837360115cae9f9d6e8d5a71e7?w=800</image>
+    <image>https://img.freeviewplay.tv/pa370796676fcefbc00f5d3a6e569c04f?w=800</image>
   </programme>
   <programme start="20260428090000 +0000" stop="20260428093000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/pfd754b837360115cae9f9d6e8d5a71e7?w=800</image>
+    <image>https://img.freeviewplay.tv/pa370796676fcefbc00f5d3a6e569c04f?w=800</image>
   </programme>
   <programme start="20260428093000 +0000" stop="20260428100000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -6248,7 +5938,7 @@
   <programme start="20260428230000 +0000" stop="20260428233000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <image>https://img.freeviewplay.tv/pa370796676fcefbc00f5d3a6e569c04f?w=800</image>
+    <image>https://img.freeviewplay.tv/pfd754b837360115cae9f9d6e8d5a71e7?w=800</image>
   </programme>
   <programme start="20260428233000 +0000" stop="20260429000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
@@ -6988,7 +6678,7 @@
   <programme start="20260428025500 +0000" stop="20260428043000 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm</desc>
-    <image>https://img.freeviewplay.tv/p47a92a6af1bfeb383bf9beeae843d970?w=800</image>
+    <image>https://img.freeviewplay.tv/pa2bd173369ea0efe6fd731e911367515?w=800</image>
   </programme>
   <programme start="20260428043000 +0000" stop="20260428175800 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
@@ -6998,7 +6688,7 @@
   <programme start="20260428175800 +0000" stop="20260428180000 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm</desc>
-    <image>https://img.freeviewplay.tv/p47a92a6af1bfeb383bf9beeae843d970?w=800</image>
+    <image>https://img.freeviewplay.tv/pa2bd173369ea0efe6fd731e911367515?w=800</image>
   </programme>
   <programme start="20260428180000 +0000" stop="20260428180500 +0000" channel="BBCThree.uk@HD">
     <title lang="en">The Catch Up</title>
@@ -7068,7 +6758,7 @@
   <programme start="20260429043000 +0000" stop="20260429175800 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm</desc>
-    <image>https://img.freeviewplay.tv/p47a92a6af1bfeb383bf9beeae843d970?w=800</image>
+    <image>https://img.freeviewplay.tv/pa2bd173369ea0efe6fd731e911367515?w=800</image>
   </programme>
   <programme start="20260429175800 +0000" stop="20260429180000 +0000" channel="BBCThree.uk@HD">
     <title lang="en">This is BBC Three</title>
@@ -7157,7 +6847,7 @@
   </programme>
   <programme start="20260427111500 +0000" stop="20260427120000 +0000" channel="BBCTwo.uk@HD">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Can the King’s state visit help the relationship between the UK and the US?</desc>
     <image>https://img.freeviewplay.tv/p6f90999e725d080bd5dd126d6029b3a1?w=800</image>
   </programme>
   <programme start="20260427120000 +0000" stop="20260427160000 +0000" channel="BBCTwo.uk@HD">
@@ -10547,12 +10237,6 @@
     <title lang="en">Market Muhurat</title>
     <desc lang="en">The host holds a discussion with financial experts on topics related to market trends while also providing in-depth insights into profitable investments.</desc>
   </programme>
-  <programme start="20260427061500 +0000" stop="20260427074500 +0000" channel="Colors.in@HD">
-    <title lang="en">Laughter Chefs Unlimited Entertainment S03</title>
-    <desc lang="en">Get ready for the hilarious return of India's favorite food and comedy show! Contestants impress a renowned Chef with their cooking skills and humor in season two.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_HD_1798906_27APR114500_27APR131500/images/LANDSCAPE_169_HD/COLORSHD_LaughterChefsUnlimitedEntertainmentS03_1798906.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_HD_1798906_27APR114500_27APR131500/images/LOGO/COLORSHD_LaughterChefsUnlimitedEntertainmentS03_1798906.png" />
-  </programme>
   <programme start="20260427074500 +0000" stop="20260427083000 +0000" channel="Colors.in@HD">
     <title lang="en">Chhoti Sardarni</title>
     <desc lang="en">Meher's life takes a turn when her mother's questionable decisions lead her into a challenging marriage, leaving her to navigate the complexities of love and family.</desc>
@@ -11102,11 +10786,11 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_HD_1798906_30APR114500_30APR131500/images/LANDSCAPE_169_HD/COLORSHD_LaughterChefsUnlimitedEntertainmentS03_1798906.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_HD_1798906_30APR114500_30APR131500/images/LOGO/COLORSHD_LaughterChefsUnlimitedEntertainmentS03_1798906.png" />
   </programme>
-  <programme start="20260427052800 +0000" stop="20260427075400 +0000" channel="ColorsCineplex.in@HD">
-    <title lang="en">Conjuring Kannappan</title>
-    <desc lang="en">After clumsily plucking feathers off a spooky dreamcatcher, a family finds itself in a nightmarish realm where injuries and death manifest in reality.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_HD_1876057_27APR105800_27APR132400/images/LANDSCAPE_169_HD/ColorsCineplexHD_ConjuringKannappan_1876057.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_HD_1876057_27APR105800_27APR132400/images/LOGO/ColorsCineplexHD_ConjuringKannappan_1876057.png" />
+  <programme start="20260430074500 +0000" stop="20260430083000 +0000" channel="Colors.in@HD">
+    <title lang="en">Chhoti Sardarni</title>
+    <desc lang="en">Meher's life takes a turn when her mother's questionable decisions lead her into a challenging marriage, leaving her to navigate the complexities of love and family.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_HD_793903_30APR131500_30APR140000/images/LANDSCAPE_169_HD/COLORSHD_ChhotiSardarni_793903.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_HD_793903_30APR131500_30APR140000/images/LOGO/COLORSHD_ChhotiSardarni_793903.png" />
   </programme>
   <programme start="20260427075400 +0000" stop="20260427101000 +0000" channel="ColorsCineplex.in@HD">
     <title lang="en">Maargan</title>
@@ -11287,6 +10971,12 @@
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_HD_438752_30APR112800_30APR132900/images/LANDSCAPE_169_HD/ColorsCineplexHD_Movie_438752.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_HD_438752_30APR112800_30APR132900/images/LOGO/ColorsCineplexHD_Movie_438752.png" />
+  </programme>
+  <programme start="20260430075900 +0000" stop="20260430101500 +0000" channel="ColorsCineplex.in@HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_HD_438752_30APR132900_30APR154500/images/LANDSCAPE_169_HD/ColorsCineplexHD_Movie_438752.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_HD_438752_30APR132900_30APR154500/images/LOGO/ColorsCineplexHD_Movie_438752.png" />
   </programme>
   <programme start="20260427064100 +0000" stop="20260427095300 +0000" channel="ColorsCineplexBollywood.in">
     <title lang="en">Damini</title>
@@ -11526,7 +11216,7 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_SUPERHITS_988690_28APR210000_29APR000000/images/LANDSCAPE_169_HD/ColorsCineplexSuperhits_Movie_988690.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_COLORS_CINEPLEX_SUPERHITS_988690_28APR210000_29APR000000/images/LOGO/ColorsCineplexSuperhits_Movie_988690.png" />
   </programme>
-  <programme start="20260429074000 +0000" stop="20260430074000 +0000" channel="ColorsCineplexSuperhits.in@SD">
+  <programme start="20260429080000 +0000" stop="20260430080000 +0000" channel="ColorsCineplexSuperhits.in@SD">
     <title lang="en">Colors Cineplex Superhits</title>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png" />
@@ -18728,7 +18418,7 @@
     </rating>
     <image>https://image.tmdb.org/t/p/original/9K3pqp1YZrc7eI0CKYW57KALjxB.jpg</image>
   </programme>
-  <programme start="20260427000000 +0000" stop="20260427054951 +0000" channel="HomesUnderHammer.us@UK">
+  <programme start="20260427000000 +0000" stop="20260427065851 +0000" channel="HomesUnderHammer.us@UK">
     <title lang="en">Homes Under Hammer</title>
     <sub-title lang="en">Homes Under Hammer</sub-title>
     <desc lang="en">no info available</desc>
@@ -18739,24 +18429,6 @@
       <value>no rating</value>
     </rating>
     <icon src="https://images.pluto.tv/channels/5c5c2e9d8002db3c3e0b1c72/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
-  <programme start="20260427054951 +0000" stop="20260427065851 +0000" channel="HomesUnderHammer.us@UK">
-    <title lang="en">Homes Under The Hammer: Episode 4</title>
-    <sub-title lang="en">Episode 4</sub-title>
-    <desc lang="en">Martin and Lucy visit a house with an interesting layout in Newcastle- under-Lyme, a property in south-east London and a house in Bradford in need of a total renovation.</desc>
-    <credits>
-      <actor>Martin Roberts</actor>
-      <actor>Lucy Alexander</actor>
-    </credits>
-    <date>20090101</date>
-    <category lang="en">Home &amp; Lifestyle</category>
-    <category lang="en">Home &amp; Lifestyle</category>
-    <episode-num system="xmltv_ns">1302.3.0/1</episode-num>
-    <episode-num system="onscreen">S1303E04</episode-num>
-    <rating>
-      <value>All</value>
-    </rating>
-    <icon src="https://images.pluto.tv/series/5c9610e1312eab347410e418/tile_1767133516520.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
   <programme start="20260427065851 +0000" stop="20260427080751 +0000" channel="HomesUnderHammer.us@UK">
     <title lang="en">Homes Under The Hammer: Episode 19</title>
@@ -19140,7 +18812,25 @@
     </rating>
     <icon src="https://images.pluto.tv/series/5c9610e1312eab347410e418/tile_1767133516520.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme start="20260428071955 +0000" stop="20260430233000 +0000" channel="HomesUnderHammer.us@UK">
+  <programme start="20260428071955 +0000" stop="20260428082955 +0000" channel="HomesUnderHammer.us@UK">
+    <title lang="en">Homes Under The Hammer: Episode 22</title>
+    <sub-title lang="en">Episode 22</sub-title>
+    <desc lang="en">Lucy and Martin visit a derelict chapel in Rastrick, West Yorkshire, a splendid Georgian semi in Derby city centre and a mid terrace investment opportunity near the Thames barrier in London.</desc>
+    <credits>
+      <actor>Lucy Alexander</actor>
+      <actor>Martin Roberts</actor>
+    </credits>
+    <date>20060101</date>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">4.21.0/1</episode-num>
+    <episode-num system="onscreen">S05E22</episode-num>
+    <rating>
+      <value>All</value>
+    </rating>
+    <icon src="https://images.pluto.tv/series/5c9610e1312eab347410e418/tile_1767133516520.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+  </programme>
+  <programme start="20260428082955 +0000" stop="20260501233000 +0000" channel="HomesUnderHammer.us@UK">
     <title lang="en">Homes Under Hammer</title>
     <sub-title lang="en">Homes Under Hammer</sub-title>
     <desc lang="en">no info available</desc>
@@ -21781,6 +21471,11 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_1329789_30APR111500_30APR131500/images/LANDSCAPE_169_HD/MOVIESNOWHD_MissionImpossibleIII_1329789.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_1329789_30APR111500_30APR131500/images/LOGO/MOVIESNOWHD_MissionImpossibleIII_1329789.png" />
   </programme>
+  <programme start="20260430074500 +0000" stop="20260430093500 +0000" channel="MoviesNow.in@HD">
+    <title lang="en">The Mummy: Tomb of the Dragon Emperor</title>
+    <desc lang="en">Alex accidentally resurrects a mummy while visiting China with a precious relic which is capable of resurrecting people from the dead.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_MOVIES_NOW_HD_520177_30APR131500_30APR150500/images/LANDSCAPE_169/1777076528000_MOVIESNOWHD_TheMummyTomboftheDragonEmperor_520177.jpg</image>
+  </programme>
   <programme start="20260427070500 +0000" stop="20260427090500 +0000" channel="MoviesNowPlus.in@SD">
     <title lang="en">Angels &amp; Demons</title>
     <desc lang="en">Harvard symbologist Robert Langdon works with a nuclear physicist to solve a murder and prevent a terrorist act against the Vatican during one of the significant events within the church.</desc>
@@ -23492,6 +23187,1667 @@
     <desc lang="en">Chah Te Movie</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2686003489_0_20260320T140419915Z_37_imageprocessorclient-tvplus-linear-796646965d-7jmkq.png" />
   </programme>
+  <programme start="20260426183000 +0000" stop="20260426193000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260426193000 +0000" stop="20260426203000 +0000" channel="PTCMusic">
+    <title lang="en">Beat Punjabi</title>
+    <title lang="hi">बीट पंजाबी</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs composed and performed by various artistes is played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p10578659_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p10578659_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260426203000 +0000" stop="20260426213000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260426213000 +0000" stop="20260426223000 +0000" channel="PTCMusic">
+    <title lang="en">Beat Punjabi</title>
+    <title lang="hi">बीट पंजाबी</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs composed and performed by various artistes is played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p10578659_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p10578659_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260426223000 +0000" stop="20260426233000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260426233000 +0000" stop="20260427003000 +0000" channel="PTCMusic">
+    <title lang="en">Beat Punjabi</title>
+    <title lang="hi">बीट पंजाबी</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs composed and performed by various artistes is played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p10578659_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p10578659_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427003000 +0000" stop="20260427013000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427013000 +0000" stop="20260427053000 +0000" channel="PTCMusic">
+    <title lang="en">TOP HITS Breakless Band</title>
+    <title lang="hi">टॉप हिट्स ब्रेकलेस बैंड</title>
+    <desc lang="en">A comprehensive compilation of the most beloved Punjabi songs that feature some of the biggest names in the entertainment industry are played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p21135823_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p21135823_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427053000 +0000" stop="20260427063000 +0000" channel="PTCMusic">
+    <title lang="en">Dhakad Beats</title>
+    <title lang="hi">धाकड़ बीट्स</title>
+    <desc lang="en">A comprehensive compilation of rhythmic songs performed by talented singers and musicians is played to entertain the listeners.</desc>
+    <desc lang="hi">प्रतिभाशाली श्रोताओं के मनोरंजन के लिए गायकों और संगीतकारों द्वारा गाए गए लयबद्ध गीतों का व्यापक संकलन पेश किया जाता है।</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p31294795_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p31294795_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427063000 +0000" stop="20260427073000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427073000 +0000" stop="20260427083000 +0000" channel="PTCMusic">
+    <title lang="en">Beat Punjabi</title>
+    <title lang="hi">बीट पंजाबी</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs composed and performed by various artistes is played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p10578659_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p10578659_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427083000 +0000" stop="20260427090000 +0000" channel="PTCMusic">
+    <title lang="en">Bang New</title>
+    <title lang="hi">बैंग न्यू</title>
+    <desc lang="en">A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p22686905_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686905_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427090000 +0000" stop="20260427100000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427100000 +0000" stop="20260427103000 +0000" channel="PTCMusic">
+    <title lang="en">Dhakad Beats</title>
+    <title lang="hi">धाकड़ बीट्स</title>
+    <desc lang="en">A comprehensive compilation of rhythmic songs performed by talented singers and musicians is played to entertain the listeners.</desc>
+    <desc lang="hi">प्रतिभाशाली श्रोताओं के मनोरंजन के लिए गायकों और संगीतकारों द्वारा गाए गए लयबद्ध गीतों का व्यापक संकलन पेश किया जाता है।</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p31294795_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p31294795_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427103000 +0000" stop="20260427113000 +0000" channel="PTCMusic">
+    <title lang="en">Beat Punjabi</title>
+    <title lang="hi">बीट पंजाबी</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs composed and performed by various artistes is played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p10578659_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p10578659_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427113000 +0000" stop="20260427133000 +0000" channel="PTCMusic">
+    <title lang="en">TOP HITS Breakless Band</title>
+    <title lang="hi">टॉप हिट्स ब्रेकलेस बैंड</title>
+    <desc lang="en">A comprehensive compilation of the most beloved Punjabi songs that feature some of the biggest names in the entertainment industry are played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p21135823_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p21135823_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427133000 +0000" stop="20260427143000 +0000" channel="PTCMusic">
+    <title lang="en">Dhakad Beats</title>
+    <title lang="hi">धाकड़ बीट्स</title>
+    <desc lang="en">A comprehensive compilation of rhythmic songs performed by talented singers and musicians is played to entertain the listeners.</desc>
+    <desc lang="hi">प्रतिभाशाली श्रोताओं के मनोरंजन के लिए गायकों और संगीतकारों द्वारा गाए गए लयबद्ध गीतों का व्यापक संकलन पेश किया जाता है।</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p31294795_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p31294795_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427143000 +0000" stop="20260427150000 +0000" channel="PTCMusic">
+    <title lang="en">Bang New</title>
+    <title lang="hi">बैंग न्यू</title>
+    <desc lang="en">A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p22686905_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686905_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427150000 +0000" stop="20260427153000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427153000 +0000" stop="20260427163000 +0000" channel="PTCMusic">
+    <title lang="en">Beat Punjabi</title>
+    <title lang="hi">बीट पंजाबी</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs composed and performed by various artistes is played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p10578659_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p10578659_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427163000 +0000" stop="20260427173000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427173000 +0000" stop="20260427183000 +0000" channel="PTCMusic">
+    <title lang="en">Beat Punjabi</title>
+    <title lang="hi">बीट पंजाबी</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs composed and performed by various artistes is played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p10578659_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p10578659_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427183000 +0000" stop="20260427193000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427193000 +0000" stop="20260427203000 +0000" channel="PTCMusic">
+    <title lang="en">Beat Punjabi</title>
+    <title lang="hi">बीट पंजाबी</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs composed and performed by various artistes is played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p10578659_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p10578659_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427203000 +0000" stop="20260427213000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427213000 +0000" stop="20260427223000 +0000" channel="PTCMusic">
+    <title lang="en">Beat Punjabi</title>
+    <title lang="hi">बीट पंजाबी</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs composed and performed by various artistes is played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p10578659_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p10578659_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427223000 +0000" stop="20260427233000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427233000 +0000" stop="20260428003000 +0000" channel="PTCMusic">
+    <title lang="en">Beat Punjabi</title>
+    <title lang="hi">बीट पंजाबी</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs composed and performed by various artistes is played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p10578659_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p10578659_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428003000 +0000" stop="20260428013000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428013000 +0000" stop="20260428053000 +0000" channel="PTCMusic">
+    <title lang="en">TOP HITS Breakless Band</title>
+    <title lang="hi">टॉप हिट्स ब्रेकलेस बैंड</title>
+    <desc lang="en">A comprehensive compilation of the most beloved Punjabi songs that feature some of the biggest names in the entertainment industry are played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p21135823_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p21135823_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428053000 +0000" stop="20260428063000 +0000" channel="PTCMusic">
+    <title lang="en">Dhakad Beats</title>
+    <title lang="hi">धाकड़ बीट्स</title>
+    <desc lang="en">A comprehensive compilation of rhythmic songs performed by talented singers and musicians is played to entertain the listeners.</desc>
+    <desc lang="hi">प्रतिभाशाली श्रोताओं के मनोरंजन के लिए गायकों और संगीतकारों द्वारा गाए गए लयबद्ध गीतों का व्यापक संकलन पेश किया जाता है।</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p31294795_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p31294795_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428063000 +0000" stop="20260428073000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428073000 +0000" stop="20260428083000 +0000" channel="PTCMusic">
+    <title lang="en">Beat Punjabi</title>
+    <title lang="hi">बीट पंजाबी</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs composed and performed by various artistes is played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p10578659_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p10578659_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428083000 +0000" stop="20260428090000 +0000" channel="PTCMusic">
+    <title lang="en">Bang New</title>
+    <title lang="hi">बैंग न्यू</title>
+    <desc lang="en">A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p22686905_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686905_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428090000 +0000" stop="20260428100000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428100000 +0000" stop="20260428103000 +0000" channel="PTCMusic">
+    <title lang="en">Dhakad Beats</title>
+    <title lang="hi">धाकड़ बीट्स</title>
+    <desc lang="en">A comprehensive compilation of rhythmic songs performed by talented singers and musicians is played to entertain the listeners.</desc>
+    <desc lang="hi">प्रतिभाशाली श्रोताओं के मनोरंजन के लिए गायकों और संगीतकारों द्वारा गाए गए लयबद्ध गीतों का व्यापक संकलन पेश किया जाता है।</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p31294795_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p31294795_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428103000 +0000" stop="20260428113000 +0000" channel="PTCMusic">
+    <title lang="en">Beat Punjabi</title>
+    <title lang="hi">बीट पंजाबी</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs composed and performed by various artistes is played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p10578659_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p10578659_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428113000 +0000" stop="20260428133000 +0000" channel="PTCMusic">
+    <title lang="en">TOP HITS Breakless Band</title>
+    <title lang="hi">टॉप हिट्स ब्रेकलेस बैंड</title>
+    <desc lang="en">A comprehensive compilation of the most beloved Punjabi songs that feature some of the biggest names in the entertainment industry are played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p21135823_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p21135823_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428133000 +0000" stop="20260428143000 +0000" channel="PTCMusic">
+    <title lang="en">Dhakad Beats</title>
+    <title lang="hi">धाकड़ बीट्स</title>
+    <desc lang="en">A comprehensive compilation of rhythmic songs performed by talented singers and musicians is played to entertain the listeners.</desc>
+    <desc lang="hi">प्रतिभाशाली श्रोताओं के मनोरंजन के लिए गायकों और संगीतकारों द्वारा गाए गए लयबद्ध गीतों का व्यापक संकलन पेश किया जाता है।</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p31294795_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p31294795_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428143000 +0000" stop="20260428150000 +0000" channel="PTCMusic">
+    <title lang="en">Bang New</title>
+    <title lang="hi">बैंग न्यू</title>
+    <desc lang="en">A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p22686905_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686905_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428150000 +0000" stop="20260428153000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428153000 +0000" stop="20260428163000 +0000" channel="PTCMusic">
+    <title lang="en">Beat Punjabi</title>
+    <title lang="hi">बीट पंजाबी</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs composed and performed by various artistes is played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p10578659_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p10578659_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428163000 +0000" stop="20260428173000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428173000 +0000" stop="20260428183000 +0000" channel="PTCMusic">
+    <title lang="en">Beat Punjabi</title>
+    <title lang="hi">बीट पंजाबी</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs composed and performed by various artistes is played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p10578659_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p10578659_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428183000 +0000" stop="20260428193000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428193000 +0000" stop="20260428203000 +0000" channel="PTCMusic">
+    <title lang="en">Beat Punjabi</title>
+    <title lang="hi">बीट पंजाबी</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs composed and performed by various artistes is played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p10578659_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p10578659_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428203000 +0000" stop="20260428213000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428213000 +0000" stop="20260428223000 +0000" channel="PTCMusic">
+    <title lang="en">Beat Punjabi</title>
+    <title lang="hi">बीट पंजाबी</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs composed and performed by various artistes is played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p10578659_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p10578659_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428223000 +0000" stop="20260428233000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428233000 +0000" stop="20260429003000 +0000" channel="PTCMusic">
+    <title lang="en">Beat Punjabi</title>
+    <title lang="hi">बीट पंजाबी</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs composed and performed by various artistes is played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p10578659_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p10578659_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429003000 +0000" stop="20260429013000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429013000 +0000" stop="20260429053000 +0000" channel="PTCMusic">
+    <title lang="en">TOP HITS Breakless Band</title>
+    <title lang="hi">टॉप हिट्स ब्रेकलेस बैंड</title>
+    <desc lang="en">A comprehensive compilation of the most beloved Punjabi songs that feature some of the biggest names in the entertainment industry are played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p21135823_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p21135823_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429053000 +0000" stop="20260429063000 +0000" channel="PTCMusic">
+    <title lang="en">Dhakad Beats</title>
+    <title lang="hi">धाकड़ बीट्स</title>
+    <desc lang="en">A comprehensive compilation of rhythmic songs performed by talented singers and musicians is played to entertain the listeners.</desc>
+    <desc lang="hi">प्रतिभाशाली श्रोताओं के मनोरंजन के लिए गायकों और संगीतकारों द्वारा गाए गए लयबद्ध गीतों का व्यापक संकलन पेश किया जाता है।</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p31294795_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p31294795_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429063000 +0000" stop="20260429073000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429073000 +0000" stop="20260429083000 +0000" channel="PTCMusic">
+    <title lang="en">Beat Punjabi</title>
+    <title lang="hi">बीट पंजाबी</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs composed and performed by various artistes is played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p10578659_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p10578659_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429083000 +0000" stop="20260429090000 +0000" channel="PTCMusic">
+    <title lang="en">Bang New</title>
+    <title lang="hi">बैंग न्यू</title>
+    <desc lang="en">A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p22686905_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686905_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429090000 +0000" stop="20260429100000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429100000 +0000" stop="20260429103000 +0000" channel="PTCMusic">
+    <title lang="en">Dhakad Beats</title>
+    <title lang="hi">धाकड़ बीट्स</title>
+    <desc lang="en">A comprehensive compilation of rhythmic songs performed by talented singers and musicians is played to entertain the listeners.</desc>
+    <desc lang="hi">प्रतिभाशाली श्रोताओं के मनोरंजन के लिए गायकों और संगीतकारों द्वारा गाए गए लयबद्ध गीतों का व्यापक संकलन पेश किया जाता है।</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p31294795_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p31294795_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429103000 +0000" stop="20260429113000 +0000" channel="PTCMusic">
+    <title lang="en">Beat Punjabi</title>
+    <title lang="hi">बीट पंजाबी</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs composed and performed by various artistes is played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p10578659_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p10578659_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429113000 +0000" stop="20260429133000 +0000" channel="PTCMusic">
+    <title lang="en">TOP HITS Breakless Band</title>
+    <title lang="hi">टॉप हिट्स ब्रेकलेस बैंड</title>
+    <desc lang="en">A comprehensive compilation of the most beloved Punjabi songs that feature some of the biggest names in the entertainment industry are played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p21135823_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p21135823_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429133000 +0000" stop="20260429143000 +0000" channel="PTCMusic">
+    <title lang="en">Dhakad Beats</title>
+    <title lang="hi">धाकड़ बीट्स</title>
+    <desc lang="en">A comprehensive compilation of rhythmic songs performed by talented singers and musicians is played to entertain the listeners.</desc>
+    <desc lang="hi">प्रतिभाशाली श्रोताओं के मनोरंजन के लिए गायकों और संगीतकारों द्वारा गाए गए लयबद्ध गीतों का व्यापक संकलन पेश किया जाता है।</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p31294795_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p31294795_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429143000 +0000" stop="20260429150000 +0000" channel="PTCMusic">
+    <title lang="en">Bang New</title>
+    <title lang="hi">बैंग न्यू</title>
+    <desc lang="en">A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p22686905_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686905_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429150000 +0000" stop="20260429153000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429153000 +0000" stop="20260429163000 +0000" channel="PTCMusic">
+    <title lang="en">Beat Punjabi</title>
+    <title lang="hi">बीट पंजाबी</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs composed and performed by various artistes is played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p10578659_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p10578659_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429163000 +0000" stop="20260429173000 +0000" channel="PTCMusic">
+    <title lang="en">Power Punj</title>
+    <title lang="hi">पावर पुंज</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs played by renowned artists, back to back for the viewers.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22686892_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22686892_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429173000 +0000" stop="20260429183000 +0000" channel="PTCMusic">
+    <title lang="en">Beat Punjabi</title>
+    <title lang="hi">बीट पंजाबी</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs composed and performed by various artistes is played back to back.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p10578659_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p10578659_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260426183000 +0000" stop="20260426190000 +0000" channel="PTCPunjabi">
+    <title lang="en">BOOM BOX</title>
+    <title lang="hi">बूम बॉक्स</title>
+    <title lang="ta">பூம் பாக்ஸ்</title>
+    <title lang="te">బూమ్ బాక్స్</title>
+    <title lang="mr">बूम बॉक्स</title>
+    <desc lang="en">A comprehensive collection of the most popular Bollywood dance tracks and top club hits play back to back.</desc>
+    <desc lang="hi">विभिन्न कलाकारों द्वारा रचित पैर थिरकाने वाले प्रसिद्ध नृत्य गीतों का व्यापक संकलन प्रस्तुत किया जाता है।</desc>
+    <desc lang="te">వివిధ కళాకారులు స్వరపరిచిన, ఉత్సాహాన్ని కలిగించే అనేక ప్రసిద్ధ నృత్య గీతాల సమగ్ర సంకలనాన్ని ప్రసారం చేస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p8233593_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p8233593_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260426190000 +0000" stop="20260426210000 +0000" channel="PTCPunjabi">
+    <title lang="en">Punjabi Beats</title>
+    <title lang="hi">पंजाबी बीट्स</title>
+    <title lang="mr">पंजाबी बीट्स</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular Punjabi songs composed by notable composers in the country.</desc>
+    <desc lang="mr">प्रसिद्ध संगीतकारांनी संगीतबद्ध केलेल्या सर्वात लोकप्रिय पंजाबी गाण्यांचे एक संकलन एका मागोमाग एक पहा.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p23686339_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p23686339_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260426210000 +0000" stop="20260426213000 +0000" channel="PTCPunjabi">
+    <title lang="en">Gurmat Gyan</title>
+    <title lang="hi">Gurmat Gyan</title>
+    <desc lang="en">Famous gurus provide insight and knowledge from their daily teachings to help improve people's lives in many different ways.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p7945998_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p7945998_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260426213000 +0000" stop="20260426214500 +0000" channel="PTCPunjabi">
+    <title lang="en">Simran/Song</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p27640836_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p27640836_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260426214500 +0000" stop="20260427030000 +0000" channel="PTCPunjabi">
+    <title lang="en">Gurbaani Live From Sri Darbar Sahib</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22920897_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22920897_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427030000 +0000" stop="20260427033000 +0000" channel="PTCPunjabi">
+    <title lang="en">Gurmat Gyan</title>
+    <title lang="hi">Gurmat Gyan</title>
+    <desc lang="en">Famous gurus provide insight and knowledge from their daily teachings to help improve people's lives in many different ways.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p7945998_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p7945998_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427033000 +0000" stop="20260427040000 +0000" channel="PTCPunjabi">
+    <title lang="en">Simran/Song</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p27640836_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p27640836_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427040000 +0000" stop="20260427053000 +0000" channel="PTCPunjabi">
+    <title lang="en">PTC Comedy Hours</title>
+    <desc lang="en">This is TV Show - Comedy Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p32489537_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p32489537_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427053000 +0000" stop="20260427063000 +0000" channel="PTCPunjabi">
+    <title lang="en">Reela Wale Geet</title>
+    <desc lang="en">This is Music - Music Category</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p31276181_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p31276181_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427063000 +0000" stop="20260427080000 +0000" channel="PTCPunjabi">
+    <title lang="en">Pakki Punjaban</title>
+    <desc lang="en">Punjabi women showcase their strength and cultural heritage through engaging challenges and tasks, presenting the authentic spirit of the nation.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p30345034_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p30345034_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427080000 +0000" stop="20260427083000 +0000" channel="PTCPunjabi">
+    <title lang="en">Wangaan</title>
+    <desc lang="en">Ravi, a young woman, has big dreams and wishes to get married to a well-behaved man. However, she still needs to face a lot of difficulties and challenges in her path.</desc>
+    <credits>
+      <actor>Biney Jaura</actor>
+      <actor>Kajal Sharma</actor>
+      <actor>Amardeep Kaur Syan</actor>
+      <actor>K Preet Kiran</actor>
+      <actor>Sudesh Winkle</actor>
+    </credits>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p23847893_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p23847893_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427083000 +0000" stop="20260427100000 +0000" channel="PTCPunjabi">
+    <title lang="en">Voice of Punjab</title>
+    <desc lang="en">Amateur singers from Punjab compete in a series of singing rounds to find the best vocalist in the state.</desc>
+    <credits>
+      <director>Lakshman Kumar</director>
+      <actor>Gurjit Singh</actor>
+      <actor>Sachin Ahuja</actor>
+      <actor>Kamal Khan</actor>
+      <actor>Malkit Singh</actor>
+    </credits>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p8315273_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p8315273_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427100000 +0000" stop="20260427113000 +0000" channel="PTCPunjabi">
+    <title lang="en">PTC Comedy Hours</title>
+    <desc lang="en">This is TV Show - Comedy Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p32489537_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p32489537_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427113000 +0000" stop="20260427123000 +0000" channel="PTCPunjabi">
+    <title lang="en">Chak De Hits</title>
+    <desc lang="en">This is Music - Music Category</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p11618047_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p11618047_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427123000 +0000" stop="20260427133000 +0000" channel="PTCPunjabi">
+    <title lang="en">Reela Wale Geet</title>
+    <desc lang="en">This is Music - Music Category</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p31276181_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p31276181_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427133000 +0000" stop="20260427140000 +0000" channel="PTCPunjabi">
+    <title lang="en">Wangaan</title>
+    <desc lang="en">Ravi, a young woman, has big dreams and wishes to get married to a well-behaved man. However, she still needs to face a lot of difficulties and challenges in her path.</desc>
+    <credits>
+      <actor>Biney Jaura</actor>
+      <actor>Kajal Sharma</actor>
+      <actor>Amardeep Kaur Syan</actor>
+      <actor>K Preet Kiran</actor>
+      <actor>Sudesh Winkle</actor>
+    </credits>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p23847893_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p23847893_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427140000 +0000" stop="20260427153000 +0000" channel="PTCPunjabi">
+    <title lang="en">PTC Comedy Hours</title>
+    <desc lang="en">This is TV Show - Comedy Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p32489537_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p32489537_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427153000 +0000" stop="20260427183000 +0000" channel="PTCPunjabi">
+    <title lang="en">Yaar Belly</title>
+    <title lang="hi">यार बेली</title>
+    <title lang="ta">யார் பெல்லி</title>
+    <title lang="te">యార్ బెల్లీ</title>
+    <desc lang="en">A young man and a woman belonging to different socio-economic backgrounds fall in love. However, they face numerous obstacles from their families.</desc>
+    <desc lang="hi">अलग-अलग सामाजिक-आर्थिक पृष्ठभूमि से ताल्लुक रखने वाले एक युवक और युवती को प्यार हो जाता है। हालाँकि, उन्हें अपने परिवारों की ओर से कई बाधाओं का सामना करना पड़ता है।</desc>
+    <desc lang="ta">காதலர்களான வெவ்வேறு சமூக பொருளாதார பின்னணியை சேர்ந்த இளைஞனும் பெண்ணும் தங்கள் குடும்பத்தால் பல தடைகளை சந்திக்கின்றனர்.</desc>
+    <desc lang="te">వివిధ సామాజిక-ఆర్థిక నేపథ్యాలకు చెందిన యువతి యువకుడు ప్రేమలోపడతారు.అయితే, వారు తమ కుటుంబాల నుండి అడ్డంకులు ఎదుర్కొంటారు.</desc>
+    <credits>
+      <director>Sukhjinder Shera</director>
+      <actor>Dev Kharoud</actor>
+      <actor>Sabby Suri</actor>
+      <actor>Rabbi Kandola</actor>
+      <actor>Karamjit Anmol</actor>
+      <actor>Gurpreet Bhangu</actor>
+      <actor>B.N. Sharma</actor>
+      <producer>Vinay Jindal</producer>
+    </credits>
+    <date>20180101</date>
+    <category lang="en">Film</category>
+    <category lang="hi">फ़िल्म</category>
+    <category lang="ta">??????????</category>
+    <category lang="te">సినిమా</category>
+    <category lang="mr">चित्रपट</category>
+    <image>https://dtil.tmsimg.com/assets/p19857899_v_h10_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p19857899_v_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427183000 +0000" stop="20260427190000 +0000" channel="PTCPunjabi">
+    <title lang="en">BOOM BOX</title>
+    <title lang="hi">बूम बॉक्स</title>
+    <title lang="ta">பூம் பாக்ஸ்</title>
+    <title lang="te">బూమ్ బాక్స్</title>
+    <title lang="mr">बूम बॉक्स</title>
+    <desc lang="en">A comprehensive collection of the most popular Bollywood dance tracks and top club hits play back to back.</desc>
+    <desc lang="hi">विभिन्न कलाकारों द्वारा रचित पैर थिरकाने वाले प्रसिद्ध नृत्य गीतों का व्यापक संकलन प्रस्तुत किया जाता है।</desc>
+    <desc lang="te">వివిధ కళాకారులు స్వరపరిచిన, ఉత్సాహాన్ని కలిగించే అనేక ప్రసిద్ధ నృత్య గీతాల సమగ్ర సంకలనాన్ని ప్రసారం చేస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p8233593_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p8233593_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427190000 +0000" stop="20260427210000 +0000" channel="PTCPunjabi">
+    <title lang="en">Punjabi Beats</title>
+    <title lang="hi">पंजाबी बीट्स</title>
+    <title lang="mr">पंजाबी बीट्स</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular Punjabi songs composed by notable composers in the country.</desc>
+    <desc lang="mr">प्रसिद्ध संगीतकारांनी संगीतबद्ध केलेल्या सर्वात लोकप्रिय पंजाबी गाण्यांचे एक संकलन एका मागोमाग एक पहा.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p23686339_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p23686339_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427210000 +0000" stop="20260427213000 +0000" channel="PTCPunjabi">
+    <title lang="en">Gurmat Gyan</title>
+    <title lang="hi">Gurmat Gyan</title>
+    <desc lang="en">Famous gurus provide insight and knowledge from their daily teachings to help improve people's lives in many different ways.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p7945998_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p7945998_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427213000 +0000" stop="20260427214500 +0000" channel="PTCPunjabi">
+    <title lang="en">Simran/Song</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p27640836_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p27640836_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260427214500 +0000" stop="20260428030000 +0000" channel="PTCPunjabi">
+    <title lang="en">Gurbaani Live From Sri Darbar Sahib</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22920897_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22920897_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428030000 +0000" stop="20260428033000 +0000" channel="PTCPunjabi">
+    <title lang="en">Gurmat Gyan</title>
+    <title lang="hi">Gurmat Gyan</title>
+    <desc lang="en">Famous gurus provide insight and knowledge from their daily teachings to help improve people's lives in many different ways.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p7945998_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p7945998_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428033000 +0000" stop="20260428040000 +0000" channel="PTCPunjabi">
+    <title lang="en">Simran/Song</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p27640836_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p27640836_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428040000 +0000" stop="20260428053000 +0000" channel="PTCPunjabi">
+    <title lang="en">PTC Comedy Hours</title>
+    <desc lang="en">This is TV Show - Comedy Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p32489537_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p32489537_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428053000 +0000" stop="20260428063000 +0000" channel="PTCPunjabi">
+    <title lang="en">Reela Wale Geet</title>
+    <desc lang="en">This is Music - Music Category</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p31276181_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p31276181_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428063000 +0000" stop="20260428080000 +0000" channel="PTCPunjabi">
+    <title lang="en">Pakki Punjaban</title>
+    <desc lang="en">Punjabi women showcase their strength and cultural heritage through engaging challenges and tasks, presenting the authentic spirit of the nation.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p30345034_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p30345034_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428080000 +0000" stop="20260428083000 +0000" channel="PTCPunjabi">
+    <title lang="en">Wangaan</title>
+    <desc lang="en">Ravi, a young woman, has big dreams and wishes to get married to a well-behaved man. However, she still needs to face a lot of difficulties and challenges in her path.</desc>
+    <credits>
+      <actor>Biney Jaura</actor>
+      <actor>Kajal Sharma</actor>
+      <actor>Amardeep Kaur Syan</actor>
+      <actor>K Preet Kiran</actor>
+      <actor>Sudesh Winkle</actor>
+    </credits>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p23847893_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p23847893_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428083000 +0000" stop="20260428100000 +0000" channel="PTCPunjabi">
+    <title lang="en">Voice of Punjab</title>
+    <desc lang="en">Amateur singers from Punjab compete in a series of singing rounds to find the best vocalist in the state.</desc>
+    <credits>
+      <director>Lakshman Kumar</director>
+      <actor>Gurjit Singh</actor>
+      <actor>Sachin Ahuja</actor>
+      <actor>Kamal Khan</actor>
+      <actor>Malkit Singh</actor>
+    </credits>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p8315273_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p8315273_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428100000 +0000" stop="20260428113000 +0000" channel="PTCPunjabi">
+    <title lang="en">PTC Comedy Hours</title>
+    <desc lang="en">This is TV Show - Comedy Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p32489537_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p32489537_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428113000 +0000" stop="20260428123000 +0000" channel="PTCPunjabi">
+    <title lang="en">Chak De Hits</title>
+    <desc lang="en">This is Music - Music Category</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p11618047_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p11618047_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428123000 +0000" stop="20260428133000 +0000" channel="PTCPunjabi">
+    <title lang="en">Reela Wale Geet</title>
+    <desc lang="en">This is Music - Music Category</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p31276181_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p31276181_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428133000 +0000" stop="20260428140000 +0000" channel="PTCPunjabi">
+    <title lang="en">Wangaan</title>
+    <desc lang="en">Ravi, a young woman, has big dreams and wishes to get married to a well-behaved man. However, she still needs to face a lot of difficulties and challenges in her path.</desc>
+    <credits>
+      <actor>Biney Jaura</actor>
+      <actor>Kajal Sharma</actor>
+      <actor>Amardeep Kaur Syan</actor>
+      <actor>K Preet Kiran</actor>
+      <actor>Sudesh Winkle</actor>
+    </credits>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p23847893_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p23847893_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428140000 +0000" stop="20260428153000 +0000" channel="PTCPunjabi">
+    <title lang="en">PTC Comedy Hours</title>
+    <desc lang="en">This is TV Show - Comedy Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p32489537_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p32489537_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428153000 +0000" stop="20260428183000 +0000" channel="PTCPunjabi">
+    <title lang="en">Aate di chidi</title>
+    <title lang="hi">आटे दी चिड़ी</title>
+    <title lang="ta">அட்டே தி சிடி</title>
+    <title lang="te">ఆటే ది చిడి</title>
+    <title lang="mr">आटे दी चिडी</title>
+    <desc lang="en">An expatriate Punjabi family living in Canada make the decision to return to India after years of being away from their homeland.</desc>
+    <desc lang="hi">कनाडा में रहने वाला एक पंजाबी परिवार, भारत लौटने का फैसला करता है, जिससे घर के बुजुर्ग सदस्य खुश होते हैं। हालांकि, नई और पुरानी पीढ़ियों की अलग-अलग सोच के कारण मुश्किलें बढ़ जाती हैं।</desc>
+    <desc lang="te">కెనడాలో నివసిస్తున్న పంజాబీ కుటుంబం భారతదేశానికి తిరిగిరావాలనుకుంటుంది,అది వారి కుటుంబపెద్దలను సంతోషానికి గురిచేస్తుంది.</desc>
+    <desc lang="mr">एका कॅनडास्थित पंजाबी कुटुंबाच्या भारतात परतण्याच्या निर्णयावरील पिढ्यांच्या मतमतांतरांमुळे गोंधळ निर्माण होतो.</desc>
+    <credits>
+      <director>Harry Bhatti</director>
+      <actor>Karamjit Anmol</actor>
+      <actor>Neeru Bajwa</actor>
+      <actor>Gurpreet Ghuggi</actor>
+      <actor>Amrit Maan</actor>
+      <actor>Nirmal Rishi</actor>
+      <actor>Harby Sangha</actor>
+      <actor>Sardar Sohi</actor>
+      <actor>Raghveer Boli</actor>
+    </credits>
+    <date>20180101</date>
+    <category lang="en">Film</category>
+    <category lang="hi">फ़िल्म</category>
+    <category lang="ta">??????????</category>
+    <category lang="te">సినిమా</category>
+    <category lang="mr">चित्रपट</category>
+    <image>https://dtil.tmsimg.com/assets/p16124776_v_h10_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p16124776_v_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428183000 +0000" stop="20260428190000 +0000" channel="PTCPunjabi">
+    <title lang="en">BOOM BOX</title>
+    <title lang="hi">बूम बॉक्स</title>
+    <title lang="ta">பூம் பாக்ஸ்</title>
+    <title lang="te">బూమ్ బాక్స్</title>
+    <title lang="mr">बूम बॉक्स</title>
+    <desc lang="en">A comprehensive collection of the most popular Bollywood dance tracks and top club hits play back to back.</desc>
+    <desc lang="hi">विभिन्न कलाकारों द्वारा रचित पैर थिरकाने वाले प्रसिद्ध नृत्य गीतों का व्यापक संकलन प्रस्तुत किया जाता है।</desc>
+    <desc lang="te">వివిధ కళాకారులు స్వరపరిచిన, ఉత్సాహాన్ని కలిగించే అనేక ప్రసిద్ధ నృత్య గీతాల సమగ్ర సంకలనాన్ని ప్రసారం చేస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p8233593_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p8233593_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428190000 +0000" stop="20260428210000 +0000" channel="PTCPunjabi">
+    <title lang="en">Punjabi Beats</title>
+    <title lang="hi">पंजाबी बीट्स</title>
+    <title lang="mr">पंजाबी बीट्स</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular Punjabi songs composed by notable composers in the country.</desc>
+    <desc lang="mr">प्रसिद्ध संगीतकारांनी संगीतबद्ध केलेल्या सर्वात लोकप्रिय पंजाबी गाण्यांचे एक संकलन एका मागोमाग एक पहा.</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p23686339_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p23686339_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428210000 +0000" stop="20260428213000 +0000" channel="PTCPunjabi">
+    <title lang="en">Gurmat Gyan</title>
+    <title lang="hi">Gurmat Gyan</title>
+    <desc lang="en">Famous gurus provide insight and knowledge from their daily teachings to help improve people's lives in many different ways.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p7945998_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p7945998_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428213000 +0000" stop="20260428214500 +0000" channel="PTCPunjabi">
+    <title lang="en">Simran/Song</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p27640836_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p27640836_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260428214500 +0000" stop="20260429030000 +0000" channel="PTCPunjabi">
+    <title lang="en">Gurbaani Live From Sri Darbar Sahib</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p22920897_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22920897_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429030000 +0000" stop="20260429033000 +0000" channel="PTCPunjabi">
+    <title lang="en">Gurmat Gyan</title>
+    <title lang="hi">Gurmat Gyan</title>
+    <desc lang="en">Famous gurus provide insight and knowledge from their daily teachings to help improve people's lives in many different ways.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p7945998_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p7945998_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429033000 +0000" stop="20260429040000 +0000" channel="PTCPunjabi">
+    <title lang="en">Simran/Song</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p27640836_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p27640836_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429040000 +0000" stop="20260429053000 +0000" channel="PTCPunjabi">
+    <title lang="en">PTC Comedy Hours</title>
+    <desc lang="en">This is TV Show - Comedy Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p32489537_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p32489537_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429053000 +0000" stop="20260429063000 +0000" channel="PTCPunjabi">
+    <title lang="en">Reela Wale Geet</title>
+    <desc lang="en">This is Music - Music Category</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p31276181_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p31276181_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429063000 +0000" stop="20260429080000 +0000" channel="PTCPunjabi">
+    <title lang="en">Pakki Punjaban</title>
+    <desc lang="en">Punjabi women showcase their strength and cultural heritage through engaging challenges and tasks, presenting the authentic spirit of the nation.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p30345034_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p30345034_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429080000 +0000" stop="20260429083000 +0000" channel="PTCPunjabi">
+    <title lang="en">Wangaan</title>
+    <desc lang="en">Ravi, a young woman, has big dreams and wishes to get married to a well-behaved man. However, she still needs to face a lot of difficulties and challenges in her path.</desc>
+    <credits>
+      <actor>Biney Jaura</actor>
+      <actor>Kajal Sharma</actor>
+      <actor>Amardeep Kaur Syan</actor>
+      <actor>K Preet Kiran</actor>
+      <actor>Sudesh Winkle</actor>
+    </credits>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p23847893_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p23847893_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429083000 +0000" stop="20260429100000 +0000" channel="PTCPunjabi">
+    <title lang="en">Voice of Punjab</title>
+    <desc lang="en">Amateur singers from Punjab compete in a series of singing rounds to find the best vocalist in the state.</desc>
+    <credits>
+      <director>Lakshman Kumar</director>
+      <actor>Gurjit Singh</actor>
+      <actor>Sachin Ahuja</actor>
+      <actor>Kamal Khan</actor>
+      <actor>Malkit Singh</actor>
+    </credits>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p8315273_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p8315273_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429100000 +0000" stop="20260429113000 +0000" channel="PTCPunjabi">
+    <title lang="en">PTC Comedy Hours</title>
+    <desc lang="en">This is TV Show - Comedy Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p32489537_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p32489537_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429113000 +0000" stop="20260429123000 +0000" channel="PTCPunjabi">
+    <title lang="en">Chak De Hits</title>
+    <desc lang="en">This is Music - Music Category</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p11618047_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p11618047_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429123000 +0000" stop="20260429133000 +0000" channel="PTCPunjabi">
+    <title lang="en">Reela Wale Geet</title>
+    <desc lang="en">This is Music - Music Category</desc>
+    <date>20000101</date>
+    <category lang="en">Music</category>
+    <category lang="hi">संगीत</category>
+    <category lang="ta">இசை</category>
+    <category lang="te">సంగీతం</category>
+    <category lang="mr">संगीत</category>
+    <image>https://dtil.tmsimg.com/assets/p31276181_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p31276181_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429133000 +0000" stop="20260429140000 +0000" channel="PTCPunjabi">
+    <title lang="en">Wangaan</title>
+    <desc lang="en">Ravi, a young woman, has big dreams and wishes to get married to a well-behaved man. However, she still needs to face a lot of difficulties and challenges in her path.</desc>
+    <credits>
+      <actor>Biney Jaura</actor>
+      <actor>Kajal Sharma</actor>
+      <actor>Amardeep Kaur Syan</actor>
+      <actor>K Preet Kiran</actor>
+      <actor>Sudesh Winkle</actor>
+    </credits>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p23847893_b_h10_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p23847893_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429140000 +0000" stop="20260429153000 +0000" channel="PTCPunjabi">
+    <title lang="en">PTC Comedy Hours</title>
+    <desc lang="en">This is TV Show - Comedy Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <image>https://dtil.tmsimg.com/assets/p32489537_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p32489537_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme start="20260429153000 +0000" stop="20260429183000 +0000" channel="PTCPunjabi">
+    <title lang="en">Ni Main Sass Kuttni</title>
+    <title lang="hi">नि मैं सस कुट्टनी</title>
+    <desc lang="en">Upset about her son's decision to marry against her will, a woman plots to make her daughter-in-law miserable. However, her plans backfire when her daughter-in-law retaliates.</desc>
+    <desc lang="hi">एक बेटा अपनी माँ की मर्जी के खिलाफ शादी करने का फैसला करता है, तब उसकी माँ अपनी बहु को परेशान करने की साजिश रचती है। हालाँकि उसकी योजना पलटवार करती है, जब बहू उससे बदला लेती है।</desc>
+    <credits>
+      <director>Parveen Kumar</director>
+      <actor>Mehtab Virk</actor>
+      <actor>Tanvi Nagi</actor>
+      <actor>Gurpreet Ghuggi</actor>
+      <actor>Karamjit Anmol</actor>
+      <actor>Nirmal Rishi</actor>
+      <actor>Anita Devgan</actor>
+      <actor>Akshita Shrma</actor>
+      <actor>Nisha Bano</actor>
+      <producer>Mohit Banwait</producer>
+      <producer>Sachin Gupta</producer>
+      <producer>Ankush Gupta</producer>
+    </credits>
+    <date>20220101</date>
+    <category lang="en">Film</category>
+    <category lang="hi">फ़िल्म</category>
+    <category lang="ta">??????????</category>
+    <category lang="te">సినిమా</category>
+    <category lang="mr">चित्रपट</category>
+    <image>https://dtil.tmsimg.com/assets/p21968369_v_h10_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p21968369_v_h9_aa.jpg?lock=880x660" />
+  </programme>
   <programme start="20260427032500 +0000" stop="20260427035500 +0000" channel="SandeshNews">
     <title lang="en">Bhakti Sandesh</title>
     <desc lang="en">The host sheds light on the history, architectural beauty and rituals related to various temples across the nation.</desc>
@@ -24817,12 +26173,6 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_MAX_HD_295700_30APR120000_30APR150000/images/LANDSCAPE_169_HD/MaxHD_Movie_295700.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_MAX_HD_295700_30APR120000_30APR150000/images/LOGO/MaxHD_Movie_295700.png" />
   </programme>
-  <programme start="20260427072200 +0000" stop="20260427074300 +0000" channel="SonyPal.in@SD">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah S01</title>
-    <desc lang="en">Gokuldham Society is full of quirky neighbours who laugh, fight, and come together through every challenge. A mix of comedy, emotion, and strong community spirit.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PAL_1665884_27APR125200_27APR131300/images/LANDSCAPE_169_HD/SONYPAL_TaarakMehtaKaOoltahChashmahS01_1665884.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PAL_1665884_27APR125200_27APR131300/images/LOGO/SONYPAL_TaarakMehtaKaOoltahChashmahS01_1665884.png" />
-  </programme>
   <programme start="20260427074300 +0000" stop="20260427081800 +0000" channel="SonyPal.in@SD">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah S01</title>
     <desc lang="en">Gokuldham Society is full of quirky neighbours who laugh, fight, and come together through every challenge. A mix of comedy, emotion, and strong community spirit.</desc>
@@ -25680,6 +27030,12 @@
     <desc lang="en">Gokuldham Society is full of quirky neighbours who laugh, fight, and come together through every challenge. A mix of comedy, emotion, and strong community spirit.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PAL_1665884_30APR125600_30APR131500/images/LANDSCAPE_169_HD/SONYPAL_TaarakMehtaKaOoltahChashmahS01_1665884.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PAL_1665884_30APR125600_30APR131500/images/LOGO/SONYPAL_TaarakMehtaKaOoltahChashmahS01_1665884.png" />
+  </programme>
+  <programme start="20260430074500 +0000" stop="20260430081200 +0000" channel="SonyPal.in@SD">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah S01</title>
+    <desc lang="en">Gokuldham Society is full of quirky neighbours who laugh, fight, and come together through every challenge. A mix of comedy, emotion, and strong community spirit.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PAL_1665884_30APR131500_30APR134200/images/LANDSCAPE_169_HD/SONYPAL_TaarakMehtaKaOoltahChashmahS01_1665884.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_PAL_1665884_30APR131500_30APR134200/images/LOGO/SONYPAL_TaarakMehtaKaOoltahChashmahS01_1665884.png" />
   </programme>
   <programme start="20260427063300 +0000" stop="20260427083000 +0000" channel="SonyPix.in@HD">
     <title lang="en">Bad Boys For Life</title>
@@ -26778,6 +28134,12 @@
     <desc lang="en">The story revolves around new cases come to the Aminabad Police Station and how smartly, bravely, and emotionally their female cops handle it.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SAB_HD_920857_30APR130000_30APR133000/images/LANDSCAPE_169_HD/SABTVHD_MaddamSir_920857.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SAB_HD_920857_30APR130000_30APR133000/images/LOGO/SABTVHD_MaddamSir_920857.png" />
+  </programme>
+  <programme start="20260430080000 +0000" stop="20260430083000 +0000" channel="SonySAB.in@HD">
+    <title lang="en">Pushpa Impossible</title>
+    <desc lang="en">Pushpa's transformative journey depicts an uneducated mother's rise to entrepreneurship and academic success. Her story is a powerful testament to resilience and unwavering hope.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SAB_HD_1302219_30APR133000_30APR140000/images/LANDSCAPE_169_HD/SABTVHD_PushpaImpossible_1302219.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SONY_SAB_HD_1302219_30APR133000_30APR140000/images/LOGO/SABTVHD_PushpaImpossible_1302219.png" />
   </programme>
   <programme start="20260427070000 +0000" stop="20260427100000 +0000" channel="SonySportsTen2.in@HD">
     <title lang="en">DP World Asia Cup 2025: Super 4 - Sri Lanka vs Bangladesh</title>
@@ -28957,12 +30319,6 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_HD_194879_30APR121400_30APR143700/images/LANDSCAPE_169_HD/STARGOLDHD_Movie_194879.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_HD_194879_30APR121400_30APR143700/images/LOGO/STARGOLDHD_Movie_194879.png" />
   </programme>
-  <programme start="20260427043000 +0000" stop="20260427075400 +0000" channel="StarGoldRomance.in@SD">
-    <title lang="en">Deewana</title>
-    <desc lang="en">Kajal remarries and faces husband's return.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_ROMANCE_1382766_27APR100000_27APR132400/images/LANDSCAPE_169_HD/StarGoldRomance_Deewana_1382766.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_ROMANCE_1382766_27APR100000_27APR132400/images/LOGO/StarGoldRomance_Deewana_1382766.png" />
-  </programme>
   <programme start="20260427075400 +0000" stop="20260427110300 +0000" channel="StarGoldRomance.in@SD">
     <title lang="en">Bandhan (1998)</title>
     <desc lang="en">Bandhan is a Bollywood dram where Raju tries to save his sister's life from a cheating husband Suraj</desc>
@@ -29286,6 +30642,11 @@
     <title lang="en">Movie</title>
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_SELECT_679090_30APR102600_30APR131300/images/LANDSCAPE_169/1719403739000_StarGoldSelect_Movie_679090.jpg</image>
+  </programme>
+  <programme start="20260430074300 +0000" stop="20260430094400 +0000" channel="StarGoldSelect.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_GOLD_SELECT_679090_30APR131300_30APR151400/images/LANDSCAPE_169/1719403739000_StarGoldSelect_Movie_679090.jpg</image>
   </programme>
   <programme start="20260427060800 +0000" stop="20260427080500 +0000" channel="StarGoldThrills.in@SD">
     <title lang="en">Toy Story 4</title>
@@ -29723,11 +31084,6 @@
     <desc lang="en">Bunny and fox unravel conspiracy, defy stereotypes.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_MOVIES_HD_456713_30APR121500_30APR140000/images/LANDSCAPE_169_HD/STARMOVIESHD_Zootopia_456713.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_MOVIES_HD_456713_30APR121500_30APR140000/images/LOGO/STARMOVIESHD_Zootopia_456713.png" />
-  </programme>
-  <programme start="20260427055400 +0000" stop="20260427075300 +0000" channel="StarMoviesSelect.in@HD">
-    <title lang="en">Pretty Woman</title>
-    <desc lang="en">Romcom with Julia Roberts and Richard Gere. A business trip leads to a chance encounter.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_MOVIES_SELECT_HD_547213_27APR112400_27APR132300/images/LANDSCAPE_169/1751199439000_StarMoviesSelectHD_PrettyWoman_547213.jpg</image>
   </programme>
   <programme start="20260427075300 +0000" stop="20260427095200 +0000" channel="StarMoviesSelect.in@HD">
     <title lang="en">Ralph Breaks The Internet (2018)</title>
@@ -30329,12 +31685,6 @@
     <desc lang="en">The story of a young married couple, Kartik and Naira trying to strike the perfect balance between their family values, personal beliefs and circumstances.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_PLUS_HD_10145_30APR113000_30APR143000/images/LANDSCAPE_169_HD/STARPLUSHD_YehRishtaKyaKehlataHai_10145.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_PLUS_HD_10145_30APR113000_30APR143000/images/LOGO/STARPLUSHD_YehRishtaKyaKehlataHai_10145.png" />
-  </programme>
-  <programme start="20260427073000 +0000" stop="20260427074500 +0000" channel="StarSports1.in@HD">
-    <title lang="en">TATA IPL 2026 - Game Plan</title>
-    <desc lang="en">TATA IPL 2026 Game Plan explores the strategic mindset and evolving tactics that shape how teams prepare for a high intensity IPL season</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2051914_27APR130000_27APR131500/images/LANDSCAPE_169_HD/StarSportsHD1_TATAIPL2026-GamePlan_2051914.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2051914_27APR130000_27APR131500/images/LOGO/StarSportsHD1_TATAIPL2026-GamePlan_2051914.png" />
   </programme>
   <programme start="20260427074500 +0000" stop="20260427080000 +0000" channel="StarSports1.in@HD">
     <title lang="en">TATA IPL 2026 HLs RCB v DC</title>
@@ -31289,11 +32639,16 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2051914_30APR130000_30APR131500/images/LANDSCAPE_169_HD/StarSportsHD1_TATAIPL2026-GamePlan_2051914.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2051914_30APR130000_30APR131500/images/LOGO/StarSportsHD1_TATAIPL2026-GamePlan_2051914.png" />
   </programme>
-  <programme start="20260427073000 +0000" stop="20260427074500 +0000" channel="StarSports1Hindi.in@HD">
-    <title lang="en">TATA IPL 2026 - Game Plan</title>
-    <desc lang="en">TATA IPL 2026 a?' Game Plan explores the strategic mindset and evolving tactics that shape how teams prepare for a high intensity IPL season</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2051912_27APR130000_27APR131500/images/LANDSCAPE_169_HD/STARSPORTS1HINDIHD_TATAIPL2026-GamePlan_2051912.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2051912_27APR130000_27APR131500/images/LOGO/STARSPORTS1HINDIHD_TATAIPL2026-GamePlan_2051912.png" />
+  <programme start="20260430074500 +0000" stop="20260430080000 +0000" channel="StarSports1.in@HD">
+    <title lang="en">TATA IPL 2026 HLs RCB v GT</title>
+    <desc lang="en">Watch the exciting TATA IPL 2026 highlight match between RCB and GT, as two top teams clash in a fast, thrilling cricket showdown for fans.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2069530_30APR131500_30APR133000/images/LANDSCAPE_169_HD/StarSportsHD1_TATAIPL2026HLsRCBvGT_2069530.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2069530_30APR131500_30APR133000/images/LOGO/StarSportsHD1_TATAIPL2026HLsRCBvGT_2069530.png" />
+  </programme>
+  <programme start="20260430080000 +0000" stop="20260430083000 +0000" channel="StarSports1.in@HD">
+    <title lang="en">TATA IPL 2026 HLs MI v SRH</title>
+    <desc lang="en">Watch the exciting Tata IPL 2026 highlights as MI faces SRH. See fast bowling, big hitting, dramatic catches, and game-changing moments in this thrilling cricket match.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_2069528_30APR133000_30APR140000/images/LANDSCAPE_169_HD/StarSportsHD1_TATAIPL2026HLsMIvSRH_2069528.jpg</image>
   </programme>
   <programme start="20260427074500 +0000" stop="20260427080000 +0000" channel="StarSports1Hindi.in@HD">
     <title lang="en">TATA IPL 2026 HLs RCB v DC</title>
@@ -32248,11 +33603,16 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2051912_30APR130000_30APR131500/images/LANDSCAPE_169_HD/STARSPORTS1HINDIHD_TATAIPL2026-GamePlan_2051912.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2051912_30APR130000_30APR131500/images/LOGO/STARSPORTS1HINDIHD_TATAIPL2026-GamePlan_2051912.png" />
   </programme>
-  <programme start="20260427073000 +0000" stop="20260427074500 +0000" channel="StarSports2Hindi.in@HD">
-    <title lang="en">TATA IPL 2026 HLs CSK v GT</title>
-    <desc lang="en">Watch IPL 2026 highlights featuring CSK vs GT. Experience the thrill with key moments, big hits, and game-changing plays that define the match for fans.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2070406_27APR130000_27APR131500/images/LANDSCAPE_169/1777060621000_StarSports2HindiHD_TATAIPL2026HLsCSKvGT_2070406.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2070406_27APR130000_27APR131500/images/LOGO/StarSports2HindiHD_TATAIPL2026HLsCSKvGT_2070406.png" />
+  <programme start="20260430074500 +0000" stop="20260430080000 +0000" channel="StarSports1Hindi.in@HD">
+    <title lang="en">TATA IPL 2026 HLs RCB v GT</title>
+    <desc lang="en">Watch the exciting TATA IPL 2026 highlight match between RCB and GT, as two top teams clash in a fast, thrilling cricket showdown for fans.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2069561_30APR131500_30APR133000/images/LANDSCAPE_169_HD/STARSPORTS1HINDIHD_TATAIPL2026HLsRCBvGT_2069561.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2069561_30APR131500_30APR133000/images/LOGO/STARSPORTS1HINDIHD_TATAIPL2026HLsRCBvGT_2069561.png" />
+  </programme>
+  <programme start="20260430080000 +0000" stop="20260430083000 +0000" channel="StarSports1Hindi.in@HD">
+    <title lang="en">TATA IPL 2026 HLs MI v SRH</title>
+    <desc lang="en">Watch the exciting Tata IPL 2026 highlights as MI faces SRH. See fast bowling, big hitting, dramatic catches, and game-changing moments in this thrilling cricket match.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_1_HD_HINDI_2069563_30APR133000_30APR140000/images/LANDSCAPE_169_HD/STARSPORTS1HINDIHD_TATAIPL2026HLsMIvSRH_2069563.jpg</image>
   </programme>
   <programme start="20260427074500 +0000" stop="20260427080000 +0000" channel="StarSports2Hindi.in@HD">
     <title lang="en">TATA IPL 2026 Superstars - Top Performan</title>
@@ -33321,6 +34681,18 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_1803230_30APR130000_30APR131500/images/LANDSCAPE_169_HD/StarSports2HindiHD_TATAIPL2024HighlightsMIvCSK_1803230.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_1803230_30APR130000_30APR131500/images/LOGO/StarSports2HindiHD_TATAIPL2024HighlightsMIvCSK_1803230.png" />
   </programme>
+  <programme start="20260430074500 +0000" stop="20260430080000 +0000" channel="StarSports2Hindi.in@HD">
+    <title lang="en">TATA IPL 2026 HLs GT v MI</title>
+    <desc lang="en">Watch IPL 2026 highlights featuring MI vs GT. Experience the thrill with key moments, big hits, and game-changing plays that define the match for fans.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2067793_30APR131500_30APR133000/images/LANDSCAPE_169_HD/StarSports2HindiHD_TATAIPL2026HLsGTvMI_2067793.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2067793_30APR131500_30APR133000/images/LOGO/StarSports2HindiHD_TATAIPL2026HLsGTvMI_2067793.png" />
+  </programme>
+  <programme start="20260430080000 +0000" stop="20260430083000 +0000" channel="StarSports2Hindi.in@HD">
+    <title lang="en">TATA IPL 2026 - Cricket Countdown</title>
+    <desc lang="en">TATA IPL 2026 a?' Cricket Countdown celebrates the tournament's most thrilling moments, revisiting iconic performances, turning points, and unforgettable highlights from past IPL seasons.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2048789_30APR133000_30APR140000/images/LANDSCAPE_169_HD/StarSports2HindiHD_TATAIPL2026-CricketCountdown_2048789.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_SPORTS18_SYMHYP_1_HD_2048789_30APR133000_30APR140000/images/LOGO/StarSports2HindiHD_TATAIPL2026-CricketCountdown_2048789.png" />
+  </programme>
   <programme start="20260427073000 +0000" stop="20260427080000 +0000" channel="StarSportsSelect1.in@HD">
     <title lang="en">PL Classic Match Liverpool v Man Utd</title>
     <desc lang="en">A trip down memory lane with highlights of some classics from the Premier League</desc>
@@ -34062,6 +35434,12 @@
     <desc lang="en">A trip down memory lane with highlights of some classics from the Premier League</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_1_HD_971233_30APR130000_30APR133000/images/LANDSCAPE_169/1760207265000_StarSportsSelectHD1_PLClassicLiverpoolvManUtd_971233.jpg</image>
   </programme>
+  <programme start="20260430080000 +0000" stop="20260430081500 +0000" channel="StarSportsSelect1.in@HD">
+    <title lang="en">TATA IPL 2026 - Game Plan</title>
+    <desc lang="en">TATA IPL 2026 a?' Game Plan explores the strategic mindset and evolving tactics that shape how teams prepare for a high intensity IPL season</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_1_HD_2053466_30APR133000_30APR134500/images/LANDSCAPE_169_HD/StarSportsSelectHD1_TATAIPL2026-GamePlan_2053466.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_1_HD_2053466_30APR133000_30APR134500/images/LOGO/StarSportsSelectHD1_TATAIPL2026-GamePlan_2053466.png" />
+  </programme>
   <programme start="20260427063000 +0000" stop="20260427113000 +0000" channel="StarSportsSelect2.in@HD">
     <title lang="en">BWF 2026</title>
     <desc lang="en">The 2026 BWF World Championships, the 30th edition of the event, will be held in New Delhi. This marks India's first time hosting the tournament since 2009.</desc>
@@ -34516,6 +35894,17 @@
     <desc lang="en">TATA IPL 2026 a?' Game Plan explores the strategic mindset and evolving tactics that shape how teams prepare for a high intensity IPL season</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_2_HD_2053471_30APR130000_30APR131500/images/LANDSCAPE_169_HD/StarSportsSelectHD2_TATAIPL2026-GamePlan_2053471.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_2_HD_2053471_30APR130000_30APR131500/images/LOGO/StarSportsSelectHD2_TATAIPL2026-GamePlan_2053471.png" />
+  </programme>
+  <programme start="20260430074500 +0000" stop="20260430080000 +0000" channel="StarSportsSelect2.in@HD">
+    <title lang="en">TATA IPL 2025 HLs RCB v PBKS</title>
+    <desc lang="en">TATA IPL 2025 HLs</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_2_HD_1858774_30APR131500_30APR133000/images/LANDSCAPE_169_HD/StarSportsSelectHD2_TATAIPL2025HLsRCBvPBKS_1858774.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_2_HD_1858774_30APR131500_30APR133000/images/LOGO/StarSportsSelectHD2_TATAIPL2025HLsRCBvPBKS_1858774.png" />
+  </programme>
+  <programme start="20260430080000 +0000" stop="20260430130000 +0000" channel="StarSportsSelect2.in@HD">
+    <title lang="en">BWF 2026</title>
+    <desc lang="en">The 2026 BWF World Championships, the 30th edition of the event, will be held in New Delhi. This marks India's first time hosting the tournament since 2009.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_STAR_SPORTS_SELECT_2_HD_2035859_30APR133000_30APR183000/images/LANDSCAPE_169/1771021133000_StarSportsSelectHD2_BWF2026_2035859.jpg</image>
   </programme>
   <programme start="20260427073000 +0000" stop="20260427083000 +0000" channel="StarUtsav.in@SD">
     <title lang="en">Ishq Wala Pyaar</title>
@@ -37324,12 +38713,6 @@
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_CLASSIC_775612_30APR130600_30APR160700/images/LANDSCAPE_169_HD/UTVMoviesInternational_Movie_202382.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_CLASSIC_775612_30APR130600_30APR160700/images/LOGO/UTVMoviesInternational_Movie_202382.png" />
   </programme>
-  <programme start="20260427073000 +0000" stop="20260427075800 +0000" channel="ZeeTV.in@HD">
-    <title lang="en">Saru</title>
-    <desc lang="en">A kabaddi champion from Rajasthan moves to Mumbai to chase her dreams. Along the way, she reunites with her family and fights hard to earn her mother the respect she truly deserves.</desc>
-    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_TV_HD_1875385_27APR130000_27APR132800/images/LANDSCAPE_169_HD/ZEETVHD_Saru_1875385.jpg</image>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_TV_HD_1875385_27APR130000_27APR132800/images/LOGO/ZEETVHD_Saru_1875385.png" />
-  </programme>
   <programme start="20260427075800 +0000" stop="20260427082100 +0000" channel="ZeeTV.in@HD">
     <title lang="en">Tumm Se Tumm Tak</title>
     <desc lang="en">Anu and Aryavardhan fall in love despite a big age gap. Facing family disapproval and challenges, they fight to show that real love knows no limits or rules.</desc>
@@ -38157,6 +39540,12 @@
     <desc lang="en">A kabaddi champion from Rajasthan moves to Mumbai to chase her dreams. Along the way, she reunites with her family and fights hard to earn her mother the respect she truly deserves.</desc>
     <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_TV_HD_1875385_30APR130000_30APR133000/images/LANDSCAPE_169_HD/ZEETVHD_Saru_1875385.jpg</image>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_TV_HD_1875385_30APR130000_30APR133000/images/LOGO/ZEETVHD_Saru_1875385.png" />
+  </programme>
+  <programme start="20260430080000 +0000" stop="20260430081500 +0000" channel="ZeeTV.in@HD">
+    <title lang="en">Tumm Se Tumm Tak</title>
+    <desc lang="en">Anu and Aryavardhan fall in love despite a big age gap. Facing family disapproval and challenges, they fight to show that real love knows no limits or rules.</desc>
+    <image>https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_TV_HD_1907329_30APR133000_30APR134500/images/LANDSCAPE_169_HD/ZEETVHD_TumSeTumTak_1907329.jpg</image>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/PROGRAM/LIVETV_PROGRAM_ZEE_TV_HD_1907329_30APR133000_30APR134500/images/LOGO/ZEETVHD_TumSeTumTak_1907329.png" />
   </programme>
   <programme start="20260427073000 +0000" stop="20260427093000 +0000" channel="Zoom.in@SD">
     <title lang="en">Request Wala Show</title>
