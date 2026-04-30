@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://cap-bobette.github.io/playlists/guide.xml" url-tvg="https://cap-bobette.github.io/playlists/guide.xml" 
+#EXTM3U x-tvg-url="https://cap-bobette.github.io/playlists/guide.xml,https://i.mjh.nz/SamsungTVPlus/in.xml" url-tvg="https://cap-bobette.github.io/playlists/guide.xml,https://i.mjh.nz/SamsungTVPlus/in.xml" 
 
 #EXTINF:-1 tvg-id="B4UKadak.in@SD" group-title="Movies",B4U Kadak
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
