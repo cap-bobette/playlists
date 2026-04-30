@@ -11,7 +11,8 @@ https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u
 #EXTINF:-1 tvg-id="Bollygold" group-title="Movies",Bollygold
 https://jmp2.uk/stvp-IN4000600Q
 #EXTINF:-1 channel-id="IN46000140Q" tvg-id="NHBollyFlix" tvg-chno="1316" tvg-name="NH BollyFlix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20251106T195128SQUARE.png" group-title="Movies",NH BollyFlix
-https://jmp2.uk/stvp-IN46000140Q
+https://d1bnb20pevkrom.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-8xs28buuqfw19/BollyFlix_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
+#https://jmp2.uk/stvp-IN46000140Q
 #EXTINF:-1 tvg-id="Andpictures.in@HD" group-title="Movies",& Picture HD
 http://202.70.146.135:8000/play/a06b/index.m3u8
 #http://116.90.120.148:8000/play/a0j4/index.m3u8
@@ -61,10 +62,12 @@ http://202.70.146.135:8000/play/a058/index.m3u8
 #http://116.90.120.148:8000/play/a0ic/index.m3u8 # (non samsung)
 #http://103.182.170.32:8888/play/a01o
 #EXTINF:-1 tvg-id="TheMovieClub.in@HD" group-title="Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260422T010212SQUARE.png",The Movie Club
-https://jmp2.uk/stvp-IN38000072R
+https://pb-dkdpz5so0aqqr.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dkdpz5so0aqqr/TMC_IN.m3u8?ads.ads_cdn=ak&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=ak&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=IN38000072R&ads.ssai_vendor=SSSLIVE&pb_type=pb-dkdpz5so0aqqr_akamai
+#https://jmp2.uk/stvp-IN38000072R
 #https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 #EXTINF:-1 tvg-id="TheMovieClub.in@Plus2" group-title="Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260422T010215SQUARE.png",The Movie Club +2
-https://jmp2.uk/stvp-IN40000100Y
+https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=IN40000100Y&ads.ssai_vendor=SSSLIVE&pb_type=pb-ytipwjqub3kf8_cloudfront
+#https://jmp2.uk/stvp-IN40000100Y
 #https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
 #EXTINF:-1 tvg-id="BollywoodClassic.ro@SD" group-title="Movies",Bollywood Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -92,7 +95,8 @@ http://115.42.65.142:8000/play/a04h/index.m3u8
 https://jmp2.uk/stvp-IN1600001OG
 #https://amg01864-amg01864c1-samsung-in-3266.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01864-pitaaratvfast-pitaaracomedy-samsungin/playlist.m3u8?ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D
 #EXTINF:-1 tvg-id="Pitaara" group-title="Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700002C8_20240612T015015SQUARE.png",Pitaara
-https://jmp2.uk/stvp-IN1700002C8
+https://dn4lo138obgkk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-mqgonz9cre1sc/playlist.m3u8?ads.ads_cdn=cf&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=IN1700002C8&ads.ssai_vendor=SSSLIVE&pb_type=pb-mqgonz9cre1sc_cloudfront
+#https://jmp2.uk/stvp-IN1700002C8
 #http://116.90.120.148:8000/play/a0ky/index.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabi" group-title="Movies",PTC Punjabi
 https://cdn-2.pishow.tv/live/1604/master.m3u8
