@@ -2,7 +2,7 @@ name: Update EPG Guide
 
 on:
   schedule:
-    - cron: '3 3 * * *'   # 3:03am UTC daily # '3 3,15 * * *' 3:03AM and 3:03PM
+    - cron: '3 */3 * * *'   # 3 3 * * * -> 3:03am UTC daily # '3 3,15 * * *' 3:03AM and 3:03PM
   workflow_dispatch:           # allows manual trigger from GitHub Actions tab
   push:
     paths:
