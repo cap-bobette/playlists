@@ -147,8 +147,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
 http://115.42.65.142:8000/play/a04u/index.m3u8
 #https://video.primexsports.com/pnn/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ARYNews" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg",ARY News
-http://115.42.65.142:8000/play/a01a/70043045.m3u8
-#http://115.42.65.142:8000/play/a01a/index.m3u8 #orig
+http://115.42.65.142:8000/play/a01a/index.m3u8
 #http://115.42.65.142:8000/play/a01a/59328666.m3u8 #m3u8
 #http://115.42.65.142:8000/play/a01a/70043045.m3u8 #hls
 #http://175.107.244.52:4456/play/a04y/index.m3u8
@@ -258,30 +257,28 @@ http://115.42.65.142:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="VenusEntertainment" group-title="Pakistani" tvg-logo="https://www.venustv.net/frontend/images/logo.png",Venus Entertainment
 http://115.42.65.142:8000/play/a03m/index.m3u8
 
-#EXTINF:-1 tvg-id="BBCFour.uk@HD" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png",BBC Four/CBeebies
-https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@LondonHD" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",BBC One South
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-id="BBCThree.uk@HD" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png",BBC Three/CBBC
-https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
-#EXTINF:-1 tvg-id="BBCTwo.uk@HD" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",BBC Two HD
-https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
-#EXTINF:-1 tvg-id="CBBC.uk@HD" group-title="UK" tvg-logo="https://tv.assets.pressassociation.io/c3eb99d0-f98e-5d68-985f-686eec8b78fe.png",CBBC HD
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-id="Channel4.uk@HD" group-title="UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png",Channel 4 UK HD
-https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
-#EXTINF:-1 tvg-id="Channel5.uk@HD" group-title="UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png",Channel 5 HD
-https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@LondonHD" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",BBC One London
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",BBC Two
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCThree.uk@HD" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png",BBC Three
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCFour.uk@HD" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png",BBC Four
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-id="HomesUnderHammer.us@UK" group-title="UK" tvg-logo="https://cdn.televisioncatchup.co.uk/images/programs/homes-under-the-hammer.jpg",Homes Under The Hammer
 https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV2.uk@SD" group-title="UK" tvg-logo="https://tv.assets.pressassociation.io/8e84f037-b928-5260-8580-c75193d77e1e.png",ITV2
-https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
-#EXTINF:-1 tvg-id="ITV3.uk@SD" group-title="UK" tvg-logo="https://tv.assets.pressassociation.io/2ff9a0e6-b2de-5814-9a25-98a7a8b7980e.png",ITV3
-https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
-#EXTINF:-1 tvg-id="ITV4.uk@SD" group-title="UK" tvg-logo="https://tv.assets.pressassociation.io/4280c34e-1a10-583a-aa33-84a355475ffd.png",ITV4
-https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
-#EXTINF:-1 tvg-id="More4.uk@SD" group-title="UK" tvg-logo="https://tv.assets.pressassociation.io/512ba83d-e5de-5de3-97df-22c1a30ca640.png",More4 HD
-https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
+##EXTINF:-1 tvg-id="Channel4.uk@HD" group-title="UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png",Channel 4
+#https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+##EXTINF:-1 tvg-id="Channel5.uk@HD" group-title="UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png",Channel 5
+#https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+##EXTINF:-1 tvg-id="ITV2.uk@SD" group-title="UK" tvg-logo="https://tv.assets.pressassociation.io/8e84f037-b928-5260-8580-c75193d77e1e.png",ITV2
+#https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+##EXTINF:-1 tvg-id="ITV3.uk@SD" group-title="UK" tvg-logo="https://tv.assets.pressassociation.io/2ff9a0e6-b2de-5814-9a25-98a7a8b7980e.png",ITV3
+#https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
+##EXTINF:-1 tvg-id="ITV4.uk@SD" group-title="UK" tvg-logo="https://tv.assets.pressassociation.io/4280c34e-1a10-583a-aa33-84a355475ffd.png",ITV4
+#https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
+##EXTINF:-1 tvg-id="More4.uk@SD" group-title="UK" tvg-logo="https://tv.assets.pressassociation.io/512ba83d-e5de-5de3-97df-22c1a30ca640.png",More4 HD
+#https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 
 #EXTINF:-1 tvg-id="ASports" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports HD
 http://115.42.65.142:8000/play/a01b/index.m3u8
@@ -330,8 +327,8 @@ http://ldniptv.com:8000/play/a0ib/index.m3u8
 #http://202.70.146.135:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="MoviesNowPlus.in@SD" group-title="English Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143548_ld_h15_aa.png?lock=720x540",Movies Now +
 http://ldniptv.com:8000/play/a0i4/index.m3u8
-#EXTINF:-1 tvg-id="Film4.uk@SD" group-title="English Movies" tvg-logo="https://tv.assets.pressassociation.io/98c0601e-24b4-56d4-b999-3d2b218fcdc8.png",Film4 HD
-https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+##EXTINF:-1 tvg-id="Film4.uk@SD" group-title="English Movies" tvg-logo="https://tv.assets.pressassociation.io/98c0601e-24b4-56d4-b999-3d2b218fcdc8.png",Film4 HD
+#https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 
 #EXTINF:-1 tvg-id="AMCThrillers.us@SD" tvg-name="AMC Thrillers" tvg-logo="https://image.xumo.com/v1/channels/channel/99951377/168x168.png?type=color_onBlack" group-title="English Movies",AMC Thrillers
 https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/dbfca017-81b9-4a86-af1e-debe7e1a7666/4.m3u8
