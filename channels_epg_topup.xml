@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN3900017KM" lang="en" xmltv_id="B4UMusic">B4U Music</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN1700002C8" lang="en" xmltv_id="Pitaara">Pitaara</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN1600001OG" lang="en" xmltv_id="PitaaraComedy">Pitaara Comedy</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN38000072R" lang="en" xmltv_id="TheMovieClub.in@HD">The Movie Club</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN40000100Y" lang="en" xmltv_id="TheMovieClub.in@Plus2">The Movie Club+2</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN4000600Q" lang="en" xmltv_id="Bollygold">Bollygold</channel>
+  <!-- <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN39000187Z" lang="en" xmltv_id="B4UKadak.in@SD">B4U Kadak</channel> -->
+  <!-- <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN3900016WI" lang="en" xmltv_id="B4UMovies.in@India">B4U Movies</channel> -->
+
+</channels>

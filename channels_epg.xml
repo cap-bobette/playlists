@@ -13,7 +13,6 @@
   <!-- India Music -->
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_9XM" lang="en" xmltv_id="9XM.in@SD">9XM</channel>
   <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_B4U_MUSIC" lang="en" xmltv_id="B4UMusic.in@India">B4U Music</channel> -->
-  <!-- <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN3900017KM" lang="en" xmltv_id="B4UMusic">B4U Music</channel> -->
   <channel site="dishtv.in" site_id="158141" lang="en" xmltv_id="B4UMusic">B4U Music</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZOOM" lang="en" xmltv_id="Zoom.in@SD">Zoom</channel>
   <channel site="dishtv.in" site_id="143682" lang="en" xmltv_id="PTCMusic">PTC Music</channel>
@@ -33,11 +32,8 @@
   <!-- Movies -->
   <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_B4U_KADAK" lang="en" xmltv_id="B4UKadak.in@SD">B4U Kadak</channel> -->
   <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_B4U_MOVIES" lang="en" xmltv_id="B4UMovies.in@India">B4U Movies</channel> -->
-  <!-- <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN39000187Z" lang="en" xmltv_id="B4UKadak.in@SD">B4U Kadak</channel> -->
-  <!-- <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN3900016WI" lang="en" xmltv_id="B4UMovies.in@India">B4U Movies</channel> -->
   <channel site="dishtv.in" site_id="142695" lang="en" xmltv_id="B4UKadak.in@SD">B4U Kadak</channel>
   <channel site="dishtv.in" site_id="140063" lang="en" xmltv_id="B4UMovies.in@India">B4U Movies</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN4000600Q" lang="en" xmltv_id="Bollygold">Bollygold</channel>
   <!-- <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_39" lang="en" xmltv_id="Bollygold">NH BollyGold</channel> -->
   <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_40" lang="en" xmltv_id="NHBollyFlix">NH BollyFlix</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD" lang="en" xmltv_id="ZeeCinema.in@HD">Zee Cinema HD</channel>
@@ -60,13 +56,9 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOLDMINES" lang="en" xmltv_id="Goldmines.in@SD">Goldmines</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOLDMINES_BOLLYWOOD" lang="en" xmltv_id="GoldminesBollywood.in">Goldmines Bollywood</channel>
   <channel site="tataplay.com" site_id="1499" lang="en" xmltv_id="GoldminesMovies.in@SD">Goldmines Movies</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN38000072R" lang="en" xmltv_id="TheMovieClub.in@HD">The Movie Club</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN40000100Y" lang="en" xmltv_id="TheMovieClub.in@Plus2">The Movie Club+2</channel>
   <channel site="distro.tv" site_id="87417" lang="en" xmltv_id="BollywoodClassic.ro@SD">Bollywood Classic</channel>
   <channel site="distro.tv" site_id="87418" lang="en" xmltv_id="BollywoodHD.ro@SD">Bollywood HD</channel>
   <!-- <channel site="tataplay.com" site_id="624" lang="en" xmltv_id="Pitaara">Pitaara Movies</channel> -->
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN1600001OG" lang="en" xmltv_id="PitaaraComedy">Pitaara Comedy</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN1700002C8" lang="en" xmltv_id="Pitaara">Pitaara</channel>
   <channel site="dishtv.in" site_id="159123" lang="en" xmltv_id="PTCPunjabi">PTC Punjabi</channel>
   
   <!-- Indian -->
