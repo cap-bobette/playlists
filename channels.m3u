@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://cap-bobette.github.io/playlists/guide.xml,https://i.mjh.nz/SamsungTVPlus/in.xml" url-tvg="https://cap-bobette.github.io/playlists/guide.xml,https://i.mjh.nz/SamsungTVPlus/in.xml" 
+#EXTM3U x-tvg-url="https://cap-bobette.github.io/playlists/guide.xml" url-tvg="https://cap-bobette.github.io/playlists/guide.xml,https://i.mjh.nz/SamsungTVPlus/in.xml" 
 
 #EXTINF:-1 tvg-id="B4UKadak.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540",B4U Kadak
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
@@ -15,51 +15,51 @@ https://d1bnb20pevkrom.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #https://jmp2.uk/stvp-IN46000140Q
 #EXTINF:-1 tvg-id="Andpictures.in@HD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540",& Picture HD
 http://202.70.146.135:8000/play/a06b/index.m3u8
-#http://116.90.120.148:8000/play/a0j4/index.m3u8
+#http://ldniptv.com:8000/play/a0j4/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@HD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540",Zee Cinema HD
 http://202.70.146.135:8000/play/a03f/index.m3u8
-#http://116.90.120.148:8000/play/a0hc/index.m3u8
+#http://ldniptv.com:8000/play/a0hc/index.m3u8
 #http://116.90.120.151:8000/play/a0hc/index.m3u8
 #http://103.99.249.139/zeecinema/index.m3u8
 ##EXTINF:-1 tvg-id="ZeeBollywood.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DM.png?lock=720x540",Zee Bollywood
-#http://116.90.120.148:8000/play/a0h6/index.m3u8
+#http://ldniptv.com:8000/play/a0h6/index.m3u8
 #EXTINF:-1 tvg-id="ZeeClassic.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J66T.png?lock=720x540",Zee Classic
 https://jmp2.uk/stvp-IN21000014R
-#http://116.90.120.148:8000/play/a0gq/index.m3u8
+#http://ldniptv.com:8000/play/a0gq/index.m3u8
 #EXTINF:-1 tvg-id="StarGold.in@HD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143815_ld_h15_aa.png?lock=720x540",Star Gold HD
 http://202.70.146.135:8000/play/a02a/index.m3u8
-#http://116.90.120.148:8000/play/a0gy/index.m3u8
+#http://ldniptv.com:8000/play/a0gy/index.m3u8
 #EXTINF:-1 tvg-id="StarGold2.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s158297_ld_h15_aa.png?lock=720x540",Star Gold 2
 http://202.70.146.135:8000/play/a02d/index.m3u8
-#http://116.90.120.148:8000/play/a0hq/index.m3u8
+#http://ldniptv.com:8000/play/a0hq/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldThrills.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s158822_ld_h15_aa.png?lock=720x540",Star Gold Thrills
 http://202.70.146.135:8000/play/a024/index.m3u8
-#http://116.90.120.148:8000/play/a0gw/index.m3u8
+#http://ldniptv.com:8000/play/a0gw/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldRomance.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s158298_ld_h15_aa.png?lock=720x540",Star Gold Romance
 http://202.70.146.135:8000/play/a044/index.m3u8
-#http://116.90.120.148:8000/play/a0he/index.m3u8
+#http://ldniptv.com:8000/play/a0he/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldSelect.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143817_ld_h15_aa.png?lock=720x540",Star Gold Select
 http://202.70.146.135:8000/play/a068/index.m3u8
-#http://116.90.120.148:8000/play/a0j2/index.m3u8
+#http://ldniptv.com:8000/play/a0j2/index.m3u8
 ##EXTINF:-1 tvg-id="StarUtsavMovies.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143856_ld_h15_aa.png?lock=720x540",Star Utsav Movies (non samsung)
-#http://116.90.120.148:8000/play/a0ka/index.m3u8
+#http://ldniptv.com:8000/play/a0ka/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@HD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",Sony Max HD
 http://202.70.146.135:8000/play/a01g/index.m3u8
-#http://116.90.120.148:8000/play/a0jf/index.m3u8
+#http://ldniptv.com:8000/play/a0jf/index.m3u8
 ##EXTINF:-1 tvg-id="SonyMax2.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png?lock=720x540",Sony Max 2
-#http://116.90.120.148:8000/play/a0h0/index.m3u8
+#http://ldniptv.com:8000/play/a0h0/index.m3u8
 ##EXTINF:-1 tvg-id="SonyWah.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540",Sony Wah
-#http://116.90.120.148:8000/play/a0kt/index.m3u8
+#http://ldniptv.com:8000/play/a0kt/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in@HD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s158147_ld_h15_aa.png?lock=720x540",Colors Cineplex HD
 http://202.70.146.135:8000/play/a01b/index.m3u8
-#http://116.90.120.148:8000/play/a0ji/index.m3u8
+#http://ldniptv.com:8000/play/a0ji/index.m3u8
 ##EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142750_ld_h15_aa.png?lock=720x540",Colors Cineplex Superhits (non samsung)
-#http://116.90.120.148:8000/play/a0kl/index.m3u8
+#http://ldniptv.com:8000/play/a0kl/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" group-title="Movies" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/colors-cineplex-bollywood-in.png?raw=true",Colors Cineplex Bollywood
 http://202.70.146.135:8000/play/a058/index.m3u8
 #http://103.157.248.140:8000/play/a00x/index.m3u8
-#http://116.90.120.148:8000/play/a0ki/index.m3u8 # (non samsung)
-#http://116.90.120.148:8000/play/a0ic/index.m3u8 # (non samsung)
+#http://ldniptv.com:8000/play/a0ki/index.m3u8 # (non samsung)
+#http://ldniptv.com:8000/play/a0ic/index.m3u8 # (non samsung)
 #http://103.182.170.32:8888/play/a01o
 #EXTINF:-1 tvg-id="TheMovieClub.in@HD" group-title="Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260422T010212SQUARE.png",The Movie Club
 https://pb-dkdpz5so0aqqr.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dkdpz5so0aqqr/TMC_IN.m3u8?ads.ads_cdn=ak&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=ak&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=IN38000072R&ads.ssai_vendor=SSSLIVE&pb_type=pb-dkdpz5so0aqqr_akamai
@@ -76,13 +76,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.vf=lWu9a-np_Vi
 ##EXTINF:-1 tvg-id="AnmolCinema.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540",Anmol Cinema Zee (non samsung)
-#http://116.90.120.148:8000/play/a0ks/index.m3u8
+#http://ldniptv.com:8000/play/a0ks/index.m3u8
 ##EXTINF:-1 tvg-id="AnmolCinema.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540",Anmol Cinema
-#http://116.90.120.148:8000/play/a0j6/index.m3u8
+#http://ldniptv.com:8000/play/a0j6/index.m3u8
 ##EXTINF:-1 tvg-id="AnmolCinema2.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260Y9L.png?lock=720x540",Anmol Cinema 2
-#http://116.90.120.148:8000/play/a0ir/index.m3u8
+#http://ldniptv.com:8000/play/a0ir/index.m3u8
 ##EXTINF:-1 tvg-id="GoldminesBollywood.in" group-title="Movies" tvg-logo="https://i.imgur.com/6mNQ9mM.png",Goldmines Bollywood (non samsung)
-#http://116.90.120.148:8000/play/a0kj/index.m3u8
+#http://ldniptv.com:8000/play/a0kj/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143087_ld_h15_aa.png?lock=720x540",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540",Goldmines Movies
@@ -97,24 +97,24 @@ https://jmp2.uk/stvp-IN1600001OG
 #EXTINF:-1 tvg-id="Pitaara" group-title="Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700002C8_20240612T015015SQUARE.png",Pitaara
 https://dn4lo138obgkk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-mqgonz9cre1sc/playlist.m3u8?ads.ads_cdn=cf&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=IN1700002C8&ads.ssai_vendor=SSSLIVE&pb_type=pb-mqgonz9cre1sc_cloudfront
 #https://jmp2.uk/stvp-IN1700002C8
-#http://116.90.120.148:8000/play/a0ky/index.m3u8
+#http://ldniptv.com:8000/play/a0ky/index.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabi" group-title="Movies" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2021/09/ptcp.jpg",PTC Punjabi
 https://cdn-2.pishow.tv/live/1604/master.m3u8
 
 #EXTINF:-1 tvg-id="Colors.in@HD" group-title="Indian" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsHD.png",Colors HD
 http://202.70.146.135:8000/play/a00b/index.m3u8
-#http://116.90.120.148:8000/play/a0gt/index.m3u8
+#http://ldniptv.com:8000/play/a0gt/index.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@HD" group-title="Indian" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",Sony Sab HD
 http://202.70.146.135:8000/play/a025/index.m3u8
-#http://116.90.120.148:8000/play/a0gx/index.m3u8
+#http://ldniptv.com:8000/play/a0gx/index.m3u8
 #EXTINF:-1 tvg-id="SonyPal.in@SD" group-title="Indian" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540",Sony Pal
-http://116.90.120.148:8000/play/a0hz/index.m3u8
+http://ldniptv.com:8000/play/a0hz/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in@HD" group-title="Indian" tvg-logo="https://dtil.tmsimg.com/assets/s143832_ld_h15_aa.png?lock=720x540",Star Plus HD
 http://202.70.146.135:8000/play/a009/index.m3u8
-#http://116.90.120.148:8000/play/a0gr/index.m3u8
+#http://ldniptv.com:8000/play/a0gr/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in@HD" group-title="Indian" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540",Zee TV HD
 http://202.70.146.135:8000/play/a04g/index.m3u8
-#http://116.90.120.148:8000/play/a0hk/index.m3u8
+#http://ldniptv.com:8000/play/a0hk/index.m3u8
 
 #EXTINF:-1 tvg-id="8XM" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png",8XM
 http://115.42.65.142:8000/play/a01v/index.m3u8
@@ -125,7 +125,7 @@ https://jmp2.uk/stvp-IN38000050P
 http://115.42.65.142:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="B4UMusic" group-title="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900017KM_20250811T033432SQUARE.png",B4U Music
 https://jmp2.uk/stvp-IN3900017KM
-#http://116.90.120.148:8000/play/a0k3/index.m3u8 (non samsung)
+#http://ldniptv.com:8000/play/a0k3/index.m3u8 (non samsung)
 #http://115.42.65.142:9981/stream/channelid/972957830
 #https://cdn-2.pishow.tv/live/415/master.m3u8
 #EXTINF:-1 tvg-id="JooMusic" group-title="Music" tvg-logo="https://www.joomusic.info/assets/images/logo.png",JooMusic
@@ -248,15 +248,15 @@ http://115.42.65.142:8000/play/a01n/index.m3u8
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GeoEntertainment" group-title="Pakistani" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Geo_Entertainment.png",Geo Entertainment HD
 http://115.42.65.142:8000/play/a001/index.m3u8
-#http://116.90.120.148:8000/play/a021/index.m3u8
+#http://ldniptv.com:8000/play/a021/index.m3u8
 #http://115.42.65.142:9981/stream/channelid/303381625
 #EXTINF:-1 tvg-id="GeoKahani" group-title="Pakistani" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Geo_Kahani.png",Geo Kahani
 http://115.42.65.142:8000/play/a012/index.m3u8
-#http://116.90.120.148:8000/play/a023/index.m3u8
+#http://ldniptv.com:8000/play/a023/index.m3u8
 #http://115.42.65.142:9981/stream/channelid/257140812
 #EXTINF:-1 tvg-id="GreenEnt" group-title="Pakistani" tvg-logo="https://greenentertainment.tv/_next/static/media/GreenLogo.7e0f62ea.svg",GreenEnt HD
 http://115.42.65.142:8000/play/a02q/index.m3u8
-#http://116.90.120.148:8000/play/a01p/index.m3u8
+#http://ldniptv.com:8000/play/a01p/index.m3u8
 #http://115.42.65.142:9981/stream/channelid/1345854043
 #EXTINF:-1 tvg-id="HumHD" group-title="Pakistani" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png",Hum HD
 http://115.42.65.142:8000/play/a04k/index.m3u8
@@ -326,40 +326,40 @@ http://115.42.65.142:8000/play/a011/index.m3u8
 #http://115.42.65.142:9981/stream/channelid/1540151679
 
 #EXTINF:-1 tvg-id="Eurosport.in@SD" group-title="Sports" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",Eurosport
-http://116.90.120.148:8000/play/a0ip/index.m3u8
+http://ldniptv.com:8000/play/a0ip/index.m3u8
 #EXTINF:-1 tvg-id="Andflix.in@HD" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_image.png",& Flix HD
-http://116.90.120.148:8000/play/a0il/index.m3u8
+http://ldniptv.com:8000/play/a0il/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD" group-title="Sports" tvg-logo="https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png?lock=720x540",Sony Sports Ten 2 HD
-http://116.90.120.148:8000/play/a0ih/index.m3u8
+http://ldniptv.com:8000/play/a0ih/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@HD" group-title="Sports" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",Sony Sports Ten 3 Hindi HD
-http://116.90.120.148:8000/play/a0go/index.m3u8
+http://ldniptv.com:8000/play/a0go/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen5.in@HD" group-title="Sports" tvg-logo="https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540",Sony Sports Ten 5 HD
-http://116.90.120.148:8000/play/a0hb/index.m3u8
+http://ldniptv.com:8000/play/a0hb/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in@HD" group-title="Sports" tvg-logo="https://dtil.tmsimg.com/assets/s143837_ld_h15_aa.png?lock=720x540",Star Sports 1 HD
-http://116.90.120.148:8000/play/a0gs/index.m3u8
+http://ldniptv.com:8000/play/a0gs/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1Hindi.in@HD" group-title="Sports" tvg-logo="https://dtil.tmsimg.com/assets/s143838_ld_h15_aa.png?lock=720x540",Star Sports 1 HD Hindi
-http://116.90.120.148:8000/play/a0je/index.m3u8
+http://ldniptv.com:8000/play/a0je/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2Hindi.in@HD" group-title="Sports" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540",Star Sports 2 HD Hindi
-http://116.90.120.148:8000/play/a0hi/index.m3u8
+http://ldniptv.com:8000/play/a0hi/index.m3u8
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" group-title="Sports" tvg-logo="https://dtil.tmsimg.com/assets/s143849_ld_h15_aa.png?lock=720x540",Star Sports Select 1 HD
-http://116.90.120.148:8000/play/a0h9/index.m3u8
+http://ldniptv.com:8000/play/a0h9/index.m3u8
 #EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" group-title="Sports" tvg-logo="https://dtil.tmsimg.com/assets/s143851_ld_h15_aa.png?lock=720x540",Star Sports Select 2 HD
-http://116.90.120.148:8000/play/a0ha/index.m3u8
+http://ldniptv.com:8000/play/a0ha/index.m3u8
 
 #EXTINF:-1 tvg-id="StarMovies.in@HD" group-title="English Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540",Star Movies HD
 http://202.70.146.135:8000/play/a06r/index.m3u8
-#http://116.90.120.148:8000/play/a0ik/index.m3u8
+#http://ldniptv.com:8000/play/a0ik/index.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" group-title="English Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png?lock=720x540",Star Movies Select
 http://202.70.146.135:8000/play/a06q/index.m3u8
-#http://116.90.120.148:8000/play/a0ij/index.m3u8
+#http://ldniptv.com:8000/play/a0ij/index.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@HD" group-title="English Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png?lock=720x540",Sony Pix HD
 http://202.70.146.135:8000/play/a06p/index.m3u8
-#http://116.90.120.148:8000/play/a0ii/index.m3u8
+#http://ldniptv.com:8000/play/a0ii/index.m3u8
 #EXTINF:-1 tvg-id="MoviesNow.in@HD" group-title="English Movies" tvg-logo="https://dtil.tmsimg.com/assets/s147571_ld_h15_aa.png?lock=720x540",Movies Now HD
 http://202.70.146.135:8000/play/a057/index.m3u8
-#http://116.90.120.148:8000/play/a0ib/index.m3u8
+#http://ldniptv.com:8000/play/a0ib/index.m3u8
 #EXTINF:-1 tvg-id="MoviesNowPlus.in@SD" group-title="English Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143548_ld_h15_aa.png?lock=720x540",Movies Now +
-http://116.90.120.148:8000/play/a0i4/index.m3u8
+http://ldniptv.com:8000/play/a0i4/index.m3u8
 #EXTINF:-1 tvg-id="Film4.uk@SD" group-title="English Movies" tvg-logo="https://tv.assets.pressassociation.io/98c0601e-24b4-56d4-b999-3d2b218fcdc8.png",Film4 HD
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 
