@@ -190,7 +190,7 @@ https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 
 #EXTINF:-1 tvg-id="AlQuran" group-title="Pakistani" tvg-logo="",Al Quran
 http://115.42.65.142:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="AajEntertainment" group-title="Pakistani" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Aaj_News_%28television_channel%29_logo.png",Aaj Entertainment HD
+#EXTINF:-1 tvg-id="AajEntertainment" group-title="Pakistani" tvg-logo="https://www.aajentertainment.tv/_img/logo.png",Aaj Entertainment HD
 http://115.42.65.142:8000/play/a01q/index.m3u8
 #http://175.107.244.52:4456/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="Aan" group-title="Pakistani" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Aan_TV.png/500px-Aan_TV.png",Aan HD
