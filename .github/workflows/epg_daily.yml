@@ -1,0 +1,219 @@
+name: Update EPG Guide (Daily)
+
+on:
+  schedule:
+    - cron: '3 3 * * *'       # 3:03am UTC daily
+  workflow_dispatch:           # allows manual trigger from GitHub Actions tab
+  push:
+    paths:
+      - 'channels_epg.xml'
+      - 'channels_epg_minus4.xml'
+      - 'channels_icons.json'
+      #- 'channels.m3u'
+      #- 'gujrati.m3u'
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout your repo
+        uses: actions/checkout@v4.2.2
+
+      - name: Checkout iptv-org/epg grabber
+        uses: actions/checkout@v4.2.2
+        with:
+          repository: iptv-org/epg
+          ref: master
+          path: epg-tool
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4.4.0
+        with:
+          node-version: '22'
+          cache: 'npm'
+          cache-dependency-path: epg-tool/package-lock.json
+
+      - name: Install grabber dependencies
+        run: npm install
+        working-directory: epg-tool
+
+      - name: Grab EPG - Main
+        run: |
+          npm run grab -- \
+            --channels=../channels_epg.xml \
+            --output=../guide_epg.xml \
+            --maxConnections=5 \
+            --days=3 \
+            --timeout=30000
+        working-directory: epg-tool
+        continue-on-error: true
+
+      - name: Grab EPG - Minus4
+        run: |
+          npm run grab -- \
+            --channels=../channels_epg_minus4.xml \
+            --output=../guide_epg_minus4.xml \
+            --maxConnections=5 \
+            --days=3 \
+            --timeout=30000
+        working-directory: epg-tool
+        continue-on-error: true
+
+      - name: Grab EPG - Top-up
+        run: |
+          npm run grab -- \
+            --channels=../channels_epg_topup.xml \
+            --output=../guide_epg_topup.xml \
+            --maxConnections=5 \
+            --days=3 \
+            --timeout=30000
+        working-directory: epg-tool
+        continue-on-error: true
+
+      - name: Shift EPG -4h (inline)
+        run: |
+          node << 'EOF'
+          const fs = require('fs')
+
+          const inputFile = 'guide_epg_minus4.xml'
+          const outputFile = 'guide_minus4_shifted.xml'
+          const OFFSET = 4 // change to 5 in winter if needed
+
+          if (!fs.existsSync(inputFile)) {
+            console.log(`Skipping: ${inputFile} not found (no channels defined).`)
+            process.exit(0)
+          }
+          const xml = fs.readFileSync(inputFile, 'utf-8')
+
+          const shifted = xml.replace(/(\d{14}) ([+-]\d{4})/g, (_, datetime, tz) => {
+            const d = new Date(
+              datetime.replace(
+                /(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})/,
+                '$1-$2-$3T$4:$5:$6Z'
+              )
+            )
+            d.setHours(d.getHours() - OFFSET)
+            const newDate = d.toISOString().replace(/[-:T]/g, '').slice(0, 14)
+            return `${newDate} ${tz}`
+          })
+
+          fs.writeFileSync(outputFile, shifted)
+          EOF
+
+      - name: Merge all guides into guide.xml
+        run: |
+          python3 - <<'EOF'
+          import xml.etree.ElementTree as ET
+          import os
+
+          # Top-up channels are included here on the daily run so guide.xml
+          # starts with a full baseline — the top-up workflow will then append
+          # fresher data on top every 4 hours.
+          files = ['guide_epg.xml', 'guide_minus4_shifted.xml', 'guide_epg_topup.xml']
+          root = ET.Element('tv')
+          root.set('generator-info-name', 'iptv-org/epg')
+
+          seen_channels = set()
+          seen_programmes = set()
+
+          for f in files:
+              if not os.path.exists(f):
+                  print(f"Skipping missing file: {f}")
+                  continue
+              try:
+                  tree = ET.parse(f)
+                  r = tree.getroot()
+                  ch_count = 0
+                  prog_count = 0
+                  for ch in r.findall('channel'):
+                      cid = ch.get('id', '')
+                      if cid not in seen_channels:
+                          seen_channels.add(cid)
+                          root.append(ch)
+                          ch_count += 1
+                  for prog in r.findall('programme'):
+                      key = (prog.get('channel', ''), prog.get('start', ''))
+                      if key not in seen_programmes:
+                          seen_programmes.add(key)
+                          root.append(prog)
+                          prog_count += 1
+                  print(f"{f}: {ch_count} channels, {prog_count} programmes")
+              except Exception as e:
+                  print(f"Error parsing {f}: {e}")
+
+          ET.indent(root, space='  ')
+          tree = ET.ElementTree(root)
+          with open('guide.xml', 'wb') as out:
+              out.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
+              tree.write(out, encoding='utf-8', xml_declaration=False)
+
+          print(f"Done: {len(seen_channels)} total channels, {len(seen_programmes)} total programmes")
+          EOF
+
+      - name: Inject missing channel icons
+        run: |
+          python3 - <<'EOF'
+          import xml.etree.ElementTree as ET
+          import json
+          import os
+
+          icons_file = 'channels_icons.json'
+          guide_file = 'guide.xml'
+
+          icon_map = {}
+          if os.path.exists(icons_file):
+              with open(icons_file, 'r') as f:
+                  icon_map = json.load(f)
+              print(f"Loaded {len(icon_map)} entries from {icons_file}")
+          else:
+              print("No channels_icons.json found, will only report missing icons.")
+
+          tree = ET.parse(guide_file)
+          root = tree.getroot()
+
+          patched = 0
+          overridden = 0
+          missing = {}
+
+          for channel in root.findall('channel'):
+              cid = channel.get('id', '')
+              name = channel.findtext('display-name', default=cid)
+              existing_icon = channel.find('icon')
+
+              if cid in icon_map:
+                  if existing_icon is not None:
+                      existing_icon.set('src', icon_map[cid])
+                      overridden += 1
+                  else:
+                      icon_el = ET.Element('icon')
+                      icon_el.set('src', icon_map[cid])
+                      channel.insert(1, icon_el)
+                      patched += 1
+              elif existing_icon is None:
+                  missing[cid] = ""
+
+          with open('missing_channels_icons.json', 'w') as f:
+              json.dump(missing, f, indent=2)
+          print(f"Missing icons written to missing_channels_icons.json: {len(missing)} channels")
+
+          ET.indent(root, space='  ')
+          out_tree = ET.ElementTree(root)
+          with open(guide_file, 'wb') as out:
+              out.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
+              out_tree.write(out, encoding='utf-8', xml_declaration=False)
+
+          print(f"Done: {patched} icons injected, {overridden} icons overridden")
+          EOF
+
+      - name: Commit and push guide.xml
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add guide.xml missing_channels_icons.json
+          git diff --staged --quiet || git commit -m "chore: daily rebuild guide.xml [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push

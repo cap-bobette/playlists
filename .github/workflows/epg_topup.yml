@@ -1,0 +1,138 @@
+name: Update EPG Guide (Top-up)
+
+on:
+  schedule:
+    - cron: '15 1,5,9,13,17,21 * * *'  # 6x daily, offset from daily run at 3:03am
+  workflow_dispatch:                     # allows manual trigger from GitHub Actions tab
+  push:
+    paths:
+      - 'channels_epg_topup.xml'
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  topup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout your repo
+        uses: actions/checkout@v4.2.2
+
+      - name: Checkout iptv-org/epg grabber
+        uses: actions/checkout@v4.2.2
+        with:
+          repository: iptv-org/epg
+          ref: master
+          path: epg-tool
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4.4.0
+        with:
+          node-version: '22'
+          cache: 'npm'
+          cache-dependency-path: epg-tool/package-lock.json
+
+      - name: Install grabber dependencies
+        run: npm install
+        working-directory: epg-tool
+
+      - name: Grab EPG - Top-up
+        run: |
+          npm run grab -- \
+            --channels=../channels_epg_topup.xml \
+            --output=../guide_epg_topup_fresh.xml \
+            --maxConnections=5 \
+            --days=3 \
+            --timeout=30000
+        working-directory: epg-tool
+        continue-on-error: true
+
+      - name: Append new programmes into guide.xml
+        run: |
+          python3 - <<'EOF'
+          import xml.etree.ElementTree as ET
+          import os
+          import sys
+
+          fresh_file  = 'guide_epg_topup_fresh.xml'
+          guide_file  = 'guide.xml'
+
+          # Nothing to do if the grabber produced no output
+          if not os.path.exists(fresh_file):
+              print("No fresh top-up file found, skipping.")
+              sys.exit(0)
+
+          # guide.xml must already exist (created by the daily run)
+          if not os.path.exists(guide_file):
+              print("guide.xml not found — has the daily workflow run yet? Skipping.")
+              sys.exit(0)
+
+          # ── Load existing guide ──────────────────────────────────────────────
+          existing_tree = ET.parse(guide_file)
+          existing_root = existing_tree.getroot()
+
+          # Build a set of already-known (channel, start) keys
+          seen_programmes = set()
+          for prog in existing_root.findall('programme'):
+              key = (prog.get('channel', ''), prog.get('start', ''))
+              seen_programmes.add(key)
+
+          # Also track channel ids already present
+          seen_channels = set()
+          for ch in existing_root.findall('channel'):
+              seen_channels.add(ch.get('id', ''))
+
+          # ── Load fresh top-up data ───────────────────────────────────────────
+          try:
+              fresh_tree = ET.parse(fresh_file)
+              fresh_root = fresh_tree.getroot()
+          except Exception as e:
+              print(f"Error parsing {fresh_file}: {e}")
+              sys.exit(0)
+
+          new_channels  = 0
+          new_progs     = 0
+          skipped_progs = 0
+
+          # Append any channel entries not already in guide.xml
+          for ch in fresh_root.findall('channel'):
+              cid = ch.get('id', '')
+              if cid not in seen_channels:
+                  existing_root.append(ch)
+                  seen_channels.add(cid)
+                  new_channels += 1
+
+          # Append only programmes whose (channel, start) pair is new.
+          # Duplicates are ignored — we keep what is already in guide.xml.
+          for prog in fresh_root.findall('programme'):
+              key = (prog.get('channel', ''), prog.get('start', ''))
+              if key not in seen_programmes:
+                  existing_root.append(prog)
+                  seen_programmes.add(key)
+                  new_progs += 1
+              else:
+                  skipped_progs += 1
+
+          print(f"New channels: {new_channels}")
+          print(f"New programmes appended: {new_progs}")
+          print(f"Duplicate programmes skipped: {skipped_progs}")
+
+          # ── Write back ───────────────────────────────────────────────────────
+          ET.indent(existing_root, space='  ')
+          out_tree = ET.ElementTree(existing_root)
+          with open(guide_file, 'wb') as out:
+              out.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
+              out_tree.write(out, encoding='utf-8', xml_declaration=False)
+
+          print("guide.xml updated.")
+          EOF
+
+      - name: Commit and push guide.xml
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add guide.xml
+          git diff --staged --quiet || git commit -m "chore: top-up guide.xml [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
