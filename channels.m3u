@@ -40,20 +40,20 @@ http://ldniptv.com:8000/play/a0he/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldSelect.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143817_ld_h15_aa.png?lock=720x540",Star Gold Select
 http://ldniptv.com:8000/play/a0j2/index.m3u8
 #http://202.70.146.135:8000/play/a068/index.m3u8
-#EXTINF:-1 tvg-id="StarUtsavMovies.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143856_ld_h15_aa.png?lock=720x540",Star Utsav Movies (non-samsung)
-http://ldniptv.com:8000/play/a0ka/index.m3u8
+##EXTINF:-1 tvg-id="StarUtsavMovies.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143856_ld_h15_aa.png?lock=720x540",Star Utsav Movies (non-samsung)
+#http://ldniptv.com:8000/play/a0ka/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@HD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",Sony Max HD
 http://ldniptv.com:8000/play/a0jf/index.m3u8
 #http://202.70.146.135:8000/play/a01g/index.m3u8
-#EXTINF:-1 tvg-id="SonyMax2.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png?lock=720x540",Sony Max 2 (non-samsung)
-http://ldniptv.com:8000/play/a0h0/index.m3u8
-#EXTINF:-1 tvg-id="SonyWah.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540",Sony Wah (non-samsung)
-http://ldniptv.com:8000/play/a0kt/index.m3u8
+##EXTINF:-1 tvg-id="SonyMax2.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png?lock=720x540",Sony Max 2 (non-samsung)
+#http://ldniptv.com:8000/play/a0h0/index.m3u8
+##EXTINF:-1 tvg-id="SonyWah.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540",Sony Wah (non-samsung)
+#http://ldniptv.com:8000/play/a0kt/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in@HD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s158147_ld_h15_aa.png?lock=720x540",Colors Cineplex HD
 http://ldniptv.com:8000/play/a0ji/index.m3u8
 #http://202.70.146.135:8000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142750_ld_h15_aa.png?lock=720x540",Colors Cineplex Superhits (non-samsung)
-http://ldniptv.com:8000/play/a0kl/index.m3u8
+##EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142750_ld_h15_aa.png?lock=720x540",Colors Cineplex Superhits (non-samsung)
+#http://ldniptv.com:8000/play/a0kl/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" group-title="Movies" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/colors-cineplex-bollywood-in.png?raw=true",Colors Cineplex Bollywood
 http://202.70.146.135:8000/play/a058/index.m3u8
 #http://103.157.248.140:8000/play/a00x/index.m3u8
@@ -73,12 +73,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="BollywoodHD.ro@SD" group-title="Movies" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-hd/logo_20231219_184845_51.png",Bollywood HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.vf=lWu9a-np_Vi
-#EXTINF:-1 tvg-id="AnmolCinema.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540",Anmol Cinema (non-samsung)
-http://ldniptv.com:8000/play/a0ks/index.m3u8
+##EXTINF:-1 tvg-id="AnmolCinema.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540",Anmol Cinema (non-samsung)
+#http://ldniptv.com:8000/play/a0ks/index.m3u8
 #EXTINF:-1 tvg-id="AnmolCinema2.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260Y9L.png?lock=720x540",Anmol Cinema 2
 http://ldniptv.com:8000/play/a0ir/index.m3u8
-#EXTINF:-1 tvg-id="GoldminesBollywood.in" group-title="Movies" tvg-logo="https://i.imgur.com/6mNQ9mM.png",Goldmines Bollywood (non-samsung)
-http://ldniptv.com:8000/play/a0kj/index.m3u8
+##EXTINF:-1 tvg-id="GoldminesBollywood.in" group-title="Movies" tvg-logo="https://i.imgur.com/6mNQ9mM.png",Goldmines Bollywood (non-samsung)
+#http://ldniptv.com:8000/play/a0kj/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143087_ld_h15_aa.png?lock=720x540",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540",Goldmines Movies
