@@ -22585,4 +22585,71 @@
     <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_1444431892_0_20250604T115531444Z_20_imageprocessorclient-tvplus-linear-b76dd9bbb-n7vx6.jpeg" />
   </programme>
+  <programme start="20260503123000 +0000" stop="20260503133000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_1444431892_0_20250604T115531444Z_20_imageprocessorclient-tvplus-linear-b76dd9bbb-n7vx6.jpeg" />
+  </programme>
+  <programme start="20260503133000 +0000" stop="20260503143000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_1444431892_0_20250604T115531444Z_20_imageprocessorclient-tvplus-linear-b76dd9bbb-n7vx6.jpeg" />
+  </programme>
+  <programme start="20260503143000 +0000" stop="20260503153000 +0000" channel="B4UMusic">
+    <title lang="en">SOLID HITS</title>
+    <desc lang="en">Songs which have topped the charts and ruled your hearts, the biggest hits of the recent times.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_1444432129_0_20250604T115538041Z_24_imageprocessorclient-tvplus-linear-b76dd9bbb-n7vx6.jpeg" />
+  </programme>
+  <programme start="20260503132829 +0000" stop="20260503163038 +0000" channel="Bollygold">
+    <title lang="en">The Burning Train</title>
+    <sub-title>THE BURNING TRAIN 1980 (EDITED)</sub-title>
+    <desc lang="en">An engineer's dream of making the perfect train for Indian Railways is given hope when the company commissions his prototype. After years dedicating himself to his dream, his family has suffered, but now he hopes to make it all up to them with the train's triumphant inaugural journey. However, an embittered fellow employee has other ideas.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+  </programme>
+  <programme start="20260503133000 +0000" stop="20260503143000 +0000" channel="Pitaara">
+    <title lang="en">Strings of Punjab</title>
+    <desc lang="en">Entertainment</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2538841655_0_20260213T125945623Z_110_imageprocessorclient-tvplus-linear-584c967455-l5ngp.jpeg" />
+  </programme>
+  <programme start="20260503143000 +0000" stop="20260503173000 +0000" channel="Pitaara">
+    <title lang="en">Ghaint Filma-Guru Nanak Jahaz</title>
+    <desc lang="en">Starcast-Tarsem Jassar,Gurpreet Ghuggi,Mark Bennington,Edward Sonnenblick</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218607_0_20260313T095116297Z_1_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+  </programme>
+  <programme start="20260503133000 +0000" stop="20260503143000 +0000" channel="PitaaraComedy">
+    <title lang="en">The Jagdeep Sidhu Show</title>
+    <desc lang="en">The Jagdeep Sidhu Show</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2686003489_0_20260320T140419915Z_37_imageprocessorclient-tvplus-linear-796646965d-7jmkq.png" />
+  </programme>
+  <programme start="20260503143000 +0000" stop="20260503173000 +0000" channel="PitaaraComedy">
+    <title lang="en">Family Time</title>
+    <desc lang="en">Family Time</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2686003489_0_20260320T140419915Z_37_imageprocessorclient-tvplus-linear-796646965d-7jmkq.png" />
+  </programme>
+  <programme start="20260503141051 +0000" stop="20260503162851 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Bobby Jasoos</title>
+    <desc lang="en">A rich man asks Bobby, a private detective, to find two girls and a boy in return for a huge sum. Although she accomplishes the assigned tasks, she struggles to understand the motive behind them.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2858997989_1_20260430T123053523Z_89_imageprocessorclient-tvplus-linear-796646965d-vhr29.png" />
+  </programme>
+  <programme start="20260503123132 +0000" stop="20260503152511 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Dulha Mil Gaya</title>
+    <desc lang="en">A carefree millionaire is forced into marriage with a traditional girl, leading to humorous and emotional twists.</desc>
+    <episode-num system="onscreen">S07E02</episode-num>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859024281_0_20260430T123052398Z_99_imageprocessorclient-tvplus-linear-796646965d-ps72z.png" />
+  </programme>
 </tv>
