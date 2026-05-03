@@ -20,8 +20,6 @@ http://ldniptv.com:8000/play/a0j4/index.m3u8
 http://ldniptv.com:8000/play/a0hc/index.m3u8
 #http://202.70.146.135:8000/play/a03f/index.m3u8
 #http://103.99.249.139/zeecinema/index.m3u8
-##EXTINF:-1 tvg-id="ZeeBollywood.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DM.png?lock=720x540",Zee Bollywood
-#http://ldniptv.com:8000/play/a0h6/index.m3u8
 #EXTINF:-1 tvg-id="ZeeClassic.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J66T.png?lock=720x540",Zee Classic
 https://jmp2.uk/stvp-IN21000014R
 #http://ldniptv.com:8000/play/a0gq/index.m3u8
@@ -40,20 +38,12 @@ http://ldniptv.com:8000/play/a0he/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldSelect.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143817_ld_h15_aa.png?lock=720x540",Star Gold Select
 http://ldniptv.com:8000/play/a0j2/index.m3u8
 #http://202.70.146.135:8000/play/a068/index.m3u8
-##EXTINF:-1 tvg-id="StarUtsavMovies.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143856_ld_h15_aa.png?lock=720x540",Star Utsav Movies (non-samsung)
-#http://ldniptv.com:8000/play/a0ka/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@HD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",Sony Max
 http://ldniptv.com:8000/play/a0jf/index.m3u8
 #http://202.70.146.135:8000/play/a01g/index.m3u8
-##EXTINF:-1 tvg-id="SonyMax2.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png?lock=720x540",Sony Max 2 (non-samsung)
-#http://ldniptv.com:8000/play/a0h0/index.m3u8
-##EXTINF:-1 tvg-id="SonyWah.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540",Sony Wah (non-samsung)
-#http://ldniptv.com:8000/play/a0kt/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in@HD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s158147_ld_h15_aa.png?lock=720x540",Colors Cineplex
 http://ldniptv.com:8000/play/a0ji/index.m3u8
 #http://202.70.146.135:8000/play/a01b/index.m3u8
-##EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142750_ld_h15_aa.png?lock=720x540",Colors Cineplex Superhits (non-samsung)
-#http://ldniptv.com:8000/play/a0kl/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" group-title="Movies" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/colors-cineplex-bollywood-in.png?raw=true",Colors Cineplex Bollywood
 http://202.70.146.135:8000/play/a058/index.m3u8
 #http://103.157.248.140:8000/play/a00x/index.m3u8
@@ -73,12 +63,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="BollywoodHD.ro@SD" group-title="Movies" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-hd/logo_20231219_184845_51.png",Bollywood
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.vf=lWu9a-np_Vi
-##EXTINF:-1 tvg-id="AnmolCinema.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540",Anmol Cinema (non-samsung)
-#http://ldniptv.com:8000/play/a0ks/index.m3u8
 #EXTINF:-1 tvg-id="AnmolCinema2.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260Y9L.png?lock=720x540",Anmol Cinema 2
 http://ldniptv.com:8000/play/a0ir/index.m3u8
-##EXTINF:-1 tvg-id="GoldminesBollywood.in" group-title="Movies" tvg-logo="https://i.imgur.com/6mNQ9mM.png",Goldmines Bollywood (non-samsung)
-#http://ldniptv.com:8000/play/a0kj/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143087_ld_h15_aa.png?lock=720x540",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540",Goldmines Movies
@@ -131,7 +117,6 @@ http://115.42.65.142:8000/play/a03x/index.m3u8
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="ZoomGlobal" group-title="Music" tvg-logo="https://dtil.tmsimg.com/assets/s157600_ld_h15_aa.png?lock=720x540",Zoom Global
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
-
 
 #EXTINF:-1 tvg-id="24News" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/24_News_HD_Logo.png",24 News
 http://115.42.65.142:8000/play/a002/index.m3u8
@@ -249,8 +234,6 @@ http://115.42.65.142:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="PTVNational" group-title="Pakistani" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/PTV_National.jpg",PTV National
 http://115.42.65.142:8000/play/a00v/index.m3u8
 #http://175.107.244.52:4456/play/a07y/index.m3u8
-##EXTINF:-1 tvg-id="PTVGlobal.pk" group-title="Pakistani" tvg-logo="",PTV Global
-#http://115.42.65.142:9981/stream/channelid/2136971336
 #EXTINF:-1 tvg-id="PTVHome" group-title="Pakistani" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/PTV_Home_logo_2023.png",PTV Home
 http://115.42.65.142:8000/play/a030/index.m3u8
 #http://175.107.244.52:4456/play/a03z/index.m3u8
@@ -267,18 +250,6 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-id="HomesUnderHammer.us@UK" group-title="UK" tvg-logo="https://cdn.televisioncatchup.co.uk/images/programs/homes-under-the-hammer.jpg",Homes Under The Hammer
 https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
-##EXTINF:-1 tvg-id="Channel4.uk@HD" group-title="UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png",Channel 4
-#https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
-##EXTINF:-1 tvg-id="Channel5.uk@HD" group-title="UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png",Channel 5
-#https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
-##EXTINF:-1 tvg-id="ITV2.uk@SD" group-title="UK" tvg-logo="https://tv.assets.pressassociation.io/8e84f037-b928-5260-8580-c75193d77e1e.png",ITV2
-#https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
-##EXTINF:-1 tvg-id="ITV3.uk@SD" group-title="UK" tvg-logo="https://tv.assets.pressassociation.io/2ff9a0e6-b2de-5814-9a25-98a7a8b7980e.png",ITV3
-#https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
-##EXTINF:-1 tvg-id="ITV4.uk@SD" group-title="UK" tvg-logo="https://tv.assets.pressassociation.io/4280c34e-1a10-583a-aa33-84a355475ffd.png",ITV4
-#https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
-##EXTINF:-1 tvg-id="More4.uk@SD" group-title="UK" tvg-logo="https://tv.assets.pressassociation.io/512ba83d-e5de-5de3-97df-22c1a30ca640.png",More4
-#https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 
 #EXTINF:-1 tvg-id="ASports" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports
 http://115.42.65.142:8000/play/a01b/index.m3u8
@@ -327,8 +298,6 @@ http://ldniptv.com:8000/play/a0ib/index.m3u8
 #http://202.70.146.135:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="MoviesNowPlus.in@SD" group-title="English Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143548_ld_h15_aa.png?lock=720x540",Movies Now +
 http://ldniptv.com:8000/play/a0i4/index.m3u8
-##EXTINF:-1 tvg-id="Film4.uk@SD" group-title="English Movies" tvg-logo="https://tv.assets.pressassociation.io/98c0601e-24b4-56d4-b999-3d2b218fcdc8.png",Film4
-#https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 
 #EXTINF:-1 tvg-id="AMCThrillers.us@SD" tvg-name="AMC Thrillers" tvg-logo="https://image.xumo.com/v1/channels/channel/99951377/168x168.png?type=color_onBlack" group-title="English Movies",AMC Thrillers
 https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/dbfca017-81b9-4a86-af1e-debe7e1a7666/4.m3u8
