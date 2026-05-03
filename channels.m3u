@@ -26,7 +26,7 @@ https://jmp2.uk/stvp-IN21000014R
 #EXTINF:-1 tvg-id="StarGold.in@HD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143815_ld_h15_aa.png?lock=720x540",Star Gold
 http://ldniptv.com:8000/play/a0gy/index.m3u8
 #http://202.70.146.135:8000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-id="StarGold2.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s158297_ld_h15_aa.png?lock=720x540",Star Gold 2
+#EXTINF:-1 tvg-id="StarGold2" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s158297_ld_h15_aa.png?lock=720x540",Star Gold 2
 http://ldniptv.com:8000/play/a0hq/index.m3u8
 #http://202.70.146.135:8000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldThrills.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s158822_ld_h15_aa.png?lock=720x540",Star Gold Thrills
@@ -35,7 +35,7 @@ http://ldniptv.com:8000/play/a0gw/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldRomance.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s158298_ld_h15_aa.png?lock=720x540",Star Gold Romance
 http://ldniptv.com:8000/play/a0he/index.m3u8
 #http://202.70.146.135:8000/play/a044/index.m3u8
-#EXTINF:-1 tvg-id="StarGoldSelect.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143817_ld_h15_aa.png?lock=720x540",Star Gold Select
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143817_ld_h15_aa.png?lock=720x540",Star Gold Select
 http://ldniptv.com:8000/play/a0j2/index.m3u8
 #http://202.70.146.135:8000/play/a068/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@HD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",Sony Max

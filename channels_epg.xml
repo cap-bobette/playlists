@@ -11,49 +11,60 @@
   -->
   
   <!-- India Music -->
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_9XM" lang="en" xmltv_id="9XM.in@SD">9XM</channel>
+  <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_9XM" lang="en" xmltv_id="9XM.in@SD">9XM</channel> -->
   <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_B4U_MUSIC" lang="en" xmltv_id="B4UMusic.in@India">B4U Music</channel> -->
-  <channel site="dishtv.in" site_id="158141" lang="en" xmltv_id="B4UMusic">B4U Music</channel>
+  <!-- <channel site="dishtv.in" site_id="158141" lang="en" xmltv_id="B4UMusic">B4U Music</channel> -->
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZOOM" lang="en" xmltv_id="Zoom.in@SD">Zoom</channel>
   <channel site="dishtv.in" site_id="143682" lang="en" xmltv_id="PTCMusic">PTC Music</channel>
 
   <!-- India EngMovies -->
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMANDPRIVE_HD" lang="en" xmltv_id="AndpriveHD.in@SD">&amp;Prive HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD" lang="en" xmltv_id="Andflix.in@HD">&amp;flix HD</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MOVIES_HD" lang="en" xmltv_id="StarMovies.in@HD">Star Movies HD</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD" lang="en" xmltv_id="StarMoviesSelect.in@HD">Star Movies Select HD</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_PIX_HD" lang="en" xmltv_id="SonyPix.in@HD">Sony Pix HD</channel>
+  <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MOVIES_HD" lang="en" xmltv_id="StarMovies.in@HD">Star Movies HD</channel> -->
+  <channel site="tataplay.com" site_id="560" lang="en" xmltv_id="StarMovies.in@HD">STAR Movies HD</channel>
+  <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD" lang="en" xmltv_id="StarMoviesSelect.in@HD">Star Movies Select HD</channel> -->
+  <channel site="tataplay.com" site_id="593" lang="en" xmltv_id="StarMoviesSelect.in@HD">STAR Movies Select HD</channel>
+  <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_PIX_HD" lang="en" xmltv_id="SonyPix.in@HD">Sony Pix HD</channel> -->
+  <channel site="tataplay.com" site_id="32" lang="en" xmltv_id="SonyPix.in@HD">SONY PIX HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MOVIES_NOW_HD" lang="en" xmltv_id="MoviesNow.in@HD">Movies Now HD</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MOVIES_NOW_HD" lang="en" xmltv_id="MoviesNow.in@HD">Movies Now HD</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNSYMPLUS" lang="en" xmltv_id="MoviesNowPlus.in@SD">MN+</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMAND_PICTURES_HD" lang="en" xmltv_id="Andpictures.in@HD">&amp; Pictures HD</channel>
+  <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNSYMPLUS" lang="en" xmltv_id="MoviesNowPlus.in@SD">MN+</channel> -->
+  <channel site="tataplay.com" site_id="210" lang="en" xmltv_id="MoviesNowPlus.in@SD">MN+ HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD" lang="en" xmltv_id="AndxplorHD.in">&amp;Xplor HD</channel>
 
   <!-- Movies -->
-  <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_B4U_KADAK" lang="en" xmltv_id="B4UKadak.in@SD">B4U Kadak</channel> -->
-  <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_B4U_MOVIES" lang="en" xmltv_id="B4UMovies.in@India">B4U Movies</channel> -->
-  <channel site="dishtv.in" site_id="142695" lang="en" xmltv_id="B4UKadak.in@SD">B4U Kadak</channel>
-  <channel site="dishtv.in" site_id="140063" lang="en" xmltv_id="B4UMovies.in@India">B4U Movies</channel>
-  <!-- <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_39" lang="en" xmltv_id="Bollygold">NH BollyGold</channel> -->
-  <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_40" lang="en" xmltv_id="NHBollyFlix">NH BollyFlix</channel>
+  <!-- <channel site="dishtv.in" site_id="142695" lang="en" xmltv_id="B4UKadak.in@SD">B4U Kadak</channel> -->
+  <!-- <channel site="dishtv.in" site_id="140063" lang="en" xmltv_id="B4UMovies.in@India">B4U Movies</channel> -->
+  <!-- <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_40" lang="en" xmltv_id="NHBollyFlix">NH BollyFlix</channel> -->
+  <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMAND_PICTURES_HD" lang="en" xmltv_id="Andpictures.in@HD">&amp; Pictures HD</channel> -->
+  <channel site="tataplay.com" site_id="267" lang="en" xmltv_id="Andpictures.in@HD">&amp;pictures HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD" lang="en" xmltv_id="ZeeCinema.in@HD">Zee Cinema HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD" lang="en" xmltv_id="ZeeBollywood.in@SD">Zee Bollywood</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_CLASSIC" lang="en" xmltv_id="ZeeClassic.in@SD">Zee Classic</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_HD" lang="en" xmltv_id="StarGold.in@HD">Star Gold HD</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_2" lang="en" xmltv_id="StarGold2.in@SD">Star Gold 2</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_THRILLS" lang="en" xmltv_id="StarGoldThrills.in@SD">Star Gold Thrills</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_ROMANCE" lang="en" xmltv_id="StarGoldRomance.in@SD">Star Gold Romance</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_SELECT" lang="en" xmltv_id="StarGoldSelect.in@SD">Star Gold Select</channel>
+  <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_HD" lang="en" xmltv_id="StarGold.in@HD">Star Gold HD</channel> -->
+  <channel site="tataplay.com" site_id="632" lang="en" xmltv_id="StarGold.in@HD">Star GOLD HD</channel>
+  <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_2" lang="en" xmltv_id="StarGold2">Star Gold 2</channel> -->
+  <channel site="tataplay.com" site_id="1072" lang="en" xmltv_id="StarGold2">Star Gold 2 HD</channel>
+  <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_THRILLS" lang="en" xmltv_id="StarGoldThrills.in@SD">Star Gold Thrills</channel> -->
+  <channel site="tataplay.com" site_id="494" lang="en" xmltv_id="StarGoldThrills.in@SD">Star Gold Thrills</channel>
+  <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_ROMANCE" lang="en" xmltv_id="StarGoldRomance.in@SD">Star Gold Romance</channel> -->
+  <channel site="tataplay.com" site_id="493" lang="en" xmltv_id="StarGoldRomance.in@SD">Star Gold Romance</channel>
+  <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_SELECT" lang="en" xmltv_id="StarGoldSelect.in@HD">Star Gold Select</channel> -->
+   <channel site="tataplay.com" site_id="595" lang="en" xmltv_id="StarGoldSelect.in@HD">Star Gold Select HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES" lang="en" xmltv_id="StarUtsavMovies.in@SD">Star Utsav Movies</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_MAX_HD" lang="en" xmltv_id="SonyMax.in@HD">Sony MAX HD</channel>
+  <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_MAX_HD" lang="en" xmltv_id="SonyMax.in@HD">Sony MAX HD</channel> -->
+  <channel site="tataplay.com" site_id="80" lang="en" xmltv_id="SonyMax.in@HD">SONY MAX HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_MAX_2" lang="en" xmltv_id="SonyMax2.in@SD">Sony Max 2</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_WAH" lang="en" xmltv_id="SonyWah.in@SD">Sony Wah</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD" lang="en" xmltv_id="ColorsCineplex.in@HD">Colors Cineplex HD</channel>
+  <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD" lang="en" xmltv_id="ColorsCineplex.in@HD">Colors Cineplex HD</channel> -->
+  <channel site="tataplay.com" site_id="61" lang="en" xmltv_id="ColorsCineplex.in@HD">Colors Cineplex HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS" lang="en" xmltv_id="ColorsCineplexSuperhits.in@SD">Colors Cineplex Superhits</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD" lang="en" xmltv_id="ColorsCineplexBollywood.in">Colors Cineplex Bollywood</channel>
+  <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD" lang="en" xmltv_id="ColorsCineplexBollywood.in">Colors Cineplex Bollywood</channel> -->
+  <channel site="tataplay.com" site_id="1000" lang="en" xmltv_id="ColorsCineplexBollywood.in">Colors Cineplex Bollywood</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA" lang="en" xmltv_id="AnmolCinema.in@SD">Anmol Cinema</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2" lang="en" xmltv_id="AnmolCinema2.in@SD">Anmol Cinema 2</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOLDMINES" lang="en" xmltv_id="Goldmines.in@SD">Goldmines</channel>
+  <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2" lang="en" xmltv_id="AnmolCinema2.in@SD">Anmol Cinema 2</channel> -->
+  <channel site="tataplay.com" site_id="12" lang="en" xmltv_id="AnmolCinema2.in@SD">Anmol Cinema 2</channel>
+  <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOLDMINES" lang="en" xmltv_id="Goldmines.in@SD">Goldmines</channel> -->
+  <channel site="tataplay.com" site_id="823" lang="en" xmltv_id="Goldmines.in@SD">Goldmines</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOLDMINES_BOLLYWOOD" lang="en" xmltv_id="GoldminesBollywood.in">Goldmines Bollywood</channel>
   <channel site="tataplay.com" site_id="1499" lang="en" xmltv_id="GoldminesMovies.in@SD">Goldmines Movies</channel>
   <channel site="distro.tv" site_id="87417" lang="en" xmltv_id="BollywoodClassic.ro@SD">Bollywood Classic</channel>
@@ -62,9 +73,12 @@
   <channel site="dishtv.in" site_id="159123" lang="en" xmltv_id="PTCPunjabi">PTC Punjabi</channel>
   
   <!-- Indian -->
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_HD" lang="en" xmltv_id="Colors.in@HD">Colors HD</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SAB_HD" lang="en" xmltv_id="SonySAB.in@HD">Sony SAB HD</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_PAL" lang="en" xmltv_id="SonyPal.in@SD">Sony Pal</channel>
+  <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_HD" lang="en" xmltv_id="Colors.in@HD">Colors HD</channel> -->
+   <channel site="tataplay.com" site_id="52" lang="en" xmltv_id="Colors.in@HD">Colors HD</channel>
+  <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SAB_HD" lang="en" xmltv_id="SonySAB.in@HD">Sony SAB HD</channel> -->
+  <channel site="tataplay.com" site_id="48" lang="en" xmltv_id="SonySAB.in@HD">SONY SAB HD</channel>
+  <!-- <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_PAL" lang="en" xmltv_id="SonyPal.in@SD">Sony Pal</channel> -->
+  <channel site="tataplay.com" site_id="554" lang="en" xmltv_id="SonyPal.in@SD">Sony Pal</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_PLUS_HD" lang="en" xmltv_id="StarPlus.in@HD">Star Plus HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_UTSAV" lang="en" xmltv_id="StarUtsav.in@SD">Star Utsav</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_TV_HD" lang="en" xmltv_id="ZeeTV.in@HD">Zee TV HD</channel>
