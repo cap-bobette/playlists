@@ -22162,4 +22162,103 @@
     </rating>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859011753_0_20260430T123111979Z_107_imageprocessorclient-tvplus-linear-796646965d-ps72z.jpeg" />
   </programme>
+  <programme start="20260503053000 +0000" stop="20260503063000 +0000" channel="B4UMusic">
+    <title lang="en">Morning Masala</title>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2839442998_0_20260425T215617178Z_1_imageprocessorclient-tvplus-linear-796646965d-bsm4j.jpeg" />
+  </programme>
+  <programme start="20260503063000 +0000" stop="20260503073000 +0000" channel="B4UMusic">
+    <title lang="en">Bajao</title>
+    <desc lang="en">The hottest Hindi chartbusters of the season!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_1444431924_0_20250604T115531226Z_53_imageprocessorclient-tvplus-linear-b76dd9bbb-n7vx6.jpeg" />
+  </programme>
+  <programme start="20260503073000 +0000" stop="20260503083000 +0000" channel="B4UMusic">
+    <title lang="en">Bajao</title>
+    <desc lang="en">The hottest Hindi chartbusters of the season!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_1444431924_0_20250604T115531226Z_53_imageprocessorclient-tvplus-linear-b76dd9bbb-n7vx6.jpeg" />
+  </programme>
+  <programme start="20260503083000 +0000" stop="20260503093000 +0000" channel="B4UMusic">
+    <title lang="en">SOLID HITS</title>
+    <desc lang="en">Songs which have topped the charts and ruled your hearts, the biggest hits of the recent times.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_1444432129_0_20250604T115538041Z_24_imageprocessorclient-tvplus-linear-b76dd9bbb-n7vx6.jpeg" />
+  </programme>
+  <programme start="20260503055707 +0000" stop="20260503075847 +0000" channel="Bollygold">
+    <title lang="en">Ittefaq</title>
+    <sub-title>ITTEFAQ-1969_HD</sub-title>
+    <desc lang="en">Dilip Roy is a painter by trade and, despite possessing a beautiful wife called Sushma, he spends most of his time painting. On the day of their anniversary celebration, Dilip is late finishing a painting when a frustrated Sushma snatches the brush from his hand. Furious, Dilip strangles her to death, is arrested and sent to a psychiatric institute.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2803393007_1_20260417T111133666Z_119_imageprocessorclient-tvplus-linear-796646965d-vdlb5.jpeg" />
+  </programme>
+  <programme start="20260503075847 +0000" stop="20260503101616 +0000" channel="Bollygold">
+    <title lang="en">Guddi</title>
+    <sub-title>GUDDI 1981</sub-title>
+    <desc lang="en">Kusum is obsessed with Bollywood movies and is unable to distinguish between the real world and the movie world, to the extent that she refuses to marry anyone besides her idol, Dharmendra.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+  </programme>
+  <programme start="20260503063000 +0000" stop="20260503070000 +0000" channel="Pitaara">
+    <title lang="en">Kaato Kaahto</title>
+    <desc lang="en">Entertainment</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218612_0_20260313T095116582Z_93_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+  </programme>
+  <programme start="20260503070000 +0000" stop="20260503100000 +0000" channel="Pitaara">
+    <title lang="en">Movie Brunch-Shubh Chintak</title>
+    <desc lang="en">Starcast-Mandeep Dhami, Surmeet, Rupali Sandhu, Satta Dhillon, Yovan Samra</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218605_0_20260313T095116334Z_33_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+  </programme>
+  <programme start="20260503063000 +0000" stop="20260503070000 +0000" channel="PitaaraComedy">
+    <title lang="en">Kaato Kaahto</title>
+    <desc lang="en">Kaato Kaahto</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2686003489_0_20260320T140419915Z_37_imageprocessorclient-tvplus-linear-796646965d-7jmkq.png" />
+  </programme>
+  <programme start="20260503070000 +0000" stop="20260503100000 +0000" channel="PitaaraComedy">
+    <title lang="en">Movie Crunch</title>
+    <desc lang="en">Movie Crunch</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2686003489_0_20260320T140419915Z_37_imageprocessorclient-tvplus-linear-796646965d-7jmkq.png" />
+  </programme>
+  <programme start="20260503060215 +0000" stop="20260503090439 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Ramji Londonwaley</title>
+    <desc lang="en">Ramji, a docile cook from a small Indian town, arrives in London for work only to find out that his employer is dead. He is further saddled with immigration issues that force him to marry.</desc>
+    <episode-num system="onscreen">S07E02</episode-num>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859037752_0_20260430T123053464Z_57_imageprocessorclient-tvplus-linear-796646965d-ps72z.jpeg" />
+  </programme>
+  <programme start="20260503090439 +0000" stop="20260503111517 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Raavan</title>
+    <desc lang="en">A bandit kidnaps a police officer's wife as revenge, but the lines between good and evil blur.</desc>
+    <episode-num system="onscreen">S07E02</episode-num>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2858998075_0_20260430T123111980Z_63_imageprocessorclient-tvplus-linear-796646965d-ps72z.png" />
+  </programme>
+  <programme start="20260503051951 +0000" stop="20260503080238 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Super Star</title>
+    <desc lang="en">Kunal Mehra, a junior artist, dreams of becoming the biggest Bollywood star. One day, an opportunity knocks when he is asked to replace his lookalike for a big production house only condition being that he cannot give away his identity.</desc>
+    <episode-num system="onscreen">S07E02</episode-num>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2858997775_0_20260430T123110978Z_18_imageprocessorclient-tvplus-linear-796646965d-ps72z.jpeg" />
+  </programme>
+  <programme start="20260503080238 +0000" stop="20260503095937 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">I, Me Aur Main</title>
+    <desc lang="en">Aarush, Al and Tanmay, three womanisers get the shock of their life when they find a baby girl at their doorstep claiming to be the daughter of one of them. As they try to find her mother, they discover an unexplored side of their own personality.</desc>
+    <episode-num system="onscreen">S07E02</episode-num>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2858997774_0_20260430T123111981Z_73_imageprocessorclient-tvplus-linear-796646965d-ps72z.png" />
+  </programme>
 </tv>
