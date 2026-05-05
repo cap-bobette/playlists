@@ -33263,4 +33263,43 @@
     </rating>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2099344542_0_20251031T034924142Z_1_imageprocessorclient-tvplus-linear-76c46fff7-hvrmd.png" />
   </programme>
+  <programme start="20260505233000 +0000" stop="20260506000000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Music Dhar Hai</sub-title>
+    <desc lang="en">9XM MUSIC IDHAR HAI is a show of evergreen Bollywood super hits.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208763081_0_20250423T112703194Z_27_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260506000000 +0000" stop="20260506003000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Music Dhar Hai</sub-title>
+    <desc lang="en">9XM MUSIC IDHAR HAI is a show of evergreen Bollywood super hits.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208763081_0_20250423T112703194Z_27_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260505233000 +0000" stop="20260506013000 +0000" channel="B4UMusic">
+    <title lang="en">Aawaaz De Kahan Hai</title>
+    <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2839443174_0_20260425T215617178Z_102_imageprocessorclient-tvplus-linear-796646965d-bsm4j.jpeg" />
+  </programme>
+  <programme start="20260505235353 +0000" stop="20260506021419 +0000" channel="Bollygold">
+    <title lang="en">Chhoti Si Baat</title>
+    <desc lang="en">Plot. Chhoti Si Baat is a romantic comedy about a painfully shy young man Arun Pradeep (Amol Palekar), who lacks self-confidence and fails to stand up for his convictions, in the process letting all and sundry walk all over him.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+  </programme>
+  <programme start="20260506000439 +0000" stop="20260506025735 +0000" channel="NHBollyFlix">
+    <title lang="en">Zakhmi Insan (dub) (dass Tamil)</title>
+    <desc lang="en">Antony falls in love with Rajeswari who belongs to an upper caste family. When her father kills her sister for marrying a man from the lower caste, she decides to elope with Antony.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1645791617_0_20250708T173556919Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-kpk6m.png" />
+  </programme>
 </tv>
