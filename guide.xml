@@ -31609,4 +31609,44 @@
     </rating>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2858997773_0_20260430T123111981Z_83_imageprocessorclient-tvplus-linear-796646965d-ps72z.jpeg" />
   </programme>
+  <programme start="20260507113000 +0000" stop="20260507120000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260507120000 +0000" stop="20260507123000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260507113000 +0000" stop="20260507123000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_1444431892_0_20250604T115531444Z_20_imageprocessorclient-tvplus-linear-b76dd9bbb-n7vx6.jpeg" />
+  </programme>
+  <programme start="20260507115753 +0000" stop="20260507141521 +0000" channel="Bollygold">
+    <title lang="en">Guddi</title>
+    <desc lang="en">Kusum is obsessed with Bollywood movies and is unable to distinguish between the real world and the movie world, to the extent that she refuses to marry anyone besides her idol, Dharmendra.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+  </programme>
+  <programme start="20260507115559 +0000" stop="20260507175559 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Bhagam Bhag</title>
+    <desc lang="en">Bunty and Babla are two wannabe actors and want to play the lead in their theatre's play. Soon, their inappropriate behaviour causes the female lead to quit and they get tasked to finding another which hilariously lands them in a convoluted trouble.</desc>
+    <episode-num system="onscreen">S07E02</episode-num>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2858997773_0_20260430T123111981Z_83_imageprocessorclient-tvplus-linear-796646965d-ps72z.jpeg" />
+  </programme>
 </tv>
