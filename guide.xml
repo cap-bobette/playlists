@@ -30732,4 +30732,43 @@
     </rating>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859005370_1_20260430T123104054Z_122_imageprocessorclient-tvplus-linear-796646965d-vhr29.jpeg" />
   </programme>
+  <programme start="20260509113000 +0000" stop="20260509120000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260509120000 +0000" stop="20260509123000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260509113000 +0000" stop="20260509123000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_1444431892_0_20250604T115531444Z_20_imageprocessorclient-tvplus-linear-b76dd9bbb-n7vx6.jpeg" />
+  </programme>
+  <programme start="20260509120823 +0000" stop="20260509142054 +0000" channel="NHBollyFlix">
+    <title lang="en">Maqbool</title>
+    <desc lang="en">In Mumbai's criminal underworld, the lord of all lords is Jahangir Khan (Pankaj Kapoor). Those loyal to him include Maqbool (Irfan Khan), his chief. But Maqbool is in love with Nimmi (Tabu), Jahangir's mistress, who convinces him to be ambitious and take over the empire. After maneuvering potential rivals out of the way, Maqbool betrays Jahangir, murdering him in his own bed. However, it isn't long before both Maqbool and Nimmi are haunted by the ghosts of their treacherous deeds.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1039061396_0_20250322T172856767Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-ddgfn.jpeg" />
+  </programme>
+  <programme start="20260509112526 +0000" stop="20260509142628 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Aan: Men At Work</title>
+    <desc lang="en">On a mission to make Mumbai crime-free, DCP Hari Om Patnaik and his team fights against some corrupt politicians and their associates. In the process, their faith in law and order is put to test.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859005370_1_20260430T123104054Z_122_imageprocessorclient-tvplus-linear-796646965d-vhr29.jpeg" />
+  </programme>
 </tv>
