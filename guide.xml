@@ -34229,4 +34229,70 @@
     </rating>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2099344542_0_20251031T034924142Z_1_imageprocessorclient-tvplus-linear-76c46fff7-hvrmd.png" />
   </programme>
+  <programme start="20260519223000 +0000" stop="20260519230000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Raat Bhar</sub-title>
+    <desc lang="en">A show with no breaks, playing non-stop latest Bollywood &amp;amp; super hits.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759130_0_20250423T112703335Z_100_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260519230000 +0000" stop="20260519233000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Raat Bhar</sub-title>
+    <desc lang="en">A show with no breaks, playing non-stop latest Bollywood &amp;amp; super hits.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759130_0_20250423T112703335Z_100_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260519233000 +0000" stop="20260520000000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Music Dhar Hai</sub-title>
+    <desc lang="en">9XM MUSIC IDHAR HAI is a show of evergreen Bollywood super hits.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208763081_0_20250423T112703194Z_27_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260520000000 +0000" stop="20260520003000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Music Dhar Hai</sub-title>
+    <desc lang="en">9XM MUSIC IDHAR HAI is a show of evergreen Bollywood super hits.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208763081_0_20250423T112703194Z_27_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260519233000 +0000" stop="20260520013000 +0000" channel="B4UMusic">
+    <title lang="en">Aawaaz De Kahan Hai</title>
+    <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910870032_0_20260512T115303347Z_49_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20260519230714 +0000" stop="20260520020736 +0000" channel="Bollygold">
+    <title lang="en">Apna Bana Lo</title>
+    <desc lang="en">A widowed mother loses her child near a well during a journey on foot. Follows her emotional path through grief and acceptance as she navigates life after the devastating loss.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+  </programme>
+  <programme start="20260519224526 +0000" stop="20260520005222 +0000" channel="NHBollyFlix">
+    <title lang="en">Freaky Ali</title>
+    <desc lang="en">After a chance encounter with a golfer inspires him, Ali, a debt collector working for a gangster, pursues the sport professionally. Soon, he becomes a champion, but he must face a corrupt rival.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_967687048_0_20250309T061934906Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-gvkfw.jpeg" />
+  </programme>
+  <programme start="20260519233148 +0000" stop="20260520021335 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Zila Ghaziabad</title>
+    <desc lang="en">A gang war erupts between corrupt chairman Brahampal and gangster Fauji. Betrayal and shifting loyalties escalate the conflict, plunging the village into chaos and violence as personal vendettas drive the characters towards an uncertain future.</desc>
+    <episode-num system="onscreen">S07E02</episode-num>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859004983_0_20260430T123111972Z_60_imageprocessorclient-tvplus-linear-796646965d-ps72z.png" />
+  </programme>
 </tv>
