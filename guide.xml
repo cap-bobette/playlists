@@ -34159,4 +34159,69 @@
     </rating>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859038044_1_20260430T123104054Z_73_imageprocessorclient-tvplus-linear-796646965d-vhr29.png" />
   </programme>
+  <programme start="20260521223000 +0000" stop="20260521230000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Raat Bhar</sub-title>
+    <desc lang="en">A show with no breaks, playing non-stop latest Bollywood &amp;amp; super hits.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759130_0_20250423T112703335Z_100_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260521230000 +0000" stop="20260521233000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Raat Bhar</sub-title>
+    <desc lang="en">A show with no breaks, playing non-stop latest Bollywood &amp;amp; super hits.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759130_0_20250423T112703335Z_100_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260521233000 +0000" stop="20260522000000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Music Dhar Hai</sub-title>
+    <desc lang="en">9XM MUSIC IDHAR HAI is a show of evergreen Bollywood super hits.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208763081_0_20250423T112703194Z_27_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260522000000 +0000" stop="20260522003000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Music Dhar Hai</sub-title>
+    <desc lang="en">9XM MUSIC IDHAR HAI is a show of evergreen Bollywood super hits.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208763081_0_20250423T112703194Z_27_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260521233000 +0000" stop="20260522013000 +0000" channel="B4UMusic">
+    <title lang="en">Aawaaz De Kahan Hai</title>
+    <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910870032_0_20260512T115303347Z_49_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20260521235018 +0000" stop="20260522021057 +0000" channel="Bollygold">
+    <title lang="en">Khubsoorat</title>
+    <desc lang="en">The lady of a household runs the place with utmost strictness but hilarity and chaos ensues when her daughter-in-law's younger sister pays a visit and tries to change the rules in the house.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+  </programme>
+  <programme start="20260521223823 +0000" stop="20260522010805 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Veerey Ki Wedding</title>
+    <desc lang="en">Veerey and Geet fall in love and decide to get married. Their plan gets tossed out of the window when her peace-loving father sees Veerey getting involved in a fight, if only to protect a girl, and stamps him as a violent roadside Romeo.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2860334662_0_20260430T193642701Z_124_imageprocessorclient-tvplus-linear-796646965d-vdlb5.jpeg" />
+  </programme>
+  <programme start="20260521233623 +0000" stop="20260522023416 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">The Legend Of Bhagat Singh</title>
+    <desc lang="en">During the British Raj, upon witnessing the atrocities of the British, Bhagat Singh grows up to be a fierce freedom fighter. His publicised ideas of revolution bring him to as much popularity as Mahatma Gandhi amongst Indians.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2099344542_0_20251031T034924142Z_1_imageprocessorclient-tvplus-linear-76c46fff7-hvrmd.png" />
+  </programme>
 </tv>
