@@ -32878,4 +32878,61 @@
     </rating>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2860334662_0_20260430T193642701Z_124_imageprocessorclient-tvplus-linear-796646965d-vdlb5.jpeg" />
   </programme>
+  <programme start="20260522123000 +0000" stop="20260522130000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260522130000 +0000" stop="20260522133000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260522123000 +0000" stop="20260522153000 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2915512344_0_20260513T144317106Z_32_imageprocessorclient-tvplus-linear-65bb79cc48-4bbrf.jpeg" />
+  </programme>
+  <programme start="20260522123000 +0000" stop="20260522153000 +0000" channel="B4UMovies.in@India">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2820838315_0_20260421T122520049Z_1_imageprocessorclient-tvplus-linear-796646965d-pnqz4.jpeg" />
+  </programme>
+  <programme start="20260522123000 +0000" stop="20260522133000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910869632_0_20260512T115303328Z_48_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20260522125502 +0000" stop="20260522160112 +0000" channel="Bollygold">
+    <title lang="en">Saagar</title>
+    <desc lang="en">Raja secretly loves Mona, but she is in love with Ravi. However, Ravi's grandmother disapproves of their relationship and asks Mona to forget him and marry someone else.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+  </programme>
+  <programme start="20260522122916 +0000" stop="20260522142320 +0000" channel="NHBollyFlix">
+    <title lang="en">Nh10</title>
+    <desc lang="en">Gurgaon professionals Meera and Arjun are shaken after Meera survives a brutal attack. Seeking escape, they take a desert holiday, but at a highway dhaba they witness hoodlums abducting a young girl.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2719577179_0_20260328T135848144Z_1_imageprocessorclient-tvplus-linear-796646965d-2k68x.png" />
+  </programme>
+  <programme start="20260522125821 +0000" stop="20260522152027 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Mission Istaanbul</title>
+    <desc lang="en">An action thriller film that follows the story of a journalist, Vikas, who is sent to Istanbul to cover a breaking news story. However, he becomes embroiled in a dangerous conspiracy involving international terrorism and political corruption. The movie features high-octane action sequences and explores themes of courage, patriotism, and the importance of journalistic integrity in a thrilling and suspenseful plot.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2861344242_0_20260501T013250033Z_80_imageprocessorclient-tvplus-linear-796646965d-b4fnr.jpeg" />
+  </programme>
 </tv>
