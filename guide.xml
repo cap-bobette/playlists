@@ -33114,4 +33114,92 @@
     </rating>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2887573798_0_20260507T020258878Z_29_imageprocessorclient-tvplus-linear-796646965d-pnqz4.jpeg" />
   </programme>
+  <programme start="20260524113000 +0000" stop="20260524120000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260524120000 +0000" stop="20260524123000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260524123000 +0000" stop="20260524130000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260524130000 +0000" stop="20260524133000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260524123000 +0000" stop="20260524153000 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2915512344_0_20260513T144317106Z_32_imageprocessorclient-tvplus-linear-65bb79cc48-4bbrf.jpeg" />
+  </programme>
+  <programme start="20260524123000 +0000" stop="20260524153000 +0000" channel="B4UMovies.in@India">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_1360953267_1_20250520T164907943Z_52_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.png" />
+  </programme>
+  <programme start="20260524113000 +0000" stop="20260524123000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910869632_0_20260512T115303328Z_48_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20260524123000 +0000" stop="20260524133000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910869632_0_20260512T115303328Z_48_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20260524125754 +0000" stop="20260524161644 +0000" channel="Bollygold">
+    <title lang="en">Shaan</title>
+    <desc lang="en">Two brothers go after the international mafia kingpin who murdered their cop brother. They are later joined by another man who wants revenge against the gangster.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+  </programme>
+  <programme start="20260524122558 +0000" stop="20260524145551 +0000" channel="NHBollyFlix">
+    <title lang="en">Action Jackson</title>
+    <desc lang="en">Vishi, a small-time crook, looks like AJ, a professional assassin. AJ convinces Vishi to help him fool the mob so he can be with his wife while she has a baby, and as the crooks close in on Vishi, AJ arrives to deal with them.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1755863828_0_20250726T133244409Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-sh9pz.png" />
+  </programme>
+  <programme start="20260524114347 +0000" stop="20260524140802 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Madhoshi</title>
+    <desc lang="en">While talking to her parents over the telephone, a young woman and her husband perish in the September 11th attack on the World Trade Center the family back in India must try to deal with their loss.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2887570127_0_20260507T020258878Z_133_imageprocessorclient-tvplus-linear-796646965d-pnqz4.png" />
+  </programme>
+  <programme start="20260524123803 +0000" stop="20260524151341 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Dhamaal</title>
+    <desc lang="en">Four slack and vagabond conmen learn about a hidden treasure from a dying thief and race against time to claim it. Meanwhile, they are also being pursued by a determined police inspector who is hell-bent on finding the treasure and keeping it all to himself.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2887574897_0_20260507T020258900Z_76_imageprocessorclient-tvplus-linear-796646965d-pnqz4.jpeg" />
+  </programme>
 </tv>
