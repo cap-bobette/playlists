@@ -34450,4 +34450,69 @@
     </rating>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859024278_1_20260430T123053051Z_44_imageprocessorclient-tvplus-linear-796646965d-vhr29.png" />
   </programme>
+  <programme start="20260617223000 +0000" stop="20260617230000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Raat Bhar</sub-title>
+    <desc lang="en">A show with no breaks, playing non-stop latest Bollywood &amp;amp; super hits.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759130_0_20250423T112703335Z_100_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260617230000 +0000" stop="20260617233000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Raat Bhar</sub-title>
+    <desc lang="en">A show with no breaks, playing non-stop latest Bollywood &amp;amp; super hits.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759130_0_20250423T112703335Z_100_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260617233000 +0000" stop="20260618000000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Music Dhar Hai</sub-title>
+    <desc lang="en">9XM MUSIC IDHAR HAI is a show of evergreen Bollywood super hits.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208763081_0_20250423T112703194Z_27_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260618000000 +0000" stop="20260618003000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Music Dhar Hai</sub-title>
+    <desc lang="en">9XM MUSIC IDHAR HAI is a show of evergreen Bollywood super hits.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208763081_0_20250423T112703194Z_27_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260617233000 +0000" stop="20260618013000 +0000" channel="B4UMusic">
+    <title lang="en">Aawaaz De Kahan Hai</title>
+    <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910870032_0_20260512T115303347Z_49_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20260617232200 +0000" stop="20260618015857 +0000" channel="Bollygold">
+    <title lang="en">Choron Ki Baarat</title>
+    <desc lang="en">Anju falls in love with Shekhar and offers him employment under her father. Even though he readily accepts it, she later finds out the real motive behind his actions.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+  </programme>
+  <programme start="20260617225358 +0000" stop="20260618012653 +0000" channel="NHBollyFlix">
+    <title lang="en">Powerful Game</title>
+    <desc lang="en">A man unravels the mysteries of his past and his upbringing while settling a village feud.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1625970382_0_20250705T064726172Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-69wjt.png" />
+  </programme>
+  <programme start="20260617234514 +0000" stop="20260618030234 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Jaan-E-Mann: Let's Fall in Love... Again</title>
+    <desc lang="en">Salman Khan, Akshay KumarPreity Zinta, Anupam Kher, Soni Razdan, Aman Verma, Jawed Sheikh, Priyanka Shenoy, Rajesh Balwani</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2861252509_0_20260501T013250101Z_28_imageprocessorclient-tvplus-linear-796646965d-b4fnr.jpeg" />
+  </programme>
 </tv>
