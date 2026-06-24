@@ -33576,4 +33576,107 @@
     </rating>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2860334662_0_20260430T193642701Z_124_imageprocessorclient-tvplus-linear-796646965d-vdlb5.jpeg" />
   </programme>
+  <programme start="20260624123000 +0000" stop="20260624130000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260624130000 +0000" stop="20260624133000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260624133000 +0000" stop="20260624140000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Super Swag</sub-title>
+    <desc lang="en">A Musical hour with all time favourite super hit film songs.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208760168_0_20250423T112703253Z_49_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260624140000 +0000" stop="20260624143000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Super Swag</sub-title>
+    <desc lang="en">A Musical hour with all time favourite super hit film songs.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208760168_0_20250423T112703253Z_49_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260624123000 +0000" stop="20260624153000 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3000909437_0_20260602T110347644Z_46_imageprocessorclient-tvplus-linear-75df688c49-gk4lw.jpeg" />
+  </programme>
+  <programme start="20260624133000 +0000" stop="20260624172800 +0000" channel="B4UMovies.in@India">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3001034356_0_20260602T115001778Z_1_imageprocessorclient-tvplus-linear-75df688c49-bb85n.jpeg" />
+  </programme>
+  <programme start="20260624123000 +0000" stop="20260624133000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2973043699_0_20260526T215007089Z_1_imageprocessorclient-tvplus-linear-75df688c49-wb9lz.jpeg" />
+  </programme>
+  <programme start="20260624133000 +0000" stop="20260624143000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2973043699_0_20260526T215007089Z_1_imageprocessorclient-tvplus-linear-75df688c49-wb9lz.jpeg" />
+  </programme>
+  <programme start="20260624135656 +0000" stop="20260624171025 +0000" channel="Bollygold">
+    <title lang="en">Khuddar</title>
+    <desc lang="en">Hari is forced to marry Seema, who dislikes his stepbrothers, Govind and Rajesh. When he goes to Mumbai, she displaces them to become beggars. However, destiny reunites them with Hari in a courtroom.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+  </programme>
+  <programme start="20260624121604 +0000" stop="20260624151058 +0000" channel="NHBollyFlix">
+    <title lang="en">Ilaka (peddupettai)</title>
+    <desc lang="en">Crime drama about Kumar, a man who rises from a slum to become a powerful figure in the underworld after witnessing his mother's murder. Driven by ambition and vengeance, he navigates betrayal and crime.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1673284602_0_20250713T073112718Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-hxtdf.png" />
+  </programme>
+  <programme start="20260624133000 +0000" stop="20260624143000 +0000" channel="Pitaara">
+    <title lang="en">Speaker Kharke</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218511_0_20260313T095116715Z_35_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+  </programme>
+  <programme start="20260624133000 +0000" stop="20260624143000 +0000" channel="PitaaraComedy">
+    <title lang="en">Pitaara Unfiltered</title>
+    <desc lang="en">Pitaara Unfiltered</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2686003489_0_20260320T140419915Z_37_imageprocessorclient-tvplus-linear-796646965d-7jmkq.png" />
+  </programme>
+  <programme start="20260624123328 +0000" stop="20260624153407 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Bhagam Bhag</title>
+    <desc lang="en">Bunty and Babla are two wannabe actors and want to play the lead in their theatre's play. Soon, their inappropriate behaviour causes the female lead to quit and they get tasked to finding another which hilariously lands them in a convoluted trouble.</desc>
+    <episode-num system="onscreen">S07E02</episode-num>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2858997773_0_20260430T123111981Z_83_imageprocessorclient-tvplus-linear-796646965d-ps72z.jpeg" />
+  </programme>
+  <programme start="20260624122537 +0000" stop="20260624143615 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Raavan</title>
+    <desc lang="en">A bandit kidnaps a police officer's wife as revenge, but the lines between good and evil blur.</desc>
+    <episode-num system="onscreen">S07E02</episode-num>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2858998075_0_20260430T123111980Z_63_imageprocessorclient-tvplus-linear-796646965d-ps72z.png" />
+  </programme>
 </tv>
