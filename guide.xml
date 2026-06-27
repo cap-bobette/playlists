@@ -33305,4 +33305,53 @@
     </rating>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2887573798_0_20260507T020258878Z_29_imageprocessorclient-tvplus-linear-796646965d-pnqz4.jpeg" />
   </programme>
+  <programme start="20260627123000 +0000" stop="20260627130000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260627130000 +0000" stop="20260627133000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260627123000 +0000" stop="20260627153000 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3000909437_0_20260602T110347644Z_46_imageprocessorclient-tvplus-linear-75df688c49-gk4lw.jpeg" />
+  </programme>
+  <programme start="20260627123000 +0000" stop="20260627153000 +0000" channel="B4UMovies.in@India">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3001034356_0_20260602T115001778Z_1_imageprocessorclient-tvplus-linear-75df688c49-bb85n.jpeg" />
+  </programme>
+  <programme start="20260627123000 +0000" stop="20260627133000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2973043699_0_20260526T215007089Z_1_imageprocessorclient-tvplus-linear-75df688c49-wb9lz.jpeg" />
+  </programme>
+  <programme start="20260627130706 +0000" stop="20260627155651 +0000" channel="Bollygold">
+    <title lang="en">Chupke Chupke</title>
+    <desc lang="en">Mischievous botany professor Parimal Tripathi (Dharmendra) plays a little trick on his brother-in-law Raghav (Om Prakash). Jealous of the high esteem in which his own wife, Sulekha (Amitabh Bachchan), holds the other man, Parimal decides to impersonate Raghav's new driver. Laying the groundwork for a series of hilarious misunderstandings, the disguised professor throws doubt on his wife's fidelity and gets his best buddy, Sukumar (Sharmila Tagore), to help out by impersonating Parimal.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+  </programme>
+  <programme start="20260627124721 +0000" stop="20260627155056 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Aarakshan</title>
+    <desc lang="en">The controversial policy of caste-based reservations in government jobs and educational institutions in India leads to a conflict between a teacher hailing from a lower class, his good friend belonging to the upper caste, and his mentor.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2858997988_1_20260430T123104055Z_161_imageprocessorclient-tvplus-linear-796646965d-vhr29.jpeg" />
+  </programme>
 </tv>
