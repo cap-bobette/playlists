@@ -34648,4 +34648,152 @@
     </rating>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859004982_0_20260430T123111980Z_111_imageprocessorclient-tvplus-linear-796646965d-ps72z.jpeg" />
   </programme>
+  <programme start="20260630003000 +0000" stop="20260630010000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260630010000 +0000" stop="20260630013000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260630013000 +0000" stop="20260630020000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260630020000 +0000" stop="20260630023000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260630023000 +0000" stop="20260630030000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260630030000 +0000" stop="20260630033000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260630003000 +0000" stop="20260630033000 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3000909437_0_20260602T110347644Z_46_imageprocessorclient-tvplus-linear-75df688c49-gk4lw.jpeg" />
+  </programme>
+  <programme start="20260630003000 +0000" stop="20260630033000 +0000" channel="B4UMovies.in@India">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3001034356_0_20260602T115001778Z_1_imageprocessorclient-tvplus-linear-75df688c49-bb85n.jpeg" />
+  </programme>
+  <programme start="20260630013000 +0000" stop="20260630023000 +0000" channel="B4UMusic">
+    <title lang="en">Morning Masala</title>
+    <desc lang="en">Wake up to the best of the contemporary Bollywood tracks.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_1444432086_0_20250604T115539032Z_49_imageprocessorclient-tvplus-linear-b76dd9bbb-n7vx6.jpeg" />
+  </programme>
+  <programme start="20260630023000 +0000" stop="20260630033000 +0000" channel="B4UMusic">
+    <title lang="en">Morning Masala</title>
+    <desc lang="en">Wake up to the best of the contemporary Bollywood tracks.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_1444432086_0_20250604T115539032Z_49_imageprocessorclient-tvplus-linear-b76dd9bbb-n7vx6.jpeg" />
+  </programme>
+  <programme start="20260630004920 +0000" stop="20260630030147 +0000" channel="Bollygold">
+    <title lang="en">Aitbaar</title>
+    <desc lang="en">Trying to escape an abusive marriage with Jaideep, Neha returns to her ex-lover Sagar. However, when Jaideep claims that he is a changed man, Neha faces a dilemma about whom she wants to be with.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+  </programme>
+  <programme start="20260630030147 +0000" stop="20260630054104 +0000" channel="Bollygold">
+    <title lang="en">Saveray Wali Gaadi</title>
+    <desc lang="en">Ravidas lives in a village in rural India. He is the son of Chediram who is of highly respected in the village. Ravidas falls in love with Jyoti. Their love becomes known in the village. Because of differences of caste, the villagers are opposed to Ravidas marrying Jyoti. Chediram commits suicide due to the shame his son has brought upon him. Ravidas is a gifted poet, but he cannot fulfill his dream of being recognized as a great poet, his poems being published and shown to the world, because he lives in a village.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+  </programme>
+  <programme start="20260630020957 +0000" stop="20260630042813 +0000" channel="NHBollyFlix">
+    <title lang="en">Mitti</title>
+    <desc lang="en">Deva, a villager, goes on a violent rampage to avenge his sister's rape, and soon finds himself battling both the criminals responsible and the police.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1046290525_0_20250324T022528819Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-v2p5r.jpeg" />
+  </programme>
+  <programme start="20260630003000 +0000" stop="20260630013000 +0000" channel="Pitaara">
+    <title lang="en">Speaker Kharke</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218511_0_20260313T095116715Z_35_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+  </programme>
+  <programme start="20260630013000 +0000" stop="20260630023000 +0000" channel="Pitaara">
+    <title lang="en">Speaker Kharke</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218511_0_20260313T095116715Z_35_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+  </programme>
+  <programme start="20260630023000 +0000" stop="20260630033000 +0000" channel="Pitaara">
+    <title lang="en">MORNIG HIT BEATS</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218510_0_20260313T095116297Z_105_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+  </programme>
+  <programme start="20260630003000 +0000" stop="20260630023000 +0000" channel="PitaaraComedy">
+    <title lang="en">Morning Hit Beats</title>
+    <desc lang="en">Morning Hit Beats</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2686003489_0_20260320T140419915Z_37_imageprocessorclient-tvplus-linear-796646965d-7jmkq.png" />
+  </programme>
+  <programme start="20260630023000 +0000" stop="20260630033000 +0000" channel="PitaaraComedy">
+    <title lang="en">Behind The Beats</title>
+    <desc lang="en">Behind The Beats</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2686003489_0_20260320T140419915Z_37_imageprocessorclient-tvplus-linear-796646965d-7jmkq.png" />
+  </programme>
+  <programme start="20260630013708 +0000" stop="20260630043431 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">The Legend Of Bhagat Singh</title>
+    <desc lang="en">During the British Raj, upon witnessing the atrocities of the British, Bhagat Singh grows up to be a fierce freedom fighter. His publicised ideas of revolution bring him to as much popularity as Mahatma Gandhi amongst Indians.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_534823461_0_20231109T024201609Z_1.jpeg" />
+  </programme>
+  <programme start="20260630011542 +0000" stop="20260630032850 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Chalo Dilli</title>
+    <desc lang="en">Mihika, an investment banker, misses her flight to Delhi and meets Manu Gupta, a talkative man. In order to reach Delhi on time, she must tag along with Manu and put up with his antics.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2858998069_1_20260430T123104055Z_56_imageprocessorclient-tvplus-linear-796646965d-vhr29.png" />
+  </programme>
 </tv>
