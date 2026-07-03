@@ -34770,4 +34770,152 @@
     </rating>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859005375_1_20260430T123104055Z_140_imageprocessorclient-tvplus-linear-796646965d-vhr29.jpeg" />
   </programme>
+  <programme start="20260703113000 +0000" stop="20260703120000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260703120000 +0000" stop="20260703123000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260703123000 +0000" stop="20260703130000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260703130000 +0000" stop="20260703133000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260703133000 +0000" stop="20260703140000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>ReelStar</sub-title>
+    <desc lang="en">Enjoy your favourite songs with trending Reels, on 9XM Reelstar</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1809135174_0_20250808T150057962Z_36_imageprocessorclient-tvplus-linear-d7c8c765b-nfvpt.jpeg" />
+  </programme>
+  <programme start="20260703140000 +0000" stop="20260703143000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>ReelStar</sub-title>
+    <desc lang="en">Enjoy your favourite songs with trending Reels, on 9XM Reelstar</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1809135174_0_20250808T150057962Z_36_imageprocessorclient-tvplus-linear-d7c8c765b-nfvpt.jpeg" />
+  </programme>
+  <programme start="20260703123000 +0000" stop="20260703153000 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3000909437_0_20260602T110347644Z_46_imageprocessorclient-tvplus-linear-75df688c49-gk4lw.jpeg" />
+  </programme>
+  <programme start="20260703123000 +0000" stop="20260703153000 +0000" channel="B4UMovies.in@India">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3001034356_0_20260602T115001778Z_1_imageprocessorclient-tvplus-linear-75df688c49-bb85n.jpeg" />
+  </programme>
+  <programme start="20260703113000 +0000" stop="20260703123000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2973043699_0_20260526T215007089Z_1_imageprocessorclient-tvplus-linear-75df688c49-wb9lz.jpeg" />
+  </programme>
+  <programme start="20260703123000 +0000" stop="20260703133000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2973043699_0_20260526T215007089Z_1_imageprocessorclient-tvplus-linear-75df688c49-wb9lz.jpeg" />
+  </programme>
+  <programme start="20260703133000 +0000" stop="20260703143000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2973043699_0_20260526T215007089Z_1_imageprocessorclient-tvplus-linear-75df688c49-wb9lz.jpeg" />
+  </programme>
+  <programme start="20260703113001 +0000" stop="20260703135738 +0000" channel="Bollygold">
+    <title lang="en">Bawarchi</title>
+    <desc lang="en">Shivnath (Harindranath Chattopadhyay) is the head of the Sharma family, who are so thoroughly argumentative that they have succeeded in scaring away every single cook they've ever employed. So when plucky young chef Raghu (Rajesh Khanna) shows up, nobody expects him to last long. To their surprise, however, he proves remarkably adept at satisfying everyone's independent needs. No sooner do they think him their savior than all the jewelry suddenly disappears.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3082437537_0_20260620T215031674Z_45_imageprocessorclient-tvplus-linear-75df688c49-xs9f2.jpeg" />
+  </programme>
+  <programme start="20260703135738 +0000" stop="20260703164210 +0000" channel="Bollygold">
+    <title lang="en">Golmaal</title>
+    <desc lang="en">Ramprasad works for Bhavani, who discourages his employees from pursuing any hobbies. Things take a hilarious turn when Bhavani catches Ramprasad at a hockey match and he lies about having a twin.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3082498534_0_20260620T215029491Z_131_imageprocessorclient-tvplus-linear-75df688c49-xs9f2.jpeg" />
+  </programme>
+  <programme start="20260703114851 +0000" stop="20260703140748 +0000" channel="NHBollyFlix">
+    <title lang="en">Munna Baba(dub) (unakaga Ellam Unakka Tamil)</title>
+    <desc lang="en">Sakthi, a rich spoilt brat falls for Indhu. His father, Vinu meets his friend Jayaganesh and they agree on a marriage proposal for their children. Sakthi wants to break the deal because he loves Indhu and wants to marry her, but he does not realise that Indhu is Jayaganesh's daughter. He tries to break the engagement by asking his cousins to misbehave and indulge in a fight. Ultimately in the end, the two get married.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1684885731_0_20250715T043543950Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-57sq7.png" />
+  </programme>
+  <programme start="20260703140748 +0000" stop="20260703163204 +0000" channel="NHBollyFlix">
+    <title lang="en">Bhoothnath</title>
+    <desc lang="en">Banku and his parents move into their new home, the Nath Villa. Here, Banku meets the unfriendly ghost of the former owner. Not only does Banku befriend him but also helps him make his final journey.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_994253767_0_20250314T072824236Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-fgxfq.png" />
+  </programme>
+  <programme start="20260703133000 +0000" stop="20260703143000 +0000" channel="Pitaara">
+    <title lang="en">Speaker Kharke</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218511_0_20260313T095116715Z_35_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+  </programme>
+  <programme start="20260703133000 +0000" stop="20260703143000 +0000" channel="PitaaraComedy">
+    <title lang="en">Talk to Me</title>
+    <desc lang="en">Talk to Me</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2686003489_0_20260320T140419915Z_37_imageprocessorclient-tvplus-linear-796646965d-7jmkq.png" />
+  </programme>
+  <programme start="20260703120305 +0000" stop="20260703142009 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">One Day: Justice Delivered</title>
+    <desc lang="en">A judge bound by law has to pass unfair judgments on some criminal cases due to lack of evidence. After retirement, he becomes a vigilante and decides to punish the crooks who walk free.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859005376_1_20260430T123104055Z_145_imageprocessorclient-tvplus-linear-796646965d-vhr29.jpeg" />
+  </programme>
+  <programme start="20260703113235 +0000" stop="20260703135042 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Bobby Jasoos</title>
+    <desc lang="en">A rich man asks Bobby, a private detective, to find two girls and a boy in return for a huge sum. Although she accomplishes the assigned tasks, she struggles to understand the motive behind them.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2858997989_1_20260430T123053523Z_89_imageprocessorclient-tvplus-linear-796646965d-vhr29.png" />
+  </programme>
+  <programme start="20260703135042 +0000" stop="20260703161950 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Big Brother</title>
+    <desc lang="en">When a girl becomes a victim of acid attack, her mild-mannered brother Dev is enraged. He takes the law in his own hands to teach a lesson not only to her attacker but also to those who victimised other girls in the past in a similar manner.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859004980_1_20260430T123053290Z_132_imageprocessorclient-tvplus-linear-796646965d-vhr29.jpeg" />
+  </programme>
 </tv>
