@@ -34920,4 +34920,49 @@
     </rating>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859005376_1_20260430T123104055Z_145_imageprocessorclient-tvplus-linear-796646965d-vhr29.jpeg" />
   </programme>
+  <programme start="20260704023000 +0000" stop="20260704030000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260704030000 +0000" stop="20260704033000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260704023000 +0000" stop="20260704033000 +0000" channel="B4UMusic">
+    <title lang="en">Morning Masala</title>
+    <desc lang="en">Wake up to the best of the contemporary Bollywood tracks.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_1444432086_0_20250604T115539032Z_49_imageprocessorclient-tvplus-linear-b76dd9bbb-n7vx6.jpeg" />
+  </programme>
+  <programme start="20260704023000 +0000" stop="20260704033000 +0000" channel="Pitaara">
+    <title lang="en">MORNIG HIT BEATS</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218510_0_20260313T095116297Z_105_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+  </programme>
+  <programme start="20260704023000 +0000" stop="20260704033000 +0000" channel="PitaaraComedy">
+    <title lang="en">Behind The Beats</title>
+    <desc lang="en">Behind The Beats</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2686003489_0_20260320T140419915Z_37_imageprocessorclient-tvplus-linear-796646965d-7jmkq.png" />
+  </programme>
+  <programme start="20260704023530 +0000" stop="20260704053323 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Mujhse Shaadi Karogi</title>
+    <desc lang="en">Sameer, a hot-tempered guy relocates to Goa, where he falls in love with Rani. However, his new roommate Sunny puts a spoke in the wheel upon his arrival and Rani finds herself in a dilemma as she starts liking both Sameer and Sunny.</desc>
+    <episode-num system="onscreen">S07E02</episode-num>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859024365_0_20260430T123103965Z_94_imageprocessorclient-tvplus-linear-796646965d-ps72z.jpeg" />
+  </programme>
 </tv>
