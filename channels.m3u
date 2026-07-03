@@ -178,7 +178,8 @@ https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 #EXTINF:-1 tvg-id="AlQuran" group-title="Pakistani" tvg-logo="",Al Quran
 http://115.42.65.142:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="AhleBait" group-title="Pakistani" tvg-logo="",Ahl E Bait
-http://115.42.65.142:8000/play/a008/index.m3u8
+https://a92ccb62-lp-omega.ums.services.video.ibm.com/playlist/auditorium/channel/23693473/playlist.m3u8?token=2393403_1783115658167&appType=11&appVersion=3&ts=1783115659&chunkingType=improved&segmentType=ts&geo=GB&sgn=ff5387537c7b8ffc6cb67770a561d279876bc385&preferredBitrate=0&cdnHost=uhsakamai-a.akamaihd.net
+#http://115.42.65.142:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="AajEntertainment" group-title="Pakistani" tvg-logo="https://www.aajentertainment.tv/_img/logo.png",Aaj Entertainment
 http://115.42.65.142:8000/play/a01q/index.m3u8
 #http://175.107.244.52:4456/play/a02z/index.m3u8
