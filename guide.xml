@@ -34714,4 +34714,43 @@
     </rating>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2887581160_0_20260507T020258900Z_111_imageprocessorclient-tvplus-linear-796646965d-pnqz4.png" />
   </programme>
+  <programme start="20260704113000 +0000" stop="20260704120000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260704120000 +0000" stop="20260704123000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260704113000 +0000" stop="20260704123000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2973043699_0_20260526T215007089Z_1_imageprocessorclient-tvplus-linear-75df688c49-wb9lz.jpeg" />
+  </programme>
+  <programme start="20260704113811 +0000" stop="20260704133816 +0000" channel="NHBollyFlix">
+    <title lang="en">Gali Gali Chor Hai</title>
+    <desc lang="en">Bharat, a small-time artist, finds himself dealing with the effects of a corrupt system. In the process, he himself discovers his ideals and decides to fight for the rights of the common people.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_994492908_0_20250314T092908693Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260704121610 +0000" stop="20260704141742 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Nishabd</title>
+    <desc lang="en">A 60-year-old man falls in love with his daughter's 18-year-old friend, leading to emotional conflict.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859031545_1_20260430T123104055Z_42_imageprocessorclient-tvplus-linear-796646965d-vhr29.png" />
+  </programme>
 </tv>
