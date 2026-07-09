@@ -35554,4 +35554,137 @@
     </rating>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2858998074_0_20260430T123052821Z_18_imageprocessorclient-tvplus-linear-796646965d-ps72z.jpeg" />
   </programme>
+  <programme start="20260709143000 +0000" stop="20260709150000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>SHAYARISM</sub-title>
+    <desc lang="en">The show where you can enjoy the Trending Shayaries with Soothing and Romantic 90's Hits</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1602130419_0_20250701T073557028Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-k8bdp.jpeg" />
+  </programme>
+  <programme start="20260709150000 +0000" stop="20260709153000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>SHAYARISM</sub-title>
+    <desc lang="en">The show where you can enjoy the Trending Shayaries with Soothing and Romantic 90's Hits</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1602130419_0_20250701T073557028Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-k8bdp.jpeg" />
+  </programme>
+  <programme start="20260709153000 +0000" stop="20260709160000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Music Dhar Hai</sub-title>
+    <desc lang="en">9XM MUSIC IDHAR HAI is a show of evergreen Bollywood super hits.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208763081_0_20250423T112703194Z_27_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260709160000 +0000" stop="20260709163000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Music Dhar Hai</sub-title>
+    <desc lang="en">9XM MUSIC IDHAR HAI is a show of evergreen Bollywood super hits.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208763081_0_20250423T112703194Z_27_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260709163000 +0000" stop="20260709170000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Music Dhar Hai</sub-title>
+    <desc lang="en">9XM MUSIC IDHAR HAI is a show of evergreen Bollywood super hits.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208763081_0_20250423T112703194Z_27_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260709170000 +0000" stop="20260709173000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Music Dhar Hai</sub-title>
+    <desc lang="en">9XM MUSIC IDHAR HAI is a show of evergreen Bollywood super hits.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208763081_0_20250423T112703194Z_27_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260709153000 +0000" stop="20260709183000 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3000909437_0_20260602T110347644Z_46_imageprocessorclient-tvplus-linear-75df688c49-gk4lw.jpeg" />
+  </programme>
+  <programme start="20260709153000 +0000" stop="20260709183000 +0000" channel="B4UMovies.in@India">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3001034356_0_20260602T115001778Z_1_imageprocessorclient-tvplus-linear-75df688c49-bb85n.jpeg" />
+  </programme>
+  <programme start="20260709143000 +0000" stop="20260709153000 +0000" channel="B4UMusic">
+    <title lang="en">SOLID HITS</title>
+    <desc lang="en">Songs which have topped the charts and ruled your hearts, the biggest hits of the recent times.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910869589_0_20260512T115303372Z_93_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20260709153000 +0000" stop="20260709163000 +0000" channel="B4UMusic">
+    <title lang="en">Aawaaz De Kahan Hai</title>
+    <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910870032_0_20260512T115303347Z_49_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20260709163000 +0000" stop="20260709173000 +0000" channel="B4UMusic">
+    <title lang="en">Aawaaz De Kahan Hai</title>
+    <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910870032_0_20260512T115303347Z_49_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20260709142238 +0000" stop="20260709172436 +0000" channel="Bollygold">
+    <title lang="en">Satte Pe Satta</title>
+    <desc lang="en">Ravi, the eldest of seven orphaned brothers, living in a farmhouse, marries Indu, a nurse. However, the brothers and their sister-in-law struggle to adjust with each other.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+  </programme>
+  <programme start="20260709163100 +0000" stop="20260709183645 +0000" channel="NHBollyFlix">
+    <title lang="en">Ragini Mms 2</title>
+    <desc lang="en">A director attempts to shoot an erotic horror movie in a house where, unbeknown to him, a demonic spirit resides. Even before the crew starts filming, the spirit possesses the lead actress's body.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_979708532_0_20250311T142409542Z_92_imageprocessorclient-tvplus-linear-b76dd9bbb-8k29c.jpeg" />
+  </programme>
+  <programme start="20260709143000 +0000" stop="20260709173000 +0000" channel="Pitaara">
+    <title lang="en">Ghaint Filma-Ni Main Sass Kuttni</title>
+    <desc lang="en">Starcast-Mehtab Virk, Tanvi Nagi, Gurpreet Ghuggi, Karamjit Anmol, , Nirmal Rishi, Anita Devgan Akshita Shrma, Nisha Bano, Seema Kaushal, Tarsem Paul, Dolly Singh</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218607_0_20260313T095116297Z_1_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+  </programme>
+  <programme start="20260709143000 +0000" stop="20260709173000 +0000" channel="PitaaraComedy">
+    <title lang="en">Family Time</title>
+    <desc lang="en">Family Time</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2686003489_0_20260320T140419915Z_37_imageprocessorclient-tvplus-linear-796646965d-7jmkq.png" />
+  </programme>
+  <programme start="20260709145248 +0000" stop="20260709175036 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Mujhse Shaadi Karogi</title>
+    <desc lang="en">Sameer, a hot-tempered guy relocates to Goa, where he falls in love with Rani. However, his new roommate Sunny puts a spoke in the wheel upon his arrival and Rani finds herself in a dilemma as she starts liking both Sameer and Sunny.</desc>
+    <episode-num system="onscreen">S07E02</episode-num>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859024365_0_20260430T123103965Z_94_imageprocessorclient-tvplus-linear-796646965d-ps72z.jpeg" />
+  </programme>
+  <programme start="20260709142946 +0000" stop="20260709171012 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Dil Jo Bhi Kahey</title>
+    <desc lang="en">A love story between an Indo-Mauritian boy and a Christian girl facing cultural and family opposition.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2860523247_0_20260430T201514518Z_1_imageprocessorclient-tvplus-linear-796646965d-mq66p.png" />
+  </programme>
+  <programme start="20260709171012 +0000" stop="20260709194846 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Dum</title>
+    <desc lang="en">When a diligent aspiring policeman named Uday realises that his superior is a corrupt man, he takes it upon himself to fight corruption, so even if it means putting at risk his life and his dream of becoming an officer.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2900591118_0_20260510T012502896Z_123_imageprocessorclient-tvplus-linear-796646965d-jjrpz.jpeg" />
+  </programme>
 </tv>
