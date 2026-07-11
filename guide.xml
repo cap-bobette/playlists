@@ -35155,4 +35155,43 @@
     </rating>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859018065_0_20260430T123053003Z_51_imageprocessorclient-tvplus-linear-796646965d-ps72z.jpeg" />
   </programme>
+  <programme start="20260711113000 +0000" stop="20260711120000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260711120000 +0000" stop="20260711123000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260711113000 +0000" stop="20260711123000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2973043699_0_20260526T215007089Z_1_imageprocessorclient-tvplus-linear-75df688c49-wb9lz.jpeg" />
+  </programme>
+  <programme start="20260711112808 +0000" stop="20260711132948 +0000" channel="Bollygold">
+    <title lang="en">Ittefaq</title>
+    <desc lang="en">Dilip Roy is a painter by trade and, despite possessing a beautiful wife called Sushma, he spends most of his time painting. On the day of their anniversary celebration, Dilip is late finishing a painting when a frustrated Sushma snatches the brush from his hand. Furious, Dilip strangles her to death, is arrested and sent to a psychiatric institute.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2803393007_1_20260417T111133666Z_119_imageprocessorclient-tvplus-linear-796646965d-vdlb5.jpeg" />
+  </programme>
+  <programme start="20260711120040 +0000" stop="20260711143509 +0000" channel="NHBollyFlix">
+    <title lang="en">Kitne Door Kitne Paas</title>
+    <desc lang="en">After studying in New York City, Jatin (Fardeen Khan) is returning home to India, where he's set to marry a woman from his hometown. On his flight to Delhi, he meets Karishma (Amrita Arora), coincidentally on her way to her own marriage, and her quick temper instantly sets them at odds. Once in Delhi, the unlikely travel companions find their connecting flight has been cancelled, so Jatin and Karishma must share a long bus ride to Gujarat, discovering each other and themselves in the process.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1000796177_0_20250315T132009080Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-fsk7n.png" />
+  </programme>
 </tv>
