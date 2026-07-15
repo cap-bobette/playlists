@@ -35976,4 +35976,87 @@
     </rating>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859038044_1_20260430T123104054Z_73_imageprocessorclient-tvplus-linear-796646965d-vhr29.png" />
   </programme>
+  <programme start="20260715103000 +0000" stop="20260715110000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Super Swag</sub-title>
+    <desc lang="en">A Musical hour with all time favourite super hit film songs.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208760168_0_20250423T112703253Z_49_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260715110000 +0000" stop="20260715113000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Super Swag</sub-title>
+    <desc lang="en">A Musical hour with all time favourite super hit film songs.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208760168_0_20250423T112703253Z_49_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260715113000 +0000" stop="20260715120000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260715120000 +0000" stop="20260715123000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260715103000 +0000" stop="20260715113000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2973043699_0_20260526T215007089Z_1_imageprocessorclient-tvplus-linear-75df688c49-wb9lz.jpeg" />
+  </programme>
+  <programme start="20260715113000 +0000" stop="20260715123000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2973043699_0_20260526T215007089Z_1_imageprocessorclient-tvplus-linear-75df688c49-wb9lz.jpeg" />
+  </programme>
+  <programme start="20260715103131 +0000" stop="20260715130315 +0000" channel="Bollygold">
+    <title lang="en">Karishma</title>
+    <desc lang="en">A photographer joins up with a group of supermodels, who are sent abroad by a businessman. However, all is not as it seems as other models in similar situations keep showing up dead under suspicious circumstances.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+  </programme>
+  <programme start="20260715103000 +0000" stop="20260715133000 +0000" channel="Pitaara">
+    <title lang="en">Cha Te Movie-Shukrana</title>
+    <desc lang="en">Starcast-Neeru Bajwa, Amrit Maan, Jass Bajwa, Simran Chahal, B.N Sharma, Harby Sangha, Rupinder Rupi, Seema Kaushal, Honey Mattu, Sukhwinder Chahal, Gurmeet Sajjan</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3170403732_0_20260710T071954400Z_1_imageprocessorclient-tvplus-linear-75df688c49-jspc2.png" />
+  </programme>
+  <programme start="20260715103000 +0000" stop="20260715133000 +0000" channel="PitaaraComedy">
+    <title lang="en">Chah Te Movie</title>
+    <desc lang="en">Chah Te Movie</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2686003489_0_20260320T140419915Z_37_imageprocessorclient-tvplus-linear-796646965d-7jmkq.png" />
+  </programme>
+  <programme start="20260715120320 +0000" stop="20260715141228 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Bhoot</title>
+    <desc lang="en">A married couple rents a beautiful, spacious apartment at a ridiculously cheap price only to find out that it is haunted. What follows is a series of eerie and hair-raising supernatural episodes in the house.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2860423776_2_20260430T193649044Z_44_imageprocessorclient-tvplus-linear-796646965d-2bqmh.jpeg" />
+  </programme>
+  <programme start="20260715114637 +0000" stop="20260715143316 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Dus</title>
+    <desc lang="en">Jambval, a terrorist, plans to wreak havoc in Canada during Indian PM's visit there. Now, Siddharth, the head of the Indian Anti-Terrorist Squad, must lead his team to uproot Jambval's plans and apprehend dreaded terrorist.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2858998070_1_20260430T123104055Z_124_imageprocessorclient-tvplus-linear-796646965d-vhr29.jpeg" />
+  </programme>
 </tv>
