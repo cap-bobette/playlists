@@ -28535,4 +28535,87 @@
     </rating>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859018064_0_20260430T123052140Z_48_imageprocessorclient-tvplus-linear-796646965d-ps72z.jpeg" />
   </programme>
+  <programme start="20260716103000 +0000" stop="20260716110000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Super Swag</sub-title>
+    <desc lang="en">A Musical hour with all time favourite super hit film songs.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208760168_0_20250423T112703253Z_49_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260716110000 +0000" stop="20260716113000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Super Swag</sub-title>
+    <desc lang="en">A Musical hour with all time favourite super hit film songs.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208760168_0_20250423T112703253Z_49_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260716113000 +0000" stop="20260716120000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260716120000 +0000" stop="20260716123000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260716103000 +0000" stop="20260716113000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2973043699_0_20260526T215007089Z_1_imageprocessorclient-tvplus-linear-75df688c49-wb9lz.jpeg" />
+  </programme>
+  <programme start="20260716113000 +0000" stop="20260716123000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2973043699_0_20260526T215007089Z_1_imageprocessorclient-tvplus-linear-75df688c49-wb9lz.jpeg" />
+  </programme>
+  <programme start="20260716115710 +0000" stop="20260716143438 +0000" channel="Bollygold">
+    <title lang="en">Anari</title>
+    <desc lang="en">The film follows Raja and Poonam, a young couple whose romance is strained by extreme poverty, family responsibilities, and a tempting, immoral job offer, putting their love and moral compass to the test</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+  </programme>
+  <programme start="20260716120151 +0000" stop="20260716142722 +0000" channel="NHBollyFlix">
+    <title lang="en">Teri Talash Mein (dub)(unnaruge Naan Irundhal Tamil)</title>
+    <desc lang="en">After her father's sudden death, Mahalakshmi is left to clear his debts and face the harsh villagers. A taxi driver helps her cremate her father and pledges his taxi to earn her a temporary reprieve.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1698845419_0_20250717T103519263Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-hxtdf.png" />
+  </programme>
+  <programme start="20260716103000 +0000" stop="20260716133000 +0000" channel="Pitaara">
+    <title lang="en">Cha Te Movie-Guddiyan Patole</title>
+    <desc lang="en">Starcast-Sonam Bajwa, Gurnam Bhullar, Tania, Nirmal Rishi, Gurpreet Bhangu</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3170403732_0_20260710T071954400Z_1_imageprocessorclient-tvplus-linear-75df688c49-jspc2.png" />
+  </programme>
+  <programme start="20260716103000 +0000" stop="20260716133000 +0000" channel="PitaaraComedy">
+    <title lang="en">Chah Te Movie</title>
+    <desc lang="en">Chah Te Movie</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2686003489_0_20260320T140419915Z_37_imageprocessorclient-tvplus-linear-796646965d-7jmkq.png" />
+  </programme>
+  <programme start="20260716112536 +0000" stop="20260716133649 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Gali Gali Chor Hai</title>
+    <desc lang="en">Bharat, a small-time artist, finds himself dealing with the effects of a corrupt system. In the process, he himself discovers his ideals and decides to fight for the rights of the common people.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2858998072_1_20260430T123052717Z_154_imageprocessorclient-tvplus-linear-796646965d-vhr29.jpeg" />
+  </programme>
 </tv>
