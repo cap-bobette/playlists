@@ -27144,4 +27144,137 @@
     </rating>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859024278_1_20260430T123053051Z_44_imageprocessorclient-tvplus-linear-796646965d-vhr29.png" />
   </programme>
+  <programme start="20260721103000 +0000" stop="20260721110000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Super Swag</sub-title>
+    <desc lang="en">A Musical hour with all time favourite super hit film songs.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208760168_0_20250423T112703253Z_49_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260721110000 +0000" stop="20260721113000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Super Swag</sub-title>
+    <desc lang="en">A Musical hour with all time favourite super hit film songs.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208760168_0_20250423T112703253Z_49_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260721113000 +0000" stop="20260721120000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260721120000 +0000" stop="20260721123000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260721123000 +0000" stop="20260721130000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260721130000 +0000" stop="20260721133000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260721123000 +0000" stop="20260721153000 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3000909437_0_20260602T110347644Z_46_imageprocessorclient-tvplus-linear-75df688c49-gk4lw.jpeg" />
+  </programme>
+  <programme start="20260721123000 +0000" stop="20260721153000 +0000" channel="B4UMovies.in@India">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3001034356_0_20260602T115001778Z_1_imageprocessorclient-tvplus-linear-75df688c49-bb85n.jpeg" />
+  </programme>
+  <programme start="20260721103000 +0000" stop="20260721113000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2973043699_0_20260526T215007089Z_1_imageprocessorclient-tvplus-linear-75df688c49-wb9lz.jpeg" />
+  </programme>
+  <programme start="20260721113000 +0000" stop="20260721123000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2973043699_0_20260526T215007089Z_1_imageprocessorclient-tvplus-linear-75df688c49-wb9lz.jpeg" />
+  </programme>
+  <programme start="20260721123000 +0000" stop="20260721133000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2973043699_0_20260526T215007089Z_1_imageprocessorclient-tvplus-linear-75df688c49-wb9lz.jpeg" />
+  </programme>
+  <programme start="20260721120623 +0000" stop="20260721145055 +0000" channel="Bollygold">
+    <title lang="en">Golmaal</title>
+    <desc lang="en">Ramprasad works for Bhavani, who discourages his employees from pursuing any hobbies. Things take a hilarious turn when Bhavani catches Ramprasad at a hockey match and he lies about having a twin.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+  </programme>
+  <programme start="20260721122127 +0000" stop="20260721151424 +0000" channel="NHBollyFlix">
+    <title lang="en">Zakhmi Insan (dub) (dass Tamil)</title>
+    <desc lang="en">Antony falls in love with Rajeswari who belongs to an upper caste family. When her father kills her sister for marrying a man from the lower caste, she decides to elope with Antony.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1668347172_0_20250712T123500780Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-tws4m.png" />
+  </programme>
+  <programme start="20260721103000 +0000" stop="20260721133000 +0000" channel="Pitaara">
+    <title lang="en">Cha Te Movie-Channa Mereya</title>
+    <desc lang="en">Starcast-Ninja, Amrit Mann, Payal Rajput</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3170403732_0_20260710T071954400Z_1_imageprocessorclient-tvplus-linear-75df688c49-jspc2.png" />
+  </programme>
+  <programme start="20260721103000 +0000" stop="20260721133000 +0000" channel="PitaaraComedy">
+    <title lang="en">Chah Te Movie</title>
+    <desc lang="en">Chah Te Movie</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2686003489_0_20260320T140419915Z_37_imageprocessorclient-tvplus-linear-796646965d-7jmkq.png" />
+  </programme>
+  <programme start="20260721105206 +0000" stop="20260721130427 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Blue</title>
+    <desc lang="en">Three men decide to dive underwater to find treasure in a sunken ship, but one of them has a hidden agenda of his own.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859031922_1_20260430T123052209Z_117_imageprocessorclient-tvplus-linear-796646965d-vhr29.jpeg" />
+  </programme>
+  <programme start="20260721130427 +0000" stop="20260721155852 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Phir Hera Pheri</title>
+    <desc lang="en">The lives of three men changes overnight when they lose all the money they invested in a scam. Now, they must find another way to repay the dreaded loan sharks or face their death.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859011754_1_20260430T123052209Z_133_imageprocessorclient-tvplus-linear-796646965d-vhr29.jpeg" />
+  </programme>
+  <programme start="20260721125204 +0000" stop="20260721153411 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Black Friday</title>
+    <desc lang="en">After the 1993 Mumbai bomb blasts rip the city apart, the police force launches a massive drive to catch the perpetrators. Their relentless pressure finally results in some names coming forward.</desc>
+    <episode-num system="onscreen">S07E02</episode-num>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859005372_0_20260430T123052140Z_1_imageprocessorclient-tvplus-linear-796646965d-ps72z.png" />
+  </programme>
 </tv>
