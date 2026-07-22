@@ -28114,4 +28114,52 @@
     </rating>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2858997988_1_20260430T123104055Z_161_imageprocessorclient-tvplus-linear-796646965d-vhr29.jpeg" />
   </programme>
+  <programme start="20260722113000 +0000" stop="20260722120000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260722120000 +0000" stop="20260722123000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260722113000 +0000" stop="20260722123000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2973043699_0_20260526T215007089Z_1_imageprocessorclient-tvplus-linear-75df688c49-wb9lz.jpeg" />
+  </programme>
+  <programme start="20260722120917 +0000" stop="20260722145601 +0000" channel="Bollygold">
+    <title lang="en">Loha</title>
+    <desc lang="en">After a bid to arrest Sher Singh fails, officer Dayal is crippled and his partner Amar's career is sabotaged. When Amar gets another chance to nab Sher Singh, he hires two crooks for the job.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+  </programme>
+  <programme start="20260722120924 +0000" stop="20260722141816 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Bhoot</title>
+    <desc lang="en">A married couple rents a beautiful, spacious apartment at a ridiculously cheap price only to find out that it is haunted. What follows is a series of eerie and hair-raising supernatural episodes in the house.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2860423776_2_20260430T193649044Z_44_imageprocessorclient-tvplus-linear-796646965d-2bqmh.jpeg" />
+  </programme>
+  <programme start="20260722121209 +0000" stop="20260722140847 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">I, Me Aur Main</title>
+    <desc lang="en">Aarush, Al and Tanmay, three womanisers get the shock of their life when they find a baby girl at their doorstep claiming to be the daughter of one of them. As they try to find her mother, they discover an unexplored side of their own personality.</desc>
+    <episode-num system="onscreen">S07E02</episode-num>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2858997774_0_20260430T123111981Z_73_imageprocessorclient-tvplus-linear-796646965d-ps72z.png" />
+  </programme>
 </tv>
