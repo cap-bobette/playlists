@@ -24810,4 +24810,157 @@
     </rating>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2887584005_0_20260507T020258900Z_86_imageprocessorclient-tvplus-linear-796646965d-pnqz4.jpeg" />
   </programme>
+  <programme start="20260724133000 +0000" stop="20260724140000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>ReelStar</sub-title>
+    <desc lang="en">Enjoy your favourite songs with trending Reels, on 9XM Reelstar</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1809135174_0_20250808T150057962Z_36_imageprocessorclient-tvplus-linear-d7c8c765b-nfvpt.jpeg" />
+  </programme>
+  <programme start="20260724140000 +0000" stop="20260724143000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>ReelStar</sub-title>
+    <desc lang="en">Enjoy your favourite songs with trending Reels, on 9XM Reelstar</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1809135174_0_20250808T150057962Z_36_imageprocessorclient-tvplus-linear-d7c8c765b-nfvpt.jpeg" />
+  </programme>
+  <programme start="20260724143000 +0000" stop="20260724150000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>SHAYARISM</sub-title>
+    <desc lang="en">The show where you can enjoy the Trending Shayaries with Soothing and Romantic 90's Hits</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1602130419_0_20250701T073557028Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-k8bdp.jpeg" />
+  </programme>
+  <programme start="20260724150000 +0000" stop="20260724153000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>SHAYARISM</sub-title>
+    <desc lang="en">The show where you can enjoy the Trending Shayaries with Soothing and Romantic 90's Hits</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1602130419_0_20250701T073557028Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-k8bdp.jpeg" />
+  </programme>
+  <programme start="20260724153000 +0000" stop="20260724160000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Music Dhar Hai</sub-title>
+    <desc lang="en">9XM MUSIC IDHAR HAI is a show of evergreen Bollywood super hits.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208763081_0_20250423T112703194Z_27_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260724160000 +0000" stop="20260724163000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Music Dhar Hai</sub-title>
+    <desc lang="en">9XM MUSIC IDHAR HAI is a show of evergreen Bollywood super hits.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208763081_0_20250423T112703194Z_27_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+  </programme>
+  <programme start="20260724153000 +0000" stop="20260724183000 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3000909437_0_20260602T110347644Z_46_imageprocessorclient-tvplus-linear-75df688c49-gk4lw.jpeg" />
+  </programme>
+  <programme start="20260724153000 +0000" stop="20260724183000 +0000" channel="B4UMovies.in@India">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3001034356_0_20260602T115001778Z_1_imageprocessorclient-tvplus-linear-75df688c49-bb85n.jpeg" />
+  </programme>
+  <programme start="20260724133000 +0000" stop="20260724143000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2973043699_0_20260526T215007089Z_1_imageprocessorclient-tvplus-linear-75df688c49-wb9lz.jpeg" />
+  </programme>
+  <programme start="20260724143000 +0000" stop="20260724153000 +0000" channel="B4UMusic">
+    <title lang="en">SOLID HITS</title>
+    <desc lang="en">Songs which have topped the charts and ruled your hearts, the biggest hits of the recent times.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910869589_0_20260512T115303372Z_93_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20260724153000 +0000" stop="20260724163000 +0000" channel="B4UMusic">
+    <title lang="en">Aawaaz De Kahan Hai</title>
+    <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910870032_0_20260512T115303347Z_49_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20260724134509 +0000" stop="20260724170359 +0000" channel="Bollygold">
+    <title lang="en">Shaan</title>
+    <desc lang="en">Two brothers go after the international mafia kingpin who murdered their cop brother. They are later joined by another man who wants revenge against the gangster.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+  </programme>
+  <programme start="20260724134721 +0000" stop="20260724154125 +0000" channel="NHBollyFlix">
+    <title lang="en">Nh10</title>
+    <desc lang="en">Gurgaon professionals Meera and Arjun are shaken after Meera survives a brutal attack. Seeking escape, they take a desert holiday, but at a highway dhaba they witness hoodlums abducting a young girl.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1655252645_0_20250710T094048553Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-bzswf.png" />
+  </programme>
+  <programme start="20260724154125 +0000" stop="20260724174959 +0000" channel="NHBollyFlix">
+    <title lang="en">Ki and Ka</title>
+    <desc lang="en">Kia, an ambitious woman, marries Kabir, a man who prefers the role of a house husband. They enjoy their unconventional relationship until challenges, including ego clashes and jealousy set in.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2719577179_0_20260328T135848144Z_1_imageprocessorclient-tvplus-linear-796646965d-2k68x.png" />
+  </programme>
+  <programme start="20260724133000 +0000" stop="20260724140000 +0000" channel="Pitaara">
+    <title lang="en">Speaker Kharke</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218511_0_20260313T095116715Z_35_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+  </programme>
+  <programme start="20260724140000 +0000" stop="20260724143000 +0000" channel="Pitaara">
+    <title lang="en">Speaker Kharke</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218511_0_20260313T095116715Z_35_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+  </programme>
+  <programme start="20260724143000 +0000" stop="20260724173000 +0000" channel="Pitaara">
+    <title lang="en">Ghaint Filma-Chal Mera Putt 2</title>
+    <desc lang="en">Starcast-Amrinder Gill, Garry Sandhu, Simi Chahal, Iftikhar Thakur, Nasir Chinyoti, Akram Udas, Zafri Khan, Hardeep Gill, Gurshabad, Ruby Anum, Nirmal Rishi</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218607_0_20260313T095116297Z_1_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+  </programme>
+  <programme start="20260724133000 +0000" stop="20260724143000 +0000" channel="PitaaraComedy">
+    <title lang="en">Talk to Me</title>
+    <desc lang="en">Talk to Me</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2686003489_0_20260320T140419915Z_37_imageprocessorclient-tvplus-linear-796646965d-7jmkq.png" />
+  </programme>
+  <programme start="20260724143000 +0000" stop="20260724173000 +0000" channel="PitaaraComedy">
+    <title lang="en">Family Time</title>
+    <desc lang="en">Family Time</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2686003489_0_20260320T140419915Z_37_imageprocessorclient-tvplus-linear-796646965d-7jmkq.png" />
+  </programme>
+  <programme start="20260724135050 +0000" stop="20260724162822 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Luck</title>
+    <desc lang="en">Musa, an underworld kingpin and a firm believer in luck, designs a series of life threatening adventure sports with hefty prize money for people around the world. However, the participants can only survive and win if they are exceptionally lucky.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_534823461_0_20231109T024201609Z_1.jpeg" />
+  </programme>
+  <programme start="20260724142220 +0000" stop="20260724170426 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Ek Ajnabee</title>
+    <desc lang="en">A supernatural thriller that tells the story of a magician haunted by a childhood memory of encountering a witch. When he falls in love with a woman who resembles the witch, he must confront his fears and uncover the truth about her identity. The film explores themes of superstition, fear, and the power of the mind in a spine-tingling and suspenseful plot.</desc>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2858998071_1_20260430T123104055Z_60_imageprocessorclient-tvplus-linear-796646965d-vhr29.jpeg" />
+  </programme>
 </tv>
