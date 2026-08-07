@@ -27064,4 +27064,131 @@
       <value>NA</value>
     </rating>
   </programme>
+  <programme start="20260807233000 +0000" stop="20260808000000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Music Dhar Hai</sub-title>
+    <desc lang="en">9XM MUSIC IDHAR HAI is a show of evergreen Bollywood super hits.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208763081_0_20250423T112703194Z_27_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260808000000 +0000" stop="20260808003000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Music Dhar Hai</sub-title>
+    <desc lang="en">9XM MUSIC IDHAR HAI is a show of evergreen Bollywood super hits.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208763081_0_20250423T112703194Z_27_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260808003000 +0000" stop="20260808010000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260808010000 +0000" stop="20260808013000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260808013000 +0000" stop="20260808020000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260808020000 +0000" stop="20260808023000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260808003000 +0000" stop="20260808033000 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3000909437_0_20260602T110347644Z_46_imageprocessorclient-tvplus-linear-75df688c49-gk4lw.jpeg" />
+  </programme>
+  <programme start="20260808003000 +0000" stop="20260808033000 +0000" channel="B4UMovies.in@India">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3001034356_0_20260602T115001778Z_1_imageprocessorclient-tvplus-linear-75df688c49-bb85n.jpeg" />
+  </programme>
+  <programme start="20260807233000 +0000" stop="20260808013000 +0000" channel="B4UMusic">
+    <title lang="en">Aawaaz De Kahan Hai</title>
+    <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910870032_0_20260512T115303347Z_49_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20260808013000 +0000" stop="20260808023000 +0000" channel="B4UMusic">
+    <title lang="en">Morning Masala</title>
+    <desc lang="en">Wake up to the best of the contemporary Bollywood tracks.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_1444432086_0_20250604T115539032Z_49_imageprocessorclient-tvplus-linear-b76dd9bbb-n7vx6.jpeg" />
+  </programme>
+  <programme start="20260808002608 +0000" stop="20260808032627 +0000" channel="Bollygold">
+    <title lang="en">Satyamev Jayate</title>
+    <desc lang="en">An honest police officer is falsely implicated after challenging the political system of his jurisdiction. However, he decides to continue his fight against the system and prove his innocence.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260808004026 +0000" stop="20260808024143 +0000" channel="NHBollyFlix">
+    <title lang="en">Love Sex Aur Dhoka</title>
+    <desc lang="en">An Indian anthology film that tells three separate but interconnected stories revolving around the themes of love, sex, and betrayal. The film is shot in a found-footage style, utilizing surveillance cameras, mobile phones, and webcams to capture the stories of individuals from different backgrounds, whose lives are intertwined in unexpected ways. It explores the dark side of relationships and the impact of technology on modern romance.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_958802803_0_20250307T133914552Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-ddgfn.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260808003000 +0000" stop="20260808013000 +0000" channel="Pitaara">
+    <title lang="en">Morning Hit Beats</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218510_0_20260313T095116297Z_105_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260808013000 +0000" stop="20260808043000 +0000" channel="Pitaara">
+    <title lang="en">Movie Morning-Teshan</title>
+    <desc lang="en">Starcast-Happy Raikoti, Diljott, Karamjeet Anmol</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656223874_0_20260313T095116392Z_65_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260808003000 +0000" stop="20260808023000 +0000" channel="PitaaraComedy">
+    <title lang="en">Morning Hit Beats</title>
+    <desc lang="en">Morning Hit Beats</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2686003489_0_20260320T140419915Z_37_imageprocessorclient-tvplus-linear-796646965d-7jmkq.png" />
+  </programme>
+  <programme start="20260807235400 +0000" stop="20260808022232 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Dangerous Ishq</title>
+    <desc lang="en">A supermodel experiences visions of her past lives while trying to save her kidnapped boyfriend.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2953117535_0_20260522T063250624Z_1_imageprocessorclient-tvplus-linear-75df688c49-xz9fr.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260808012534 +0000" stop="20260808032636 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Nishabd</title>
+    <desc lang="en">A 60-year-old man falls in love with his daughter's 18-year-old friend, leading to emotional conflict.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859031545_1_20260430T123104055Z_42_imageprocessorclient-tvplus-linear-796646965d-vhr29.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
 </tv>
