@@ -26466,4 +26466,48 @@
       <value>NA</value>
     </rating>
   </programme>
+  <programme start="20260807103000 +0000" stop="20260807110000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Super Swag</sub-title>
+    <desc lang="en">A Musical hour with all time favourite super hit film songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208760168_0_20250423T112703253Z_49_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260807110000 +0000" stop="20260807113000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Super Swag</sub-title>
+    <desc lang="en">A Musical hour with all time favourite super hit film songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208760168_0_20250423T112703253Z_49_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260807103000 +0000" stop="20260807113000 +0000" channel="B4UMusic">
+    <title lang="en">BOOM BOX</title>
+    <desc lang="en">Playing the very best of the club hits to be released out of Bollywood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2973043699_0_20260526T215007089Z_1_imageprocessorclient-tvplus-linear-75df688c49-wb9lz.jpeg" />
+  </programme>
+  <programme start="20260807103000 +0000" stop="20260807133000 +0000" channel="Pitaara">
+    <title lang="en">Cha Te Movie-Happy Khush Ho Gaya</title>
+    <desc lang="en">Starcast-Naresh Kathooria, Gurpreet Bhangu, Deedar Gill, Honey Mattu</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3170403732_0_20260710T071954400Z_1_imageprocessorclient-tvplus-linear-75df688c49-jspc2.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260807103000 +0000" stop="20260807133000 +0000" channel="PitaaraComedy">
+    <title lang="en">Chah Te Movie</title>
+    <desc lang="en">Chah Te Movie</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2686003489_0_20260320T140419915Z_37_imageprocessorclient-tvplus-linear-796646965d-7jmkq.png" />
+  </programme>
+  <programme start="20260807111748 +0000" stop="20260807133454 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Freaky Ali</title>
+    <desc lang="en">A sports comedy film that tells the story of a poor man who discovers his natural talent for golf and decides to pursue a career in the sport. With the help of his friend and coach, he enters a tournament to compete against professional golfers and prove himself. The movie highlights themes of determination, hard work, and overcoming social barriers in an entertaining and uplifting plot.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859024282_1_20260430T123052587Z_99_imageprocessorclient-tvplus-linear-796646965d-vhr29.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
 </tv>
