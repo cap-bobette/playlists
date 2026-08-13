@@ -26715,4 +26715,46 @@
       <value>NA</value>
     </rating>
   </programme>
+  <programme start="20260813223000 +0000" stop="20260813230000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Raat Bhar</sub-title>
+    <desc lang="en">A show with no breaks, playing non-stop latest Bollywood &amp;amp; super hits.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759130_0_20250423T112703335Z_100_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260813230000 +0000" stop="20260813233000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Raat Bhar</sub-title>
+    <desc lang="en">A show with no breaks, playing non-stop latest Bollywood &amp;amp; super hits.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759130_0_20250423T112703335Z_100_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260813223619 +0000" stop="20260814011145 +0000" channel="Bollygold">
+    <title lang="en">Qayamat</title>
+    <desc lang="en">Two close friends turn enemies when one becomes a criminal and the other, an IPS officer. Wronged by his friend, the criminal swears to take revenge once he returns from prison.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260813224431 +0000" stop="20260814011806 +0000" channel="NHBollyFlix">
+    <title lang="en">Shamitabh</title>
+    <desc lang="en">An aspiring actor with the inability to speak, joins forces with a man who has a powerful voice. Together they take the film industry by storm, but will their egos get in the way?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2024638305_0_20251010T073708900Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-rmv85.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260813223926 +0000" stop="20260814013631 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">The Legend Of Bhagat Singh</title>
+    <desc lang="en">During the British Raj, upon witnessing the atrocities of the British, Bhagat Singh grows up to be a fierce freedom fighter. His publicised ideas of revolution bring him to as much popularity as Mahatma Gandhi amongst Indians.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3321934890_0_20260812T135654645Z_67_imageprocessorclient-tvplus-linear-9468c5484-vh9tv.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
 </tv>
