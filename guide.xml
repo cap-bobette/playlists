@@ -23795,4 +23795,51 @@
       <value>NA</value>
     </rating>
   </programme>
+  <programme start="20260818093000 +0000" stop="20260818100000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260818100000 +0000" stop="20260818103000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260818093000 +0000" stop="20260818123000 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3000909437_0_20260602T110347644Z_46_imageprocessorclient-tvplus-linear-75df688c49-gk4lw.jpeg" />
+  </programme>
+  <programme start="20260818093000 +0000" stop="20260818123000 +0000" channel="B4UMovies.in@India">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3001034356_0_20260602T115001778Z_1_imageprocessorclient-tvplus-linear-75df688c49-bb85n.jpeg" />
+  </programme>
+  <programme start="20260818093000 +0000" stop="20260818103000 +0000" channel="B4UMusic">
+    <title lang="en">SOLID HITS</title>
+    <desc lang="en">Songs which have topped the charts and ruled your hearts, the biggest hits of the recent times.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910869589_0_20260512T115303372Z_93_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20260818100000 +0000" stop="20260818103000 +0000" channel="PitaaraComedy">
+    <title lang="en">Kaato Kaahto</title>
+    <desc lang="en">Kaato Kaahto</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2686003489_0_20260320T140419915Z_37_imageprocessorclient-tvplus-linear-796646965d-7jmkq.png" />
+  </programme>
+  <programme start="20260818093437 +0000" stop="20260818121600 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Zila Ghaziabad</title>
+    <desc lang="en">A gang war erupts between corrupt chairman Brahampal and gangster Fauji. Betrayal and shifting loyalties escalate the conflict, plunging the village into chaos and violence as personal vendettas drive the characters towards an uncertain future.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859004983_0_20260430T123111972Z_60_imageprocessorclient-tvplus-linear-796646965d-ps72z.png" />
+    <episode-num system="onscreen">S07E02</episode-num>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
 </tv>
