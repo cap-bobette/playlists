@@ -18,8 +18,8 @@ https://d1bnb20pevkrom.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="Andpictures.in@HD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540",& Picture
 http://116.90.120.157:8000/play/a0j4/index.m3u8
 #http://202.70.146.135:8000/play/a06b/index.m3u8
-#EXTINF:-1 tvg-id="ZeeCinema.in@HD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540",Zee Cinema
-http://116.90.120.157:8000/play/a0hc/index.m3u8
+##EXTINF:-1 tvg-id="ZeeCinema.in@HD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540",Zee Cinema
+#http://116.90.120.157:8000/play/a0hc/index.m3u8
 #http://202.70.146.135:8000/play/a03f/index.m3u8
 #http://103.99.249.139/zeecinema/index.m3u8
 #EXTINF:-1 tvg-id="ZeeClassic.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J66T.png?lock=720x540",Zee Classic
@@ -66,8 +66,8 @@ https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 ##EXTINF:-1 tvg-id="BollywoodHD.ro@SD" group-title="Movies" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-hd/logo_20231219_184845_51.png",Bollywood
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.vf=lWu9a-np_Vi
-#EXTINF:-1 tvg-id="AnmolCinema2.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260Y9L.png?lock=720x540",Anmol Cinema 2
-http://116.90.120.157:8000/play/a0ir/index.m3u8
+##EXTINF:-1 tvg-id="AnmolCinema2.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260Y9L.png?lock=720x540",Anmol Cinema 2
+#http://116.90.120.157:8000/play/a0ir/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143087_ld_h15_aa.png?lock=720x540",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540",Goldmines Movies
@@ -92,13 +92,13 @@ http://116.90.120.157:8000/play/a0gt/index.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@HD" group-title="Indian" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",Sony Sab
 http://116.90.120.157:8000/play/a0gx/index.m3u8
 #http://202.70.146.135:8000/play/a025/index.m3u8
-#EXTINF:-1 tvg-id="SonyPal.in@SD" group-title="Indian" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540",Sony Pal
-http://116.90.120.157:8000/play/a0hz/index.m3u8
+##EXTINF:-1 tvg-id="SonyPal.in@SD" group-title="Indian" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540",Sony Pal
+#http://116.90.120.157:8000/play/a0hz/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in@HD" group-title="Indian" tvg-logo="https://dtil.tmsimg.com/assets/s143832_ld_h15_aa.png?lock=720x540",Star Plus
 http://116.90.120.157:8000/play/a0gr/index.m3u8
 #http://202.70.146.135:8000/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="ZeeTV.in@HD" group-title="Indian" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540",Zee TV
-http://116.90.120.157:8000/play/a0hk/index.m3u8
+##EXTINF:-1 tvg-id="ZeeTV.in@HD" group-title="Indian" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540",Zee TV
+#http://116.90.120.157:8000/play/a0hk/index.m3u8
 #http://202.70.146.135:8000/play/a04g/index.m3u8
 
 #EXTINF:-1 tvg-id="8XM" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png",8XM
@@ -119,14 +119,14 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 http://115.42.65.142:8000/play/a03x/index.m3u8
 #EXTINF:-1 tvg-id="Zoom.in@SD" group-title="Music" tvg-logo="https://dtil.tmsimg.com/assets/s157600_ld_h15_aa.png?lock=720x540",Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1 tvg-id="ZoomGlobal" group-title="Music" tvg-logo="https://dtil.tmsimg.com/assets/s157600_ld_h15_aa.png?lock=720x540",Zoom Global
-https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
+##EXTINF:-1 tvg-id="ZoomGlobal" group-title="Music" tvg-logo="https://dtil.tmsimg.com/assets/s157600_ld_h15_aa.png?lock=720x540",Zoom Global
+#https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 
 #EXTINF:-1 tvg-id="24News" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/24_News_HD_Logo.png",24 News
 http://115.42.65.142:8000/play/a002/index.m3u8
 #http://175.107.244.52:4456/play/a031/index.m3u8
-#EXTINF:-1 tvg-id="92News" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png",92 News
-http://115.42.65.142:8000/play/a005/index.m3u8
+##EXTINF:-1 tvg-id="92News" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png",92 News
+#http://115.42.65.142:8000/play/a005/index.m3u8
 #http://175.107.244.52:4456/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="AajNews" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Aaj_News_%28television_channel%29_logo.png",Aaj News
 http://115.42.65.142:8000/play/a01p/index.m3u8
@@ -153,8 +153,8 @@ https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8    #uk
 #EXTINF:-1 tvg-id="ExpressNews" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Express_News_logo.png",Express News
 http://115.42.65.142:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="GeoNews" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/GEO_News_logo_in_Urdu.png/330px-GEO_News_logo_in_Urdu.png",Geo News SD
-https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
+##EXTINF:-1 tvg-id="GeoNews" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/GEO_News_logo_in_Urdu.png/330px-GEO_News_logo_in_Urdu.png",Geo News SD
+#https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GeoNews" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/GEO_News_logo_in_Urdu.png/330px-GEO_News_logo_in_Urdu.png",Geo News
 http://115.42.65.142:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="GeoNewsTez" group-title="News" tvg-logo="https://geotez.tv/assets/front/images/tez_logo.png",Geo News Tez
@@ -175,8 +175,8 @@ https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png",Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",BBC News
-https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
+##EXTINF:-1 tvg-id="BBCNews.uk" group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",BBC News
+#https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 
 
 #EXTINF:-1 tvg-id="AlQuran" group-title="Pakistani" tvg-logo="",Al Quran
@@ -202,8 +202,8 @@ http://115.42.65.142:8000/play/a017/index.m3u8
 http://115.42.65.142:8000/play/a016/index.m3u8
 #http://175.107.244.52:4456/play/a050/index.m3u8
 #http://103.229.254.25:7001/play/a07u/index.m3u8
-#EXTINF:-1 tvg-id="ATV" group-title="Pakistani" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Atv_pakistan.PNG",ATV
-http://115.42.65.142:8000/play/a00d/index.m3u8
+##EXTINF:-1 tvg-id="ATV" group-title="Pakistani" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Atv_pakistan.PNG",ATV
+#http://115.42.65.142:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="aurLife" group-title="Pakistani" tvg-logo="https://aurlife.tv/wp-content/uploads/2021/11/Aur-life-Logo-png.png",aurLife
 http://115.42.65.142:8000/play/a044/index.m3u8
 #http://124.109.47.101/hls/stream1.m3u8
@@ -215,8 +215,8 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-id="Express" group-title="Pakistani" tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2024/05/cropped-logo-HD.png",Express
 http://115.42.65.142:8000/play/a01n/index.m3u8
 #http://175.107.244.52:4456/play/a038/index.m3u8
-#EXTINF:-1 tvg-id="GeoEntertainment" group-title="Pakistani" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Geo_Entertainment.png",Geo Entertainment SD
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+##EXTINF:-1 tvg-id="GeoEntertainment" group-title="Pakistani" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Geo_Entertainment.png",Geo Entertainment SD
+#https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GeoEntertainment" group-title="Pakistani" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Geo_Entertainment.png",Geo Entertainment
 http://115.42.65.142:8000/play/a001/index.m3u8
 #http://116.90.120.157:8000/play/a021/index.m3u8
@@ -244,14 +244,14 @@ http://115.42.65.142:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="VenusEntertainment" group-title="Pakistani" tvg-logo="https://www.venustv.net/frontend/images/logo.png",Venus Entertainment
 http://115.42.65.142:8000/play/a03m/index.m3u8
 
-#EXTINF:-1 tvg-id="BBCOne.uk@LondonHD" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",BBC One London
-https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-id="BBCTwo.uk@HD" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",BBC Two
-https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-id="BBCThree.uk@HD" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png",BBC Three
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-id="BBCFour.uk@HD" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png",BBC Four
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_mse_v0_hevc.mpd
+##EXTINF:-1 tvg-id="BBCOne.uk@LondonHD" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",BBC One London
+#https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_mse_v0_hevc.mpd
+##EXTINF:-1 tvg-id="BBCTwo.uk@HD" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",BBC Two
+#https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_mse_v0_hevc.mpd
+##EXTINF:-1 tvg-id="BBCThree.uk@HD" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png",BBC Three
+#https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_mse_v0_hevc.mpd
+##EXTINF:-1 tvg-id="BBCFour.uk@HD" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png",BBC Four
+#https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-id="HomesUnderHammer.us@UK" group-title="UK" tvg-logo="https://cdn.televisioncatchup.co.uk/images/programs/homes-under-the-hammer.jpg",Homes Under The Hammer
 https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
 
@@ -269,8 +269,8 @@ http://115.42.65.142:8000/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport.in@SD" group-title="Sports" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",Eurosport
 http://116.90.120.157:8000/play/a0ip/index.m3u8
-#EXTINF:-1 tvg-id="Andflix.in@HD" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_image.png",& Flix
-http://116.90.120.157:8000/play/a0il/index.m3u8
+##EXTINF:-1 tvg-id="Andflix.in@HD" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_image.png",& Flix
+#http://116.90.120.157:8000/play/a0il/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD" group-title="Sports" tvg-logo="https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png?lock=720x540",Sony Sports Ten 2
 http://116.90.120.157:8000/play/a0ih/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@HD" group-title="Sports" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",Sony Sports Ten 3 Hindi
@@ -315,8 +315,8 @@ https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 #http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 ##EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/500px-FX_International_logo.svg.png" group-title="English Movies",FX
 #http://23.237.104.106:8080/USA_FX/index.m3u8
-#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/500px-FX_Movies_logo.svg.png" group-title="English Movies",FXM
-http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/10401
+##EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/500px-FX_Movies_logo.svg.png" group-title="English Movies",FXM
+#http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/10401
 ##EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="English Movies",HBO
 #http://23.237.104.106:8080/USA_HBO/index.m3u8
 ##EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-name="HBO Hits" tvg-logo="https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg" group-title="English Movies",HBO Hits
@@ -341,14 +341,14 @@ https://d3o593mz1glx8d.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #https://99f62fea411048679ce5e233e88f2b95.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1217-MGMPRESENTSHORROR-TCLTV/55852247-e42e-4f5f-81b9-54a3f0a893bf/0.m3u8
 ##EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Paramount+ with Showtime" tvg-logo="https://www.paramountpluswithshowtime.com/svg/showtime-plus.svg" group-title="English Movies",Paramount+ with Showtime
 #http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-name="Showtime 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="English Movies",Showtime 2
-http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14169
-#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="English Movies",Showtime Extreme
-http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14170
-#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-name="Showtime Family Zone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-family-zone-us.png?raw=true" group-title="English Movies",Showtime Family Zone
-http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14171
-#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="Showtime Showcase" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-showcase-us.png?raw=true" group-title="English Movies",Showtime Showcase
-http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/188733
+##EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-name="Showtime 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="English Movies",Showtime 2
+#http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14169
+##EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="English Movies",Showtime Extreme
+#http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14170
+##EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-name="Showtime Family Zone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-family-zone-us.png?raw=true" group-title="English Movies",Showtime Family Zone
+#http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14171
+##EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="Showtime Showcase" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-showcase-us.png?raw=true" group-title="English Movies",Showtime Showcase
+#http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/188733
 #EXTINF:-1 tvg-id="GB3000041I" tvg-name="Sony One Action Hits UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000041I_20260310T031838SQUARE.png" group-title="English Movies",Sony One Action HITS UK
 https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/af2459de-b2ca-47eb-8435-5e6998ec22dc/0.m3u8
 #EXTINF:-1 tvg-id="GB300003UI" tvg-name="Sony One Comedy Hits UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300003UI_20260224T031207SQUARE.png" group-title="English Movies",Sony One Comedy HITS UK
@@ -357,8 +357,8 @@ https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/
 https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/02d6917b-e5da-46e2-82d5-c3b3103bfd0e/0.m3u8
 #EXTINF:-1 tvg-id="GB300007J7" tvg-name="Sony One FAVES UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300007J7_20260224T031219SQUARE.png" group-title="English Movies",Sony One FAVES UK
 https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/f3dfc4d0-f5ec-4ea8-b4b0-d0db3982bd9c/0.m3u8
-#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="English Movies",Sony Movie Channel
-http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14850
+##EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="English Movies",Sony Movie Channel
+#http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14850
 #EXTINF:-1 tvg-id="Universal.Action.us2" tvg-name="Universal Action" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/universal_action_us._SL170_FMpng_.png" group-title="English Movies",Universal Action
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/fd4a4071-8a85-4989-9e8b-446ace3b7127/4.m3u8
 #EXTINF:-1 tvg-id="Universal.Crime.us2" tvg-name="Universal Crime" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Universal_Crime_FAST_TitleArt_White._SL170_FMpng_.png" group-title="English Movies",Universal Crime
