@@ -1,12 +1,14 @@
 #EXTM3U x-tvg-url="https://cap-bobette.github.io/playlists/guide.xml" url-tvg="https://cap-bobette.github.io/playlists/guide.xml,https://i.mjh.nz/SamsungTVPlus/in.xml" 
 
 #EXTINF:-1 tvg-id="B4UKadak.in@SD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540",B4U Kadak
-https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
-#https://jmp2.uk/stvp-IN39000187Z
+https://jmp2.uk/stvp-IN39000187Z
+#https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
+#https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
 #https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in@India" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540",B4U Movies
-https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
-#https://jmp2.uk/stvp-IN3900016WI
+https://jmp2.uk/stvp-IN3900016WI
+#https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
+#https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
 #https://cdn-2.pishow.tv/live/419/master.m3u8  # not valid
 #EXTINF:-1 tvg-id="Bollygold" group-title="Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20260415T004812SQUARE.png",Bollygold
 https://jmp2.uk/stvp-IN4000600Q
@@ -108,6 +110,7 @@ https://jmp2.uk/stvp-IN38000050P
 http://115.42.65.142:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="B4UMusic" group-title="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900017KM_20250811T033432SQUARE.png",B4U Music
 https://jmp2.uk/stvp-IN3900017KM
+#https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
 #http://116.90.120.157:8000/play/a0k3/index.m3u8 (non-samsung)
 #https://cdn-2.pishow.tv/live/415/master.m3u8
 #EXTINF:-1 tvg-id="JooMusic" group-title="Music" tvg-logo="https://www.joomusic.info/assets/images/logo.png",JooMusic
