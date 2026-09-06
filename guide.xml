@@ -25413,4 +25413,154 @@
       <value>NA</value>
     </rating>
   </programme>
+  <programme start="20260907003000 +0000" stop="20260907010000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260907010000 +0000" stop="20260907013000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260907013000 +0000" stop="20260907020000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260907020000 +0000" stop="20260907023000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260907023000 +0000" stop="20260907030000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260907030000 +0000" stop="20260907033000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260907003000 +0000" stop="20260907033000 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3000909437_0_20260602T110347644Z_46_imageprocessorclient-tvplus-linear-75df688c49-gk4lw.jpeg" />
+  </programme>
+  <programme start="20260907003000 +0000" stop="20260907033000 +0000" channel="B4UMovies.in@India">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3001034356_0_20260602T115001778Z_1_imageprocessorclient-tvplus-linear-75df688c49-bb85n.jpeg" />
+  </programme>
+  <programme start="20260907010000 +0000" stop="20260907013000 +0000" channel="B4UMusic">
+    <title lang="en">Bollywood Bang Bang</title>
+    <desc lang="en">Best tracks of your favourite stars, from King Khan, Akshay Kumar, Kareena Kapoor to Katrina Kaif.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_1731166150_0_20250722T163234112Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-kpk6m.jpeg" />
+  </programme>
+  <programme start="20260907013000 +0000" stop="20260907023000 +0000" channel="B4UMusic">
+    <title lang="en">Bajao</title>
+    <desc lang="en">The hottest Hindi chartbusters of the season!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910870047_0_20260512T115303328Z_1_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20260907023000 +0000" stop="20260907030000 +0000" channel="B4UMusic">
+    <title lang="en">SOLID HITS</title>
+    <desc lang="en">Songs which have topped the charts and ruled your hearts, the biggest hits of the recent times.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910869589_0_20260512T115303372Z_93_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20260907030000 +0000" stop="20260907040000 +0000" channel="B4UMusic">
+    <title lang="en">Boom Box</title>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3427462128_0_20260904T115300509Z_25_imageprocessorclient-tvplus-linear-6b56cc9f55-tqrh6.jpeg" />
+  </programme>
+  <programme start="20260907003336 +0000" stop="20260907034549 +0000" channel="Bollygold">
+    <title lang="en">Hamraaz</title>
+    <desc lang="en">Kumar, a popular actor from Bombay, takes a trip to Darjeeling with his partner Shabhnam while there, he meets and falls in love with Meena, the only daughter of a wealthy military contractor.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260907004926 +0000" stop="20260907033234 +0000" channel="NHBollyFlix">
+    <title lang="en">Dharam Chakara (dharam Chakaram Tamil 1997)</title>
+    <desc lang="en">A village leader who loses a fight to his enemy Arumugam, causing the death of his lover Vijayalakshmi. Years later, another woman named Vijayalakshmi enters the village, and Chakkaravarthy defends her from Arumugam's goons, rekindling his fight for justice.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1655252645_0_20250710T094048553Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-bzswf.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260907003000 +0000" stop="20260907013000 +0000" channel="Pitaara">
+    <title lang="en">Morning Hit Beats</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218510_0_20260313T095116297Z_105_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260907013000 +0000" stop="20260907043000 +0000" channel="Pitaara">
+    <title lang="en">Movie Morning-Choran Nal Yarian</title>
+    <desc lang="en">Starcast-Arya Babbar, Manreet Sran, Prabh Grewal, Malkit Rauni, Gurpreet Bhangu</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656223874_0_20260313T095116392Z_65_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260907003000 +0000" stop="20260907023000 +0000" channel="PitaaraComedy">
+    <title lang="en">Morning Hit Beats</title>
+    <desc lang="en">Morning Hit Beats</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2686003489_0_20260320T140419915Z_37_imageprocessorclient-tvplus-linear-796646965d-7jmkq.png" />
+  </programme>
+  <programme start="20260907023000 +0000" stop="20260907033000 +0000" channel="PitaaraComedy">
+    <title lang="en">Behind The Beats</title>
+    <desc lang="en">Behind The Beats</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2686003489_0_20260320T140419915Z_37_imageprocessorclient-tvplus-linear-796646965d-7jmkq.png" />
+  </programme>
+  <programme start="20260907014939 +0000" stop="20260907040139 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Naqaab</title>
+    <desc lang="en">Sophia, a middle-class girl, gets engaged to a millionaire Karan who dearly loves her. But soon she meets the man of her dreams in Vicky, a struggling but ambitious actor. This love triangle causes twists and turns which leave their lives rattled.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859018065_0_20260430T123053003Z_51_imageprocessorclient-tvplus-linear-796646965d-ps72z.jpeg" />
+    <episode-num system="onscreen">S07E02</episode-num>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260907002750 +0000" stop="20260907030810 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">ALL THE BEST: FUN BEGINS</title>
+    <desc lang="en">The Movie Club+2</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3329637438_0_20260814T054840826Z_60_imageprocessorclient-tvplus-linear-9468c5484-spbjw.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260907030810 +0000" stop="20260907053114 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">MAQBOOL</title>
+    <desc lang="en">The Movie Club+2</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3096428834_0_20260624T004354141Z_30_imageprocessorclient-tvplus-linear-75df688c49-qbphp.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
 </tv>
