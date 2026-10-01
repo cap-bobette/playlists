@@ -24353,4 +24353,104 @@
       <value>NA</value>
     </rating>
   </programme>
+  <programme start="20261002003000 +0000" stop="20261002033000 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3555007299_0_20261001T170958274Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-wlc7k.jpeg" />
+  </programme>
+  <programme start="20261002003000 +0000" stop="20261002033000 +0000" channel="B4UMovies.in@India">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3551070216_0_20260930T215451642Z_26_imageprocessorclient-tvplus-linear-6b56cc9f55-g4gcf.jpeg" />
+  </programme>
+  <programme start="20261001233000 +0000" stop="20261002013000 +0000" channel="B4UMusic">
+    <title lang="en">Awaaz De Kahan Hai</title>
+    <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3427462411_0_20260904T115300509Z_84_imageprocessorclient-tvplus-linear-6b56cc9f55-tqrh6.jpeg" />
+  </programme>
+  <programme start="20261002013000 +0000" stop="20261002023000 +0000" channel="B4UMusic">
+    <title lang="en">Morning Masala</title>
+    <desc lang="en">A compilation of songs that include evergreen melodies and the latest hits.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910869628_0_20260512T115303533Z_94_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20261002002855 +0000" stop="20261002024920 +0000" channel="Bollygold">
+    <title lang="en">Chhoti Si Baat</title>
+    <desc lang="en">Plot. Chhoti Si Baat is a romantic comedy about a painfully shy young man Arun Pradeep (Amol Palekar), who lacks self-confidence and fails to stand up for his convictions, in the process letting all and sundry walk all over him.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261001222711 +0000" stop="20261002001738 +0000" channel="NHBollyFlix">
+    <title lang="en">Bajate Raho</title>
+    <desc lang="en">The actions of Sabarwal, a trickster in the guise of a high-profile businessman, lead to the death and imprisonment of innocent people. The affected victims decide to take revenge on the trickster</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_984134049_0_20250312T102308098Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-q9jtz.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261002001738 +0000" stop="20261002031232 +0000" channel="NHBollyFlix">
+    <title lang="en">Ilaka (peddupettai)</title>
+    <desc lang="en">Crime drama about Kumar, a man who rises from a slum to become a powerful figure in the underworld after witnessing his mother's murder. Driven by ambition and vengeance, he navigates betrayal and crime.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1673284602_0_20250713T073112718Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-hxtdf.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261002003000 +0000" stop="20261002013000 +0000" channel="Pitaara">
+    <title lang="en">Morning Hit Beats</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218510_0_20260313T095116297Z_105_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261002013000 +0000" stop="20261002043000 +0000" channel="Pitaara">
+    <title lang="en">Movie Morning-Yaarian Dildariya</title>
+    <desc lang="en">Starcast-Japji Khaira, Jasprem Dhillon,Malkeet Rauni,Virat Kapur,Gurpreet Bhangu</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656223874_0_20260313T095116392Z_65_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261002003000 +0000" stop="20261002023000 +0000" channel="PitaaraComedy">
+    <title lang="en">Morning Hit Beats</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218510_0_20260313T095116297Z_105_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261001224127 +0000" stop="20261002013304 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Once Upon a Time in Mumbai Dobaara!</title>
+    <desc lang="en">The Movie Club</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3329663552_0_20260814T054840826Z_25_imageprocessorclient-tvplus-linear-9468c5484-spbjw.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261002013304 +0000" stop="20261002035552 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Mission Istaanbul</title>
+    <desc lang="en">An action thriller film that follows the story of a journalist, Vikas, who is sent to Istanbul to cover a breaking news story. However, he becomes embroiled in a dangerous conspiracy involving international terrorism and political corruption. The movie features high-octane action sequences and explores themes of courage, patriotism, and the importance of journalistic integrity in a thrilling and suspenseful plot.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2861344242_0_20260501T013250033Z_80_imageprocessorclient-tvplus-linear-796646965d-b4fnr.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261001223529 +0000" stop="20261002013304 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">The Legend Of Bhagat Singh</title>
+    <desc lang="en">During the British Raj, upon witnessing the atrocities of the British, Bhagat Singh grows up to be a fierce freedom fighter. His publicised ideas of revolution bring him to as much popularity as Mahatma Gandhi amongst Indians.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3321934890_0_20260812T135654645Z_67_imageprocessorclient-tvplus-linear-9468c5484-vh9tv.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261002013304 +0000" stop="20261002034526 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Bhoot</title>
+    <desc lang="en">A married couple rents a beautiful, spacious apartment at a ridiculously cheap price only to find out that it is haunted. What follows is a series of eerie and hair-raising supernatural episodes in the house.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2860423776_2_20260430T193649044Z_44_imageprocessorclient-tvplus-linear-796646965d-2bqmh.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
 </tv>
