@@ -23350,4 +23350,138 @@
       <value>NA</value>
     </rating>
   </programme>
+  <programme start="20261003213000 +0000" stop="20261004003000 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3555007299_0_20261001T170958274Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-wlc7k.jpeg" />
+  </programme>
+  <programme start="20261004003000 +0000" stop="20261004033000 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3555007299_0_20261001T170958274Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-wlc7k.jpeg" />
+  </programme>
+  <programme start="20261003213000 +0000" stop="20261004003000 +0000" channel="B4UMovies.in@India">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3551070216_0_20260930T215451642Z_26_imageprocessorclient-tvplus-linear-6b56cc9f55-g4gcf.jpeg" />
+  </programme>
+  <programme start="20261004003000 +0000" stop="20261004033000 +0000" channel="B4UMovies.in@India">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3551070216_0_20260930T215451642Z_26_imageprocessorclient-tvplus-linear-6b56cc9f55-g4gcf.jpeg" />
+  </programme>
+  <programme start="20261003203000 +0000" stop="20261003233000 +0000" channel="B4UMusic">
+    <title lang="en">Bajao</title>
+    <desc lang="en">The hottest Hindi chartbusters of the season!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910870047_0_20260512T115303328Z_1_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20261003233000 +0000" stop="20261004013000 +0000" channel="B4UMusic">
+    <title lang="en">Awaaz De Kahan Hai</title>
+    <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3427462411_0_20260904T115300509Z_84_imageprocessorclient-tvplus-linear-6b56cc9f55-tqrh6.jpeg" />
+  </programme>
+  <programme start="20261003212215 +0000" stop="20261004001730 +0000" channel="Bollygold">
+    <title lang="en">Gumrah</title>
+    <desc lang="en">Meena, who lives with her retired and widowed father in rural Nainital, is visited by her sister, her husband and her two children. Meena speaks of her love for Rajendra, a painter and singer, and Kamla, her sister, approves of her choice. However, before Meena can make a move, Kamla passes away leaving her children in the hands of Meena.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261003200027 +0000" stop="20261003212138 +0000" channel="NHBollyFlix">
+    <title lang="en">Buddha Mar Gaya</title>
+    <desc lang="en">Laxmikant Kabadiya and his twin sister, Prerna, have made it to the top from the very bottom, and now -- as they are about to land their greatest windfall of all -- an untimely and messy family death spoils their plans.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1599800878_0_20250630T223510939Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-77r7v.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261003212138 +0000" stop="20261003232511 +0000" channel="NHBollyFlix">
+    <title lang="en">Hostel</title>
+    <desc lang="en">Karan, a freshman, goes to live in a hostel and becomes a victim of ragging. After facing severe humiliation, he musters the courage to fight against his perpetrators and also sets out to punish them.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1004595445_0_20250316T062511845Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8q482.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261003232511 +0000" stop="20261004020626 +0000" channel="NHBollyFlix">
+    <title lang="en">Jhansi Ki Rani Lakshmibai</title>
+    <desc lang="en">Jhansi Ki Rani Lakshmibai tells the heroic story of Rani Lakshmibai, a fearless queen who led a valiant resistance against British rule. Defying all odds, she became a symbol of courage, sacrifice, and India's fight for freedom.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1004595445_0_20250316T062511845Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8q482.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261003220000 +0000" stop="20261004003000 +0000" channel="Pitaara">
+    <title lang="en">Speaker Kharke</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218511_0_20260313T095116715Z_35_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261004003000 +0000" stop="20261004013000 +0000" channel="Pitaara">
+    <title lang="en">Morning Hit Beats</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218510_0_20260313T095116297Z_105_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261003220000 +0000" stop="20261004003000 +0000" channel="PitaaraComedy">
+    <title lang="en">Behind The Beats</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3379441206_0_20260825T073017883Z_103_imageprocessorclient-tvplus-linear-6b56cc9f55-stp2b.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261004003000 +0000" stop="20261004023000 +0000" channel="PitaaraComedy">
+    <title lang="en">Morning Hit Beats</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218510_0_20260313T095116297Z_105_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261003195144 +0000" stop="20261003220915 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">One Day: Justice Delivered</title>
+    <desc lang="en">A judge bound by law has to pass unfair judgments on some criminal cases due to lack of evidence. After retirement, he becomes a vigilante and decides to punish the crooks who walk free.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859005376_1_20260430T123104055Z_145_imageprocessorclient-tvplus-linear-796646965d-vhr29.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261003220915 +0000" stop="20261004004724 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Luck</title>
+    <desc lang="en">Musa, an underworld kingpin and a firm believer in luck, designs a series of life threatening adventure sports with hefty prize money for people around the world. However, the participants can only survive and win if they are exceptionally lucky.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3321936607_0_20260812T135654645Z_1_imageprocessorclient-tvplus-linear-9468c5484-vh9tv.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261004004724 +0000" stop="20261004032801 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Dil Jo Bhi Kahey</title>
+    <desc lang="en">A love story between an Indo-Mauritian boy and a Christian girl facing cultural and family opposition.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2860523247_0_20260430T201514518Z_1_imageprocessorclient-tvplus-linear-796646965d-mq66p.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261003215259 +0000" stop="20261004002619 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Khoya Khoya Chand</title>
+    <desc lang="en">A period drama about the lives, love, and struggles of actors in the Hindi film industry of the 1950s.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2858998073_1_20260430T123052209Z_1_imageprocessorclient-tvplus-linear-796646965d-vhr29.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261004002619 +0000" stop="20261004022849 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Wedding Anniversary</title>
+    <desc lang="en">Kahani plans a getaway in Goa to celebrate her marriage anniversary with her husband. But he gets caught up in work and she is left alone on the special day. Her night, however, takes a drastic turn when a mysterious guest arrives to accompany her.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859031546_1_20260430T123052209Z_53_imageprocessorclient-tvplus-linear-796646965d-vhr29.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
 </tv>
