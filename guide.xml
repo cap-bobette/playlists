@@ -22516,4 +22516,148 @@
       <value>3</value>
     </rating>
   </programme>
+  <programme start="20261015023000 +0000" stop="20261015030000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261015030000 +0000" stop="20261015033000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261015033000 +0000" stop="20261015040000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261015040000 +0000" stop="20261015043000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261015043000 +0000" stop="20261015050000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261015050000 +0000" stop="20261015053000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261015033000 +0000" stop="20261015063000 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3569385137_0_20261004T162222677Z_28_imageprocessorclient-tvplus-linear-6b56cc9f55-cwddm.jpeg" />
+  </programme>
+  <programme start="20261015033000 +0000" stop="20261015063000 +0000" channel="B4UMovies.in@India">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3569458072_0_20261004T171423023Z_33_imageprocessorclient-tvplus-linear-6b56cc9f55-d5g9z.jpeg" />
+  </programme>
+  <programme start="20261015023000 +0000" stop="20261015033000 +0000" channel="B4UMusic">
+    <title lang="en">Morning Masala</title>
+    <desc lang="en">A compilation of songs that include evergreen melodies and the latest hits.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910869628_0_20260512T115303533Z_94_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20261015033000 +0000" stop="20261015043000 +0000" channel="B4UMusic">
+    <title lang="en">Morning Masala</title>
+    <desc lang="en">A compilation of songs that include evergreen melodies and the latest hits.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910869628_0_20260512T115303533Z_94_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20261015043000 +0000" stop="20261015053000 +0000" channel="B4UMusic">
+    <title lang="en">Morning Masala</title>
+    <desc lang="en">A compilation of songs that include evergreen melodies and the latest hits.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910869628_0_20260512T115303533Z_94_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20261015034600 +0000" stop="20261015060859 +0000" channel="Bollygold">
+    <title lang="en">Do Ladke Dono Kadke</title>
+    <desc lang="en">A couple of thieves coincidentally rob a house, in which a child is being kidnapped in the midst of the ensuing chaos, the child ends up with the thieves, while both parties try to claim ransom.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261015022501 +0000" stop="20261015050103 +0000" channel="NHBollyFlix">
+    <title lang="en">Karobaar : The Business Of Love</title>
+    <desc lang="en">Friends Rajiv and Amar go their separate ways after Seema decides to be with Amar rather than Rajiv. Years later, prosecution lawyer Amar is delighted to see Rajiv in court and accused of murder.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1082101500_0_20250330T172317154Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-ddgfn.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261015050103 +0000" stop="20261015070639 +0000" channel="NHBollyFlix">
+    <title lang="en">Gumnaam The Mystery</title>
+    <desc lang="en">An aspiring actress, Ria who models and acts in music videos is offered a lead role in a film by casting director Rishi Gandhi. However, when she arrives at the director's mansion, she begins to realise that things are not as they seem.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_998894111_0_20250315T042139884Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-9jfq9.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261015043000 +0000" stop="20261015073000 +0000" channel="Pitaara">
+    <title lang="en">Movie Brunch-Chor Dil</title>
+    <desc lang="en">Starcast-Jagjeet Sandhu, Fida, Rana Jung Bahadur,Vicky Kodu,Amjad Rana,Ravinder Mand,Daman Sandhu,Gurchet Chitarkar Vijay Singh, Nirbahai Dhaliwal, Charanjeet Sandhu &amp;amp; Neha Grewal</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218605_0_20260313T095116334Z_33_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261015023000 +0000" stop="20261015033000 +0000" channel="PitaaraComedy">
+    <title lang="en">Behind The Beats</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3379441206_0_20260825T073017883Z_103_imageprocessorclient-tvplus-linear-6b56cc9f55-stp2b.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261015033000 +0000" stop="20261015063000 +0000" channel="PitaaraComedy">
+    <title lang="en">Filmy Sawer-Laung Laachi 2</title>
+    <desc lang="en">Starcast-Ammy Virk, Amberdeep Singh, Neeru Bajwa, Jaswinder Brar, Amar Noorie, Gurmeet Sajan, Sahib Singh, Kuldeep Sharma, Sukhwinder Raj, Gurdail Paras, Pawan Johal, Navkiran</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3379441201_0_20260825T073019723Z_54_imageprocessorclient-tvplus-linear-6b56cc9f55-stp2b.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261015035942 +0000" stop="20261015062914 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Rajjo</title>
+    <desc lang="en">Chandu falls in love with Rajjo, a girl from the red-light district. However, their love faces challenges when Rajjo's area undergoes redevelopment, and they must contend with Hande Bhau, a corporator who has his sights set on Rajjo.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3590280665_0_20261009T014417147Z_109_imageprocessorclient-tvplus-linear-6b56cc9f55-mx4zz.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261015031741 +0000" stop="20261015061113 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Dhol</title>
+    <desc lang="en">Four young loafers wish to simplify their life by wooing a loaded heiress. Unfortunately, there's only one rich girl in the neighbourhood. The boys scamper to woo her first, not knowing that their efforts would lead them right into a murder mystery.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859018064_0_20260430T123052140Z_48_imageprocessorclient-tvplus-linear-796646965d-ps72z.jpeg" />
+    <episode-num system="onscreen">S07E02</episode-num>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
 </tv>
