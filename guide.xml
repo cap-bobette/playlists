@@ -27594,4 +27594,191 @@
       <value>12</value>
     </rating>
   </programme>
+  <programme start="20261018003000 +0000" stop="20261018010000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261018010000 +0000" stop="20261018013000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261018013000 +0000" stop="20261018020000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261018020000 +0000" stop="20261018023000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261018023000 +0000" stop="20261018030000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261018030000 +0000" stop="20261018033000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261018033000 +0000" stop="20261018040000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261018040000 +0000" stop="20261018043000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261018003000 +0000" stop="20261018033000 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in cinema.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3620947358_0_20261015T122514730Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-nrwxw.jpeg" />
+  </programme>
+  <programme start="20261018033000 +0000" stop="20261018063000 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in cinema.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3620947358_0_20261015T122514730Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-nrwxw.jpeg" />
+  </programme>
+  <programme start="20261018003000 +0000" stop="20261018033000 +0000" channel="B4UMovies.in@India">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in cinema.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3624273812_0_20261016T061451946Z_101_imageprocessorclient-tvplus-linear-6b56cc9f55-pxzsk.jpeg" />
+  </programme>
+  <programme start="20261018033000 +0000" stop="20261018063000 +0000" channel="B4UMovies.in@India">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in cinema.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3624273812_0_20261016T061451946Z_101_imageprocessorclient-tvplus-linear-6b56cc9f55-pxzsk.jpeg" />
+  </programme>
+  <programme start="20261018013000 +0000" stop="20261018023000 +0000" channel="B4UMusic">
+    <title lang="en">Morning Masala</title>
+    <desc lang="en">A compilation of songs that include evergreen melodies and the latest hits.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910869628_0_20260512T115303533Z_94_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20261018023000 +0000" stop="20261018033000 +0000" channel="B4UMusic">
+    <title lang="en">Morning Masala</title>
+    <desc lang="en">A compilation of songs that include evergreen melodies and the latest hits.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910869628_0_20260512T115303533Z_94_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20261018033000 +0000" stop="20261018043000 +0000" channel="B4UMusic">
+    <title lang="en">Morning Masala</title>
+    <desc lang="en">A compilation of songs that include evergreen melodies and the latest hits.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910869628_0_20260512T115303533Z_94_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20261018024730 +0000" stop="20261018054356 +0000" channel="Bollygold">
+    <title lang="en">Karm</title>
+    <desc lang="en">Young lovers Arvind and Asha plan to marry, but when Asha's astrologer father predicts that her fiancée will die on their wedding day, the couple decide to sidestep fate and simply live together.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261018003426 +0000" stop="20261018015537 +0000" channel="NHBollyFlix">
+    <title lang="en">Buddha Mar Gaya</title>
+    <desc lang="en">Laxmikant Kabadiya and his twin sister, Prerna, have made it to the top from the very bottom, and now -- as they are about to land their greatest windfall of all -- an untimely and messy family death spoils their plans.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1599800878_0_20250630T223510939Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-77r7v.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261018015537 +0000" stop="20261018043845 +0000" channel="NHBollyFlix">
+    <title lang="en">Dharam Chakara (dharam Chakaram Tamil 1997)</title>
+    <desc lang="en">A village leader who loses a fight to his enemy Arumugam, causing the death of his lover Vijayalakshmi. Years later, another woman named Vijayalakshmi enters the village, and Chakkaravarthy defends her from Arumugam's goons, rekindling his fight for justice.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1655252645_0_20250710T094048553Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-bzswf.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261018003000 +0000" stop="20261018013000 +0000" channel="Pitaara">
+    <title lang="en">Morning Hit Beats</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218510_0_20260313T095116297Z_105_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261018013000 +0000" stop="20261018043000 +0000" channel="Pitaara">
+    <title lang="en">Movie Morning-Channa Mereya</title>
+    <desc lang="en">Starcast-Ninja, Amrit Mann, Payal Rajput</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656223874_0_20260313T095116392Z_65_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261018003000 +0000" stop="20261018023000 +0000" channel="PitaaraComedy">
+    <title lang="en">Morning Hit Beats</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218510_0_20260313T095116297Z_105_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261018023000 +0000" stop="20261018033000 +0000" channel="PitaaraComedy">
+    <title lang="en">Behind The Beats</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3379441206_0_20260825T073017883Z_103_imageprocessorclient-tvplus-linear-6b56cc9f55-stp2b.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261018033000 +0000" stop="20261018063000 +0000" channel="PitaaraComedy">
+    <title lang="en">Filmy Sawer-Mr &amp;amp; Mrs 420</title>
+    <desc lang="en">Starcast-Yuvraj Hans, Babbal Rai, Jassi Gill, Binnu Dhillon, Jaswinder Bhalla</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3379441201_0_20260825T073019723Z_54_imageprocessorclient-tvplus-linear-6b56cc9f55-stp2b.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261018020406 +0000" stop="20261018043844 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Love Ke Liye Kuch Bhi Karega</title>
+    <desc lang="en">Prakash marries the daughter of a rich businessman but his father-in-law disapproves of him. For his approval, Prakash plans his wife's fake kidnapping and her eventual rescue. But the plan goes awry when some real kidnappers enter the picture.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3590263102_0_20261009T014417146Z_69_imageprocessorclient-tvplus-linear-6b56cc9f55-mx4zz.jpeg" />
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20261018013415 +0000" stop="20261018044120 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Rishtey</title>
+    <desc lang="en">Suraj, a seemingly single father, takes care of his little son all by himself, rejoicing in his son's small feats. But his life turns upside down when his wife, who'd left him post a tragic misunderstanding many years ago, returns to claim her child.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3590297926_1_20261009T014417527Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-d5g9z.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
 </tv>
