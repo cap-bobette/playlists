@@ -22109,4 +22109,207 @@
       <value>12</value>
     </rating>
   </programme>
+  <programme start="20261019003000 +0000" stop="20261019010000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261019010000 +0000" stop="20261019013000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261019013000 +0000" stop="20261019020000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261019020000 +0000" stop="20261019023000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261019023000 +0000" stop="20261019030000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261019030000 +0000" stop="20261019033000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261019033000 +0000" stop="20261019040000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261019040000 +0000" stop="20261019043000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261019003000 +0000" stop="20261019033000 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in cinema.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3620947358_0_20261015T122514730Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-nrwxw.jpeg" />
+  </programme>
+  <programme start="20261019033000 +0000" stop="20261019063000 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in cinema.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3620947358_0_20261015T122514730Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-nrwxw.jpeg" />
+  </programme>
+  <programme start="20261018233600 +0000" stop="20261019022300 +0000" channel="B4UMovies.in@India">
+    <title lang="en">Teri Kasam</title>
+    <desc lang="en">Dolly, a rich and spoilt woman, causes problems in her marriage due to arrogance.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3035429448_0_20260610T061651251Z_1_imageprocessorclient-tvplus-linear-75df688c49-jspc2.jpeg" />
+  </programme>
+  <programme start="20261019022300 +0000" stop="20261019053900 +0000" channel="B4UMovies.in@India">
+    <title lang="en">15th August</title>
+    <desc lang="en">A man kills a military officer. The officer's brother vows to destroy the killer.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2934538258_0_20260517T213428739Z_1_imageprocessorclient-tvplus-linear-65bb79cc48-tc4gn.jpeg" />
+  </programme>
+  <programme start="20261019010000 +0000" stop="20261019013000 +0000" channel="B4UMusic">
+    <title lang="en">Bollywood Bang Bang</title>
+    <desc lang="en">Best tracks of your favourite stars, from King Khan, Akshay Kumar, Kareena Kapoor to Katrina Kaif.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_1731166150_0_20250722T163234112Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-kpk6m.jpeg" />
+  </programme>
+  <programme start="20261019013000 +0000" stop="20261019023000 +0000" channel="B4UMusic">
+    <title lang="en">Bajao</title>
+    <desc lang="en">The hottest Hindi chartbusters of the season!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910870047_0_20260512T115303328Z_1_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20261019023000 +0000" stop="20261019030000 +0000" channel="B4UMusic">
+    <title lang="en">SOLID HITS</title>
+    <desc lang="en">Songs which have topped the charts and ruled your hearts, the biggest hits of the recent times.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910869589_0_20260512T115303372Z_93_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20261019030000 +0000" stop="20261019040000 +0000" channel="B4UMusic">
+    <title lang="en">Boom Box</title>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3427462128_0_20260904T115300509Z_25_imageprocessorclient-tvplus-linear-6b56cc9f55-tqrh6.jpeg" />
+  </programme>
+  <programme start="20261019040000 +0000" stop="20261019050000 +0000" channel="B4UMusic">
+    <title lang="en">Boom Box</title>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3427462128_0_20260904T115300509Z_25_imageprocessorclient-tvplus-linear-6b56cc9f55-tqrh6.jpeg" />
+  </programme>
+  <programme start="20261019014206 +0000" stop="20261019045441 +0000" channel="Bollygold">
+    <title lang="en">Bad Aur Badnaam</title>
+    <desc lang="en">Story begins with three villains getting a lot of money and new identities from rich man Pedro getting killed in return. Later two secret agents - James (Sanjeev Kumar) from Ringania and Ashwinikumar (Shatrughan Sinha) from Indian intelligence Bureau are shown at the top of their game. Due to some misconception, they brcome sworn enemies but meanwhile they have their jobs to do. Ashwinikumar is investigating a mysteriousplot to kill a VVIP in Delhi while James is no a Ringanian mission in india. They fight and temporarity make Peace and the rest of the movie is about their joint effort to figure out the mystery and ruin the evil plot.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261019012241 +0000" stop="20261019034138 +0000" channel="NHBollyFlix">
+    <title lang="en">Munna Baba(dub) (unakaga Ellam Unakka Tamil)</title>
+    <desc lang="en">Sakthi, a rich spoilt brat falls for Indhu. His father, Vinu meets his friend Jayaganesh and they agree on a marriage proposal for their children. Sakthi wants to break the deal because he loves Indhu and wants to marry her, but he does not realise that Indhu is Jayaganesh's daughter. He tries to break the engagement by asking his cousins to misbehave and indulge in a fight. Ultimately in the end, the two get married.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1684885731_0_20250715T043543950Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-57sq7.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261019034138 +0000" stop="20261019055838 +0000" channel="NHBollyFlix">
+    <title lang="en">Mere Jeevan Sathi</title>
+    <desc lang="en">Back in college, Natasha (Karisma Kapoor) was obsessed with Vicky (Akshay Kumar), who has become a successful rock star. Nothing ever happened between them, however. At the time, Vicky was in love with Anjali (Amisha Patel), who one fateful night suffered a great loss because of him. Now Natasha is the owner of a music label and has the power to make Vicky a global phenomenon. While Vicky, who is still with Anjali, wants to keep things professional, Natasha isn't about to take no for an answer.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_958802802_0_20250307T133915458Z_119_imageprocessorclient-tvplus-linear-b76dd9bbb-ddgfn.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261019003000 +0000" stop="20261019013000 +0000" channel="Pitaara">
+    <title lang="en">Morning Hit Beats</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218510_0_20260313T095116297Z_105_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261019013000 +0000" stop="20261019043000 +0000" channel="Pitaara">
+    <title lang="en">Movie Morning-Minda Lalari</title>
+    <desc lang="en">Starcast-Ravinder Grewal,Jaanvir Kaur,Fateh Partap Singh,Sukhdev Barnala,Jasbir Gill,Pawan Dhiman,Mohanti Sharma,Buta Grari,Parveen Bani,Gurpreet Gholi,Paramjit Shital,Amanpreet</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656223874_0_20260313T095116392Z_65_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261019003000 +0000" stop="20261019023000 +0000" channel="PitaaraComedy">
+    <title lang="en">Morning Hit Beats</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218510_0_20260313T095116297Z_105_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261019023000 +0000" stop="20261019033000 +0000" channel="PitaaraComedy">
+    <title lang="en">Behind The Beats</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3379441206_0_20260825T073017883Z_103_imageprocessorclient-tvplus-linear-6b56cc9f55-stp2b.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261019033000 +0000" stop="20261019063000 +0000" channel="PitaaraComedy">
+    <title lang="en">Filmy Sawer-Chor Dil</title>
+    <desc lang="en">Starcast-Jagjeet Sandhu, Fida, Rana Jung Bahadur,Vicky Kodu,Amjad Rana,Ravinder Mand,Daman Sandhu,Gurchet Chitarkar Vijay Singh, Nirbahai Dhaliwal, Charanjeet Sandhu &amp;amp; Neha Grewal</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3379441201_0_20260825T073019723Z_54_imageprocessorclient-tvplus-linear-6b56cc9f55-stp2b.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261019030159 +0000" stop="20261019055752 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Pyar Kiya To Darna Kya</title>
+    <desc lang="en">Suraj, the most popular boy in the university, falls in love with a simple girl Muskan. She too reciprocates his love, but Suraj will have to win the hearts of her brother and uncle to marry Muskan.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3590263103_0_20261009T014417141Z_26_imageprocessorclient-tvplus-linear-6b56cc9f55-mx4zz.jpeg" />
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20261019002819 +0000" stop="20261019032338 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Jab Pyar Kisi Se Hota Hai</title>
+    <desc lang="en">A philanderer falls in love with a girl who agrees to accept his marriage proposal if he renounces his reckless lifestyle within six months. While he tries hard to accomplish the goal, a young boy ends up at his doorsteps claiming to be his son.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3599703652_0_20261011T010844088Z_67_imageprocessorclient-tvplus-linear-6b56cc9f55-cvmx2.jpeg" />
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20261019032338 +0000" stop="20261019055714 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Ishq Vishk</title>
+    <desc lang="en">Rajiv pretends to be in love with Payal to gain popularity at their college. Upon realising the truth, Payal breaks-up with him, and it takes a lot longer for Rajiv to realise his mistake.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3590348893_0_20261009T014417147Z_42_imageprocessorclient-tvplus-linear-6b56cc9f55-mx4zz.jpeg" />
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
 </tv>
