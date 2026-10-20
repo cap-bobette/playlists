@@ -22551,4 +22551,140 @@
       <value>12</value>
     </rating>
   </programme>
+  <programme start="20261021023000 +0000" stop="20261021030000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261021030000 +0000" stop="20261021033000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261021033000 +0000" stop="20261021040000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261021040000 +0000" stop="20261021043000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Fit Hits</sub-title>
+    <desc lang="en">9XM FIT-HITS is a show of all time super hit Bollywood songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759399_0_20250423T112703150Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261021043000 +0000" stop="20261021050000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261021050000 +0000" stop="20261021053000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Bazillion Views</sub-title>
+    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759183_0_20250423T112703150Z_84_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261021033000 +0000" stop="20261021063000 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in cinema.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3620947358_0_20261015T122514730Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-nrwxw.jpeg" />
+  </programme>
+  <programme start="20261021033000 +0000" stop="20261021063000 +0000" channel="B4UMovies.in@India">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in cinema.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3624273812_0_20261016T061451946Z_101_imageprocessorclient-tvplus-linear-6b56cc9f55-pxzsk.jpeg" />
+  </programme>
+  <programme start="20261021023000 +0000" stop="20261021033000 +0000" channel="B4UMusic">
+    <title lang="en">Morning Masala</title>
+    <desc lang="en">A compilation of songs that include evergreen melodies and the latest hits.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910869628_0_20260512T115303533Z_94_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20261021033000 +0000" stop="20261021043000 +0000" channel="B4UMusic">
+    <title lang="en">Morning Masala</title>
+    <desc lang="en">A compilation of songs that include evergreen melodies and the latest hits.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910869628_0_20260512T115303533Z_94_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20261021043000 +0000" stop="20261021053000 +0000" channel="B4UMusic">
+    <title lang="en">Morning Masala</title>
+    <desc lang="en">A compilation of songs that include evergreen melodies and the latest hits.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910869628_0_20260512T115303533Z_94_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20261021041129 +0000" stop="20261021062820 +0000" channel="Bollygold">
+    <title lang="en">Sadma</title>
+    <desc lang="en">Sadma (1983) is an emotional drama about a young woman who, after losing her memory and regressing to childhood, is rescued by a kind man who cares for her. As he grows deeply attached to her, fate takes a tragic turn when she regains her memory but forgets him completely.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3107278652_0_20260626T115952110Z_51_imageprocessorclient-tvplus-linear-75df688c49-4857s.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261021031833 +0000" stop="20261021055301 +0000" channel="NHBollyFlix">
+    <title lang="en">Kitne Door Kitne Paas</title>
+    <desc lang="en">After studying in New York City, Jatin (Fardeen Khan) is returning home to India, where he's set to marry a woman from his hometown. On his flight to Delhi, he meets Karishma (Amrita Arora), coincidentally on her way to her own marriage, and her quick temper instantly sets them at odds. Once in Delhi, the unlikely travel companions find their connecting flight has been cancelled, so Jatin and Karishma must share a long bus ride to Gujarat, discovering each other and themselves in the process.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1000796177_0_20250315T132009080Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-fsk7n.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261021043000 +0000" stop="20261021073000 +0000" channel="Pitaara">
+    <title lang="en">Movie Brunch-Sardara and Sons</title>
+    <desc lang="en">Starcast-Yograj Singh, Sarbjit Cheema, Roshan Prince, Gurmeet Sajjan, Kanika Sasan, Tanvir GIll, Roopa Cheema, Paul Randhawa, Manraj Brar</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218605_0_20260313T095116334Z_33_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261021023000 +0000" stop="20261021033000 +0000" channel="PitaaraComedy">
+    <title lang="en">Behind The Beats</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3379441206_0_20260825T073017883Z_103_imageprocessorclient-tvplus-linear-6b56cc9f55-stp2b.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261021033000 +0000" stop="20261021063000 +0000" channel="PitaaraComedy">
+    <title lang="en">Filmy Sawer-Dil Hona Chahida Jawan</title>
+    <desc lang="en">Starcast-Jaswinder Bhalla, Shivender Mahal, Mannat Singh, Yamini Malhotra, Nav Bajwa, Ram Aujla, Teji Sandhu, Gurmeet Singh, Pardeep Choudhary</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3379441201_0_20260825T073019723Z_54_imageprocessorclient-tvplus-linear-6b56cc9f55-stp2b.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261021031026 +0000" stop="20261021060952 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Kyaa Kool Hai Hum</title>
+    <desc lang="en">The Movie Club</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3383580243_0_20260826T044911478Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-rz4jv.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261021023434 +0000" stop="20261021053429 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Aan</title>
+    <sub-title>Men At Work</sub-title>
+    <desc lang="en">On a mission to make Mumbai crime-free, DCP Hari Om Patnaik and his team fights against some corrupt politicians and their associates. In the process, their faith in law and order is put to test.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2859005370_1_20260430T123104054Z_122_imageprocessorclient-tvplus-linear-796646965d-vhr29.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
 </tv>
