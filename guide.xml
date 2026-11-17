@@ -32053,4 +32053,174 @@
       <value>12</value>
     </rating>
   </programme>
+  <programme start="20261117173000 +0000" stop="20261117180000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Music Dhar Hai</sub-title>
+    <desc lang="en">9XM MUSIC IDHAR HAI is a show of evergreen Bollywood super hits.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208763081_0_20250423T112703194Z_27_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261117180000 +0000" stop="20261117183000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Music Dhar Hai</sub-title>
+    <desc lang="en">9XM MUSIC IDHAR HAI is a show of evergreen Bollywood super hits.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208763081_0_20250423T112703194Z_27_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261117183000 +0000" stop="20261117190000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Raat Bhar</sub-title>
+    <desc lang="en">A show with no breaks, playing non-stop latest Bollywood &amp;amp; super hits.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759130_0_20250423T112703335Z_100_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261117190000 +0000" stop="20261117193000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Raat Bhar</sub-title>
+    <desc lang="en">A show with no breaks, playing non-stop latest Bollywood &amp;amp; super hits.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759130_0_20250423T112703335Z_100_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261117193000 +0000" stop="20261117200000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Raat Bhar</sub-title>
+    <desc lang="en">A show with no breaks, playing non-stop latest Bollywood &amp;amp; super hits.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759130_0_20250423T112703335Z_100_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261117200000 +0000" stop="20261117203000 +0000" channel="9XM.in@SD">
+    <title lang="en">9XM</title>
+    <sub-title>Raat Bhar</sub-title>
+    <desc lang="en">A show with no breaks, playing non-stop latest Bollywood &amp;amp; super hits.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1208759130_0_20250423T112703335Z_100_imageprocessorclient-tvplus-linear-b76dd9bbb-8hdsx.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261117192800 +0000" stop="20261117213000 +0000" channel="B4UKadak.in@SD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in cinema.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3620947358_0_20261015T122514730Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-nrwxw.jpeg" />
+  </programme>
+  <programme start="20261117200200 +0000" stop="20261117224000 +0000" channel="B4UMovies.in@India">
+    <title lang="en">Movie</title>
+    <desc lang="en">Bringing the best in cinema.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3624273812_0_20261016T061451946Z_101_imageprocessorclient-tvplus-linear-6b56cc9f55-pxzsk.jpeg" />
+  </programme>
+  <programme start="20261117173000 +0000" stop="20261117183000 +0000" channel="B4UMusic">
+    <title lang="en">Awaaz De Kahan Hai</title>
+    <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_3427462411_0_20260904T115300509Z_84_imageprocessorclient-tvplus-linear-6b56cc9f55-tqrh6.jpeg" />
+  </programme>
+  <programme start="20261117183000 +0000" stop="20261117203000 +0000" channel="B4UMusic">
+    <title lang="en">Bajao</title>
+    <desc lang="en">The hottest Hindi chartbusters of the season!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_2910870047_0_20260512T115303328Z_1_imageprocessorclient-tvplus-linear-65bb79cc48-mv99s.jpeg" />
+  </programme>
+  <programme start="20261117194805 +0000" stop="20261117221105 +0000" channel="Bollygold">
+    <title lang="en">Do Ladke Dono Kadke</title>
+    <desc lang="en">A couple of thieves coincidentally rob a house, in which a child is being kidnapped in the midst of the ensuing chaos, the child ends up with the thieves, while both parties try to claim ransom.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2622466694_0_20260305T084558259Z_105_imageprocessorclient-tvplus-linear-584c967455-b7vn5.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261117182034 +0000" stop="20261117203046 +0000" channel="NHBollyFlix">
+    <title lang="en">Chaahat Ek Nasha</title>
+    <desc lang="en">Rashmi, an aspiring singer, idolises a pop sensation, Mallika, who once dated Rahul, the owner of RK Music. Later, Rashmi and Rahul fall in love with each other but Mallika is unable to accept this.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_982917653_0_20250312T052507879Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-n7vx6.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261117173000 +0000" stop="20261117183000 +0000" channel="Pitaara">
+    <title lang="en">Speaker Kharke</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218511_0_20260313T095116715Z_35_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261117183000 +0000" stop="20261117193000 +0000" channel="Pitaara">
+    <title lang="en">Speaker Kharke</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218511_0_20260313T095116715Z_35_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261117193000 +0000" stop="20261117220000 +0000" channel="Pitaara">
+    <title lang="en">Movie Brunch-Shonk Sardari Da</title>
+    <desc lang="en">Starcast-Kamal Grewal,Nirmal Rishi,Irwin Meet Kaur,Parminder Gill,Gurmeet Saajan</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218605_0_20260313T095116334Z_33_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261117173000 +0000" stop="20261117180000 +0000" channel="PitaaraComedy">
+    <title lang="en">Kaato Kaahto</title>
+    <desc lang="en">Entertainment</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656218612_0_20260313T095116582Z_93_imageprocessorclient-tvplus-linear-584c967455-fwhrz.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261117180000 +0000" stop="20261117183000 +0000" channel="PitaaraComedy">
+    <title lang="en">Midnight Tune</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3379441202_0_20260825T073018495Z_76_imageprocessorclient-tvplus-linear-6b56cc9f55-stp2b.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261117183000 +0000" stop="20261117193000 +0000" channel="PitaaraComedy">
+    <title lang="en">Midnight Tune</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3379441202_0_20260825T073018495Z_76_imageprocessorclient-tvplus-linear-6b56cc9f55-stp2b.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261117193000 +0000" stop="20261117220000 +0000" channel="PitaaraComedy">
+    <title lang="en">Movie Crunch-Guddiyan Patole</title>
+    <desc lang="en">Starcast-Sonam Bajwa, Gurnam Bhullar, Tania, Nirmal Rishi, Gurpreet Bhangu</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3379441209_0_20260825T073018271Z_86_imageprocessorclient-tvplus-linear-6b56cc9f55-stp2b.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261117173731 +0000" stop="20261117194746 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Hello Hum Lallan Bol Rahe Hain</title>
+    <desc lang="en">Lallan, a security guard, loves Saroja, who is supposed to get married to an older man for money. However, while convincing her to change her mind, he finds out another shocking fact about her.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2896049548_0_20260509T013004241Z_106_imageprocessorclient-tvplus-linear-796646965d-xwfxt.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261117194746 +0000" stop="20261117222536 +0000" channel="TheMovieClub.in@HD">
+    <title lang="en">Omkara</title>
+    <desc lang="en">The Movie Club</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3096449176_0_20260624T004354141Z_124_imageprocessorclient-tvplus-linear-75df688c49-qbphp.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261117185650 +0000" stop="20261117213449 +0000" channel="TheMovieClub.in@Plus2">
+    <title lang="en">Golmaal Returns</title>
+    <desc lang="en">Gopal's life hits choppy waters when he gets stuck on a yacht for a night upon rescuing an attractive young woman by fighting off some goons. Now, he has his wife suspecting him of having an affair and a police officer on his tail.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3590298497_0_20261009T014417141Z_102_imageprocessorclient-tvplus-linear-6b56cc9f55-mx4zz.jpeg" />
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
 </tv>
